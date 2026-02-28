@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "News",
+    "Sport",
+    "Blogs",
+    "Music"
+  ],
+  "feeds": [
+    {
+      "name": "BBC News",
+      "url": "http://feeds.bbci.co.uk/news/rss.xml",
+      "visibility": "both",
+      "category": "News"
+    },
+    {
+      "name": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/news/index.rss",
+      "visibility": "both",
+      "category": "News"
+    },
+    {
+      "name": "Daily Mail Football",
+      "url": "https://www.dailymail.co.uk/sport/football/index.rss",
+      "visibility": "none",
+      "category": "Sport"
+    },
+    {
+      "name": "BBC Sport",
+      "url": "https://feeds.bbci.co.uk/sport/34032412-5e2a-324d-bb3e-d0d4b16df2d4/rss.xml",
+      "visibility": "none",
+      "category": "Sport"
+    },
+    {
+      "name": "Unherd",
+      "url": "https://unherd.com/feed/",
+      "visibility": "both",
+      "category": "Blogs"
+    },
+    {
+      "name": "Dr Malcolm Kendrick",
+      "url": "https://drmalcolmkendrick.org/feed/",
+      "visibility": "both",
+      "category": "News"
+    },
+    {
+      "name": "Tucker Carlson",
+      "url": "https://feeds.megaphone.fm/RSV1597324942",
+      "visibility": "both",
+      "category": "News"
+    },
+    {
+      "name": "Music News",
+      "url": "https://www.music-news.com/rss/c5RAS2tkYoRTvbRq/UK/news",
+      "visibility": "both",
+      "category": "Music"
+    },
+    {
+      "name": "",
+      "url": "",
+      "visibility": "both",
+      "category": "News"
+    }
+  ]
+}
