@@ -608,9 +608,15 @@ function loadMore() {
 // ─── LOAD DATA ────────────────────────────────────────────
 async function loadNews() {
     try {
-        // Try local server first; fall back to static news.json on Cloudflare
-        const feedsRes = await fetch('/api/feeds').catch(() => fetch('/feeds.json'));
-        const newsRes  = await fetch('/api/news').catch(() => fetch('/news.json'));
+        // Try local server first; fall back to static files on Cloudflare
+        const smartFetch = async (primary, fallback) => {
+            try { const r = await fetch(primary); if (r.ok) return r; } catch(e) {}
+            return fetch(fallback);
+        };
+        const [feedsRes, newsRes] = await Promise.all([
+            smartFetch('/api/feeds', '/feeds.json'),
+            smartFetch('/api/news',  '/news.json')
+        ]);
         const feedsData = await feedsRes.json();
         const newsItems = await newsRes.json();
 
