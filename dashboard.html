@@ -638,7 +638,7 @@ async function loadNews() {
         renderNews();
     } catch(e) {
         document.getElementById('news-container').innerHTML =
-            '<div class="empty-state" style="color:#e63946">Failed to load news. Is the server running?</div>';
+            `<div class="empty-state" style="color:#e63946">Failed to load news: ${e.message}</div>`;
     }
 }
 
