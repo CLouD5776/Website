@@ -610,7 +610,15 @@ async function loadNews() {
     try {
         // Try local server first; fall back to static files on Cloudflare
         const smartFetch = async (primary, fallback) => {
-            try { const r = await fetch(primary); if (r.ok) return r; } catch(e) {}
+            try {
+                const r = await fetch(primary);
+                if (r.ok) {
+                    const text = await r.text();
+                    if (text.trim().startsWith('{') || text.trim().startsWith('[')) {
+                        return new Response(text, {headers: {'Content-Type': 'application/json'}});
+                    }
+                }
+            } catch(e) {}
             return fetch(fallback);
         };
         const [feedsRes, newsRes] = await Promise.all([
