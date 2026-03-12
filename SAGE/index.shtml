@@ -67,25 +67,7 @@ We use the term "theory of evolution" to mean,</p>
 <center>
 <br/>
 <!-- Site search from MSN -->
-<form action="http://search.msn.com/results.aspx" method="get">
-<input name="cp" type="hidden" value="1252"/>
-<input name="FORM" type="hidden" value="FREESS"/>
-<table bgcolor="#FFFFFF">
-<tr>
-<td>
-<a href="http://search.msn.com/">
-<img alt="MSN Search" border="0" src="http://search.msn.com/s/affillogo.gif">
-</img></a>
-</td>
-<td>
-<input name="q" size="30" type="text"/>
-<input type="submit" value="Search all Science Against Evolution pages"/>
-<input name="q1" type="hidden" value="site:ScienceAgainstEvolution.org"/>
-</td>
-</tr>
-</table>
-</form>
-<!-- Site Search from MSN -->
+<table bgcolor="#FFFFFF" border="" cellpadding="0" cellspacing="0" style="margin-bottom:16px;"><tr><td style="padding:0;"><form action="search.html" method="get" style="margin:0;"><input name="q" size="30" type="text"> <input type="submit" value="Search all Science Against Evolution pages"></form></td></tr></table><!-- Site Search from MSN -->
 </center>
 </td></tr>
 <tr><th bgcolor="WHITE" colspan="3">
@@ -107,11 +89,11 @@ We proudly present our award-losing two-minute video!<br/>
 <tr><th bgcolor="WHITE" colspan="3">
 <table width="100%">
 <tr>
-<th><a href="video/Busted.mp4"><img src="images/v18i3g4.jpg" width="100"/></a></th>
+<th><a href="video/Paleomagnetism.wmv"><img src="images/v18i3g4.jpg" width="100"/></a></th>
 <th>
 <p align="CENTER">
 Here's a science fair project that debunks paleomagnetism as a means for determining the ages of rocks.<br/>
-<a href="video/Busted.mp4"><font size="+3"><i>Paleomagnetism Busted!</i></font></a><br/>
+<a href="video/Paleomagnetism.wmv"><font size="+3"><i>Paleomagnetism Busted!</i></font></a><br/>
 (Left-click the link above to watch the mp4 video.  Right-click to download it.)
 <br/>
 <a href="v18i3f.htm">Read the story behind the video.</a><br/>
