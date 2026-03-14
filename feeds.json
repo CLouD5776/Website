@@ -3,7 +3,8 @@
     "News",
     "Sport",
     "Blogs",
-    "Music"
+    "Music",
+    "Design"
   ],
   "feeds": [
     {
@@ -21,19 +22,19 @@
     {
       "name": "Daily Mail Football",
       "url": "https://www.dailymail.co.uk/sport/football/index.rss",
-      "visibility": "none",
+      "visibility": "both",
       "category": "Sport"
     },
     {
       "name": "BBC Sport",
       "url": "https://feeds.bbci.co.uk/sport/34032412-5e2a-324d-bb3e-d0d4b16df2d4/rss.xml",
-      "visibility": "none",
+      "visibility": "both",
       "category": "Sport"
     },
     {
       "name": "Unherd",
       "url": "https://unherd.com/feed/",
-      "visibility": "both",
+      "visibility": "none",
       "category": "Blogs"
     },
     {
@@ -55,10 +56,16 @@
       "category": "Music"
     },
     {
-      "name": "",
-      "url": "",
-      "visibility": "both",
-      "category": "News"
+      "name": "Crev",
+      "url": "https://crev.info/feed",
+      "visibility": "chris",
+      "category": "Design"
+    },
+    {
+      "name": "ENV",
+      "url": "http://scienceandculture.com/feed",
+      "visibility": "chris",
+      "category": "Design"
     }
   ]
 }
