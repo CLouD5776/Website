@@ -1,0 +1,33 @@
+name: Update Supernova
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # every 30 minutes
+  workflow_dispatch: # manual trigger from GitHub Actions UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Fetch feeds and bake news.json
+        run: python3 fetch_and_bake.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "Supernova Bot"
+          git config user.email "supernova@cloud5776.co.uk"
+          git add news.json archive.json
+          git diff --cached --quiet || git commit -m "Auto-update $(date +'%Y-%m-%d %H:%M') UTC"
+          git push
