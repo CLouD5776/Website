@@ -3,72 +3,384 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Supernova</title>
+    <title>cloud5776 — Hub</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
-        :root { --red: #e63946; --bg: #0f0f0f; --surface: #1a1a1a; --border: #2e2e2e; --text: #e0e0e0; --muted: #888; }
+        :root {
+            --red: #e63946;
+            --bg: #0f0f0f;
+            --surface: #1a1a1a;
+            --surface2: #242424;
+            --border: #2e2e2e;
+            --text: #e0e0e0;
+            --muted: #888;
+            --green: #2ecc71;
+            --amber: #f39c12;
+        }
+
         * { box-sizing: border-box; margin: 0; padding: 0; }
+
         body {
             font-family: 'IBM Plex Sans', sans-serif;
             background: var(--bg);
             color: var(--text);
             min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 2rem;
+            padding: 1.5rem 1rem;
         }
-        .wrap { max-width: 340px; width: 100%; text-align: center; }
-        .logo {
-            font-family: 'IBM Plex Mono', monospace;
-            font-size: 2rem;
-            font-weight: 600;
-            color: var(--red);
-            letter-spacing: 0.1em;
+
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        /* ─── HEADER ─── */
+        .header {
+            margin-bottom: 2rem;
+            padding-bottom: 1.2rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
             margin-bottom: 0.3rem;
         }
-        .tagline { font-size: 0.8rem; color: var(--muted); margin-bottom: 2.5rem; letter-spacing: 0.05em; }
-        a {
-            display: flex; align-items: center; gap: 0.8rem;
+
+        .wordmark {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: var(--red);
+            letter-spacing: 0.05em;
+        }
+
+        .wordmark span {
+            color: var(--muted);
+            font-weight: 400;
+        }
+
+        .status-pill {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
             background: var(--surface);
             border: 1px solid var(--border);
-            color: var(--text);
-            text-decoration: none;
-            padding: 1rem 1.2rem;
-            border-radius: 8px;
-            font-weight: 600;
-            margin-bottom: 0.6rem;
-            transition: border-color 0.15s, transform 0.1s;
-            font-size: 0.95rem;
+            border-radius: 20px;
+            padding: 0.3rem 0.8rem;
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--muted);
+            cursor: default;
+            transition: border-color 0.2s;
         }
-        a:hover { border-color: var(--red); transform: translateX(3px); }
-        a .icon { font-size: 1.4rem; }
-        a .desc { font-size: 0.75rem; color: var(--muted); font-weight: 400; margin-top: 0.1rem; }
-        a .label { text-align: left; }
-        .admin-link { margin-top: 1.5rem; border-style: dashed; }
+
+        .status-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: var(--border);
+            transition: background 0.4s;
+            flex-shrink: 0;
+        }
+
+        .status-dot.online  { background: var(--green); animation: pulse 2.5s infinite; }
+        .status-dot.offline { background: var(--red); }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50%       { opacity: 0.35; }
+        }
+
+        .tagline {
+            font-size: 0.8rem;
+            color: var(--muted);
+            letter-spacing: 0.02em;
+        }
+
+        /* ─── SECTION LABELS ─── */
+        .section-label {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.65rem;
+            font-weight: 600;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            margin-bottom: 0.7rem;
+            padding-left: 0.1rem;
+        }
+
+        .section {
+            margin-bottom: 1.8rem;
+        }
+
+        /* ─── CARDS ─── */
+        .card-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.7rem;
+        }
+
+        .card-grid.single {
+            grid-template-columns: 1fr;
+        }
+
+        .card {
+            display: block;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 1.1rem 1.2rem;
+            text-decoration: none;
+            color: var(--text);
+            transition: border-color 0.15s, background 0.15s, transform 0.12s;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card:hover {
+            border-color: var(--red);
+            background: var(--surface2);
+            transform: translateY(-2px);
+        }
+
+        .card-icon {
+            font-size: 1.5rem;
+            margin-bottom: 0.6rem;
+            display: block;
+            line-height: 1;
+        }
+
+        .card-title {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--text);
+            margin-bottom: 0.3rem;
+            letter-spacing: 0.03em;
+        }
+
+        .card-desc {
+            font-size: 0.75rem;
+            color: var(--muted);
+            line-height: 1.45;
+        }
+
+        .card-meta {
+            margin-top: 0.6rem;
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.65rem;
+            color: #555;
+        }
+
+        .card-meta.fresh { color: var(--green); }
+        .card-meta.stale { color: var(--amber); }
+
+        /* News card accent stripe */
+        .card.news-card::after {
+            content: '';
+            position: absolute;
+            top: 0; left: 0;
+            width: 3px;
+            height: 100%;
+            background: var(--red);
+            border-radius: 10px 0 0 10px;
+        }
+
+        /* ─── TOOLS ROW ─── */
+        .tools-row {
+            display: flex;
+            gap: 0.6rem;
+            flex-wrap: wrap;
+        }
+
+        .tool-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 0.5rem 0.9rem;
+            text-decoration: none;
+            color: var(--muted);
+            font-size: 0.78rem;
+            font-family: 'IBM Plex Mono', monospace;
+            transition: all 0.15s;
+        }
+
+        .tool-link:hover {
+            color: var(--text);
+            border-color: #555;
+        }
+
+        /* ─── FOOTER ─── */
+        .footer {
+            margin-top: 2.5rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .footer-left {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.68rem;
+            color: #444;
+        }
+
+        .admin-link {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.68rem;
+            color: #444;
+            text-decoration: none;
+            transition: color 0.15s;
+        }
+
+        .admin-link:hover { color: var(--muted); }
+
+        /* ─── RESPONSIVE ─── */
+        @media (max-width: 480px) {
+            .card-grid { grid-template-columns: 1fr; }
+            .header-top { flex-direction: column; gap: 0.8rem; }
+        }
     </style>
 </head>
 <body>
-    <div class="wrap">
-        <div class="logo">⚡ SUPERNOVA</div>
-        <div class="tagline">The news you want, when you want it.</div>
+<div class="container">
 
-        <a href="dashboard.html">
-            <span class="icon">📰</span>
-            <div class="label">
-                <div>Open Dashboard</div>
-                <div class="desc">Pick your profile and read the news</div>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-top">
+            <div class="wordmark">cloud<span>5776</span></div>
+            <div class="status-pill" id="status-pill">
+                <div class="status-dot" id="status-dot"></div>
+                <span id="status-text">checking…</span>
             </div>
-        </a>
+        </div>
+        <div class="tagline">Personal hub · www.cloud5776.co.uk</div>
+    </header>
 
-        <a href="admin.html" class="admin-link">
-            <span class="icon">⚙️</span>
-            <div class="label">
-                <div>Feed Settings</div>
-                <div class="desc">Manage sources, categories, archive</div>
+    <!-- News -->
+    <section class="section">
+        <div class="section-label">News</div>
+        <div class="card-grid single">
+            <a href="/dashboard.html" class="card news-card">
+                <span class="card-icon">⚡</span>
+                <div class="card-title">SUPERNOVA</div>
+                <div class="card-desc">RSS news dashboard — all your feeds in one place. Weather, read tracking, per-user profiles.</div>
+                <div class="card-meta" id="news-freshness">Loading…</div>
+            </a>
+        </div>
+    </section>
+
+    <!-- Projects -->
+    <section class="section">
+        <div class="section-label">Projects</div>
+        <div class="card-grid">
+            <a href="/sage/" class="card">
+                <span class="card-icon">🌿</span>
+                <div class="card-title">SAGE</div>
+                <div class="card-desc">Running on Cloudflare Pages at /sage/</div>
+            </a>
+            <div class="card" style="opacity:0.4; cursor:default; border-style:dashed;">
+                <span class="card-icon">＋</span>
+                <div class="card-title">Next project</div>
+                <div class="card-desc">Coming soon.</div>
             </div>
-        </a>
-    </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-left" id="clock">--:--</div>
+        <a href="/admin.html" class="admin-link">⚙ admin</a>
+    </footer>
+
+</div>
+
+<script>
+    // ─── CLOCK ───────────────────────────────────────────────
+    function updateClock() {
+        const now = new Date();
+        const h = String(now.getHours()).padStart(2,'0');
+        const m = String(now.getMinutes()).padStart(2,'0');
+        const s = String(now.getSeconds()).padStart(2,'0');
+        const days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+        const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        document.getElementById('clock').textContent =
+            `${h}:${m}:${s} · ${days[now.getDay()]} ${now.getDate()} ${months[now.getMonth()]} ${now.getFullYear()}`;
+    }
+    setInterval(updateClock, 1000);
+    updateClock();
+
+    // ─── PI STATUS CHECK ─────────────────────────────────────
+    // Non-blocking — page loads immediately, dot updates async
+    async function checkPiStatus() {
+        const dot  = document.getElementById('status-dot');
+        const text = document.getElementById('status-text');
+        try {
+            const res = await fetch('/api/health', {
+                signal: AbortSignal.timeout(4000)
+            });
+            const ct = res.headers.get('content-type') || '';
+            if (!res.ok || !ct.includes('application/json')) throw new Error();
+            const data = await res.json();
+            const feedCount = Object.keys(data.feeds || {}).length;
+            dot.className  = 'status-dot online';
+            text.textContent = `pi online · ${feedCount} feeds`;
+        } catch {
+            dot.className  = 'status-dot offline';
+            text.textContent = 'pi offline · static mode';
+        }
+    }
+    checkPiStatus();
+
+    // ─── NEWS FRESHNESS ──────────────────────────────────────
+    // Shows how stale news.json is (useful on Cloudflare static)
+    async function checkNewsFreshness() {
+        const el = document.getElementById('news-freshness');
+        try {
+            // Try live API first
+            const res = await fetch('/api/news', {
+                signal: AbortSignal.timeout(4000)
+            });
+            const ct = res.headers.get('content-type') || '';
+            if (res.ok && ct.includes('application/json')) {
+                const items = await res.json();
+                if (items.length > 0) {
+                    const latest = new Date(items[0].pubDate);
+                    const age = Math.round((Date.now() - latest) / 60000);
+                    const ageStr = age < 60
+                        ? `${age}m ago`
+                        : age < 1440
+                            ? `${Math.round(age/60)}h ago`
+                            : `${Math.round(age/1440)}d ago`;
+                    el.textContent = `${items.length} articles · latest ${ageStr}`;
+                    el.className = 'card-meta' + (age < 120 ? ' fresh' : age < 720 ? '' : ' stale');
+                    return;
+                }
+            }
+            // Fall back to news.json
+            const res2 = await fetch('/news.json');
+            const items2 = await res2.json();
+            if (items2.length > 0) {
+                const latest = new Date(items2[0].pubDate);
+                const age = Math.round((Date.now() - latest) / 60000);
+                const ageStr = age < 60 ? `${age}m ago` : age < 1440 ? `${Math.round(age/60)}h ago` : `${Math.round(age/1440)}d ago`;
+                el.textContent = `${items2.length} articles · latest ${ageStr} · static`;
+                el.className = 'card-meta stale';
+            }
+        } catch {
+            el.textContent = 'unable to reach news feed';
+            el.className = 'card-meta';
+        }
+    }
+    checkNewsFreshness();
+</script>
 </body>
 </html>
