@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Man charged after seven people hit by car in Derby",
+      "link": "https://www.bbc.com/news/articles/cwywd5ek9x9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-31T22:24:19",
+      "description": "The pedestrians were seriously injured when they were hit by a black Suzuki Swift on Saturday night.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4c4/live/c5569c50-2d4f-11f1-8ac7-a101b1a2933c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-03-31T22:31:19.735139",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
       "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-31T21:08:35",
@@ -453,6 +464,34 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Man, 36, is charged with nine offences after seven people were injured when a car ploughed into crowds in Derby city centre",
+      "link": "https://www.dailymail.co.uk/news/article-15696263/Man-36-charged-nine-offences-seven-people-injured-car-ploughed-crowds-Derby.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T22:22:51",
+      "description": "A 36-year-old man has been charged with a string of offences after seven people were injured when a car ploughed into crowds in Derby city centre.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/22/107505827-0-image-m-30_1774993961680.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/22/107505827-0-image-m-30_1774993961680.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T22:31:20.018959",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump's warmonger Lindsey Graham slammed for sudden flip on Iran war to take heat off Disney trip disaster",
+      "link": "https://www.dailymail.co.uk/news/article-15695643/lindsey-graham-iran-war-disney-trip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T21:59:22",
+      "description": "Senator Lindsey Graham is trying to change the news cycle off his highly panned trip to Disney World amid the partial government shutdown.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562495-0-image-m-43_1774984348788.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562495-0-image-m-43_1774984348788.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T22:31:20.018966",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Record 106,810 cancer patients waited more than 62 days to start urgent treatment last year",
       "link": "https://www.dailymail.co.uk/news/article-15694589/Record-106-810-cancer-patients-waited-62-days-start-urgent-treatment-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -2905,6 +2944,104 @@
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Thomas Tuchel piles more pressure on England forwards after they flop without Harry Kane - and admits he will be scared to watch Premier League games before the World Cup",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15696361/Thomas-Tuchel-piles-pressure-England-forwards-flop-without-Harry-Kane-admits-scared-watch-Premier-League-games-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T22:23:31",
+      "description": "Cole Palmer and Phil Foden were both handed opportunities to flourish in forward roles during Tuesday night's 1-0 defeat by Japan but England mustered little by way of goal threat.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566463-0-image-a-16_1774995569915.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566463-0-image-a-16_1774995569915.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T22:31:20.778228",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The Socceroos get a VERY tough test as their first World Cup opponent is announced",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15696311/Socceroos-World-Cup-opponent-announced-Turkey-football.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T22:22:21",
+      "description": "Australia will face a stern test in their first match of the tournament after beating Curacao 5-1 in Melbourne on Tuesday night.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566545-0-image-a-36_1774995500530.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566545-0-image-a-36_1774995500530.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T22:31:20.778234",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "USA learn final World Cup group opponents... and things just got a lot harder for Christian Pulisic's team",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15696251/USA-learn-final-World-Cup-group-opponents-things-just-got-lot-harder-Christian-Pulisics-team.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T22:13:49",
+      "description": "The United States have finally found out their last group game opponent for this summer's World Cup - and it's a difficult one for Christian Pulisic and his team.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565849-0-image-a-15_1774993497048.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565849-0-image-a-15_1774993497048.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T22:31:20.778236",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Italy's World Cup curse continues with penalty nightmare against Bosnia as four-time winners miss out on third successive finals",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15694361/Italys-World-Cup-curse-penalty-nightmare-Bosnia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T22:11:08",
+      "description": "TOM COLLOMOSSE: The four-times world champions have failed to qualify for a third consecutive World Cup - a source of utter shame for one of the game's traditional powerhouses.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565673-0-image-a-131_1774992944749.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565673-0-image-a-131_1774992944749.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T22:31:20.778237",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Viktor Gyokeres is Sweden's hero as Arsenal striker fires them to the World Cup, while Turkey and Czechia end two-decade waits to qualify again",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15696189/Viktor-Gyokeres-Swedens-hero-Arsenal-striker-fires-World-Cup-Turkey-Czechia-end-two-decades-waits-qualify-again.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T22:04:04",
+      "description": "Arsenal's Viktor Gyokeres scored a late winner to send Sweden to the World Cup with a 3-2 win over Poland on Tuesday night.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565235-0-image-a-19_1774991833987.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565235-0-image-a-19_1774991833987.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T22:31:20.778238",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'I'm not talking about my contract any more,' says Scotland boss Steve Clarke. 'I want to concentrate on the World Cup from now on...'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15696281/Im-not-talking-contract-says-Scotland-boss-Steve-Clarke-want-concentrate-World-Cup-on.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T21:59:26",
+      "description": "Scotland\u00a0boss Steve Clarke insists he will not allow his contract situation to cast a cloud over Scotland's forthcoming World Cup campaign.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565959-0-image-a-14_1774993917275.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565959-0-image-a-14_1774993917275.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T22:31:20.778239",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Two decades of failure have turned Italy into a laughing stock: they have now missed THREE World Cups in a row, the sport has been left behind by cricket, rugby and baseball - and here's the cultural phenomenon holding back Azzurri's talent factory",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15671039/Italy-World-Cup-failure-20-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T21:46:55",
+      "description": "The most surprising aspect of Italy's decline is that anybody is still surprised by it. Gianluigi Buffon called it hours after they were knocked out of the 2010 World Cup group stage.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/23/16/107354611-0-image-a-25_1774282663549.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/23/16/107354611-0-image-a-25_1774282663549.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T22:31:20.778252",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "England 0-1 Japan PLAYER RATINGS: Which star has big questions over their World Cup place? Who looks way short of confidence and rhythm? And who left Thomas Tuchel furious?",
       "link": "https://www.dailymail.co.uk/sport/football/article-15696011/England-0-1-Japan-PLAYER-RATINGS-Thomas-Tuchel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
