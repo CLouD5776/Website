@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+      "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-31T21:08:35",
+      "description": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dad/live/93b6a420-2d2b-11f1-a36a-2bc3523bb833.jpg",
+      "enclosure": null,
+      "archived_at": "2026-03-31T21:36:26.280048",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Judge temporarily halts construction of Trump's White House ballroom",
       "link": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-31T20:21:19",
@@ -442,6 +453,202 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Record 106,810 cancer patients waited more than 62 days to start urgent treatment last year",
+      "link": "https://www.dailymail.co.uk/news/article-15694589/Record-106-810-cancer-patients-waited-62-days-start-urgent-treatment-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T21:30:46",
+      "description": "More than four in five trusts (83 per cent) missed the key target of treating 85 per cent of patients within this time frame.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107561847-0-image-a-44_1774980615497.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107561847-0-image-a-44_1774980615497.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548975",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "America's top banker Jamie Dimon gives surprising take on Trump's Iran war",
+      "link": "https://www.dailymail.co.uk/news/article-15696021/Americas-banker-Jamie-Dimon-gives-surprising-Trumps-Iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T21:23:25",
+      "description": "Wall Street's top banker has given a surprising take on Donald Trump's war with Iran amid skyrocketing oil prices.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564429-0-image-a-44_1774989338870.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564429-0-image-a-44_1774989338870.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548983",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Female Napa Valley winery owner slapped with $4M in fines for putting on wine tasting and yoga classes on 8-acre land",
+      "link": "https://www.dailymail.co.uk/news/article-15694931/Napa-Valley-winery-owner-fined-vineyard-yoga-hoopes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T21:18:57",
+      "description": "Lindsay Hoopes was accused of creating a 'public nuisance' in 2022 by hosting yoga classes and wine tastings on her eight-acre property tucked into the prestigious Napa Valley.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565177-0-image-a-5_1774991750105.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565177-0-image-a-5_1774991750105.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548985",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman buys back gorgeous winery previously owned by her darling fianc\u00e9 who was MURDERED onsite by his dad",
+      "link": "https://www.dailymail.co.uk/news/article-15695071/california-winery-limerick-lane-cellars-fiance-dad-murder-suicide.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T21:17:28",
+      "description": "Karen Francis DeGolia, 63, purchased the winery her fianc\u00e9 Tom Collins was murdered at in 1993. For years, she tried her best to distance herself from it, but always found herself coming back.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564421-0-image-m-17_1774990658047.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564421-0-image-m-17_1774990658047.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548986",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Creepy new details about how inside of Nancy Guthrie's $1.4m Tucson home looked after her abduction",
+      "link": "https://www.dailymail.co.uk/news/article-15695579/nancy-guthrie-tucson-home-abduction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T21:01:30",
+      "description": "Savannah Guthrie said in her first televised interview since her mother's disappearance that the back doors were oddly propped open when investigators arrived.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107563127-0-image-a-24_1774985188971.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107563127-0-image-a-24_1774985188971.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548988",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment woman escapes police car in cuffs by wiggling her body out of the window and running away",
+      "link": "https://www.dailymail.co.uk/news/article-15695265/woman-escapes-police-car-michigan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T21:00:31",
+      "description": "Kendra Aney, 38, has a long rap sheet of larceny and delivering or manufacturing narcotics prior to her miraculous escape.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564119-0-image-m-11_1774989628057.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564119-0-image-m-11_1774989628057.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548989",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Stunning Chicago suburb named America's best place to live 2025 is overrun by HUNDREDS of feral teens",
+      "link": "https://www.dailymail.co.uk/news/article-15695539/Chicago-suburb-Naperville-best-America-teen-takeover-mob.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T20:55:54",
+      "description": "Wild footage showed the picturesque suburb was overran by unruly youths over the weekend as a huge mob streamed down its streets, smashed cars and ran riot while police failed to intervene.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107561931-0-image-a-49_1774985758287.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107561931-0-image-a-49_1774985758287.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548990",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Disturbing new poll shows Los Angeles residents want an even WOKER mayor than Karen Bass in upcoming election",
+      "link": "https://www.dailymail.co.uk/news/article-15695847/los-angeles-mayor-karen-bass-election-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T20:50:29",
+      "description": "Angelenos are itching for an even more liberal mayor as Democrat Karen Bass faces reelection, according to the results of a new poll.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107563083-0-image-m-127_1774988375766.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107563083-0-image-m-127_1774988375766.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548992",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Put cops on the streets, not on tweets, Tories demand",
+      "link": "https://www.dailymail.co.uk/news/article-15695791/Put-cops-streets-not-tweets-Tories-demand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T20:47:18",
+      "description": "Police Scotland would be ordered to halt its controversial policy on probing 'non-crime hate incidents' under Tory plans.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107563399-0-image-m-35_1774985998944.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107563399-0-image-m-35_1774985998944.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548994",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Enterprising boy, 17, makes fortune buying abandoned storage lockers and selling their contents - including lost Man Ray painting",
+      "link": "https://www.dailymail.co.uk/news/article-15695601/new-jersey-storage-unit-michael-haskell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T20:44:18",
+      "description": "New Jersey native Michael Haskell, 17, has an unusual hobby for a high schooler: he buys abandoned storage units and sells their contents for thousands of dollars.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107563107-0-image-m-17_1774988447212.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107563107-0-image-m-17_1774988447212.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548995",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Drug driver who killed 'deeply loved' Scot in crash facing jail",
+      "link": "https://www.dailymail.co.uk/news/article-15695809/Drug-driver-killed-deeply-loved-Scot-crash-facing-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T20:43:44",
+      "description": "A drugged up driver has admitted killing a 'deeply loved' Scottish woman in a horror crash after a police chase.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562433-0-image-a-8_1774982974162.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562433-0-image-a-8_1774982974162.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548997",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hollywood sees Scotland as all about 'unemployment, drug abuse, alcohol abuse and domestic abuse', says film star",
+      "link": "https://www.dailymail.co.uk/news/article-15695805/Hollywood-sees-Scotland-unemployment-drug-abuse-alcohol-abuse-domestic-abuse-says-film-star.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T20:40:26",
+      "description": "It was one of the biggest movies to come out of Scotland. But now it would seem that the film industry views Scotland as a scene from Danny Boyle's blockbuster hit Trainspotting.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562529-0-image-m-7_1774983428346.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562529-0-image-m-7_1774983428346.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548998",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ministers spend \u00a324m a mile on consultants to dual just 11 miles of A9!",
+      "link": "https://www.dailymail.co.uk/news/article-15695807/Ministers-spend-24m-mile-consultants-11-miles-A9.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T20:39:48",
+      "description": "SNP ministers have blown a 'jaw-dropping' \u00a3340million on design consultants and planners to dual just 11 miles of key Highland routes.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562895-0-image-a-19_1774984459755.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562895-0-image-a-19_1774984459755.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.548999",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Scots hit with extortionate pump prices of as much as \u00a32.17 a litre for diesel as Middle East fuel crisis starts to bite",
+      "link": "https://www.dailymail.co.uk/news/article-15695803/Scots-hit-extortionate-pump-prices-2-17-litre-diesel-Middle-East-fuel-crisis-starts-bite.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T20:38:18",
+      "description": "Scots motorists have been dealt a 'hammer blow' as the cost of petrol has soared to more than \u00a32 a litre - the highest in the UK.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562375-0-image-a-82_1774982659335.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562375-0-image-a-82_1774982659335.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.549000",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Woman who dumped goldendoodle at Las Vegas airport after being told she couldn't fly with him is hit with arrest warrant",
       "link": "https://www.dailymail.co.uk/news/article-15695563/woman-abandoned-goldendoodle-dog-las-vegas-airport-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -2698,6 +2905,48 @@
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "England 0-1 Japan PLAYER RATINGS: Which star has big questions over their World Cup place? Who looks way short of confidence and rhythm? And who left Thomas Tuchel furious?",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15696011/England-0-1-Japan-PLAYER-RATINGS-Thomas-Tuchel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T21:21:16",
+      "description": "England's final friendly before Thomas Tuchel names his World Cup squad ended in disaster with a 1-0 home defeat by Japan.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564913-0-image-a-7_1774990667324.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564913-0-image-a-7_1774990667324.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.790180",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Thomas Tuchel is running out of time to work his magic - his England side are still groping around in the dark for a formula and they are nowhere near World Cup contenders after this lethargic display, writes OLIVER HOLT",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15693859/Thomas-Tuchel-time-work-magic-England-groping-dark-World-Cup-contenders.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T21:13:26",
+      "description": "OLIVER HOLT AT WEMBLEY: It was not a fond farewell. England did not take their leave of Wembley wreathed in laurels and serenaded with hosannas, put it that way.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565213-0-image-a-122_1774991598183.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565213-0-image-a-122_1774991598183.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.790186",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ivory Coast 1 Scotland 0: Stuttering Scots can't buy Steve Clarke love or a goal after yet another friendly defeat",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15696129/Ivory-Coast-1-Scotland-0-Stuttering-Scots-buy-Steve-Clarke-love-goal-friendly-defeat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T20:56:04",
+      "description": "At the end of a turgid few days for Steve Clarke, one of The Beatles' greatest hits felt like it rang true for the Scotland manager.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564725-0-image-a-2_1774990107580.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564725-0-image-a-2_1774990107580.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:26.790188",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "God Save The King BOOED by Wales fans before Northern Ireland friendly in Cardiff",
       "link": "https://www.dailymail.co.uk/sport/football/article-15696009/God-Save-King-BOOED-Wales-fans-Northern-Ireland-friendly-Cardiff.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -5406,6 +5655,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Rita Wilson celebrates Women\u2019s History Month with \"Sound of a Woman\" listening session",
+      "link": "https://www.music-news.com/news/UK/188095/Rita-Wilson-celebrates-Women-s-History-Month-with-Sound-of-a-Woman-listening-session",
+      "pubDate": "2026-03-31T20:18:00",
+      "description": "In a powerful tribute to Women\u2019s History Month, BMI recently hosted an intimate musical celebration featuring the multi-talented singer",
+      "thumbnail": "https://www.music-news.com/images/news/Rita-Wilson3.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Rita-Wilson3.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:30.972535",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Slash, Lennon, and Queen rarities to hit the block in \u00a31.5M music memorabilia auction",
+      "link": "https://www.music-news.com/news/UK/188094/Slash-Lennon-and-Queen-rarities-to-hit-the-block-in-1-5M-music-memorabilia-auction",
+      "pubDate": "2026-03-31T19:58:00",
+      "description": "Propstore, a global leader in entertainment memorabilia, has announced a landmark Music Live Auction scheduled for April 30, 2026. Featuring over 400 lots from the world\u2019s most iconic artists, the collection carries a combined estimated value of \u00a31.5 million ($2 million).The Crown Jewels of Rock HistoryThe auction is led by a staggering piece of rock history: Slash\u2019s stage-used Gibson Les Paul \u201859 Custom Shop guitar. Played during Guns N' Roses\u2019 historic Not In This Lifetime reunion tour, the autographed instrument is estimated between \u00a3150,000 \u2013 \u00a3300,000.Equally poignant is a promotional poster for Double Fantasy, signed by John Lennon on the morning of December 8, 1980\u2014only hours before his death. Accompanied by an audio recording of Lennon discussing the signing, it is believed to be the final item he ever autographed (Est. \u00a360k \u2013 \u00a3120k).From Freddie Mercury to George MichaelThe sale features significant items from pop and rock royalty, including:George Michael\u2019s \"Faith\" Jacket: The photo-matched leather jacket worn in the iconic 1987 music video (Est. \u00a360k \u2013 \u00a3120k).Freddie Mercury\u2019s Gold Microphone: A Shure 565 SD award presented to Queen, consigned directly from the personal collection of Peter Hince, Mercury\u2019s longtime assistant.Handwritten Lyrics: First-draft lyrics for \"Goodbye\" by Paul McCartney (1969) and \"51st Anniversary\" by Jimi Hendrix (1967).Something for Every CollectorWhile the headliners command six-figure estimates, the auction includes items for various budgets, such as ABBA autographed photo books (Est. \u00a3100 \u2013 \u00a3200) and Foo Fighters memorabilia.Top Auction Lots\tEstimated Value (GBP)Slash\u2019s '59 Gibson Les Paul\t\u00a3150,000 - \u00a3300,000George Michael\u2019s \"Faith\" Jacket\t\u00a360,000 - \u00a3120,000Lennon\u2019s Last Autographed Poster\t\u00a360,000 - \u00a3120,000Freddie Mercury\u2019s Gold Microphone\t\u00a330,000 - \u00a360,000",
+      "thumbnail": "https://www.music-news.com/images/news/Freddie-Mercury3.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Freddie-Mercury3.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-03-31T21:36:30.972542",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "\"I was scared to be in myself\": Yonaka\u2019s Theresa Jarvis opens up about mental health journey",
       "link": "https://www.music-news.com/news/UK/188093/I-was-scared-to-be-in-myself-Yonaka-s-Theresa-Jarvis-opens-up-about-mental-health-journey",
