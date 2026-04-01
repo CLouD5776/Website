@@ -1,6 +1,83 @@
 {
   "BBC News": [
     {
+      "title": "Palantir UK boss says it's up to militaries to decide how AI targeting is used in war",
+      "link": "https://www.bbc.com/news/articles/cdrm52g4pl2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T16:03:20",
+      "description": "The company's AI platform Maven has reportedly been used by the US to identify targets in Iran.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf78/live/5afc17a0-2de4-11f1-9c68-d3b327b335eb.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T17:27:51.643882",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
+      "link": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T16:31:17",
+      "description": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e7f/live/6b402fe0-2de7-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T17:27:51.643886",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Families cram into Greek court for trial into deadliest train crash",
+      "link": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T16:30:17",
+      "description": "Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b342/live/338a9380-2de0-11f1-9c84-b558be249093.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T17:27:51.643888",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Two migrants die in Channel crossing attempt",
+      "link": "https://www.bbc.com/news/articles/cgldep231lxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T16:08:54",
+      "description": "French authorities rescue eight people who get into difficulty boarding a small boat, but two of them died.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d9/live/5d5e87c0-2ddb-11f1-ae65-97b179e2f0f5.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T17:27:51.643890",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Captain Donnarumma vows to restore Italy after heartbreak",
+      "link": "https://www.bbc.com/sport/football/articles/c2ev313pld3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T17:00:00",
+      "description": "Italy captain Gianluigi Donnarumma says he \"cried because of the enormous sadness\" of not being able to lead the national side to the 2026 World Cup.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf34/live/13cdeb30-2dec-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T17:27:51.643892",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "From YouTube to real life: why Hashtag United want to go down",
+      "link": "https://www.bbc.com/sport/football/articles/ce3594qnvxlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T16:43:59",
+      "description": "After a decade of moving up the football pyramid, YouTube team Hashtag United want to be demoted. BBC Sport asks co-founder Spencer Owen: Why?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede0/live/2bc26090-2d3d-11f1-8c7a-d7713554a96a.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T17:27:51.643893",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Raducanu pulls out of another tournament after illness",
+      "link": "https://www.bbc.com/sport/tennis/articles/c1krvp12eg3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T09:07:27",
+      "description": "Emma Raducanu delays the start of her clay-court season as she continues to recover from a viral illness, according to her representatives.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ce/live/aad7e520-2da7-11f1-8469-3bd0a3d7fbf1.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T17:27:51.643895",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "CPS giving 'investigative advice' to police over Andrew and Mandelson probes",
       "link": "https://www.bbc.com/news/articles/cr518ppng30o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-01T15:43:24",
@@ -1102,6 +1179,90 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Strong winds of up to 70mph could cause Easter getaway chaos, Met Office warns",
+      "link": "https://www.dailymail.co.uk/news/article-15698677/Strong-winds-70mph-Easter-chaos-Met-Office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T17:17:50",
+      "description": "A yellow weather warning has been issued for very strong winds in Scotland, Northern Ireland and parts of north Wales and northern England.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588457-0-image-m-9_1775063420410.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588457-0-image-m-9_1775063420410.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T17:27:52.639450",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Beloved executive, 43, who 'loved being a girl dad' is killed in front of young family in freak Vermont skiing accident",
+      "link": "https://www.dailymail.co.uk/news/article-15698047/vermont-skiing-accident-executive-father-killed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T17:15:49",
+      "description": "Cory Hartman, 43, died on a black diamond trail on Saturday afternoon. Ski patrol members responded to the accident, but police said he was pronounced dead at the scene.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587535-0-image-m-9_1775060611488.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587535-0-image-m-9_1775060611488.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T17:27:52.639455",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Midwest woman shot 'friends with benefits' baby-daddy while giving him car massage, then killed his mother and stepfather at their beautiful home, prosecutors say",
+      "link": "https://www.dailymail.co.uk/news/article-15697977/Jenna-Strouble-Illinois-killed-massage-Jacob-Lambert-parents.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T17:05:55",
+      "description": "Jenna Strouble, 30,\u00a0allegedly confessed to shooting her 'friends with benefits' partner by tricking him into a car massage before then killing his mother and stepfather, prosecutors say.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/17/107388795-0-image-m-61_1775061306770.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/17/107388795-0-image-m-61_1775061306770.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T17:27:52.639457",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Democrat erupts in foul-mouthed 1am rant over Trump's Supreme Court showdown\u2026 then hits delete",
+      "link": "https://www.dailymail.co.uk/news/article-15698895/democrat-susie-lee-trump-supreme-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T16:59:06",
+      "description": "A Democratic congresswoman is facing backlash after a foul-mouthed late-night tirade targeting Donald Trump's birthright citizenship Supreme Court case.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587585-0-image-m-19_1775061184415.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587585-0-image-m-19_1775061184415.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T17:27:52.639458",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woke San Francisco nonprofit boss charged with fraud made local library buy 1,500 copies of HER children's book, netting her $100,000",
+      "link": "https://www.dailymail.co.uk/news/article-15697989/San-Francisco-nonprofit-charged-fraud-library-buy-childrens-book.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T16:53:11",
+      "description": "Sheryl Davis, former head of San Francisco's Human Rights Commission, was arrested for a 'pervasive pattern of self-dealing,' with prosecutors accusing her of thousands of dollars in public funds.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107584947-0-image-m-6_1775057918017.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107584947-0-image-m-6_1775057918017.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T17:27:52.639460",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Department of Defense employee, 33, died horrific death during 15 hour Korean Airlines flight after staff made terrible blunder, lawsuit alleges",
+      "link": "https://www.dailymail.co.uk/news/article-15698523/defense-employee-porscha-brown-korea-air-plane-death-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T16:33:16",
+      "description": "Porscha Tynisha Brown, 33, was on board a 15-hour Korean Air flight in the spring of 2024 for a holiday in Seoul with three friends when she stopped breathing.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587285-0-image-m-20_1775060585169.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587285-0-image-m-20_1775060585169.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T17:27:52.639462",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "MPs' pay and expenses budgets soar by \u00a330MILLION after bumper 5% salary rise and accommodation costs boost",
       "link": "https://www.dailymail.co.uk/news/article-15697507/MPs-pay-expenses-budgets-salary-rise-accommodation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -5543,6 +5704,62 @@
   ],
   "Daily Mail Football": [
     {
+      "title": "Yes, there are issues, for Steve Clarke and the SFA, but there's no need to panic. And things could be worse... just look at Italy!",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15698861/Yes-issues-Steve-Clarke-SFA-theres-no-need-panic-things-worse-just-look-Italy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T17:05:04",
+      "description": "Deep\u00a0in the bowels of the Hill Dickinson Stadium, shortly after Steve Clarke had finished his post-match media duties, news of Italy's demise flashed across the TV screens.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588759-0-image-a-8_1775063021350.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588759-0-image-a-8_1775063021350.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T17:27:53.140630",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Lamine Yamal hits out at his OWN fans after 'racist' chants during Spain's friendly with Egypt: Furious star, 18, takes aim at 'ignorant' supporters in scathing public attack as investigation is launched",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15698797/Lamine-Yamal-Spain-fans-Islamophobic-chants.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T16:47:27",
+      "description": "Yamal and Co drew 0-0 with the African nation in a friendly on Tuesday night, with the 18-year-old starting the game but finding it hard to break down the away side's defence.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587713-0-image-a-62_1775060180530.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587713-0-image-a-62_1775060180530.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T17:27:53.140634",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "There were a lot of positives to take... but some fans will just boo for the sake of it, says Scotland skipper Andy Robertson",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15698869/There-lot-positives-fans-just-boo-sake-says-Scotland-skipper-Andy-Robertson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T16:35:59",
+      "description": "Andy Robertson\u00a0has hit out at the boo boys who again jeered the Scotland players after they narrowly went down to the Ivory Coast on Tuesday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587593-0-image-a-5_1775059914294.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587593-0-image-a-5_1775059914294.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T17:27:53.140635",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Celtic beware! Craig Bellamy is a 'man in demand'... so it won't be easy to lure him to Parkhead in the summer",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15698877/Celtic-beware-Craig-Bellamy-man-demand-wont-easy-lure-Parkhead-summer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T16:32:30",
+      "description": "Celtic\u00a0have been warned that Craig Bellamy is 'a man in demand' as speculation surrounding the Welshman returning to Parkhead as manager intensifies.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587597-0-image-a-20_1775060287989.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587597-0-image-a-20_1775060287989.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T17:27:53.140637",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
       "title": "If Thomas Tuchel is banking on Harry Kane to be England's Messi or Ronaldo he is sorely mistaken - it is deluded to count on him to be at the peak of his powers this summer, writes IAN LADYMAN",
       "link": "https://www.dailymail.co.uk/sport/football/article-15697413/Thomas-Tuchel-Harry-Kane-England-Messi-Ronaldo-mistaken.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "pubDate": "2026-04-01T15:10:37",
@@ -8747,6 +8964,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Megan Thee Stallion to miss Moulin Rouge! The Musical performances following hospitalisation",
+      "link": "https://www.music-news.com/news/UK/188108/Megan-Thee-Stallion-to-miss-Moulin-Rouge-The-Musical-performances-following-hospitalisation",
+      "pubDate": "2026-04-01T16:00:00",
+      "description": "Megan Thee Stallion made her Broadway debut on 24 March.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188108.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188108.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T17:27:57.428733",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "KATSEYE unveil new single Pinky Up ahead of Coachella debut",
       "link": "https://www.music-news.com/news/UK/188107/KATSEYE-unveil-new-single-Pinky-Up-ahead-of-Coachella-debut",
