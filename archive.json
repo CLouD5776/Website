@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
+      "link": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T05:30:52",
+      "description": "The rapper \"started feeling very ill\" mid-way through the show in New York, her representative told US media.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09d0/live/ef60f620-2d87-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T06:58:18.926235",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Win or lose, I'd like Chisora to retire - Wardley",
+      "link": "https://www.bbc.com/sport/boxing/articles/cpvxrvdj147o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T06:18:08",
+      "description": "In his BBC Sport column, world champion Fabio Wardley says he would like Derek Chisora to retire no matter what happens against Deontay Wilder.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df43/live/5ffb7ed0-2ce0-11f1-b9b6-edf30202fd70.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T06:58:18.926247",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Energy bill support would be based on household income, Reeves says",
       "link": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-01T05:00:21",
@@ -651,6 +673,90 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Iran blitzes Kuwait, Bahrain and UAE in major Gulf attack as Trump says US will leave war 'very soon' - live updates",
+      "link": "https://www.dailymail.co.uk/news/article-15697191/iran-israel-war-gulf-trump-netany.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T06:54:13",
+      "description": "LIVE UPDATES: Follow the Daily Mail's latest coverage of the US-Israel war with Iran as Donald Trump promises the US will be leaving Iran 'very soon'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/07/107573355-0-image-a-6_1775025958164.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/07/107573355-0-image-a-6_1775025958164.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T06:58:19.289695",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Miami father sentenced after admission on Ring doorbell to shooting son following argument",
+      "link": "https://www.dailymail.co.uk/news/article-15696253/David-Contreras-Eric-sentenced-murder-manslaughter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T06:13:31",
+      "description": "David De Jesus Contreras, 53, pleaded guilty on Monday to killing his son, Eric Contreras, a 23-year-old construction management student at Florida International University.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/06/107572767-0-image-a-46_1775021513270.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/06/107572767-0-image-a-46_1775021513270.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T06:58:19.289700",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump says US will be 'finished' with Iran war in 2-3 weeks: 'We want to knock out every single they have'",
+      "link": "https://www.dailymail.co.uk/news/article-15696747/Donald-Trump-Iran-war-finished-two-weeks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T06:10:27",
+      "description": "Trump predicted the US will be done with the conflict 'within maybe two weeks, maybe a couple of days longer to do the job. But we want to knock out every single thing they have.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/06/107571907-0-image-m-51_1775021191142.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/06/107571907-0-image-m-51_1775021191142.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T06:58:19.289702",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The HUGE problem with the RBA ending surcharges on card payments: 'These costs don't just vanish'",
+      "link": "https://www.dailymail.co.uk/news/article-15696043/Card-surcharge-fee-Australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T05:55:34",
+      "description": "Experts warn a ban on credit and debit surcharges will only cost Australians more.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/04/107571373-0-image-m-84_1775015568570.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/04/107571373-0-image-m-84_1775015568570.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T06:58:19.289703",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ron DeSantis calls for Florida judge to lose her job after she freed pedophile now accused of murdering 5-year-old stepdaughter",
+      "link": "https://www.dailymail.co.uk/news/article-15695839/ron-desantis-florida-judge-pedophile-freed-murder-stepdaughter-accused.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T05:44:41",
+      "description": "GRAPHIC CONTENT WARNING: The man had been found guilty of traveling to meet a minor following a one-day trial last April but the judge did not remand him to custody despite his conviction.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/06/107571945-0-image-m-131_1775019885969.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/06/107571945-0-image-m-131_1775019885969.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T06:58:19.289705",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aussies brace for Easter long weekend commuter chaos with shutdowns on both the Sydney Metro and Harbour Bridge",
+      "link": "https://www.dailymail.co.uk/news/article-15696651/sydney-easter-metro-shutdown-harbour-bridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T05:35:22",
+      "description": "The NSW Government has been accused of 'letting residents down at the worst possible time' after it decided to shut down part of the Sydney Metro over the Easter long weekend.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/06/107572813-0-image-a-16_1775021624570.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/06/107572813-0-image-a-16_1775021624570.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T06:58:19.289707",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "SARAH VINE: It's glaringly obvious, but all rather strange. As I look at Rylan, Bobby Norris - even Clavicular - I am struck by this unsayable link...",
       "link": "https://www.dailymail.co.uk/lifestyle/beauty/article-15695521/SARAH-VINE-Rylan-Bobby-Norris-Clavicular-struck-link.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -4042,6 +4148,20 @@
   ],
   "Daily Mail Football": [
     {
+      "title": "The decision that blew up in Thomas Tuchel's face, the two 'luxury' stars sweating over their World Cup place and why England look a dream to play against after 90 minutes from hell, writes IAN LADYMAN",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15694353/The-decision-blew-Thomas-Tuchels-face-two-luxury-stars-sweating-World-Cup-place-England-look-dream-play-against-90-minutes-hell-writes-IAN-LADYMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T06:00:52",
+      "description": "IAN LADYMAN: Fast, devastatingly clinical and easy on the eye. This was a great night for Japanese football at Wembley. As for Thomas Tuchel's England, this was the 90 minutes from hell.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566681-0-image-a-33_1774996204312.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566681-0-image-a-33_1774996204312.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T06:58:19.532045",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
       "title": "The Socceroos will be the talk of the nation when the World Cup starts. But once it's over, Aussies will stop caring about the sport. Here's why...",
       "link": "https://www.dailymail.co.uk/sport/football/article-15693309/World-Cup-Socceroos-Matildas-soccer-Australia-2026-Aleague.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "pubDate": "2026-04-01T01:56:59",
@@ -7000,6 +7120,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "U.S. Army officials briefly suspend helicopter pilots who flew past Kid Rock's home",
+      "link": "https://www.music-news.com/news/UK/188098/U-S-Army-officials-briefly-suspend-helicopter-pilots-who-flew-past-Kid-Rock-s-home",
+      "pubDate": "2026-04-01T05:00:00",
+      "description": "U.S. Secretary of Defense Pete Hegseth reposted Kid Rock's original video to his X account on Tuesday.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188098.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188098.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T06:58:23.739914",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Megan Thee Stallion rushed to hospital after falling ill amid Moulin Rouge! The Musical show",
+      "link": "https://www.music-news.com/news/UK/188097/Megan-Thee-Stallion-rushed-to-hospital-after-falling-ill-amid-Moulin-Rouge-The-Musical-show",
+      "pubDate": "2026-04-01T05:00:00",
+      "description": "Megan Thee Stallion had been scheduled to play Harold Zidler in the production for an eight-week run.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188097.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188097.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T06:58:23.739919",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Sean 'Diddy' Combs release date brought forward ahead of appeal",
       "link": "https://www.music-news.com/news/UK/188096/Sean-Diddy-Combs-release-date-brought-forward-ahead-of-appeal",
