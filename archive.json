@@ -1,6 +1,94 @@
 {
   "BBC News": [
     {
+      "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
+      "link": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T11:21:09",
+      "description": "It comes as UK-US relations have been strained by the PM's refusal to be dragged further into the Iran war.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2952/live/95f06840-2dbf-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T11:50:50.887389",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "BBC knew about Scott Mills sexual offences investigation in 2017",
+      "link": "https://www.bbc.com/news/articles/cwywvrye76lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T11:39:40",
+      "description": "The corporation also says it is \"doing more work to understand the detail of what was known by the BBC\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96fc/live/63268bb0-2dbf-11f1-b45a-13c2fd78bbe1.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T11:50:50.887395",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mass robotaxi malfunction halts traffic in Chinese city",
+      "link": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T11:34:31",
+      "description": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a92a/live/271914a0-2dbd-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T11:50:50.887397",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Brazil judge blocks Sugarloaf Mountain zipline",
+      "link": "https://www.bbc.com/news/articles/cx29e3wljj2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T11:17:18",
+      "description": "The project to build a zipline linking the popular Rio tourist spot to Morro da Urca proved controversial.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1777/live/c6537470-2db3-11f1-927b-f98ec5617a78.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T11:50:50.887403",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Divorced couples in Japan can now share custody of their children",
+      "link": "https://www.bbc.com/news/articles/c77m16n6dm0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T04:11:30",
+      "description": "Japan was, until recently, the only G7 country to not recognise the legal concept of joint custody.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31f7/live/c812a080-2d7a-11f1-9d25-a9b18345b04f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T11:50:50.887406",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "New by-law bans camp fires and barbecues in Cairngorms to reduce wildfire risk",
+      "link": "https://www.bbc.com/news/articles/cvgepvp3jyxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T05:19:06",
+      "description": "People who are found lighting fires in the UK's largest national park could be fined \u00a3500.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fe/live/889a80e0-55d4-11f0-a3bc-597520cbf00f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T11:50:50.887408",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump says he will attend birthright citizenship arguments at Supreme Court",
+      "link": "https://www.bbc.com/news/articles/c7vqny4e198o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T10:42:57",
+      "description": "As part of his immigration crackdown, Trump signed an order ending the right of children of undocumented people to get automatic citizenship.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d7e/live/02b562e0-2c9f-11f1-a0ff-297a51ec29d7.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T11:50:50.887410",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Classic musical comedy about the ups and downs of true love",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m001nx09?at_mid=Zdbdw3VilD&at_campaign=Sweet_Charity&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m001nx09&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Sweet_Charity&at_bbc_team=BBC&at_creation=film",
+      "pubDate": "2026-03-14T14:29:28",
+      "description": "Musical comedy about an optimistic dance hall hostess who longs for true love.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bfb/live/471c9730-2c83-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T11:50:50.887411",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Weather looks favourable for Artemis launch despite cloud",
       "link": "https://www.bbc.com/weather/articles/cj6w4p106klo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-01T09:22:22",
@@ -849,6 +937,104 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Russia claims to have seized control of the entire Luhansk region - as Kremlin demands Ukraine withdraw from Donetsk to end 'hot war'",
+      "link": "https://www.dailymail.co.uk/news/article-15697907/Russia-claims-seized-control-entire-Luhansk-region.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T11:45:52",
+      "description": "The region is one of four Ukrainian regions Russia claimed as its own in 2022 - a move rejected by Kyiv and Western allies as an illegal land grab.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/12/107579401-0-image-a-8_1775043429015.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/12/107579401-0-image-a-8_1775043429015.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:51.420432",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump warns he is strongly considering pulling the US out of Nato\u00a0in renewed attack on 'paper tiger' alliance",
+      "link": "https://www.dailymail.co.uk/news/article-15697963/Trump-warns-strongly-considering-pulling-US-Nato-renewed-attack-paper-tiger-alliance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T11:45:41",
+      "description": "Donald Trump has warned he is strongly considering pulling the US out of NATO in his latest attack on the 'paper tiger' bloc.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/12/107579913-0-image-m-14_1775043410176.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/12/107579913-0-image-m-14_1775043410176.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:51.420439",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment machete-wielding 'thief' is rammed by car in Brixton car park in broad daylight",
+      "link": "https://www.dailymail.co.uk/news/article-15697539/moment-machete-thief-rammed-car-park-Brixton-daylight.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T11:34:25",
+      "description": "Stunning footage shows the driver stop a suspected criminal in his tracks as he attempts to make-off with a stolen motorbike.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/12/107576359-0-image-m-24_1775041385150.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/12/107576359-0-image-m-24_1775041385150.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:51.420440",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "You're the Business Secretary! Labour's Peter Kyle left squirming as he admits he DOESN'T know how many people are unemployed in Britain in car-crash radio interview",
+      "link": "https://www.dailymail.co.uk/news/article-15697781/Youre-Business-Secretary-Labours-Peter-Kyle-left-squirming-admits-DOESNT-know-people-unemployed-Britain-car-crash-radio-interview.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T11:24:26",
+      "description": "The Business and Trade Secretary was stumped during a car-crash radio interview on Wednesday morning, as he admitted:\u00a0'I don't know the exact figure.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/12/107579029-0-image-m-59_1775041830204.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/12/107579029-0-image-m-59_1775041830204.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:51.420443",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Finance boss who spent \u00a3160k of company money on escorts is jailed - after failing to pay back former employer",
+      "link": "https://www.dailymail.co.uk/news/article-15697699/Finance-boss-spent-company-money-escorts-jailed-failing-pay-former-employer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T11:22:48",
+      "description": "Asif Khan (pictured), 47, allegedly stole about \u00a31.1million while he was working for North of England Coachworks -\u00a0the north east's biggest vehicle bodyshop.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/12/107578353-0-image-m-23_1775042096307.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/12/107578353-0-image-m-23_1775042096307.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:51.420444",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "POLL OF THE DAY:\u00a0Has the BBC mishandled the Scott Mills scandal?",
+      "link": "https://www.dailymail.co.uk/news/article-15697169/POLL-BBC-mishandled-Scott-Mills-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T11:08:41",
+      "description": "Radio 2 star Scott Mills was axed by the BBC on Monday after claims he had been questioned in 2018 by Scotland Yard over alleged serious sexual offences against a boy under the age of 16.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/09/107575699-0-image-a-50_1775032948850.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/09/107575699-0-image-a-50_1775032948850.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:51.420445",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Two migrants die trying to board Britain-bound small boat near Calais - hours after UK agreed to pay France millions to patrol beaches",
+      "link": "https://www.dailymail.co.uk/news/article-15697759/Two-migrants-die-trying-board-Britain-bound-small-boat-near-Calais-hours-UK-agreed-pay-France-millions-patrol-beaches.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T10:59:14",
+      "description": "The elderly woman was one of hundreds of migrants who piled on to boats heading to Britain just hours after the UK agreed to pay France \u00a32million a week to patrol beaches.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/11/107577747-0-image-a-26_1775039867306.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/11/107577747-0-image-a-26_1775039867306.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:51.420447",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Rise and fall of 'Gwyneth Paltrow's sex guru': Wellness queen who impressed Hollywood with her $12m 'orgasmic meditation firm' is now behind bars for\u00a0 recruiting vulnerable women to perform sex acts",
       "link": "https://www.dailymail.co.uk/news/article-15697827/Rise-fall-Gwyneth-Paltrows-sex-guru-Wellness-queen-impressed-Hollywood-12m-orgasmic-meditation-firm-bars-recruiting-vulnerable-women-perform-sex-acts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -4674,6 +4860,34 @@
   ],
   "Daily Mail Football": [
     {
+      "title": "Jude Bellingham and Elliot Anderson are certainties, the Man United star who has earned his spot, and the 17 players sweating over their places: JACK GAUGHAN picks his England World Cup squad",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15697897/Jude-Bellingham-Elliot-Anderson-certainties-Man-United-star-earned-spot-17-players-sweating-places-JACK-GAUGHAN-picks-England-World-Cup-squad.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T11:35:50",
+      "description": "JACK GAUGHAN: Daily Mail Sport looks at the runners and riders, who is certain of their spot among our picks and which talents are nervously looking over their shoulders.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/12/107579869-0-image-a-8_1775042781391.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/12/107579869-0-image-a-8_1775042781391.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:51.776986",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "World Cup 2026 groups CONFIRMED: Full list revealed after play-offs drama... so, when will England and Scotland play - and who do YOU think will win it?",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15697407/world-cup-groups-england-scotland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T11:43:04",
+      "description": "The final six nations of the bonanza 48-team World Cup was confirmed on Tuesday night, with the group stages now set for the summer tournament.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/12/107580289-0-image-a-5_1775043660136.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/12/107580289-0-image-a-5_1775043660136.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:51.776995",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Former Man United star sends DR Congo to their first World Cup in 52 YEARS with dramatic 100th-minute goal - and their squad is STACKED with Premier League stars",
       "link": "https://www.dailymail.co.uk/sport/football/article-15697341/Axel-Tuanzebe-DR-Congo-Jamaica-World-Cup-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "pubDate": "2026-04-01T09:48:46",
@@ -7702,6 +7916,48 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "KATSEYE unveil new single Pinky Up ahead of Coachella debut",
+      "link": "https://www.music-news.com/news/UK/188107/KATSEYE-unveil-new-single-Pinky-Up-ahead-of-Coachella-debut",
+      "pubDate": "2026-04-01T10:30:00",
+      "description": "KATSEYE have announced their new single Pinky Up with a string of playful teasers as they prepare for their first Coachella performance.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188107.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188107.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:55.897798",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "RAYE sparks fresh Bond theme buzz",
+      "link": "https://www.music-news.com/news/UK/188106/RAYE-sparks-fresh-Bond-theme-buzz",
+      "pubDate": "2026-04-01T10:30:00",
+      "description": "RAYE has unintentionally ignited speculation about recording the next James Bond theme after appearing flustered during a viral iHeart Radio Awards interview.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188106.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188106.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:55.897820",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Lizzo vowed to remain a virgin until she 'won a Grammy'",
+      "link": "https://www.music-news.com/news/UK/188105/Lizzo-vowed-to-remain-a-virgin-until-she-won-a-Grammy",
+      "pubDate": "2026-04-01T10:00:00",
+      "description": "Lizzo made an appearance on the Friends Keep Secrets podcast on Tuesday.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188105.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188105.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T11:50:55.897822",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Metallica\u2019s All Within My Hands foundation pledges $125,000 to Hawaii flood aid",
       "link": "https://www.music-news.com/news/UK/188104/Metallica-s-All-Within-My-Hands-foundation-pledges-125-000-to-Hawaii-flood-aid",
