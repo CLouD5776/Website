@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "China is trying to play peacemaker in the Iran war - will it work?",
+      "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T07:16:15",
+      "description": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c986/live/ee232120-2d96-11f1-bcc4-a5db6c57338c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T08:17:57.838031",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
       "link": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-01T05:30:52",
@@ -673,6 +684,118 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Brit school pupils among scores of tourists hit by sickness bug at French ski resort as hotel transforms into 'hospital ward' with children on drips",
+      "link": "https://www.dailymail.co.uk/news/article-15695183/Brit-school-pupils-sickness-bug-French-ski-resort.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T08:14:25",
+      "description": "Students from a British private school are among nearly two hundred youngsters hit by 'severe' food poisoning at a French ski resort.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/16/107558801-0-image-a-3_1774972225863.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/16/107558801-0-image-a-3_1774972225863.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:17:58.133126",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teenage mob chaos spreads to other towns and cities as youths run riot and ransack shops in London and Birmingham during Easter holiday 'linkups' supercharged by social media",
+      "link": "https://www.dailymail.co.uk/news/article-15697215/Fears-mob-chaos-spread-towns-cities-feral-youths-run-riot-London-Birmingham-Easter-holiday-linkups.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T08:12:45",
+      "description": "There are fears the mob chaos seen in Clapham will spread to other towns and cities after feral youths ran riot in London and Birmingham during Easter holiday 'linkups'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562747-0-image-m-19_1774983936993.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562747-0-image-m-19_1774983936993.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:17:58.133132",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Starmer 'must brace Britain for Iran war energy crunch': Government nerves over ministers playing down looming crisis - as PM holds press conference TODAY",
+      "link": "https://www.dailymail.co.uk/news/article-15697379/Starmer-Britain-Iran-war-energy-Government-Trump-PM.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T08:11:41",
+      "description": "Keir Starmer is holding a Downing Street press conference this morning to update the country on the Government's response, after the latest brutal barbs from Donald Trump.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/09/107574577-0-image-a-7_1775030830329.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/09/107574577-0-image-a-7_1775030830329.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:17:58.133134",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Holiday park owner is forced to fork out \u00a3300,000 sea wall to protect his cliffside restaurant after council refused",
+      "link": "https://www.dailymail.co.uk/news/article-15697153/owner-sea-wall-protect-cliffside-restaurant-council-refused.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T08:11:28",
+      "description": "A holiday park owner was forced to pay \u00a3300,000 for a sea wall to protect his cliffside restaurant after the council refused to fund it.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/08/107574145-0-image-m-11_1775030113914.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/08/107574145-0-image-m-11_1775030113914.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:17:58.133135",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Christmas dinner poisoning tragedy that left mother and daughter dead becomes a murder inquiry in Italy",
+      "link": "https://www.dailymail.co.uk/news/article-15697267/Christmas-dinner-poisoning-mother-daughter-dead-murder-inquiry-Italy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T08:11:06",
+      "description": "Antonella Di Ielsi, 50, and 15-year-old Sara Di Vita passed away within hours of each other in December at Cardarelli hospital in Campobasso, southern Italy.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/09/105080823-0-Antonella_Di_Ielsi_50_died_a_few_hours_after_her_daughter_after_-a-7_1775031005825.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/09/105080823-0-Antonella_Di_Ielsi_50_died_a_few_hours_after_her_daughter_after_-a-7_1775031005825.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:17:58.133136",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "No energy bailouts for the 'wealthy', help only for poorer households and fuel duty WON'T be cut for drivers, warns Rachel Reeves",
+      "link": "https://www.dailymail.co.uk/news/article-15697303/Rachel-Reeves-households-energy-bailout-fuel-duty-drivers-Iran-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T07:52:26",
+      "description": "Rachel Reeves has hinted fuel duty will not be cut to help desperate drivers - as she insisted energy bailouts will not go to the 'wealthy'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/08/107573563-0-image-m-3_1775027361059.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/08/107573563-0-image-m-3_1775027361059.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:17:58.133138",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Children are being 'incentivised' to get ADHD and autism diagnoses to unlock special school and workplace adjustments",
+      "link": "https://www.dailymail.co.uk/news/article-15697273/Children-incentivised-ADHD-autism-diagnoses-unlock-school-workplace-adjustments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T07:27:18",
+      "description": "There is a growing risk that normal difficulties arising from school or social pressures may be viewed through a 'medical lens', a review commissioned by Wes Streeting said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/08/106932639-0-image-m-32_1775028005222.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/08/106932639-0-image-m-32_1775028005222.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:17:58.133139",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "It's time to end compulsory jetlag: As clocks go forward, why are we still enduring this century-old madness that leaves Britain bleary, grumpy and no better off? PETER HITCHENS",
+      "link": "https://www.dailymail.co.uk/news/article-15694043/Its-time-end-compulsory-jetlag-clocks-forward-enduring-century-old-madness-leaves-Britain-bleary-grumpy-no-better-PETER-HITCHENS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T06:57:45",
+      "description": "Welcome to national compulsory jetlag week when everybody is bleary. More people have heart attacks and there are more road accidents.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/09/107545725-0-image-a-4_1774946584753.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/09/107545725-0-image-a-4_1774946584753.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:17:58.133140",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Iran blitzes Kuwait, Bahrain and UAE in major Gulf attack as Trump says US will leave war 'very soon' - live updates",
       "link": "https://www.dailymail.co.uk/news/article-15697191/iran-israel-war-gulf-trump-netany.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -4148,6 +4271,20 @@
   ],
   "Daily Mail Football": [
     {
+      "title": "Italy reels from ANOTHER World Cup humiliation: Furious media lambast Azzurri after 'worst nightmare' elimination, tearful Gattuso takes the blame while 40-year-old Edin Dzeko leads nightclub celebrations",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15697175/italy-world-cup-elimination-bosnia-gattuso-dzeko.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T08:10:44",
+      "description": "The four-times world champions will not be competing for football's top prize this summer after falling to penalty shoothout defeat against Bosnia-Herzegovina in Sarajevo on Tuesday night.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/08/107573543-0-image-a-7_1775026927496.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/08/107573543-0-image-a-7_1775026927496.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:17:58.527474",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
       "title": "The decision that blew up in Thomas Tuchel's face, the two 'luxury' stars sweating over their World Cup place and why England look a dream to play against after 90 minutes from hell, writes IAN LADYMAN",
       "link": "https://www.dailymail.co.uk/sport/football/article-15694353/The-decision-blew-Thomas-Tuchels-face-two-luxury-stars-sweating-World-Cup-place-England-look-dream-play-against-90-minutes-hell-writes-IAN-LADYMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "pubDate": "2026-04-01T06:00:52",
@@ -7120,6 +7257,48 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Bowling For Soup and Frank Turner tease collaboration after crossover tour",
+      "link": "https://www.music-news.com/news/UK/188101/Bowling-For-Soup-and-Frank-Turner-tease-collaboration-after-crossover-tour",
+      "pubDate": "2026-04-01T07:00:00",
+      "description": "Frank Turner and Bowling For Soup frontman Jaret Reddick are both \"convinced\" their bands will hit the studio together at some point.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188101.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188101.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:18:03.268112",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Gorillaz lift lid on failed film project",
+      "link": "https://www.music-news.com/news/UK/188100/Gorillaz-lift-lid-on-failed-film-project",
+      "pubDate": "2026-04-01T07:00:00",
+      "description": "Gorillaz stars Damon Albarn and Jamie Hewlett have revealed they walked away from the band's planned Netflix movie because the project was moving so slowly and they poured their \"frustration\" into 2023 album Cracker Island.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188100.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188100.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:18:03.268118",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "\"Trance isn't a dirty word anymore\": Armin van Buuren and Apple Music on the future of dance",
+      "link": "https://www.music-news.com/news/UK/188099/Trance-isn-t-a-dirty-word-anymore-Armin-van-Buuren-and-Apple-Music-on-the-future-of-dance",
+      "pubDate": "2026-04-01T06:18:00",
+      "description": "At the 2026 Winter Music Conference in Miami, Dutch trance pioneer Armin van Buuren joined Apple Music\u2019s Stephen Campbell and Tim Sweeney",
+      "thumbnail": "https://www.music-news.com/images/news/Armin-Van-Buuren4.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Armin-Van-Buuren4.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T08:18:03.268120",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "U.S. Army officials briefly suspend helicopter pilots who flew past Kid Rock's home",
       "link": "https://www.music-news.com/news/UK/188098/U-S-Army-officials-briefly-suspend-helicopter-pilots-who-flew-past-Kid-Rock-s-home",
