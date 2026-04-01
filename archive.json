@@ -1,6 +1,72 @@
 {
   "BBC News": [
     {
+      "title": "Weather looks favourable for Artemis launch despite cloud",
+      "link": "https://www.bbc.com/weather/articles/cj6w4p106klo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T09:22:22",
+      "description": "Artemis II is close to launch - Simon King explains the critical importance of the weather to its success.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe20/live/40414aa0-2db4-11f1-a79a-77e93010d956.png",
+      "enclosure": null,
+      "archived_at": "2026-04-01T10:51:50.169145",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US could 'finish the job' in Iran in two or three weeks, Trump says",
+      "link": "https://www.bbc.com/news/articles/czexl61xkpzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T08:02:47",
+      "description": "President Trump says the US will \"leave\" Iran \"very soon\" as Iran's president says Tehran has the \"necessary will\" to end the war.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5afc/live/9bf32910-2d94-11f1-bcc4-a5db6c57338c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T10:51:50.169152",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Warning Iran war 'shock' could push up mortgages for 1.3m homeowners",
+      "link": "https://www.bbc.com/news/articles/c895pqepwv2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T10:47:02",
+      "description": "Higher energy prices could lead to higher borrowing costs for homeowners, the Bank warns.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ea2/live/685d2740-2db2-11f1-927b-f98ec5617a78.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T10:51:50.169153",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+      "link": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T10:33:35",
+      "description": "Attacks have continued, as Israel has announced its intention to control swathes of south Lebanon.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e913/live/7a71f3c0-2da8-11f1-8469-3bd0a3d7fbf1.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T10:51:50.169155",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "BBC Sport's McNulty picks his England World Cup squad - do you agree?",
+      "link": "https://www.bbc.com/sport/football/articles/c995p9kdm3mo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T10:01:16",
+      "description": "BBC Sport chief football writer Phil McNulty picks his 26-man England World Cup squad - do you agree?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/470b/live/04edb620-2ce0-11f1-b9b6-edf30202fd70.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T10:51:50.169157",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "NZ's Kerr hits 179 not out in record women's ODI chase",
+      "link": "https://www.bbc.com/sport/cricket/articles/clyxqnwpx9zo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T10:27:47",
+      "description": "New Zealand all-rounder Amelia Kerr hits an unbeaten 179 off 139 balls to inspire her side to chase down 346 against South Africa in the highest successful run chase in women's ODI history.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af91/live/35c0d210-2dac-11f1-8469-3bd0a3d7fbf1.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T10:51:50.169159",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Watch Carol Kirkwood's emotional goodbye and funniest moments as she leaves the BBC after 28 years",
       "link": "https://www.bbc.com/news/videos/cp38qjvl7d5o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-01T08:30:03",
@@ -783,6 +849,146 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Rise and fall of 'Gwyneth Paltrow's sex guru': Wellness queen who impressed Hollywood with her $12m 'orgasmic meditation firm' is now behind bars for\u00a0 recruiting vulnerable women to perform sex acts",
+      "link": "https://www.dailymail.co.uk/news/article-15697827/Rise-fall-Gwyneth-Paltrows-sex-guru-Wellness-queen-impressed-Hollywood-12m-orgasmic-meditation-firm-bars-recruiting-vulnerable-women-perform-sex-acts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T10:41:07",
+      "description": "Nicole Daedone was the glamorous, blonde wellness queen who claimed that the female orgasm could heal trauma, spark creativity and promote women's empowerment.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2025/05/10/01/98240159-0-image-m-120_1746836421447.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2025/05/10/01/98240159-0-image-m-120_1746836421447.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:50.513147",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Book of Mormon performance in the West End is cancelled mid-show after audience member in front row pelts actors with objects in 'religious protest'",
+      "link": "https://www.dailymail.co.uk/news/article-15697317/Book-Mormon-West-End-cancelled-audience-religious-protest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T10:40:03",
+      "description": "Customers at the Prince of Wales theatre have complained security took 'five working days' to remove the rogue attendee - who was said to be engaging in a 'religious protest'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/11/107577907-0-image-m-12_1775039278245.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/11/107577907-0-image-m-12_1775039278245.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:50.513151",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Labour MP wife of alleged China spy 'behaved inappropriately with TWO naval officers working on top secret nuclear subs'",
+      "link": "https://www.dailymail.co.uk/news/article-15697375/Labour-MP-wife-alleged-China-spy-behaved-inappropriately-TWO-naval-officers-working-secret-nuclear-subs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T10:26:59",
+      "description": "Joani Reid is married to David Taylor who was arrested alongside two other former Labour advisers on suspicion of assisting a foreign intelligence service.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/10/107575241-0-image-a-6_1775034095158.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/10/107575241-0-image-a-6_1775034095158.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:50.513153",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Scorned woman sent revenge porn to ex-boyfriend's mother as part of stalking campaign, court hears",
+      "link": "https://www.dailymail.co.uk/news/article-15697683/Scorned-woman-sent-revenge-porn-ex-boyfriends-mother-stalking-campaign-court-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T10:26:46",
+      "description": "Eve Yeoman, 24, vowed to make her former partner's life hell and 'maximise his humiliation' after they broke up.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/11/107577415-0-image-m-19_1775038097280.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/11/107577415-0-image-m-19_1775038097280.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:50.513155",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Incredible moment loyal Border Collie is found ALIVE a week after she disappeared when her owner fell 55 metres down a waterfall",
+      "link": "https://www.dailymail.co.uk/news/article-15697087/missing-dog-waterfall-New-Zealand-found.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T10:25:24",
+      "description": "Jessica Johnston fell 55m down a waterfall in the West Coast region of New Zealand's South Island on March 24. She'd been with her dog, Molly, but the pup was nowhere to be found.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/10/107573475-0-image-m-15_1775037300316.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/10/107573475-0-image-m-15_1775037300316.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:50.513156",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Meatball lollipops from Ikea, Wickes' moon-powered panels and a Dyson Airwrap fit for a cat: All the latest product releases... on April Fool's Day",
+      "link": "https://www.dailymail.co.uk/news/article-15697439/new-products-April-Fools-Day-jokes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T10:09:27",
+      "description": "Here, the Daily Mail rounds up the funniest and most bizarre pranks from companies from around the world.\u00a0Would you be fooled by any of these?",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/10/107577327-0-image-m-17_1775037204213.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/10/107577327-0-image-m-17_1775037204213.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:50.513158",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "BBC sacked Scott Mills when 'compelling new information' emerged from underage accuser a decade after police investigation",
+      "link": "https://www.dailymail.co.uk/news/article-15697403/BBC-sacked-Scott-Mills-compelling-new-information-emerged-underage-accuser-decade-police-investigation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T10:08:34",
+      "description": "Corporation chiefs are said to feel they had 'no choice' but to dismiss Radio 2's flagship morning show host after fresh information about his alleged conduct.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/10/107574607-0-image-m-31_1775035195264.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/10/107574607-0-image-m-31_1775035195264.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:50.513159",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Will the war end tonight or could Trump unleash a Good Friday surprise? US President prepares address to the nation amid mounting peace hopes",
+      "link": "https://www.dailymail.co.uk/news/article-15697465/Will-war-end-tonight-Trump-unleash-Good-Friday-surprise-US-President-prepares-address-nation-amid-mounting-peace-hopes-cover-Easter-invasion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T09:57:56",
+      "description": "It comes as the White House said he would address the nation 'to provide an important update on Iran' at 9pm EDT on Wednesday (0100 GMT on Thursday).",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/10/107576119-0-image-a-13_1775036533506.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/10/107576119-0-image-a-13_1775036533506.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:50.513161",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Snooker pro at war in the High Court with his mother over who really owns their \u00a3500,000 family home",
+      "link": "https://www.dailymail.co.uk/news/article-15697475/Snooker-pro-war-High-Court-mother-really-owns-500-000-family-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T09:54:23",
+      "description": "World No. 37 snooker star Matthew Selt and his siblings have been accused in the High Court of 'ganging up' on their mother to force her into signing over the deeds to her longtime Essex home.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/10/107576055-0-image-m-12_1775034866835.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/10/107576055-0-image-m-12_1775034866835.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:50.513162",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pictured: Man, 36, appears in court after being charged over Derby car ramming that injured seven people",
+      "link": "https://www.dailymail.co.uk/news/article-15697647/Pictured-Man-36-appears-court-charged-Derby-car-ramming-injured-seven-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T09:53:27",
+      "description": "Sandhu Ponnachan, 36, is accused of mounting a pavement in a Suzuki Swift and mowing down pedestrians, leaving seven people injured, some seriously, on March 28.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/10/107577027-0-image-m-12_1775036672671.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/10/107577027-0-image-m-12_1775036672671.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:50.513163",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Welfare check goes horribly wrong as Aussie teen fights for life after being shot by police in front of his mother",
       "link": "https://www.dailymail.co.uk/news/article-15697545/Police-shooting-Brisbane-Arana-Hills.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -4468,6 +4674,20 @@
   ],
   "Daily Mail Football": [
     {
+      "title": "Former Man United star sends DR Congo to their first World Cup in 52 YEARS with dramatic 100th-minute goal - and their squad is STACKED with Premier League stars",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15697341/Axel-Tuanzebe-DR-Congo-Jamaica-World-Cup-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T09:48:46",
+      "description": "The Burnley star, 28, bundled home a corner off his midriff in extra-time to seal a 1-0 win in the intercontinental play-off final in Mexico.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/10/107577145-0-image-a-23_1775036759788.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/10/107577145-0-image-a-23_1775036759788.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:50.889500",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Japan fans praised for 'classy' and 'respectful' act following surprise victory over England at Wembley",
       "link": "https://www.dailymail.co.uk/sport/football/article-15697275/japan-fans-clean-wembley-england.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "pubDate": "2026-04-01T09:26:13",
@@ -7482,6 +7702,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Metallica\u2019s All Within My Hands foundation pledges $125,000 to Hawaii flood aid",
+      "link": "https://www.music-news.com/news/UK/188104/Metallica-s-All-Within-My-Hands-foundation-pledges-125-000-to-Hawaii-flood-aid",
+      "pubDate": "2026-04-01T09:00:00",
+      "description": "Metallica\u2019s All Within My Hands foundation has pledged $125,000 to three Hawaii-based groups aiding communities hit by severe flooding.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188104.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188104.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:55.199930",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "TXT\u2019s Yeonjun reveals BTS star RM helped him repair strained friendship with Soobin",
+      "link": "https://www.music-news.com/news/UK/188103/TXT-s-Yeonjun-reveals-BTS-star-RM-helped-him-repair-strained-friendship-with-Soobin",
+      "pubDate": "2026-04-01T09:00:00",
+      "description": "Tomorrow X Together\u2019s Yeonjun and Soobin shared that BTS leader RM offered pivotal guidance during a difficult period in their relationship.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188103.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188103.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T10:51:55.199935",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Bowling For Soup and Frank Turner tease collaboration after crossover tour",
       "link": "https://www.music-news.com/news/UK/188101/Bowling-For-Soup-and-Frank-Turner-tease-collaboration-after-crossover-tour",
