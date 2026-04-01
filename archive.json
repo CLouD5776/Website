@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "CPS giving 'investigative advice' to police over Andrew and Mandelson probes",
+      "link": "https://www.bbc.com/news/articles/cr518ppng30o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T15:43:24",
+      "description": "Police are carrying out inquiries into Lord Mandelson and Andrew Mountbatten-Windsor's links to sex offender Jeffrey Epstein.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+      "enclosure": null,
+      "archived_at": "2026-04-01T16:05:09.124615",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump to give primetime address on Iran war as questions swirl over his next move",
+      "link": "https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T14:59:06",
+      "description": "The US president finds himself under growing pressure at home to avoid a protracted conflict.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd5/live/b65924b0-2dd7-11f1-a186-bdbec3fa8607.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T16:05:09.124625",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Will Trump really leave Nato?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0n9jljy?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T14:14:00",
+      "description": "Trump considers leaving Nato, as Starmer says he won't change his position on Iran.",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T16:05:09.124629",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Girls arrested as 'online trends' fuel disturbance",
       "link": "https://www.bbc.com/news/articles/cm25yv7z3jko?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-01T13:50:40",
@@ -1069,6 +1102,174 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "MPs' pay and expenses budgets soar by \u00a330MILLION after bumper 5% salary rise and accommodation costs boost",
+      "link": "https://www.dailymail.co.uk/news/article-15697507/MPs-pay-expenses-budgets-salary-rise-accommodation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:44:33",
+      "description": "The Commons watchdog is planning to spend \u00a3300million on politicians' salaries, offices and business expenses over the next 12 months.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/104977473-0-MPs_are_facing_a_backlash_over_their_soaring_expenses_and_have_b-a-15_1775054670483.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/104977473-0-MPs_are_facing_a_backlash_over_their_soaring_expenses_and_have_b-a-15_1775054670483.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545969",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Andrew Mountbatten-Windsor looks downcast as he faces lonely Easter in Norfolk after his arrest",
+      "link": "https://www.dailymail.co.uk/news/article-15698291/Andrew-Mountbatten-Windsor-downcast-lonely-Easter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:16:18",
+      "description": "The former prince, who is expected to move into his new permanent home, Marsh Farm in the next few weeks, faces a lonely Easter after his arrest in February.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/14/107581885-0-image-m-47_1775051732529.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/14/107581885-0-image-m-47_1775051732529.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545974",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teachers left 'traumatised' by pupil attacks with one kicked 14 times and others spat at and punched",
+      "link": "https://www.dailymail.co.uk/news/article-15698633/Teachers-left-traumatised-pupil-attacks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:03:01",
+      "description": "Delegates at the National Education Union (NEU) conference in Brighton voted today for a motion calling for a national campaign to reduce violence in schools.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107585153-0-image-a-5_1775055577881.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107585153-0-image-a-5_1775055577881.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545980",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Nail technician nearly mauled to death and left with horrific injuries in unprovoked dog attack",
+      "link": "https://www.dailymail.co.uk/news/article-15698441/Nail-technician-nearly-mauled-death-left-horrific-injuries-unprovoked-dog-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T14:58:05",
+      "description": "Samantha Redding, 20, was getting ready to be picked up from a friend's house in January when she was mauled by a Spanish Mastiff-Akita that 'ripped off and swallowed' part of her face.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584307-0-image-m-34_1775054533902.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584307-0-image-m-34_1775054533902.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545982",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Greek island is cloaked by Saharan dust storm and hit by tornados with Easter holiday flights diverted and sky turning eerie red and orange",
+      "link": "https://www.dailymail.co.uk/news/article-15698707/Greek-island-cloaked-Saharan-dust-storm-hit-tornados-Easter-holiday-flights-diverted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:59:38",
+      "description": "Travel chaos unfolded on Crete as thick African dust smothered visibility, grounding aircraft and disrupting arrivals at Heraklion's main airport.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107585769-0-image-a-17_1775057226508.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107585769-0-image-a-17_1775057226508.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545988",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Three schools plunged into lockdown as police launch manhunt for gunman following shooting",
+      "link": "https://www.dailymail.co.uk/news/article-15698777/Three-schools-plunged-lockdown-police-launch-manhunt-gunman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:59:14",
+      "description": "Police say a victim has been taken to hospital with a potentially life-changing injury after a gun was fired in the Speedwell area of Bristol this afternoon.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107586853-0-image-a-88_1775058986769.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107586853-0-image-a-88_1775058986769.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545990",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment hotel migrants party at hotel barbecue after allegedly raping 33-year-old woman on Brighton Beach",
+      "link": "https://www.dailymail.co.uk/news/article-15698735/Moment-hotel-migrants-party-hotel-barbecue.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:57:56",
+      "description": "Egyptian national Ibrahim Alshafe, 25, and Iranian national Abdulla Ahmadi, 26, are accused of repeatedly raping the 33-year-old woman\u00a0on October 4 last year.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107587083-0-image-m-24_1775058758715.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107587083-0-image-m-24_1775058758715.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545991",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Iran unleashes new execution spree with battered regime 'fearful of another uprising' - as gun-wielding 12-year-olds are sent to guard the streets",
+      "link": "https://www.dailymail.co.uk/news/article-15698095/Iran-execution-spree-regime-uprising-gun-guard-streets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:55:07",
+      "description": "The National Council of Resistance of Iran warned that the lives of Iranian political prisoners are in danger after the regime brutally executed four men this week.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/105783503-0-image-m-20_1775057965418.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/105783503-0-image-m-20_1775057965418.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545992",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Calls for Labour to designate Islamic Revolutionary Guard as terrorist organisation amid claims it is funding criminal gangs targeting Jewish communities",
+      "link": "https://www.dailymail.co.uk/news/article-15697653/Calls-Labour-designate-Islamic-Revolutionary-Guard-terrorist-organisation-amid-claims-funding-criminal-gangs-targeting-Jewish-communities.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:41:49",
+      "description": "EXCLUSIVE: The IRGC, the feared military arm of the Iranian regime, is already designated a terrorist organisation by the US, Canada, Australia and the European Union.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107342271-0-image-a-4_1775056250681.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107342271-0-image-a-4_1775056250681.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545994",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Migrant filmed hurling vile abuse at female cop and vowing to make her his 'slave' moans he is the victim of racism after being shamed over his behavior",
+      "link": "https://www.dailymail.co.uk/news/article-15698025/Canada-Quebec-cop-rant-Mohamed-Bekkali-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:27:38",
+      "description": "Mohammed Bekkali, 24, claimed he was the victim of 'racial and socio-profiling' after being hit with a fine for berating a female police officer and calling her vile names in an on-camera rant.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107583991-0-image-m-30_1775055195353.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107583991-0-image-m-30_1775055195353.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545996",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Greedy women filmed dancing with delight while eating shellfish banquet at mom-and-pop restaurant - then they left without paying",
+      "link": "https://www.dailymail.co.uk/news/article-15698071/dallas-texas-tasty-tails-dine-dash-customers-seafood.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:26:19",
+      "description": "Two women were seen jamming out and dancing while they enjoyed a seafood feast at Tasty Tails restaurant in Dallas, Texas on Sunday. Once they were full, they darted for the door without paying.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584049-0-image-m-34_1775055169576.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584049-0-image-m-34_1775055169576.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545997",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pregnant Alaska flight attendant was badly-scalded by EXPLODING coffee made by posh Portland roastery, lawsuit claims",
+      "link": "https://www.dailymail.co.uk/news/article-15698061/Alaska-Airlines-Victoria-Waldron-flight-attendant-scalded-coffee-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:22:01",
+      "description": "Victoria Waldron filed the lawsuit last week, accusing the coffee company of improperly testing its packaging and failing to warn the airline of risks despite ample warning sings.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107583443-0-image-m-22_1775053199676.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107583443-0-image-m-22_1775053199676.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.545998",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump reveals he'll torch NATO in landmark speech TONIGHT as he 'absolutely' threatens to quit 'disgusting' alliance",
       "link": "https://www.dailymail.co.uk/news/article-15698391/Trump-reveals-hell-torch-NATO-landmark-speech-TONIGHT-absolutely-threatens-quit-disgusting-alliance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -5341,6 +5542,76 @@
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "If Thomas Tuchel is banking on Harry Kane to be England's Messi or Ronaldo he is sorely mistaken - it is deluded to count on him to be at the peak of his powers this summer, writes IAN LADYMAN",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15697413/Thomas-Tuchel-Harry-Kane-England-Messi-Ronaldo-mistaken.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:10:37",
+      "description": "Another camp is in the rear-view mirror and the biggest problem of all has been kicked down the road once again like a rusty old can called Kane. What happens when England don't have captain Harry?",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107585437-0-image-a-29_1775055994098.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107585437-0-image-a-29_1775055994098.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.950332",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mikel Arteta's key questions amid Declan Rice and Bukayo Saka injury doubts: Does Gunners boss go bold with Max Dowman? How can he patch up the midfield?",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15695125/Mikel-Arteta-key-questions-Declan-Rice-Bukayo-Saka-injury-doubts-Max-Dowman-midfield.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:03:05",
+      "description": "Rice and Saka had both reported to international duty with England, only for the pair to withdraw from the squad ahead of the Three Lions' friendly with Japan at Wembley.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107563715-0-image-a-5_1774986737699.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107563715-0-image-a-5_1774986737699.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.950337",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Premier League star is SENT OFF in friendly after furious reaction to tackle as he JUMPS on his opponent in 'WWE-style' move and sparks mass brawl",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15696041/Premier-League-friendly-reaction-tackle-JUMPS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:57:48",
+      "description": "The midfielder had a day to forget on Tuesday evening in his side's friendly against Jordan when he was sent off in the second-half after coming on as a substitute on the hour mark.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584589-0-image-a-9_1775054415257.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584589-0-image-a-9_1775054415257.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.950341",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Gianluigi Donnarumma breaks silence on Italy's failure to reach a third successive World Cup - with 'immensely sad' captain now unable to play at the tournament until he's 31",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15698675/Gianluigi-Donnarumma-breaks-silence-Italys-failure-reach-successive-World-Cup-immensely-sad-captain-unable-play-tournament-hes-31.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:46:08",
+      "description": "Italy will be absent from a third World Cup in a row this summer after they lost in the play-offs against Bosnia and Herzegovina, who instead booked their spot in North America with a famous victory.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107586767-0-image-a-40_1775058225122.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107586767-0-image-a-40_1775058225122.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.950342",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chelsea outspend Premier League rivals by almost DOUBLE on agents fees after splashing out \u00a365m in 12 months",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15698533/Chelsea-Premier-League-agents-fees.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T15:01:35",
+      "description": "MIKE KEEGAN: Chelsea spent almost double any other Premier League club on agents fees, shock figures have revealed. The detail may not come as a surprise to Chelsea's fans.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107345079-0-image-a-16_1775054436960.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107345079-0-image-a-16_1775054436960.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T16:05:09.950344",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Police arrest football fan, 45, following alleged racist abuse aimed at Sunderland star during Tyne-Wear derby against Newcastle",
       "link": "https://www.dailymail.co.uk/sport/football/article-15698623/police-arrest-football-fan-sunderland-newcastle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
