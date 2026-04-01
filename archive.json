@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "The delicate question of where responsibility lies for safety on our mountains",
+      "link": "https://www.bbc.com/news/articles/cz0e105yk23o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T23:08:09",
+      "description": "Who is responsible for safety in our mountains?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f827/live/addd8a70-2ceb-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T23:33:12.023044",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bompastor angry with VAR after McCabe hair pull",
+      "link": "https://www.bbc.com/sport/football/articles/c4gv71d930yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T23:07:09",
+      "description": "Chelsea boss Sonia Bompastor criticises VAR after Arsenal's Katie McCabe avoids a red card for pulling Alyssa Thompson's hair during their Women's Champions League quarter-final.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f221/live/2883f500-2e1a-11f1-871e-e514b3e2c204.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T23:33:12.023057",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woods declines US Ryder Cup captain role in 2027",
+      "link": "https://www.bbc.com/sport/golf/articles/cpqxe0qjzyno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T22:57:12",
+      "description": "Tiger Woods turns down the role of United States Ryder Cup captain next year in Ireland, the PGA of America announces, as he steps away from golf following last week's car crash.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3653/live/131310c0-2e1a-11f1-871e-e514b3e2c204.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T23:33:12.023059",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How Arsenal are building something 'special' in Europe",
+      "link": "https://www.bbc.com/sport/football/articles/c4gj2yx97w2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T23:18:40",
+      "description": "Arsenal had their fairytale ending in Europe last season - but can they produce something magical again?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b47/live/01796480-2e20-11f1-aa54-2d589bcc52e4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T23:33:12.023061",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "World's oldest known tortoise, Jonathan, dies aged 193",
       "link": "https://www.bbc.com/news/articles/c393xmpzjwko?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-01T22:20:11",
@@ -1322,6 +1366,132 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Clarifications and Corrections",
+      "link": "https://www.dailymail.co.uk/home/article-15699015/Clarifications-Corrections.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T23:01:59",
+      "description": "An article on 19 March said that the Rosebank oil field could produce millions of barrels a day. In fact, estimates put this at 70,000 barrels.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2025/09/02/15/101055401-0-image-m-17_1756822444241.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2025/09/02/15/101055401-0-image-m-17_1756822444241.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T23:33:12.493022",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Massive 7.4 magnitude earthquake strikes popular holiday island beloved by Aussies",
+      "link": "https://www.dailymail.co.uk/news/article-15699861/massive-earthquake-bali-australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T23:27:36",
+      "description": "The huge magnitude 7.8 earthquake struck just before 10am (AEST).",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/00/107596527-0-image-m-41_1775085738289.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/00/107596527-0-image-m-41_1775085738289.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T23:33:12.493036",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump 'considers firing' Pam Bondi over attorney general's handling of Epstein files",
+      "link": "https://www.dailymail.co.uk/news/article-15699851/Donald-Trump-considers-firing-Pam-Bondi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T23:27:19",
+      "description": "The president has yet to make a final decision but is considering replacing Bondi with EPA Administrator and former Congressman Lee Zeldin.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/00/107587637-0-image-a-5_1775085443486.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/00/107587637-0-image-a-5_1775085443486.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T23:33:12.493037",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Humiliating 'open secret' about cross-dressing Bryon Noem and Kristi's marriage that's talk of the White House... as Trump insiders make new fetish claims",
+      "link": "https://www.dailymail.co.uk/news/article-15698741/bryon-noem-fetish-kristi-cross-dress-marriage-photos.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T23:17:28",
+      "description": "A spokesman for Kristi, 54, claimed she was 'blindsided' when we published pictures of Bryon with balloons stuffed under women's clothing imitating huge breasts.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/23/107595329-0-image-a-8_1775083135677.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/23/107595329-0-image-a-8_1775083135677.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T23:33:12.493039",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "It's Easter for everyone! Anteaters, mongooses and monkeys enjoy their favourite festive snacks at UK zoo",
+      "link": "https://www.dailymail.co.uk/news/article-15699427/Easter-Anteaters-mongooses-monkey-festive-snacks-zoo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T23:16:56",
+      "description": "The animals at Drusillas Park in East Sussex were treated to a banquet combined with some enrichment activities to encourage their natural behaviours.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/00/107595107-0-image-m-30_1775085233567.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/00/107595107-0-image-m-30_1775085233567.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T23:33:12.493040",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Families told to brace for \u00a3440 hike in energy bills this summer - as World bank and IMF warn Iran crisis could trigger a global recession",
+      "link": "https://www.dailymail.co.uk/news/article-15698931/Families-told-brace-440-hike-energy-bills-summer-World-bank-IMF-warn-Iran-crisis-trigger-global-recession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T23:08:18",
+      "description": "The Resolution Foundation said families should brace themselves for average bills to jump to \u00a32,100 in July if the war continues to hit energy supplies.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/19/107590673-0-image-m-32_1775069092611.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/19/107590673-0-image-m-32_1775069092611.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T23:33:12.493042",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pump prices rocketed at record rate last month as Iran war sent average cost of filling up with petrol soaring by \u00a311 and \u00a322 for diesel, sparking fresh calls for Labour to scrap planned controversial fuel duty hike",
+      "link": "https://www.dailymail.co.uk/news/article-15698033/Pump-prices-rocketed-record-rate-month-Iran-war-sent-average-cost-filling-petrol-soaring-11-22-diesel-sparking-fresh-calls-Labour-scrap-planned-controversial-fuel-duty-hike.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T23:06:10",
+      "description": "Average petrol prices surged by 20p a litre in March while diesel soared by a staggering 40p.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/103619633-0-image-a-8_1775053072141.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/103619633-0-image-a-8_1775053072141.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T23:33:12.493043",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "AI is killing pupils' critical thinking - and many now can't be bothered to learn how to spell",
+      "link": "https://www.dailymail.co.uk/news/article-15698223/AI-killing-pupils-critical-thinking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T23:01:52",
+      "description": "A survey of 9,000 teachers found 66 per cent of those in secondary schools thought critical thinking has declined because of AI tools such as ChatGPT.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/21/107593291-0-image-m-13_1775076706796.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/21/107593291-0-image-m-13_1775076706796.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T23:33:12.493044",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Couple snaps up $760k apartment for their nine-year-old amid Australia's crippling housing crisis",
+      "link": "https://www.dailymail.co.uk/news/article-15696889/Couple-buys-apartment-kids-freemantle-perth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T22:35:39",
+      "description": "A couple has bought a $760,000 two-bedroom apartment for their pre-teen children amid fears their kids won't be able to make it onto the property ladder themselves.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/06/107572753-0-image-a-17_1775021527782.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/06/107572753-0-image-a-17_1775021527782.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T23:33:12.493046",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "PM scraps plan to expand specialty doctor training after the BMA failed to call off its strikes",
       "link": "https://www.dailymail.co.uk/news/article-15699587/PM-scraps-plan-expand-specialty-doctor-training.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -6393,6 +6563,34 @@
   ],
   "Daily Mail Football": [
     {
+      "title": "How an Aussie sporting legend became a hero to 46 million people in wild scenes",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15699541/Graham-Arnold-hero-Iraq-World-Cup-2006-Australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T22:58:31",
+      "description": "An entire nation is in raptures thanks to the football icon from Down Under.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/22/107594007-0-image-a-25_1775079208717.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/22/107594007-0-image-a-25_1775079208717.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T23:33:12.851612",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sonia Bompastor sent off after hair-pull controversy in Chelsea's Champions League defeat to Arsenal - as Gunners march through to semi-final",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15699739/Sonia-Bompastor-sent-Arsenal-Chelsea-hair-pull.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T22:49:53",
+      "description": "TARA ANSON-WALSH: Sonia Bompastor promised in her programme notes that her team would put everything on the line to fight their way back into this Champions League tie.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/23/107595321-0-image-a-5_1775082919397.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/23/107595321-0-image-a-5_1775082919397.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T23:33:12.851619",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Three Man United stars, two from Liverpool, and a wantaway midfielder: With the World Cup line-up complete, who makes our XI of Premier League players who will NOT be at the tournament?",
       "link": "https://www.dailymail.co.uk/sport/football/article-15698703/Three-Man-United-stars-two-Liverpool-World-Cup-Premier-League-NOT-tournament.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "pubDate": "2026-04-01T21:18:15",
@@ -9144,6 +9342,50 @@
     }
   ],
   "Unherd": [
+    {
+      "title": "Warrior justice comes for Iran",
+      "link": "https://unherd.com/2026/04/warrior-justice-comes-for-iran/?edition=us",
+      "pubDate": "2026-04-01T23:04:18",
+      "description": "Trump\u2019s war satisfies martial virtue",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-01T23:33:15.244513",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "Why ethnonationalism endures",
+      "link": "https://unherd.com/2026/04/why-ethnonationalism-endures/?edition=us",
+      "pubDate": "2026-04-01T23:04:05",
+      "description": "Westminster is still in denial",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-01T23:33:15.244519",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "The case against social media bans",
+      "link": "https://unherd.com/2026/04/the-case-against-social-media-bans/?edition=us",
+      "pubDate": "2026-04-01T23:02:23",
+      "description": "Prohibitionists rely on faulty arguments",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-01T23:33:15.244521",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "The false dawn of the post-literate society",
+      "link": "https://unherd.com/2026/04/the-false-dawn-of-the-post-literate-society/?edition=us",
+      "pubDate": "2026-04-01T23:01:27",
+      "description": "LLMs have brought back protowriting",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-01T23:33:15.244522",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
     {
       "title": "What the Anglo-Gaullists get wrong",
       "link": "https://unherd.com/2026/04/what-the-anglo-gaullists-get-wrong/?edition=us",
