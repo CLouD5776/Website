@@ -1,6 +1,83 @@
 {
   "BBC News": [
     {
+      "title": "What it's like to be on Florida's Space Coast ahead of Artemis launch",
+      "link": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T00:00:18",
+      "description": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/975ac590-2d2e-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T02:11:31.495301",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
+      "link": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-31T23:16:15",
+      "description": "Seizing the stockpile would be one of the \"most complicated special operations in history\", a former defence official tells the BBC.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f06/live/2896dc70-2d38-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T02:11:31.495311",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war",
+      "link": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-31T22:48:34",
+      "description": "Iran's strikes on Gulf states have been especially hard for migrants who have long supported these economies to lift their families back home from poverty.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a30/live/58ff5b10-28f3-11f1-a95f-75471ca6e71e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T02:11:31.495314",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
+      "link": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-31T23:25:19",
+      "description": "People in Iran describe angry scenes and tense relationships as rifts open up over the war.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea6/live/ca8c4d50-2d1d-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T02:11:31.495315",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "India begins counting more than a billion people in massive census",
+      "link": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T00:11:33",
+      "description": "The two-phase exercise - the world\u2019s most ambitious - will see three million officials count every Indian.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a48/live/b23e79c0-2cce-11f1-8a0e-7754bc50f231.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T02:11:31.495317",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The Papers: Trump tells UK 'go get your own oil' and 'King sent to US'",
+      "link": "https://www.bbc.com/news/articles/c1l9dmj7mplo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T00:48:30",
+      "description": "US President Donald Trump's latest comments about European allies as the war in Iran rages on dominate Wednesday's papers.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b642/live/22783690-2d60-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T02:11:31.495318",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How English-only condolences undid one of Canada's top CEOs",
+      "link": "https://www.bbc.com/news/articles/cyv1q9gz39do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-31T23:46:22",
+      "description": "The episode is the latest reminder of the complicated politics around language and identity in Canada.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81cc/live/91ba5560-2d1f-11f1-a36a-2bc3523bb833.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T02:11:31.495320",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Weight-loss jabs will be offered on NHS for people at risk of further heart  attacks",
       "link": "https://www.bbc.com/news/articles/cz90595pgzlo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-03-31T23:01:43",
@@ -563,6 +640,356 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Donald Trump and Melania attend the opening night of Chicago at the 'Trump' Kennedy Center",
+      "link": "https://www.dailymail.co.uk/news/article-15696353/Donald-Trump-Melania-Chicago-Trump-Kennedy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T02:00:55",
+      "description": "President Donald Trump and First Lady Melania Trump returned to the newly renamed Trump Kennedy Center on Tuesday to take in the opening night performance of Chicago .",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569707-0-image-a-4_1775006484594.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569707-0-image-a-4_1775006484594.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768531",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tony Burke is grilled over decision to grant visa to Islamic preacher who described Hitler as a 'divine punishment against Jews'",
+      "link": "https://www.dailymail.co.uk/news/article-15696245/tony-burke-albanese-Mizanur-Azhari-islam-radical.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:52:49",
+      "description": "The radical Islamic preacher is touring Australia over Easter as part of his 'Legacy of Faith' series, with stops in Brisbane, Melbourne, Sydney and Canberra.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568709-0-image-m-14_1775002901878.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568709-0-image-m-14_1775002901878.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768537",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bloodied wife seen in bodycam footage moments after top doctor husband\u00a0'tried to bludgeon her to death with a rock' on Hawaii cliff",
+      "link": "https://www.dailymail.co.uk/news/article-15696399/Arielle-Konig-blood-Gerhardt-trial.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:47:34",
+      "description": "Gruesome body camera footage showed  blood running down Arielle Konig's face after her husband, Gerhardt, allegedly tried to kill her on a scenic Hawaiian trail last year.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568325-0-image-a-32_1775004220579.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568325-0-image-a-32_1775004220579.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768539",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The fatal hospital blunder that cost young tradie, 22, his life - as his harrowing last words are revealed",
+      "link": "https://www.dailymail.co.uk/news/article-15696121/Hospital-blunder-Kyle-Gallagher-death-tradie.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:44:22",
+      "description": "A coronial inquest into the death of Kyle Gallagher, 22, found that critical warning signs were missed in the final 24 hours of his life.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107565339-0-image-m-9_1774997095639.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107565339-0-image-m-9_1774997095639.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768540",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How Dezi Freeman was left looking like 'Swiss cheese' after being shot '27 times' during stand-off with cops at his remote compound",
+      "link": "https://www.dailymail.co.uk/news/article-15696341/Dezi-Freeman-shot-Victoria.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:35:00",
+      "description": "The cop killer was shot at about 8.30am on Monday after he was reportedly found in a 'long caravan' seven months after he disappeared.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568461-0-image-m-39_1775002528802.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568461-0-image-m-39_1775002528802.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768543",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Death row inmate who raped and murdered girl, 5, in 2021 tells prison bosses to HURRY UP and get on with it, as he gets macabre 'VIP' status",
+      "link": "https://www.dailymail.co.uk/news/article-15694513/death-row-inmate-raped-murdered-girl-prison-vip-status-bosses-demands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:31:44",
+      "description": "GRAPHIC CONTENT WARNING: He admitted to smoking meth and forcing the girl to also consume the dangerous drug before sexually abusing her for more than an hour.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107567951-0-image-m-75_1775005067453.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107567951-0-image-m-75_1775005067453.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768544",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "RAF Fairford in Gloucestershire could be a legitimate target for Iran's missiles, country's ambassador to UK warns: 'Every option should be considered'",
+      "link": "https://www.dailymail.co.uk/news/article-15696561/Tehran-considering-strikes-British-bases-UK-Irans-ambassador-London-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:29:43",
+      "description": "Tehran's envoy to London , Seyed Ali Mousavi, warned that bases connected to the US war effort may fall within reach if tensions continue to spiral.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107569179-0-image-a-8_1775004661809.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107569179-0-image-a-8_1775004661809.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768546",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aussie travellers hit by crushing $800 fuel surcharge as major airline brings in eye-watering new fares - with worse to come after looming China deadline",
+      "link": "https://www.dailymail.co.uk/news/article-15692801/airfare-crisis-jet-fuel-china-exports.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:29:22",
+      "description": "Australians planning a holiday are facing a brutal hit to their hip pocket, with airfares set to surge even further and flights slashed as jet fuel supplies tighten and China curbs exports.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/00/107539577-0-image-m-32_1774914525829.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/00/107539577-0-image-m-32_1774914525829.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768547",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teenage girl is gunned down in Chicago suburb as gunman remains on the loose",
+      "link": "https://www.dailymail.co.uk/news/article-15696403/teen-girl-gunned-chicago-suburb-gunman-loose.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:19:29",
+      "description": "Lilly Bova, 16, was fatally shot inside her home in the suburbs of Chicago as family and friends mourn and no arrests have been made.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568617-0-image-m-30_1775002844882.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568617-0-image-m-30_1775002844882.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768548",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Kimberly Guilfoyle's $90,000 Athens spending spree exposed in leaked files after night out with hunky stars",
+      "link": "https://www.dailymail.co.uk/news/article-15694853/kimberly-guilfoyle-athens-spending-spree-leaked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:13:58",
+      "description": "Since officially touching down in the Mediterranean on a private jet, Guilfoyle has brought her signature extravagant lifestyle to Athens.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565221-0-image-a-8_1774992525757.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/22/107565221-0-image-a-8_1774992525757.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768550",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Clapham security guard tells of moment he was forced to lock customers inside store as mobs of feral youths ran wild - after Met Police warned of Easter holiday 'linkups'",
+      "link": "https://www.dailymail.co.uk/news/article-15696633/Clapham-security-guard-customers-youths-Met-Police-Easter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:12:25",
+      "description": "Mobs of feral youths ran wild in Clapham once again on Tuesday evening with terrified families barricaded inside high street stores in the latest wave of Easter holiday chaos.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562747-0-image-m-19_1774983936993.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562747-0-image-m-19_1774983936993.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768551",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pete Hegseth says 'no punishment' for Army pilots who flew near Kid Rock's $3M White House replica mansion in Tennessee",
+      "link": "https://www.dailymail.co.uk/news/article-15696077/army-suspension-helicopter-kid-rock.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:09:01",
+      "description": "The crew members, who have not been identified, flew by the residence, designed to look like a replica White House,\u00a0during a training run while he clapped and saluted.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107567893-0-image-m-10_1775003269688.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107567893-0-image-m-10_1775003269688.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768552",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump's taunt exposes a PM without a plan: 'Go get your own oil' line sparks questions over how Government will deal with global fuel crisis",
+      "link": "https://www.dailymail.co.uk/news/article-15696389/Trumps-taunt-exposes-PM-without-plan-oil-line-sparks-questions-Government-deal-global-fuel-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:05:47",
+      "description": "MPs accused Keir Starmer of being a 'rabbit caught in the headlights' with no clear blueprint for the future.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/02/107567943-0-Donald_Trump_told_Britain_to_go_get_your_own_oil_on_Tuesday_spar-m-16_1775005346844.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/02/107567943-0-Donald_Trump_told_Britain_to_go_get_your_own_oil_on_Tuesday_spar-m-16_1775005346844.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768553",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "As Artemis 2 prepares to blast off to the moon tonight, this is what it means for Nasa's hopes of beating the cavalier Chinese to the lunar surface... and then Mars beyond, writes former Astronomer Royal MARTIN REES",
+      "link": "https://www.dailymail.co.uk/news/article-15696437/Artemis-2-blast-heavens-Americas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T00:59:58",
+      "description": "The 1969 landing took place just 12 years after the Soviet satellite Sputnik I became the first craft launched into low earth orbit.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/00/107567957-0-image-a-48_1775000200052.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/00/107567957-0-image-a-48_1775000200052.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768554",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "President Trump announces an 'Address to the Nation' on Iran",
+      "link": "https://www.dailymail.co.uk/news/article-15696591/donald-trump-iran-address-nation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T00:55:11",
+      "description": "President Donald Trump will give an 'Address to the Nation' on Iran on Wednesday night.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568583-0-image-m-3_1775002211334.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568583-0-image-m-3_1775002211334.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768556",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ballistics expert reveals real reason bullet used to kill Charlie Kirk did not conclusively match rifle allegedly used by suspect Tyler Robinson",
+      "link": "https://www.dailymail.co.uk/news/article-15696057/tyler-robinson-bullet-rifle-match-charlie-kirk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T00:53:28",
+      "description": "Defense lawyers acting for Charlie Kirk's accused assassin Tyler Robinson have claimed that the fatal bullet cannot be conclusively linked to the alleged killer's rifle.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107564325-0-image-m-13_1775004090173.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107564325-0-image-m-13_1775004090173.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768557",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Labour could lose 'well over' 1,000 councillors - and nearer 2,000 if pattern of by-elections continues, say top pollsters",
+      "link": "https://www.dailymail.co.uk/news/article-15695557/Labour-lose-1-000-councillors-nearer-2-000-pattern-elections-continues-say-pollsters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T00:34:05",
+      "description": "Sir Keir Starmer's party may shed more than three in five of its councillors who are up for election, Colin Rallings and Michael Thrasher said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/17/106480423-0-During_a_visit_to_South_Wales_the_Prime_Minister_said_Well_I_thi-a-5_1774975672388.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/17/106480423-0-During_a_visit_to_South_Wales_the_Prime_Minister_said_Well_I_thi-a-5_1774975672388.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768559",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I have a question for Kristi Noem about her marriage to 'busty bimbo' Bryon. This is almost too perverted for words... forgive me: KENNEDY",
+      "link": "https://www.dailymail.co.uk/news/article-15696023/kristi-noem-husband-bryon-crossdressing-breasts-fetish-KENNEDY.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T00:30:07",
+      "description": "It's almost impossible to appall me but these pics made me spit my green tea. Though as I mopped the honey Ginseng off my computer monitor, I got a sinking feeling.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107564141-0-image-a-2_1775002914926.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107564141-0-image-a-2_1775002914926.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768560",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sacked BBC star Scott Mills admitted pinning an ex-boyfriend to the wall by his throat after he betrayed him and found him in bed with his friend",
+      "link": "https://www.dailymail.co.uk/news/article-15694253/Sacked-BBC-Scott-Mills-throat-ex-boyfriend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T00:08:34",
+      "description": "Mills, 53, was fired by the BBC on the weekend after 27 years with the company reportedly over 'serious sexual offences' against a boy under the age of 16 between 1997 and 2000.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107550509-0-image-m-4_1775002076524.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107550509-0-image-m-4_1775002076524.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768561",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Families brace for soaring bills amid Iran war as Princes becomes latest firm to warn of 'unprecedented pressures' and hikes ALL prices by 5%",
+      "link": "https://www.dailymail.co.uk/news/article-15695381/Families-brace-soaring-bills-amid-Iran-war-Princes-latest-firm-warn-unprecedented-pressures-hikes-prices-5.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T00:06:33",
+      "description": "The food firm, which produces tinned tuna, blamed the Iranian closure of the Strait of Hormuz for the price hikes.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562363-0-image-a-16_1774982532392.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562363-0-image-a-16_1774982532392.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768562",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "DAVID PATRIKARAKOS: They may be a gang of quasi-medieval thugs, but the Houthis are well armed and able to cause economic chaos",
+      "link": "https://www.dailymail.co.uk/news/article-15695855/DAVID-PATRIKARAKOS-gang-quasi-medieval-thugs-Houthis-armed-able-cause-economic-chaos.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T00:05:50",
+      "description": "The world is lurching toward a new era of mass warfare in which ever more advanced technology is deployed in the service of increasingly primitive ideologies.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107562533-0-image-a-4_1774989259645.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107562533-0-image-a-4_1774989259645.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768564",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Barefoot Investor Scott Pape reveals the bizarre encounter he had with an influencer outside viral croissant shop",
+      "link": "https://www.dailymail.co.uk/news/article-15693473/Barefoot-Investor-Scott-Pape-influencer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T23:47:15",
+      "description": "The Barefoot Investor was outside Lune Croissanterie in the\u00a0heart of Melbourne when a woman asked him for a strange favour.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/00/107566899-0-image-m-10_1775000287931.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/00/107566899-0-image-m-10_1775000287931.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768565",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Taking shape, the new face of Mount Rushmore",
+      "link": "https://www.dailymail.co.uk/news/article-15696415/Taking-shape-new-face-Mount-Rushmore.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T23:46:47",
+      "description": "Secured by ropes, a team of intrepid sculptors chisel away at a very famous quiff as the shock first addition to Mount Rushmore in 85 years is revealed by the Daily Mail.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/00/107567935-0-image-m-4_1775000431033.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/00/107567935-0-image-m-4_1775000431033.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768566",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Gavin Newsom's snooty wife Jennifer torched over resurfaced clip saying she brought children to Alabama to teach them about racism",
+      "link": "https://www.dailymail.co.uk/news/article-15696065/Gavin-Newsom-wife-red-state-comments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T23:45:44",
+      "description": "The 'First Partner' of California - whose husband has made no secret of his presidential ambitions - told Jen Psaki about the tour of the south she took her kids on in 2023.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107565711-0-image-m-9_1774995329318.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107565711-0-image-m-9_1774995329318.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768567",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mail titles 'established complete defences' against hacking claims",
+      "link": "https://www.dailymail.co.uk/news/article-15696419/Mail-titles-established-complete-defences-against-hacking-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-03-31T23:34:20",
+      "description": "Journalists from the Daily Mail and The Mail on Sunday faced 'frankly desperate allegations' during evidence to the trial brought by Harry and other public figures, the newspapers' barrister said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/00/107538301-0-image-m-3_1774999931369.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/00/107538301-0-image-m-3_1774999931369.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:31.768569",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "NYC's socialist mayor unveils plan to open free childcare center in Manhattan's ritziest enclave",
       "link": "https://www.dailymail.co.uk/news/article-15695843/Zohran-Mamdani-free-childcare-Upper-East-Side.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -3169,6 +3596,62 @@
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "The Socceroos will be the talk of the nation when the World Cup starts. But once it's over, Aussies will stop caring about the sport. Here's why...",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15693309/World-Cup-Socceroos-Matildas-soccer-Australia-2026-Aleague.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:56:59",
+      "description": "Fans in Australia adore the Matildas and Socceroos - but they've been given good reason to drop off the sport when there isn't a World Cup on.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/05/107543393-0-image-a-41_1774932731241.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/05/107543393-0-image-a-41_1774932731241.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:32.042287",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "USA's World Cup hopes dealt another blow as Portugal teach Christian Pulisic and Co a brutal lesson",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15696471/usa-portugal-world-cup-atlanta-pulisic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:49:51",
+      "description": "For the second time in four days, the USMNT went toe-to-toe with one of soccer's most accomplished teams. Again, they ended the night with nothing to show for it.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569985-0-image-a-26_1775007311877.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569985-0-image-a-26_1775007311877.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:32.042292",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Living between the lines', flair and ball-playing goalkeepers: How Roberto De Zerbi's style fits Tottenham, the big winners from his arrival... and where he'll have to adapt",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15695461/Roberto-Zerbi-Tottenham-style-winners-adapt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:00:52",
+      "description": "Those who played under Ange Postecoglou might detect similar tactics. De Zerbi likes technical players in all areas and to play out. This involves the goalkeeper, which is particularly interesting.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/17/107560111-0-image-a-56_1774975094184.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/17/107560111-0-image-a-56_1774975094184.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:32.042294",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The nine most promising managers on Premier League clubs' radars this summer - from the giantkiller to the philosopher and the 'anti-Rafa Benitez' to the former Chelsea star winding up Serie A veterans... and which clubs they'd suit best",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15693899/Best-young-managers-Premier-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T01:00:49",
+      "description": "Here is Daily Mail Sport's shortlist of continental coaches that will be tickling the fancy of your club, from some household names around Europe to some who may be new to you\u2026",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/16/107557965-0-image-a-36_1774970761176.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/16/107557965-0-image-a-36_1774970761176.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:32.042295",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Thomas Tuchel piles more pressure on England forwards after they flop without Harry Kane - and admits he will be scared to watch Premier League games before the World Cup",
       "link": "https://www.dailymail.co.uk/sport/football/article-15696361/Thomas-Tuchel-piles-pressure-England-forwards-flop-without-Harry-Kane-admits-scared-watch-Premier-League-games-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -6072,6 +6555,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "I\u2019m an annoying 33-year-old now\": Niall Horan gets candid",
+      "link": "https://www.music-news.com/news/UK/188057/I-m-an-annoying-33-year-old-now-Niall-Horan-gets-candid",
+      "pubDate": "2026-03-31T22:55:00",
+      "description": "Pop sensation Niall Horan is the latest star to pull up a chair on the UK\u2019s award-winning podcast, Dish from Waitrose. Joining hosts Nick Grimshaw",
+      "thumbnail": "https://www.music-news.com/images/news/Niall-Horan8.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Niall-Horan8.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T02:11:36.547616",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Rita Wilson celebrates Women\u2019s History Month with \"Sound of a Woman\" listening session",
       "link": "https://www.music-news.com/news/UK/188095/Rita-Wilson-celebrates-Women-s-History-Month-with-Sound-of-a-Woman-listening-session",
