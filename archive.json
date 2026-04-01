@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "World's oldest known tortoise, Jonathan, dies aged 193",
+      "link": "https://www.bbc.com/news/articles/c393xmpzjwko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T22:20:11",
+      "description": "The vet who cared for the giant tortoise said he had left behind a \"legacy of resilience and longevity\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36d/live/5b0027c0-2e0f-11f1-a61b-8f128a2b274b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T22:34:03.849100",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Suited up and ready to go: Watch the Artemis crew's journey to launch",
+      "link": "https://www.bbc.com/news/videos/cx2vqz4wx9ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T19:54:44",
+      "description": "From spacesuit fitting to final communications checks in the rocket, the crew prepared for liftoff to begin their 10-day mission.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f80/live/14a6f930-2e04-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T22:34:03.849109",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arsenal reach Champions League semis as Chelsea's Bompastor sent off",
+      "link": "https://www.bbc.com/sport/football/videos/c87w80dqznzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T22:21:33",
+      "description": "Arsenal lose 1-0 in the second leg of their Women's Champions League quarter-final against Chelsea but win 3-2 on aggregate to reach the semi-finals and move a step closer to successfully defending their title.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d95/live/16034850-2e19-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T22:34:03.849114",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Brook and Bethell cautioned over conduct on NZ tour",
       "link": "https://www.bbc.com/sport/cricket/articles/cx2dj4kkgyxo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-01T18:23:58",
@@ -1289,6 +1322,104 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "PM scraps plan to expand specialty doctor training after the BMA failed to call off its strikes",
+      "link": "https://www.dailymail.co.uk/news/article-15699587/PM-scraps-plan-expand-specialty-doctor-training.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T22:27:47",
+      "description": "Sir Keir Starmer warned on Monday that he would axe the places if the union did not postpone the walkout by resident doctors within 48 hours and put a pay offer to members.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/23/107594925-0-image-m-60_1775082392223.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/23/107594925-0-image-m-60_1775082392223.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T22:34:04.419128",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I was there the day JFK Jr and Carolyn Bessette died. I'll never forget what I saw when the Kennedy clan learned the horrific news",
+      "link": "https://www.dailymail.co.uk/news/article-15685575/jfk-jr-carolyn-bessette-death-plane-crash-love-story.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T22:27:35",
+      "description": "The morning of July 17, 1999 was not unlike most hazy summer days growing up on Cape Cod. That day, the wind was exceptionally strong.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/23/107473961-0-image-m-12_1775082362434.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/23/107473961-0-image-m-12_1775082362434.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T22:34:04.419134",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Humiliating secret prison letters Joseph Duggar sent family as wife's leaked jail call reveals whether she'll stand by him",
+      "link": "https://www.dailymail.co.uk/news/article-15685907/Joseph-Duggar-prison-letters-leaked-jail-call-wife.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T22:25:14",
+      "description": "Joseph Duggar sent humiliating letters to family members following his arrest for alleged child molestation, the Daily Mail can reveal.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107421243-0-image-m-20_1774990298274.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107421243-0-image-m-20_1774990298274.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T22:34:04.419135",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The Morning Poll: Should we be spending billions on getting back to the Moon?",
+      "link": "https://www.dailymail.co.uk/news/article-15698259/The-Morning-Poll-spending-billions-getting-Moon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T22:23:09",
+      "description": "The estimated total cost of Nasa's Artemis II mission to send four astronauts to the Moon for the first time in over 50 years is $44billion (\u00a332.5billion).",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/13/107581787-0-image-a-4_1775048323103.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/13/107581787-0-image-a-4_1775048323103.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T22:34:04.419137",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Inside the thrilling 'Top Gun' flights piloted by NASA Chief Jared Isaacman to celebrate exceptional employees and America's 250th birthday",
+      "link": "https://www.dailymail.co.uk/news/article-15671369/jared-isaacman-gun-f-5-flight-nasa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T22:03:57",
+      "description": "NASA Administrator Jared Isaacman wants the best of the best at his agency to experience the thrill of a lifetime.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/23/15/107353083-0-image-m-13_1774281027531.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/23/15/107353083-0-image-m-13_1774281027531.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T22:34:04.419138",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Charlie Kirk acolyte and young mother podcaster fires back at 'catty' hosts of The View in response to family smears",
+      "link": "https://www.dailymail.co.uk/news/article-15698159/isabel-brown-daily-wire-view-parenting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T22:01:32",
+      "description": "The women of ABC's 'The View' mocked Isabel Brown for her advice to young Americans at CPAC encouraging them to fall in love, get married and 'have more kids than they can afford.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/13/107561725-0-image-a-3_1775046179877.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/13/107561725-0-image-a-3_1775046179877.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T22:34:04.419140",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "HOW TONE DEAF CAN YOU GET? New fees for exams and blister packs, the costs of fuel and living soaring, plus a never-ending housing CRISIS, and the Finance Minister announces a new saving scheme for all that SPARE cash you have lying around: FIONA LOONEY",
+      "link": "https://www.dailymail.co.uk/news/article-15695011/HOW-TONE-DEAF-YOU-New-fees-exams-blister-packs-costs-fuel-living-soaring-plus-never-ending-housing-CRISIS-Finance-Minister-announces-new-saving-scheme-SPARE-cash-you-lying-FIONA-LOONEY.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T21:48:33",
+      "description": "A Tale of Two Irelands:\u00a0The Education Minister's reintroduction of examination fees for Junior and Leaving Cert students is a most unwelcome bolt from the blue.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107561815-0-image-a-24_1774980441422.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107561815-0-image-a-24_1774980441422.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T22:34:04.419142",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Reform to commit to triple lock at next election after previous flip-flopping",
       "link": "https://www.dailymail.co.uk/news/article-15698981/Reform-commit-triple-lock-election-previous-flip-flopping.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
