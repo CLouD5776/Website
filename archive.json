@@ -1,6 +1,72 @@
 {
   "BBC News": [
     {
+      "title": "Rescuers abandon hope for whale stranded off German island",
+      "link": "https://www.bbc.com/news/articles/cede246wd59o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T18:26:35",
+      "description": "The whale became stranded on a sandbank before it was rescued, only to swim into shallow waters further along the coast.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1183/live/6aba4a20-2dff-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T19:36:54.255609",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US Supreme Court appears sceptical of US birthright citizenship challenge",
+      "link": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T19:23:09",
+      "description": "Trump attended the oral arguments in person on Wednesday, a rare move by a sitting president that underscored the high stakes of the case.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc1/live/42335700-2dfe-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T19:36:54.255618",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Israel's perpetual war with Iran may be hard to win with military might alone",
+      "link": "https://www.bbc.com/news/articles/cql72k19rz4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T19:23:52",
+      "description": "The war with Iran has not yet resolved any of Israel's regional conflicts in the way its prime minister suggested it would.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b50/live/dd5d4230-2df5-11f1-84b6-e98f87f2e88b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T19:36:54.255622",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Rachel Reeves says she's angry at Trump's decision to launch war with Iran",
+      "link": "https://www.bbc.com/news/articles/c625v1l4l29o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T19:11:50",
+      "description": "The chancellor says the US president does not have a \"clear plan\" to exit the conflict.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2999/live/9ab852f0-2df3-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T19:36:54.255624",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Navy investigated links between nuclear sub commander and MP",
+      "link": "https://www.bbc.com/news/articles/cwyx62n1dz1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T16:44:37",
+      "description": "No disciplinary action was taken over the allegations of an inappropriate relationship with Scottish MP Joani Reid.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d2/live/ce644230-2ddf-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T19:36:54.255625",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Foden not guaranteed World Cup squad spot - Tuchel",
+      "link": "https://www.bbc.com/sport/football/articles/cp86d7j2g7vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T19:06:06",
+      "description": "Manchester City midfielder Phil Foden's is not guaranteed a place in England's squad for the 2026 World Cup, says manager Thomas Tuchel.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826d/live/0eb85a40-2dfb-11f1-bcc3-17208151de09.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-01T19:36:54.255627",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Scott Mills confirms he was investigated by police in first statement since sacking",
       "link": "https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-01T17:48:56",
@@ -1212,6 +1278,90 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Moment NYC gunman shoots BABY dead on Brooklyn street in broad daylight before fleeing on back of scooter",
+      "link": "https://www.dailymail.co.uk/news/article-15699199/NYC-gunman-shoots-BABY-dead-Brooklyn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T19:32:34",
+      "description": "The unknown child was hit while being pushed in a stroller near Humboldt and Moore Street in Brooklyn on Wednesday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591575-0-image-m-24_1775071939248.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591575-0-image-m-24_1775071939248.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T19:36:54.649569",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How cops REALLY tracked down Dezi Freeman - and why NO-ONE is getting the huge $1million reward",
+      "link": "https://www.dailymail.co.uk/news/article-15696963/Dezi-Freeman-reward-Victoria-Police.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T19:21:42",
+      "description": "The town of Walwa, where Freeman had his fiery showdown with police, was the focus of a national crisis back in January.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/13/107513373-0-During_the_standoff_on_Monday_Freeman_is_understood_to_have_poin-a-38_1775046688640.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/13/107513373-0-During_the_standoff_on_Monday_Freeman_is_understood_to_have_poin-a-38_1775046688640.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T19:36:54.649575",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Kristi Noem's husband Bryon keeps his head down as he's seen for the first time at family ranch since 'bimbofication' scandal bombshell",
+      "link": "https://www.dailymail.co.uk/news/article-15699023/kristi-noem-bryon-noem-bimbofication-scandal-south-dakota.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T19:20:44",
+      "description": "Bryon Noem, 56, was spotted emerging from his ranch home in Castlewood, South Dakota on Wednesday morning, exclusive Daily Mail photos show.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/19/107590569-0-image-a-78_1775068707002.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/19/107590569-0-image-a-78_1775068707002.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T19:36:54.649576",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "FBI swoops as Massachusetts dad's chilling Trump death vow sparks terror probe",
+      "link": "https://www.dailymail.co.uk/news/article-15699223/fbi-arrests-andrew-emerald-trump-threat-massachusetts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T19:15:46",
+      "description": "Andrew Emerald, 45, was arrested at his home in Great Barrington on Wednesday morning by FBI agents from the Joint Terrorism Task Force.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591023-0-image-m-12_1775070445044.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591023-0-image-m-12_1775070445044.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T19:36:54.649578",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Daily Mail's explosive Bryon Noem cross-dressing expos\u00e9 grips America... and everyone's asking the same thing about Kristi",
+      "link": "https://www.dailymail.co.uk/news/article-15699003/daily-mail-bryon-noem-cross-dressing-expose-reaction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T19:03:54",
+      "description": "Political pundits on both sides of the aisle are praising the Daily Mail's expose revealing Bryon Noem as a secret crossdresser.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/19/107590083-0-image-m-9_1775068679336.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/19/107590083-0-image-m-9_1775068679336.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T19:36:54.649579",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man is arrested after woman in her 80s is stabbed to death outside her home in London",
+      "link": "https://www.dailymail.co.uk/news/article-15699143/Man-arrested-woman-stabbed-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-01T18:50:11",
+      "description": "Police and paramedics raced to the scene in Red Lion Place, Plumstead, at 8.50am on Wednesday following reports of a man in possession of a knife.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/19/107590169-0-image-a-17_1775068152773.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/19/107590169-0-image-a-17_1775068152773.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-01T19:36:54.649581",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "School librarians told to remove art books with 'historic paintings of nudes' in latest censorship row",
       "link": "https://www.dailymail.co.uk/news/article-15698973/School-librarians-remove-art-books-censorship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
