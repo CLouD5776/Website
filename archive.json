@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Storm Dave set to batter UK with gales and blizzards over Easter weekend",
+      "link": "https://www.bbc.com/weather/articles/ce3d7n10ypyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T10:57:39",
+      "description": "Damage and travel disruption are likely in the north of the UK with a Met Office named storm expected to sweep through on Saturday.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ffa/live/ed36bae0-2e7e-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T11:47:04.273374",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How memories of my grandma are tainted by funeral boss's crimes",
+      "link": "https://www.bbc.com/news/articles/c4gdp4n6nqvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T10:54:03",
+      "description": "Families of the dead tell of the agony caused by \"horror show\" funeral director Robert Bush.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdd7/live/d0bab220-744f-11f0-a404-41a4022a1e95.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T11:47:04.273384",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "BBC announces editor of Radio 4's Today programme",
+      "link": "https://www.bbc.com/news/articles/crr1qwn2178o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T10:58:32",
+      "description": "Rebecca Keating has worked at the BBC for 20 years and calls her new role an \"immense privilege\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e26/live/d68ec3f0-2e83-11f1-9119-fd03bc447b24.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T11:47:04.273387",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Funeral director admits preventing 30 burials and theft",
       "link": "https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-02T10:53:15",
@@ -1817,6 +1850,160 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Pump prices rise at record rate as Iran war bites just when families drive off for Easter - with cost of diesel at one station nearing \u00a33 per litre",
+      "link": "https://www.dailymail.co.uk/news/article-15700757/Pump-prices-rise-record-rate-Iran-war-Easter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:31:08",
+      "description": "Millions of drivers are embarking on Easter getaway trips in the UK today despite the soaring cost of fuel - while others face rail shutdowns and packed airports.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607637-0-image-a-11_1775127130524.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607637-0-image-a-11_1775127130524.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:04.860279",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Blind-folded Catholic devotees whip their bloodied backs in the Philippines as world marks Maundy Thursday",
+      "link": "https://www.dailymail.co.uk/news/article-15700871/Blind-folded-Catholic-devotees-whip-bloodied-backs-Philippines-world-marks-Maundy-Thursday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:00:04",
+      "description": "It comes as millions of Christians worldwide are marking the day commemorating the Last Supper of Jesus Christ.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607137-0-image-a-24_1775127043748.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607137-0-image-a-24_1775127043748.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:04.860284",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Family of schoolgirl, 16, who was stabbed to death in 'row over a boy' see three teenagers accused of murdering her for first time in court",
+      "link": "https://www.dailymail.co.uk/news/article-15701129/family-schoolgirl-stabbed-death-row-boy-teenagers-accused-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:42:10",
+      "description": "Grieving relatives of Chloe Watson filed into Leeds Crown Court today as three teenagers accused of stabbing her to death appeared over prison video-links.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/12/107552169-0-image-m-37_1775129090837.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/12/107552169-0-image-m-37_1775129090837.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:04.860291",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "NHS to overhaul staffing so it becomes less dependent on 'unreliable' striking doctors, chief executive says",
+      "link": "https://www.dailymail.co.uk/news/article-15700909/NHS-overhaul-staffing-dependent-unreliable-striking-doctors-chief-executive-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:35:44",
+      "description": "Sir Jim Mackey, head of NHS England, said the permanent shift will make greater use of other clinicians following a series of disruptive strikes by the medics.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/12/107561597-0-image-a-4_1775129553005.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/12/107561597-0-image-a-4_1775129553005.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:04.860293",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Nigel Farage commits to keeping 'triple lock' for state pensions if he becomes PM - but Reform UK eyes taking the axe 'gold-plated' civil service schemes",
+      "link": "https://www.dailymail.co.uk/news/article-15701055/Nigel-Farage-commits-keeping-triple-lock-state-pensions-PM-Reform-UK-eyes-taking-axe-gold-plated-civil-service-schemes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:33:14",
+      "description": "After months of internal wrangling within Reform over the issue, Mr Farage said the triple lock 'is going to stay' if his party wins the next general election.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608155-0-image-m-7_1775127534223.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608155-0-image-m-7_1775127534223.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:04.860294",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Asylum seeker who fled Iran tells immigration judges that life in Gateshead has left him with depression",
+      "link": "https://www.dailymail.co.uk/news/article-15700959/Asylum-seeker-fled-Iran-tells-immigration-judges-life-Gateshead-left-depression.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:30:44",
+      "description": "The 20-year-old first came to the UK by small boat and claimed was an opponent of the regime in Tehran who faced violent retribution at home.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607333-0-image-a-4_1775125377534.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607333-0-image-a-4_1775125377534.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:04.860296",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hamas should NOT be treated as terrorists, says Green Party's 'Zionism is racism' policy mastermind as she claims violent group was banned in UK to 'delegitimise armed resistance' to Israel",
+      "link": "https://www.dailymail.co.uk/news/article-15691301/Hamas-NOT-treated-terrorists-Green-Zionism-racism-mastermind.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:18:48",
+      "description": "Artist Lubna Speitan called on activists to oppose the UK proscription of the organisation behind the\u00a0October 7 2023 massacre which left almost 1,200 people, including children, dead.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107557951-0-image-m-8_1775126933792.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107557951-0-image-m-8_1775126933792.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:04.860297",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Detectives investigating unsolved 2012 house fire death of mother and her five children appeal to anonymous author of letter to 'be brave and come forward'.",
+      "link": "https://www.dailymail.co.uk/news/article-15701011/Detectives-investigating-2012-house-fire-death-mother-five-children-appeal-anonymous-author-letter-brave-come-forward.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:14:12",
+      "description": "The individual contacted the force to reveal they are burdened with the 'nightmare' of having information about the fate of the family but not being able to share it.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606187-0-image-a-4_1775126336499.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606187-0-image-a-4_1775126336499.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:04.860298",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "POLL OF THE DAY:\u00a0Is Sadiq Khan right to say London is a safe city?",
+      "link": "https://www.dailymail.co.uk/news/article-15700409/Poll-Sadiq-Khan-London-safe-city-Clapham-rioting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:13:45",
+      "description": "London Mayor Sir Sadiq Khan urged British diplomats stationed around the world to help counter 'disinformation and lies' about the capital amplified by Donald Trump.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608025-0-image-a-30_1775127351676.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608025-0-image-a-30_1775127351676.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:04.860299",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teaching union brands social media bosses 'sleazy degenerates' who profiteer from 'humiliation'",
+      "link": "https://www.dailymail.co.uk/news/article-15700869/Union-social-media-bosses-sleazy-degenerates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:00:46",
+      "description": "Daniel Kebede, General Secretary of the National Education Union (NEU), accused tech companies of exposing children to 'online worlds that reward cruelty, speed and spectacle'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107268893-0-The_National_Education_Union_NEU_blamed_party_leader_Nigel_Farag-a-7_1775125659778.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107268893-0-The_National_Education_Union_NEU_blamed_party_leader_Nigel_Farag-a-7_1775125659778.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:04.860301",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Now even the SNP backs more North Sea oil and gas as isolated Miliband insists Net Zero is 'central mission' of Labour government - despite Reeves saying she is 'happy' to see drilling",
+      "link": "https://www.dailymail.co.uk/news/article-15701027/SNP-North-Sea-oil-gas-Miliband-Net-Zero-Labour-Reeves-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T10:59:09",
+      "description": "Ed Miliband insisted yesterday that breaking the UK's reliance on fossil fuels is the 'central mission' of the Labour government.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608023-0-image-a-16_1775127235684.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608023-0-image-a-16_1775127235684.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:04.860302",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Huw Edwards hints he's preparing to\u00a0speak out after criticising 'one-sided' Martin Clunes dramatisation of his downfall",
       "link": "https://www.dailymail.co.uk/news/article-15700737/huw-edwards-publicist-stands-down.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -8400,6 +8587,20 @@
   ],
   "Daily Mail Football": [
     {
+      "title": "The evolution of Chido Obi at Manchester United: How the young striker is coping with a lack of minutes in the first-team, why some staff have a dim view of him, and why he deserves 'credit' for his progression",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15700011/Evolution-Chido-Obi-Manchester-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:00:52",
+      "description": "NATHAN SALT: On his first start for United's Under 18s he scored a hat-trick versus Nottingham Forest, and a couple of months later he made his senior debut, coming on away at Tottenham .",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/10/107604877-0-image-a-36_1775123601969.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/10/107604877-0-image-a-36_1775123601969.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:05.115946",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Everton confident of securing permanent Jack Grealish deal - but will hold talks with Man City to reduce \u00a350m asking price",
       "link": "https://www.dailymail.co.uk/sport/football/article-15700841/Everton-confident-securing-Grealish-deal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "pubDate": "2026-04-02T10:03:59",
@@ -11914,6 +12115,62 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "RAYE says new album left her \u2018exhausted\u2019 but finally free",
+      "link": "https://www.music-news.com/news/UK/188128/RAYE-says-new-album-left-her-exhausted-but-finally-free",
+      "pubDate": "2026-04-02T10:30:00",
+      "description": "RAYE has revealed the intense emotional and creative battle behind her new album, describing it as a rebellious, healing project born from years of industry struggle.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188128.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188128.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:09.724967",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Luke Pritchard admits he \u2018wasn\u2019t stable\u2019 during early Kooks fame",
+      "link": "https://www.music-news.com/news/UK/188124/Luke-Pritchard-admits-he-wasn-t-stable-during-early-Kooks-fame",
+      "pubDate": "2026-04-02T10:30:00",
+      "description": "Luke Pritchard has opened up about the chaos of The Kooks\u2019 early years and the emotional weight behind their new video featuring rare footage of his late father.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188124.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188124.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:09.724972",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hilary Duff claims Aaron Carter 'visited her' amid psychic reading",
+      "link": "https://www.music-news.com/news/UK/188123/Hilary-Duff-claims-Aaron-Carter-visited-her-amid-psychic-reading",
+      "pubDate": "2026-04-02T10:00:00",
+      "description": "Hilary Duff and Aaron Carter were in an on-again, off-again relationship for around three years in the early 2000s.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188123.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188123.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:09.724974",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Courtney Love urges Dave Grohl to tell his fans their feud is over",
+      "link": "https://www.music-news.com/news/UK/188122/Courtney-Love-urges-Dave-Grohl-to-tell-his-fans-their-feud-is-over",
+      "pubDate": "2026-04-02T10:00:00",
+      "description": "Courtney Love and Dave Grohl were locked in a legal dispute over the rights to Nirvana's music for years.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188122.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188122.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T11:47:09.724975",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Radiohead\u2019s Ed O\u2019Brien to unveil hypnotic new solo project at the Barbican",
       "link": "https://www.music-news.com/news/UK/188121/Radiohead-s-Ed-O-Brien-to-unveil-hypnotic-new-solo-project-at-the-Barbican",
