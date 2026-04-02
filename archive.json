@@ -1,6 +1,94 @@
 {
   "BBC News": [
     {
+      "title": "Watch the moment Artemis II blasts off on historic mission",
+      "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T23:00:39",
+      "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e79/live/e54a99e0-2e57-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T06:10:35.769683",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Elon Musk's SpaceX moves to become a publicly traded company",
+      "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T22:35:23",
+      "description": "The company\u2019s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e61/live/48c01ef0-2a1b-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T06:10:35.769693",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Utah teen identified as victim of serial killer Ted Bundy",
+      "link": "https://www.bbc.com/news/articles/c0lendp6390o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T22:35:54",
+      "description": "New DNA testing has solved the 51-year-old case of murdered teenager Laura Ann Aime, according to investigators.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c4e/live/d18608e0-2e11-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T06:10:35.769695",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+      "link": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T04:00:48",
+      "description": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8970/live/91993720-2e43-11f1-b835-3f8c3a2eefdd.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T06:10:35.769697",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "A year on: Four ways Trump's tariffs have changed the global economy",
+      "link": "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T04:43:23",
+      "description": "US tariffs stand at the highest rate in decades. But what has the impact been?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c74/live/5096bbb0-2d2d-11f1-a36a-2bc3523bb833.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T06:10:35.769698",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Peppa Pig and Transformers owner Hasbro hit by cyber-attack",
+      "link": "https://www.bbc.com/news/articles/cx24e1nryn9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T16:05:37",
+      "description": "The firm says its operations remain open but says the hack \"may result in some delays\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c096/live/bd51cb80-2dde-11f1-ae65-97b179e2f0f5.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T06:10:35.769701",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The remarkable rise of the only English coach in Tuchel's team",
+      "link": "https://www.bbc.com/sport/football/articles/ckge7014m5yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T05:11:39",
+      "description": "Ten years after playing for Accrington, Anthony Barry is hoping to help Thomas Tuchel win the World Cup for England.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723d/live/c8e85380-2ddc-11f1-9c84-b558be249093.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T06:10:35.769703",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Is success crucial? BBC Sport experts pick their player of the season",
+      "link": "https://www.bbc.com/sport/football/articles/cr5139qvl55o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T05:34:54",
+      "description": "With award season just around the corner, BBC Sport experts pick their contenders for Premier League player of the year. Do you agree?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b6d/live/a23d5e10-2db4-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T06:10:35.769704",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'We go for all humanity' - emotional moment as Artemis II blasts off",
       "link": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-02T03:09:08",
@@ -1509,6 +1597,160 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Saudi Arabia and UAE attacked by Iranian drones despite Trump's threat to Tehran 'extremely hard' - live updates",
+      "link": "https://www.dailymail.co.uk/news/article-15700371/us-israel-iran-war-trump-uae-saudi-arabia-gulf-live-updates-oil-hormuz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T06:05:35",
+      "description": "LIVE UPDATES: Follow the Daily Mail's live coverage of the US-Israel war with Iran as Donald Trump vows to hit Tehran 'extremely hard' in his primetime address to the nation.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/06/107602505-0-image-a-7_1775108215511.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/06/107602505-0-image-a-7_1775108215511.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:36.370907",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump pledges to send Iran back to the 'Stone Ages' in days as he promises Americans conflict will be over 'very shortly'",
+      "link": "https://www.dailymail.co.uk/news/article-15700281/Donald-Trump-Iran-Stone-Ages-Oil-Prices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T06:01:30",
+      "description": "The president's 20-minute address from the Cross Hall at the White House drew mixed reviews and saw oil prices spike as Trump outlined what the next few weeks of battle would entail.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/05/107598747-0-image-a-11_1775104099453.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/05/107598747-0-image-a-11_1775104099453.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:36.370913",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sydney Royal Easter Show thrown into chaos as ride app CRASHES on opening day",
+      "link": "https://www.dailymail.co.uk/news/article-15700137/sydney-royal-easter-ride-app-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T05:49:45",
+      "description": "The opening day of the Sydney Royal Easter Show was thrown into chaos after a popular app crashed, leaving thousands unable to go on rides.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/06/107602553-0-image-a-74_1775108747422.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/06/107602553-0-image-a-74_1775108747422.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:36.370914",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "There is every chance things are about to get WORSE for Australia amid fuel crisis: PETER VAN ONSELEN",
+      "link": "https://www.dailymail.co.uk/news/article-15700227/There-chance-things-WORSE-Australia-amid-fuel-crisis-PETER-VAN-ONSELEN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T05:34:09",
+      "description": "The Easter break is supposed to offer a moment of pause.\u00a0A chance to switch off, spend time with family, and ignore politics for a few days.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/06/107602365-0-image-m-9_1775107487708.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/06/107602365-0-image-m-9_1775107487708.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:36.370916",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "What is a cooker?\u00a0As sovereign citizen and fugitive Dezi Freeman was gunned down on a farm with the slogan 'cookers welcome' - here's what to know about the bizarre subculture",
+      "link": "https://www.dailymail.co.uk/news/article-15699795/Dezi-Freeman-cooker-Australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T05:28:53",
+      "description": "Dezi Freeman was found by cops at a farm that claimed 'cookers' were welcome. But what does that actually mean?",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601975-0-image-a-46_1775105010463.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601975-0-image-a-46_1775105010463.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:36.370917",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Parents recall moment baby girl was shot dead in broad baby gunman who fled on back of scooter: 'My daughter was innocent'",
+      "link": "https://www.dailymail.co.uk/news/article-15700215/parents-baby-shot-dead-nyc-gunman-brooklyn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T05:25:17",
+      "description": "The parents of seven-month-old Kaori shared the heartbreaking moment the baby girl was shot in broad daylight in New York City.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601545-0-image-m-127_1775103778364.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601545-0-image-m-127_1775103778364.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:36.370918",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Son, 29, killed both parents at Arizona home then dialed 911 to tell cops what he'd done, investigators say",
+      "link": "https://www.dailymail.co.uk/news/article-15697957/son-killed-parents-arizona-confess-cops.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T05:25:13",
+      "description": "He also told the 911 dispatcher that he would be 'stepping outside with a water bottle in his hand and would wait for officers,' according to investigators.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/05/107598299-0-image-m-55_1775105592646.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/05/107598299-0-image-m-55_1775105592646.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:36.370920",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Lawyers for female teacher accused of grooming boy then having sex with him when he hit age of consent claim VICTIM is partly to blame",
+      "link": "https://www.dailymail.co.uk/news/article-15699465/ashley-fisler-new-jersey-teacher-grooming.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T05:18:31",
+      "description": "Rocco Cipparone, Ashley Fisler's attorney, defended his client in court on Wednesday during a virtual hearing that lasted roughly an hour.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/06/107457547-0-image-m-12_1775106693623.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/06/107457547-0-image-m-12_1775106693623.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:36.370921",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The disturbing reason why this spectacular $400million ultraluxe unit block on Sydney's harbourside is keeping VERY quiet about one of its BIGGEST selling points",
+      "link": "https://www.dailymail.co.uk/news/article-15692965/royal-scandal-sydney-million-dollar-homes-epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T05:06:16",
+      "description": "The royal connections of a $400million harbourside trophy home development on Sydney's waterfront should have been the exclusive unit block's biggest selling point.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601811-0-image-a-1_1775104874354.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601811-0-image-a-1_1775104874354.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:36.370922",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Have Iran's drone strikes kneecapped Operation Epic Fury? Daily Mail show uses satellite imagery to assess the scale of damage caused by aerial warfare campaign against US bases",
+      "link": "https://www.dailymail.co.uk/news/article-15697663/Iran-drone-strikes-Operation-Epic-Fury-satellite-imagery-damage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T05:01:34",
+      "description": "Iranian drone strikes appear to have destroyed important US military assets and caused massive damage to vital energy infrastucture, the Daily Mail's Photo Evidence has revealed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107442271-0-image-a-57_1775057236168.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107442271-0-image-a-57_1775057236168.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:36.370924",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Easter long weekend trading hours: When Woolworths, Coles, Kmart, Bunnings and bottle shops will be open",
+      "link": "https://www.dailymail.co.uk/news/article-15699669/Easter-long-weekend-trading-hours-coles-woolworths-kmart.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T04:32:48",
+      "description": "Most major retailers will close their doors on Good Friday. Read our guide to find out what's open near you.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601707-0-image-a-57_1775104291383.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601707-0-image-a-57_1775104291383.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:36.370925",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Simon Baker's colourful love: From an anti-vaxxer to a woman younger than his daughter to a Real Housewives star - as his ex-wife is left 'shocked' by rumours he is 'enjoying a romance' with her good friend Nicole Kidman",
       "link": "https://www.dailymail.co.uk/tvshowbiz/article-15697249/Simon-Baker-love-anti-vaxxer-Real-Housewives-Nicole-Kidman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -11032,6 +11274,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "MGK celebrates daughter Saga's first birthday",
+      "link": "https://www.music-news.com/news/UK/188116/MGK-celebrates-daughter-Saga-s-first-birthday",
+      "pubDate": "2026-04-02T05:00:00",
+      "description": "MGK and ex-fianc&eacute;e, Megan Fox, welcomed daughter Saga Blade on 27 March 2025.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188116.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188116.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:41.341252",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Johnny Depp's band sued over cancelled concert",
+      "link": "https://www.music-news.com/news/UK/188115/Johnny-Depp-s-band-sued-over-cancelled-concert",
+      "pubDate": "2026-04-02T05:00:00",
+      "description": "Johnny Depp's band, The Hollywood Vampires, are being sued over a cancelled Slovakia gig.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188115.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188115.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T06:10:41.341257",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Man arrested for trespassing at Nicki Minaj's home",
       "link": "https://www.music-news.com/news/UK/188114/Man-arrested-for-trespassing-at-Nicki-Minaj-s-home",
