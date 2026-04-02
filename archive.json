@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Bielle-Biarrey named men's Six Nations best player",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cqj8qy08wkdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T19:37:23",
+      "description": "France wing Louis Bielle-Biarrey wins the Player of the Championship award for the 2026 Men's Six Nations.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f13/live/a6151620-2ec9-11f1-bb7c-976587a5003c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T20:32:19.061945",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Trump removes US Attorney General Pam Bondi",
       "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-02T19:26:56",
@@ -2268,6 +2279,160 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Pete Hegseth fires highest-ranking US Army officer in the middle of Iran war",
+      "link": "https://www.dailymail.co.uk/news/article-15702615/Pete-Hegseth-fires-Army-general-middle-Iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:29:18",
+      "description": "Pete Hegseth has asked a top Army general to step down in a rare move as the US is at war with Iran.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/21/107622777-0-image-m-14_1775160639948.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/21/107622777-0-image-m-14_1775160639948.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.459806",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment Iran's tallest bridge - and highest in Middle East - is blown to pieces in US-Israeli airstrikes 'killing eight and injuring at least 95'",
+      "link": "https://www.dailymail.co.uk/news/article-15702049/Moment-Irans-tallest-bridge-highest-Middle-East-blown-pieces-US-Israeli-airstrikes-killing-eight-injuring-95.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:22:28",
+      "description": "The B1 bridge, which links Iran's capital with the western city of Karaj,\u00a0was targeted in two waves of strikes on Thursday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/18/107618819-0-image-a-7_1775152503548.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/18/107618819-0-image-a-7_1775152503548.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.459810",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teacher jailed for life after she poisoned her boyfriend's POWERADE and killed him because she was jealous of his closeness to another woman",
+      "link": "https://www.dailymail.co.uk/news/article-15702341/Teacher-jailed-life-poisoned-boyfriends-POWERADE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:20:30",
+      "description": "Judy Church, 67, was accused of killing 55-year-old Leroy Fowler by dishing him a fatal dose of ethylene glycol in a sports drink on the night of November 11, 2022.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/21/107622491-0-image-m-110_1775160986558.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/21/107622491-0-image-m-110_1775160986558.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.459811",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Now pupils use AI to 'humiliate' teachers in Scotland's Wild West classrooms",
+      "link": "https://www.dailymail.co.uk/news/article-15702463/Now-pupils-use-AI-humiliate-teachers-Scotlands-Wild-West-classrooms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:13:26",
+      "description": "Children in Scottish schools have used artificial intelligence to create sexual and violent images of their teachers to share them on social media.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622235-0-image-a-89_1775158896746.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622235-0-image-a-89_1775158896746.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.459813",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chinook families urge PM to step in after 'slap in face' from MoD",
+      "link": "https://www.dailymail.co.uk/news/article-15702455/Chinook-families-urge-PM-step-slap-face-MoD.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:12:30",
+      "description": "Families of victims of the 1994 RAF Chinook disaster have accused ministers of treating them with 'contempt' and a 'breach of trust'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622207-0-image-a-81_1775158680000.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622207-0-image-a-81_1775158680000.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.459814",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "It's a dream come true for SuBo's army of fans as she releases her first range of merchandise",
+      "link": "https://www.dailymail.co.uk/news/article-15702451/dream-come-true-SuBos-releases-merchandise-Susan-Boyle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:11:33",
+      "description": "She's one of the most recognisable faces in music, but Susan Boyle waited nearly 20 years to launch her first merchandise range.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622145-0-image-m-82_1775158555112.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622145-0-image-m-82_1775158555112.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.459816",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "With Chinese satellites guiding Tehran's missiles, it's no wonder they're so deadly. I fear Beijing has been waiting for Trump's war on Iran - and it's what they've wanted all along",
+      "link": "https://www.dailymail.co.uk/news/article-15702547/China-guiding-Tehrans-missiles-America-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:09:54",
+      "description": "However unlikely it might seem on the face of it, the president is attacking Tehran in order to hit a target 3,500 miles away: Beijing.China, after all, is never far from Trump's thoughts.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622253-0-image-a-13_1775159664502.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622253-0-image-a-13_1775159664502.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.459817",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Easter chaos warning as Storm Dave sweeps into Scotland",
+      "link": "https://www.dailymail.co.uk/news/article-15702433/Easter-chaos-warning-Storm-Dave-sweeps-Scotland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:09:12",
+      "description": "Scots face Easter travel chaos as Storm Dave sweeps in, bringing 90mph winds, snow blizzards and torrential rain across the country this weekend.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621493-0-image-a-51_1775156822782.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621493-0-image-a-51_1775156822782.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.459818",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "SNP 'protected predator, ignored complaints and put victims through hell'",
+      "link": "https://www.dailymail.co.uk/news/article-15702419/SNP-protected-predator-ignored-complaints-victims-hell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:06:02",
+      "description": "Councillors have accused the SNP of putting Jordan Linden's victims 'through hell' by protecting the 'paedophile' and ignoring complaints about his conduct.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621643-0-image-m-69_1775157169740.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621643-0-image-m-69_1775157169740.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.459819",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Scots families preparing for the great Easter getaway paying more than \u00a32 a litre as effects of Iran war start to bite",
+      "link": "https://www.dailymail.co.uk/news/article-15702441/Scots-families-preparing-great-Easter-getaway-paying-2-litre-effects-Iran-war-start-bite.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:05:02",
+      "description": "Motorists filling up for their Easter getaways face breaking the bank after the war in Middle East sent prices through the roof.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621613-0-image-a-13_1775157023233.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621613-0-image-a-13_1775157023233.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.459821",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "LaGuardia air traffic controller may have stepped away from his desk moments before deadly runway crash, investigators believe",
+      "link": "https://www.dailymail.co.uk/news/article-15702059/LaGuardia-air-traffic-control-Air-Canada-truck-desk-mistake.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:47:10",
+      "description": "Insiders say a number of potential mistakes and factors may have contributed to the crash, including the way in which air traffic controllers (ATC) worked on the night of the collision.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107510287-0-image-m-3_1775158669341.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107510287-0-image-m-3_1775158669341.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.459823",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Pam Bondi breaks silence after Trump's brutal firing",
       "link": "https://www.dailymail.co.uk/news/article-15702519/Pam-Bondi-breaks-silence-Trumps-brutal-firing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9113,163 +9278,23 @@
       "archived_at": "2026-03-31T19:33:34.416173",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Airlines start racheting up their flight prices after Trump tells the UK 'get your own oil' and jet fuel runs out",
-      "link": "https://www.dailymail.co.uk/news/article-15694911/Airlines-flight-prices-Trump-UK-oil-jet-fuel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:08:09",
-      "description": "Airlines are starting to hike up their flight prices as jet fuel supplies dry up amid the ongoing conflict in the Middle East.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/15/107546253-0-image-m-10_1774968881027.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/15/107546253-0-image-m-10_1774968881027.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416174",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Mystery winner of \u00a310million National Lottery jackpot has just two days left to claim prize",
-      "link": "https://www.dailymail.co.uk/news/article-15694581/mystery-winner-10million-National-Lottery-two-days-prize.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:07:12",
-      "description": "Competition operator Allwyn has confirmed the owner of the lucky ticket, worth \u00a310,633,323 and bought in London, is yet to be identified.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/15/107556221-0-image-m-13_1774967406201.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/15/107556221-0-image-m-13_1774967406201.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416175",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Foul-tempered Texas judge sparks outrage over video of him snapping at IT worker who came to help him fix computer, before barking: 'Get out of my courtroom!'",
-      "link": "https://www.dailymail.co.uk/news/article-15694431/texas-judge-nathan-milliron-snaps-worker-courtroom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:00:44",
-      "description": "The interaction featuring Harris County Judge Nathan Milliron has garnered millions of views online simultaneously racking up thousands of comments.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/14/107555155-0-image-a-9_1774965432372.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/14/107555155-0-image-a-9_1774965432372.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416176",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tragedy after promising young schoolgirl, 18, got into Mercedes to take her home from prom and forgot to buckle her seat belt",
-      "link": "https://www.dailymail.co.uk/news/article-15694517/Mercedes-car-crash-school-girl-prom-georgia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T14:56:02",
-      "description": "Patience Price, 18, was killed on her way home from prom in Douglas County, Georgia. The girl was thrown from the car as it tumbled off the road.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/14/107553175-0-image-m-12_1774964380526.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/14/107553175-0-image-m-12_1774964380526.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416177",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussie finance guru's dire warning that the war in Iran could be 'one of the great disasters of our lifetime'",
-      "link": "https://www.dailymail.co.uk/news/article-15694437/Aussie-finance-gurus-dire-warning-war-Iran-one-great-disasters-lifetime.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T14:41:47",
-      "description": "Money expert\u00a0Alan Kohler has explained how the ongoing fuel crisis could trigger a global recession.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/14/107553057-0-image-m-71_1774962179799.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/14/107553057-0-image-m-71_1774962179799.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416178",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Reality TV star Chloe Khan claims gang tried to steal her Pomeranian dog and jewellery in London Underground Tube attack",
-      "link": "https://www.dailymail.co.uk/news/article-15691969/Chloe-Khan-claims-gang-steal-dog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T14:33:09",
-      "description": "Chloe Khan has revealed that a gang tried to steal her Pomeranian dog, Dior, from her while taking the Tube.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/16/107530743-0-image-m-12_1774886205841.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/16/107530743-0-image-m-12_1774886205841.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416179",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Girl, 13, is charged with more than FIFTY offences involving alleged stolen cars and antisemitic abuse in Melbourne",
-      "link": "https://www.dailymail.co.uk/news/article-15693733/St-Kilda-Melbourne-Jewish-stolen-car-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T14:29:44",
-      "description": "Victoria Police arrested the teenager on Tuesday following an alleged crime spree involving multiple stolen cars.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/10/107548131-0-image-m-26_1774949385319.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/10/107548131-0-image-m-26_1774949385319.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416181",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scott Mills was interviewed by police following the drugs death of his boyfriend 26 years ago",
-      "link": "https://www.dailymail.co.uk/news/article-15694143/Scott-Mills-interviewed-police-drugs-death-boyfriend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T13:42:30",
-      "description": "Mitchell Berger, 21, from Barry, South Glamorgan, was found unconscious with two other men at a flat in Holborn, central London in March 2000, the night of the Brit Awards .",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/11/107545109-0-A_source_explained_how_Mills_was_called_in_for_a_tense_meeting_w-a-5_1774953007070.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/11/107545109-0-A_source_explained_how_Mills_was_called_in_for_a_tense_meeting_w-a-5_1774953007070.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416182",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Father wins 19-month court battle with ex-partner over who gets to keep ashes of their teenage son",
-      "link": "https://www.dailymail.co.uk/news/article-15693961/father-wins-court-battle-teenage-son-ashes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T13:39:50",
-      "description": "Theo Read died aged 18 after he was electrocuted on railway tracks while making his way home near Reading in August 2024.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/11/107547621-0-image-m-12_1774953513112.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/11/107547621-0-image-m-12_1774953513112.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416183",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump tells allies 'go and TAKE' Hormuz in shock Iran retreat signal as markets erupt",
-      "link": "https://www.dailymail.co.uk/news/article-15694673/trump-hormuz-retreat-wall-street.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T13:36:43",
-      "description": "Donald Trump has told America's allies to fight their own battles as he warned he was prepared to walk away from the blockaded Strait of Hormuz.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/14/107551209-0-Donald_Trump_insisted_he_had_done_the_hard_part_by_launching_the-a-7_1774962676266.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/14/107551209-0-Donald_Trump_insisted_he_had_done_the_hard_part_by_launching_the-a-7_1774962676266.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416184",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "British charity promoted by celebrities including Harry and Meghan awards mother and daughter chiefs more than \u00a3500,000 in a year, accounts show - after facing watchdog probe over pay",
-      "link": "https://www.dailymail.co.uk/news/article-15694383/Meghan-promoted-charity-pays-mother-daughter-bosses-500K-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T13:30:46",
-      "description": "The packages are revealed in the latest accounts of the charity One Young World, which is run by mother and daughter pair Kate Robertson, 70, and Ella Robertson McKay, 34.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107551837-0-image-a-13_1774958677908.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107551837-0-image-a-13_1774958677908.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416185",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Diogo Jota's widow reveals heartbreaking last text she sent him before Liverpool star's fatal Lamborghini crash",
+      "link": "https://www.dailymail.co.uk/news/article-15702367/Diogo-Jotas-widow-reveals-heartbreaking-text-sent-Liverpool-stars-fatal-Lamborghini-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:13:53",
+      "description": "Rute Cardoso sent the heartbreaking text just moments before the striker and his younger brother Andre Silva died when the\u00a0car he was driving careered off a motorway in northern Spain in July.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/99960287-0-image-a-14_1775158102876.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/99960287-0-image-a-14_1775158102876.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T20:32:19.901856",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Steven Gerrard confesses he now 'regrets' his quick exit from Rangers but cites lack of Ibrox board backing",
       "link": "https://www.dailymail.co.uk/sport/football/article-15702457/Steven-Gerrard-confesses-regrets-quick-exit-Rangers-cites-lack-Ibrox-board-backing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
