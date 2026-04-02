@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Artemis II is in orbit - what happens next?",
+      "link": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T12:20:34",
+      "description": "What are the mission's four astronauts doing and when will they go to the Moon?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb11/live/03b36c00-2e8e-11f1-bf7c-65962cff9746.png",
+      "enclosure": null,
+      "archived_at": "2026-04-02T13:05:15.164297",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
+      "link": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T12:44:07",
+      "description": "Narges Mohammadi's brother says he fears her life is in imminent danger and she needs to be transferred to a hospital.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89d1/live/c0b9dad0-2e90-11f1-a4cb-179d6842c4b9.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T13:05:15.164303",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Storm Dave set to batter UK with gales and blizzards over Easter weekend",
       "link": "https://www.bbc.com/weather/articles/ce3d7n10ypyo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-02T10:57:39",
@@ -1850,6 +1872,146 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Girl, 13, who vanished in Arizona in 1994 while going to see her horse is found ALIVE 32 years on",
+      "link": "https://www.dailymail.co.uk/news/article-15701409/Christina-Marie-Plante-girl-vanished-1994-alive-13.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T12:59:13",
+      "description": "Christina Marie Plante, a\u00a0girl who vanished 32 years ago from a small town near Phoenix, Arizona when she was 13, has been found alive, authorities say.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107611845-0-image-m-40_1775133852947.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107611845-0-image-m-40_1775133852947.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.492192",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US-Israel bombs Iranian official brokering deal with JD Vance in 'attempt to derail Trump's peace talks'",
+      "link": "https://www.dailymail.co.uk/news/article-15701379/US-Israel-bombs-Iranian-official-brokering-deal-JD-Vance-attempt-derail-Trumps-peace-talks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T12:54:55",
+      "description": "Iranian officials condemned the joint US-Israel strikes as an 'attempt to derail diplomacy,' even as Donald Trump insists he wants to wind down the conflict.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107566621-0-image-a-17_1775134060902.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107566621-0-image-a-17_1775134060902.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.492198",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Terrorist who plotted to blow up an army base and was about to be released facing new parole hearing after review",
+      "link": "https://www.dailymail.co.uk/news/article-15701281/Terrorist-plotted-blow-army-base-released-new-parole-hearing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T12:52:39",
+      "description": "Zahid Iqbal was a member of a terrorist gang who plotted an attack at a Territorial Army centre in Luton where a remote-controlled toy car would be used to carry a homemade bomb.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/106288055-0-image-m-29_1775133454043.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/106288055-0-image-m-29_1775133454043.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.492200",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment distraught NYC mother realized her baby had been shot dead by gunman who fled on scooter",
+      "link": "https://www.dailymail.co.uk/news/article-15701123/NYC-shooting-bodega-baby-Kaori-Charles-Moore-moped-gunman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T12:51:59",
+      "description": "The tragedy unfolded in a bodega in East Williamsburg, Brooklyn on Wednesday, where young mother Lianna Charles-Moore",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609671-0-image-m-23_1775133237768.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609671-0-image-m-23_1775133237768.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.492202",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Rude awakening! Police arrest burglary suspect who broke into family home and fell asleep in child's bed",
+      "link": "https://www.dailymail.co.uk/news/article-15700943/Rude-awakening-Police-arrest-burglary-suspect-broke-family-home-fell-asleep-childs-bed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T12:49:37",
+      "description": "Nottinghamshire Police said officers were called to a house in the market town of Newark in response to reports it was being burgled in the early hours of April 1.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107611519-0-image-a-6_1775133513255.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107611519-0-image-a-6_1775133513255.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.492203",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment grim-faced Putin squirms in his seat as Armenian PM hails the importance of democracy and social media freedom during Kremlin meeting",
+      "link": "https://www.dailymail.co.uk/news/article-15701183/Moment-grim-faced-Putin-squirms-seat-Armenian-PM-hails-importance-democracy-social-media-freedom-Kremlin-meeting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T12:45:12",
+      "description": "Armenia's prime minister made Russian despot Vladimir Putin squirm in his seat by extolling the virtues of democracy and social media freedom to his face at a Kremlin meeting.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107610355-0-image-m-46_1775132459074.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107610355-0-image-m-46_1775132459074.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.492204",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Kathleen Folbigg and fianc\u00e9 seen for the first time after she spent two decades in jail over the deaths of her four children - amid rumours she's fallen out with the woman who helped free her",
+      "link": "https://www.dailymail.co.uk/news/article-15696291/Kathleen-Folbigg-fianc-seen-time-spent-two-decades-jail-deaths-four-children-amid-rumours-shes-fallen-woman-helped-free-her.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T12:38:56",
+      "description": "Kathleen Folbigg was in high spirits while walking with her fiance Bob Muir after they attended the Newcastle Writers Festival on Sunday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568085-0-image-a-11_1775002668978.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568085-0-image-a-11_1775002668978.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.492206",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Iconic cathedral gets \u00a31million bling makeover - but residents say 'Disney-style' stained glass windows are 'horrible'",
+      "link": "https://www.dailymail.co.uk/news/article-15701167/Cathedrals-bling-makeover-slammed-horrible-locals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T12:37:55",
+      "description": "Canterbury Cathedral attracts more than a million people a year and the famous entrance Christ Church Gate has been restored in a 'gaudy' and 'awful' fashion, say locals.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609999-0-image-a-3_1775133009866.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609999-0-image-a-3_1775133009866.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.492207",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Boss of London Pride is sacked after 'spending \u00a37,000 of donations on luxury perfumes and Apple products'",
+      "link": "https://www.dailymail.co.uk/news/article-15700847/pride-london-boss-sacked-accused-luxury-goods.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T12:32:25",
+      "description": "Christopher Joell-Deshields was let go after an investigation was launched into allegations of misuse of company funds and a failure to safeguard against bullying.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609309-0-image-m-8_1775132597020.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609309-0-image-m-8_1775132597020.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.492208",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Asylum seeker accused of gang-raping lone drunk woman on Brighton beach claims 'rape is sex'",
+      "link": "https://www.dailymail.co.uk/news/article-15701261/asylum-seeker-accused-gang-rape-brighton-claims-sex.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T12:21:41",
+      "description": "Egyptian Karin Al-Danasurt (pictured) said he filmed his two friends raping the woman, who cannot be named, on Brighton beach after his asylum application was rejected.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609625-0-image-m-38_1775131640516.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609625-0-image-m-38_1775131640516.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.492210",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Pump prices rise at record rate as Iran war bites just when families drive off for Easter - with cost of diesel at one station nearing \u00a33 per litre",
       "link": "https://www.dailymail.co.uk/news/article-15700757/Pump-prices-rise-record-rate-Iran-war-Easter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -8587,6 +8749,34 @@
   ],
   "Daily Mail Football": [
     {
+      "title": "Real Madrid unhappy with Jude Bellingham's 'pointless trip' to England on international duty after he wasn't selected at all by Thomas Tuchel",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15700477/Real-Madrid-unhappy-Jude-Bellingham-England-Thomas-Tuchel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T12:53:20",
+      "description": "The midfielder trained with his team-mates ahead of both the 1-1 draw to Uruguay at Wembley and Tuesday's shock 1-0 defeat to Japan, but did not play a single minute in either game.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/12/107609765-0-image-a-4_1775130798128.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/12/107609765-0-image-a-4_1775130798128.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.635157",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Borussia Dortmund 'face major issue with iconic Yellow Wall south stand' as furious club chief hits out at 'NONSENSE' decision",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15700473/borussia-dortmund-yellow-wall-uefa-safety.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T11:55:24",
+      "description": "The Germans boast the largest terrace for standing spectators in European football with Signal Iduna Park's south stand holding just shy of 25,000 fans.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/12/107609105-0-image-a-36_1775129931179.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/12/107609105-0-image-a-36_1775129931179.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T13:05:15.635163",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
       "title": "The evolution of Chido Obi at Manchester United: How the young striker is coping with a lack of minutes in the first-team, why some staff have a dim view of him, and why he deserves 'credit' for his progression",
       "link": "https://www.dailymail.co.uk/sport/football/article-15700011/Evolution-Chido-Obi-Manchester-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
       "pubDate": "2026-04-02T11:00:52",
@@ -13265,6 +13455,17 @@
     }
   ],
   "Crev": [
+    {
+      "title": "Illustra Posts Shareable Easter Video",
+      "link": "https://crev.info/2026/04/illustra-posts-shareable-easter-video/?utm_source=rss&utm_medium=rss&utm_campaign=illustra-posts-shareable-easter-video",
+      "pubDate": "2026-04-02T12:00:45",
+      "description": "Illustra Media's annual Easter video draws on butterfly metamorphosis for inspiration.",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-02T13:05:21.298003",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "New Guide to Human Evolution: Survival of the Wittiest",
       "link": "https://crev.info/2026/04/survival-of-the-wittiest/?utm_source=rss&utm_medium=rss&utm_campaign=survival-of-the-wittiest",
