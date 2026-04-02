@@ -1,6 +1,83 @@
 {
   "BBC News": [
     {
+      "title": "BBC boss Tim Davie says it was 'very clear' Scott Mills had to go",
+      "link": "https://www.bbc.com/news/articles/cy01wd437x2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T15:17:26",
+      "description": "Outgoing BBC boss Davie says on his final day Scott Mills' sacking \"was a real shock to the organisation\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f4b/live/cf5ed1f0-2ea7-11f1-aa0c-dd9a23733a84.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T15:58:05.187354",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fewer UK adults posting on social media, Ofcom finds",
+      "link": "https://www.bbc.com/news/articles/cgqk718l4neo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T14:38:24",
+      "description": "Some experts believe it highlights a social media shift as platforms boost short video.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9704/live/87b58840-2e92-11f1-90b9-6ffcd881a7dc.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T15:58:05.187364",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ancient golden helmet recovered more than a year after Dutch heist",
+      "link": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T14:20:02",
+      "description": "The helmet and three golden bracelets were stolen in January 2025, but one bracelet is yet to be found.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7be/live/b27537e0-2e94-11f1-90b9-6ffcd881a7dc.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T15:58:05.187366",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Investigation into IVF clinics in northern Cyprus after UK families given wrong sperm",
+      "link": "https://www.bbc.com/news/articles/ce9mx2ggdg3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T15:02:13",
+      "description": "Most of the families the BBC has spoken to have completed commercial DNA tests which have confirmed their fears.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/36bef6c0-278e-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T15:58:05.187370",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Lecturer who called Israel a terrorist state to remain Plaid Cymru candidate",
+      "link": "https://www.bbc.com/news/articles/cwywvr2z76zo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T14:51:33",
+      "description": "Plaid Cymru says that a university lecturer who called Israel a \"terrorist state\" will remain a candidate.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38ca/live/56fd9360-2ea0-11f1-bf13-db49faadbe93.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T15:58:05.187371",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Emma Stone and Ryan Gosling star in an award-winning musical",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m000309g?at_mid=96Mn1Kj3a2&at_campaign=La_La_Land&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000309g&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=La_La_Land&at_bbc_team=BBC",
+      "pubDate": "2026-03-31T05:00:00",
+      "description": "Exploring the joy and pain of pursuing your dreams",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643b/live/899b1140-2d0a-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T15:58:05.187373",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Italian FA head and Buffon quit over World Cup failure",
+      "link": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T15:44:34",
+      "description": "Gabriele Gravina resigns as head of Italy's football federation after they fail to qualify for a third World Cup in a row, while ex-goalkeeper Gianluigi Buffon quits his role with the national team.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3da/live/5ac2b1b0-2ea0-11f1-bf13-db49faadbe93.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T15:58:05.187375",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Fifa is charging up to $10,990 for World Cup final tickets in first open sale",
       "link": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-02T13:10:43",
@@ -1993,6 +2070,146 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Park and ride that cost council \u00a332milllion to build is STILL unused two years on due to road delays",
+      "link": "https://www.dailymail.co.uk/news/article-15701437/park-ride-cost-council-32million-build-unused-two-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T14:48:15",
+      "description": "Aerial photographs taken this week show the site remains unoccupied - with the first buses and cars not expected to move until 2027.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/15/107612517-0-image-m-12_1775140013982.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/15/107612517-0-image-m-12_1775140013982.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.548407",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Husband accused of driving wife to suicide claims 'neck injuries' in photos were caused by 'fluffy' BDSM collar",
+      "link": "https://www.dailymail.co.uk/crime-desk/article-15701589/Husband-accused-driving-wife-suicide-claims-neck-injuries-photos-caused-fluffy-BDSM-collar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T14:34:21",
+      "description": "Christopher Trybus, 43,\u00a0is on trial accused of being responsible for Tarryn Baird's death\u00a0because he subjected her to 'extensive' acts of manipulative behaviour and sexual violence.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/15/107525779-0-image-m-12_1775138900813.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/15/107525779-0-image-m-12_1775138900813.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.548413",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pilot and passenger died during 'introductory flight experience' when glider plunged 150ft to the ground at racetrack",
+      "link": "https://www.dailymail.co.uk/news/article-15701647/Pilot-passenger-died-introductory-flight-experience-glider-plunged-150ft-ground-racetrack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T15:43:22",
+      "description": "Pilot Edward Browne, 66, and passenger James Litchfield, 64, died when the Hoffmann H36 Dimona crashed shortly after take-off at Darley Moor Airfield in Derbyshire.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/16/97147093-0-image-m-15_1775142191485.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/16/97147093-0-image-m-15_1775142191485.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.548420",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "LGBTQ actor Billy Porter sniffs at 'the Midwest CBS shows, the cop shows' while complaining that woke niche TV shows and films are no longer being made",
+      "link": "https://www.dailymail.co.uk/news/article-15701283/billy-porter-LGBTQ-shows-blames-trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T15:42:59",
+      "description": "Billy Porter blamed the Trump administration's anti-woke agenda for causing\u00a0opportunities for LGBTQ and people of color artists to dry up.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/15/107615127-0-image-m-18_1775141768297.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/15/107615127-0-image-m-18_1775141768297.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.548421",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump tells Pam Bondi her time as AG is coming to an end as Cabinet bloodbath rumor sends shockwaves through Washington",
+      "link": "https://www.dailymail.co.uk/news/article-15701769/Trump-told-Pam-Bondi-YOURE-FIRED-Epstein-cabinet-bloodbath-rumor-sends-shockwaves-Washington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T15:34:39",
+      "description": "Donald Trump has told Pam Bondi that her tenure as attorney general is coming to an end due to her handling of the Jeffrey Epstein files.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/15/107597049-0-image-a-5_1775141522759.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/15/107597049-0-image-a-5_1775141522759.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.548422",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment 'desperate' man tries to rob bank with a vape disguised as a gun - only to be foiled when staff walk off and alert police",
+      "link": "https://www.dailymail.co.uk/news/article-15701713/Moment-desperate-man-rob-bank-vape-disguised-gun-foiled-staff-walk-alert-police.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T15:33:21",
+      "description": "CCTV footage from the incident in January shows Gary Fishlock handing a note to bank clerk at a HSBC branch in Broadstairs, Kent, which read:\u00a0'I have a gun, put the money in the bag.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/16/107616193-0-image-m-46_1775143656626.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/16/107616193-0-image-m-46_1775143656626.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.548424",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How Putin could attack Europe if Trump abandons Nato: Fears Russia will seize on alliance chaos as US President threatens to withdraw America's military might",
+      "link": "https://www.dailymail.co.uk/news/article-15698537/How-Putin-attack-Europe-Trump-abandons-Nato-Fears-Russia-seize-alliance-chaos-US-President-threatens-withdraw-Americas-military-might.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T15:32:19",
+      "description": "The US President dubbed the alliance a 'paper tiger' and said removing America from the defence treaty was now 'beyond reconsideration'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/15/107613811-0-image-a-8_1775139760077.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/15/107613811-0-image-a-8_1775139760077.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.548426",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fury in India after elephant is painted bright pink for photoshoot and later dies - as Russian photographer reveals death threats",
+      "link": "https://www.dailymail.co.uk/news/article-15701697/Fury-India-elephant-painted-bright-pink-photoshoot-later-dies-Russian-photographer-reveals-death-threats.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T15:30:10",
+      "description": "Julia Buruleva, 47, has been hit by a storm of protest following the animal's death four months after her controversial shoot.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/15/107615303-0-image-a-1_1775141750651.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/15/107615303-0-image-a-1_1775141750651.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.548427",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump set to extend Iran war for WEEKS as audacious uranium raid plan would see troops and bulldozers flown into warzone",
+      "link": "https://www.dailymail.co.uk/news/article-15701397/Trump-set-extend-Iran-war-WEEKS-audacious-uranium-raid-plan-troops-bulldozers-flown-warzone.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T15:00:50",
+      "description": "Donald Trump charged his top military officials with crafting a plan to seize Iran's nuclear material, and what they created may be one of the most daring and dangerous missions ever.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/14/107612969-0-image-m-32_1775137862660.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/14/107612969-0-image-m-32_1775137862660.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.548430",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hot-headed Texas judge's diva email demands are revealed after he screamed at IT worker in courtroom",
+      "link": "https://www.dailymail.co.uk/news/article-15701453/texas-judge-nathan-milliron-emails.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T14:55:19",
+      "description": "Nathan Milliron, a judge for Texas's 215th District Court, has held his position for a little over a year, but he's already making a name for himself as someone hard to work for.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/15/107613855-0-image-m-280_1775138616396.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/15/107613855-0-image-m-280_1775138616396.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.548431",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Police want knife licences to stop children trading blades on social media 'grey market'",
       "link": "https://www.dailymail.co.uk/news/article-15701145/Police-want-knife-licences-stop-children-trading-blades-social-media-grey-market.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -8852,149 +9069,37 @@
       "archived_at": "2026-03-31T19:33:34.416224",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Inside Labor's $600million push for even MORE politicians in Australia: 'Not what we need'",
-      "link": "https://www.dailymail.co.uk/news/article-15693175/anthony-albanese-mps-canberra-expand-parliament.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T04:08:55",
-      "description": "A proposal to increase the size of federal parliament by at least 40 MPs is being discussed in Canberra.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/03/107541377-0-image-m-7_1774922826853.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/03/107541377-0-image-m-7_1774922826853.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416225",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Shoot her': Woman recalls terrifying moment masked men threatened her life during home invasion in Brisbane",
-      "link": "https://www.dailymail.co.uk/news/article-15692845/home-invasion-brisbane-rochedale-south.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T03:35:02",
-      "description": "A woman has recalled the terrifying moment she was held at knifepoint while four\u00a0armed men ransacked her Brisbane home.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/02/107540767-0-image-m-48_1774919236158.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/02/107540767-0-image-m-48_1774919236158.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416226",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Former NJ Assemblyman Albert Coutinho, 56, killed in fiery car crash",
-      "link": "https://www.dailymail.co.uk/news/article-15691473/NJ-assemblyman-albert-coutinh-killed-car-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T02:43:11",
-      "description": "Albert Coutinho, 56, died in a car crash after serving as a New Jersey Assemblyman for over five years.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/02/107541099-0-image-m-82_1774920387625.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/02/107541099-0-image-m-82_1774920387625.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416227",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Fresh manhunt is launched after Dezi Freeman was shot dead at a remote camp - as cops reveal who they're looking for",
-      "link": "https://www.dailymail.co.uk/news/article-15692509/Dezi-Freeman-Thologolong-search-helped-fugitive.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T02:37:35",
-      "description": "The manhunt for Dezi Freeman may have come to an end on Monday, but police revealed a new search has been launched.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/21/107534783-0-Dezi_Freeman_spent_seven_months_on_the_run_before_he_was_tracked-a-8_1774901846754.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/21/107534783-0-Dezi_Freeman_spent_seven_months_on_the_run_before_he_was_tracked-a-8_1774901846754.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416228",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussie dad unleashes over $2,115 fine for common act many drivers are guilty of",
-      "link": "https://www.dailymail.co.uk/news/article-15692825/fine-nsw.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T02:18:31",
-      "description": "An Aussie dad has unleashed at the NSW government.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/23/107538047-0-image-m-16_1774910561697.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/23/107538047-0-image-m-16_1774910561697.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416229",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Pay rise for millions of Australian workers as Fair Work Commission makes huge ruling",
-      "link": "https://www.dailymail.co.uk/news/article-15693095/Pay-rise-millions-Australian-workers-Fair-Work-Commission-makes-huge-ruling.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T01:52:35",
-      "description": "The Fair Work Commission has ruled that workers aged 18 to 20 in retail, fast food and pharmacy will be paid full adult wages instead of discounted junior rates.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/00/107539789-0-image-a-41_1774915027653.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/00/107539789-0-image-a-41_1774915027653.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416230",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The small detail that finally unmasked a killer four decades after the death of a young Aussie mother",
-      "link": "https://www.dailymail.co.uk/news/article-15692931/raymond-reddington-sharon-fulton-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T01:46:28",
-      "description": "The case remained cold for four decades until the coroner's office received a fake confession letter.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/23/107538033-0-image-m-13_1774909776674.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/23/107538033-0-image-m-13_1774909776674.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416231",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Nightclub at centre of Kent's deadly meningitis outbreak is to reopen... with a kissing warning",
-      "link": "https://www.dailymail.co.uk/news/article-15693117/Nightclub-centre-Kents-deadly-meningitis-outbreak-reopen-kissing-warning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T01:46:02",
-      "description": "Club Chemistry in Canterbury has announced it will reopen its doors on Thursday, 18 days after it closed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/01/107279737-0-image-m-33_1774918097984.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/01/107279737-0-image-m-33_1774918097984.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416232",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Are you more likely to win the lottery or get struck by lightning? The six lotto myths Aussies still fall for DEBUNKED",
-      "link": "https://www.dailymail.co.uk/news/article-15692847/Six-lottery-myths-Aussies-fall-for.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T01:45:39",
-      "description": "There is no cheat sheet when it comes to winning the lottery, but Aussies continue to fall for six of the same myths when placing their bets.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/02/107541191-0-image-m-61_1774921141866.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/02/107541191-0-image-m-61_1774921141866.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416233",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Two 'Albanian gangsters' are caught in the back of a lorry trying to enter Britain 'with gun and silencer'",
-      "link": "https://www.dailymail.co.uk/news/article-15692951/Two-Albanian-gangsters-caught-lorry-trying-enter-Britain-gun-silencer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T01:15:21",
-      "description": "The men - who have not been named - were arrested by French police in Calais on Friday as the vehicle they were in prepared to board a ferry (stock image).",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/00/107539153-0-image-a-4_1774912723841.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/00/107539153-0-image-a-4_1774912723841.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416235",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "FIFA raises World Cup final ticket price 38 PER CENT to $11K - 'the most expensive general admission for a singular match ever'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15701715/FIFA-raise-World-Cup-ticket-final-price-11K.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T15:44:34",
+      "description": "The ticketing has shown that FIFA are charging supporters up to $10,990 (\u00a38,333) for the privilege of watching the tournament's showpiece at the\u00a0MetLife Stadium on Sunday, 19 July.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/16/107615613-0-image-a-7_1775142325828.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/16/107615613-0-image-a-7_1775142325828.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.808119",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Viral England fan claims FIFA are 'fleecing' supporters over tickets and travel - as he opens up on selling \u00a3350,000 house to fund a TENTH World Cup trip this summer",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15698709/England-fan-FIFA-fleecing-supporters-selling-house-fund-World-Cup-trip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T15:26:05",
+      "description": "Milne,\u00a062,\u00a0has become a recognisable face at England football matches after a picture of him wearing a Three Lions shirt and holding a replica World Cup trophy at Qatar 2022 went viral.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/16/107463327-0-image-a-5_1775143373391.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/16/107463327-0-image-a-5_1775143373391.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:05.808125",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Landon Donovan was consumed by a secret shame. Now the US soccer legend reveals a 'miracle' that finally fixed his hair loss and absent father agony",
       "link": "https://www.dailymail.co.uk/sport/football/article-15692569/landon-donovan-father-hair-piece.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12566,6 +12671,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Sir Roger Daltrey joins rock royalty to \"Think Loud\" for Parkinson\u2019s Research",
+      "link": "https://www.music-news.com/news/UK/188131/Sir-Roger-Daltrey-joins-rock-royalty-to-Think-Loud-for-Parkinson-s-Research",
+      "pubDate": "2026-04-02T13:55:00",
+      "description": "The fight against Parkinson\u2019s disease has gained a legendary new ally. Sir Roger Daltrey, the iconic frontman of The Who, has officially lent his support to Think Loud 4 Parkinson\u2019s",
+      "thumbnail": "https://www.music-news.com/images/news/Roger-Daltrey4.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Roger-Daltrey4.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T15:58:09.660723",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "RAYE says new album left her \u2018exhausted\u2019 but finally free",
       "link": "https://www.music-news.com/news/UK/188128/RAYE-says-new-album-left-her-exhausted-but-finally-free",
