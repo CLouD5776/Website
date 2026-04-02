@@ -1,6 +1,72 @@
 {
   "BBC News": [
     {
+      "title": "Trump removes US Attorney General Pam Bondi",
+      "link": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T19:26:56",
+      "description": "Bondi's time as America's top law enforcement officer was overshadowed by the justice department's handling of the Jeffrey Epstein investigation.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b4f/live/f244f0d0-2ec7-11f1-bb7c-976587a5003c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T19:48:09.742514",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Why isn't Artemis II landing on the Moon?",
+      "link": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T19:02:15",
+      "description": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/93cb1130-2ec5-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T19:48:09.742526",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arrest after man and young girl die in pony and trap crash",
+      "link": "https://www.bbc.com/news/articles/ce9mxvglgd4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T17:59:01",
+      "description": "The pony and trap collided with a tipper truck near Tonbridge on Wednesday, say Kent Police.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6a4/live/23d5aff0-2eae-11f1-b61b-b75b7cb9c2c8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T19:48:09.742528",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Almost 6,000 homes in Kent hit as South East Water main bursts",
+      "link": "https://www.bbc.com/news/articles/clye2kk52e6o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T19:38:20",
+      "description": "Customers are experiencing low pressure or no water due to issues at Bewl Water Treatment Works.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f486/live/e0a7acd0-2ea6-11f1-aa0c-dd9a23733a84.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T19:48:09.742530",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Stolen Clanger puppet returned after 50-year mystery",
+      "link": "https://www.bbc.com/news/articles/cly0zxez19vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T15:02:20",
+      "description": "The original Mother Clanger from The Clangers is now on display at The Beaney in Canterbury.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9a4/live/ba81d0a0-2ea4-11f1-aa0c-dd9a23733a84.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T19:48:09.742531",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chisora arrives to Wilder event in tank with Farage",
+      "link": "https://www.bbc.com/sport/boxing/articles/c3r39nnr50vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T19:15:18",
+      "description": "Derek Chisora arrives at Deontay Wilder news conference at London's York Hall in an army tank alongside politician Nigel Farage.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a5/live/86e65090-2ec2-11f1-8a0b-2f9cd022d3d2.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-02T19:48:09.742534",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Funeral fraudster motivated by money, says ex-worker",
       "link": "https://www.bbc.com/news/articles/c80ddxmlm8vo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-02T17:01:19",
@@ -2202,6 +2268,174 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Pam Bondi breaks silence after Trump's brutal firing",
+      "link": "https://www.dailymail.co.uk/news/article-15702519/Pam-Bondi-breaks-silence-Trumps-brutal-firing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:41:16",
+      "description": "Pam Bondi finally broke her silence after being fired by Donald Trump in a late-night White House showdown.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107619565-0-image-a-6_1775157840708.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107619565-0-image-a-6_1775157840708.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073473",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Miracle survival as plane loses power and crashes into popular Philadelphia park",
+      "link": "https://www.dailymail.co.uk/news/article-15701951/philadelphia-plane-crash-park-engine-lost-power.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:40:06",
+      "description": "The Piper Pilot 100i aircraft, owned by flight school Fly Legacy Aviation, lost engine power and then clipped a tree while attempting an emergency landing after losing power.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621621-0-image-m-30_1775157509186.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621621-0-image-m-30_1775157509186.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073482",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man, 36, wanted by police after woman 'raped at UK railway station' in evening attack",
+      "link": "https://www.dailymail.co.uk/news/article-15702443/Man-wanted-police-woman-raped-railway-station.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:33:02",
+      "description": "Police were called to Nuneaton railway station at 9.24pm on Friday, March 13, following reports of a rape.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621501-0-image-m-10_1775157708173.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621501-0-image-m-10_1775157708173.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073485",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "MILES BRIGGS: We have to get the foundations right to restore our reputation for excellence\u2028in education",
+      "link": "https://www.dailymail.co.uk/news/article-15702371/MILES-BRIGGS-foundations-right-restore-reputation-excellence-education.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:28:47",
+      "description": "Scotland used to boast a world-leading education system. Its schools were a byword for excellence, with pupils from all social backgrounds offered first-class tuition.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621203-0-image-a-20_1775155412879.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621203-0-image-a-20_1775155412879.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073487",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'We'll push schools to top of the class again', say Tories",
+      "link": "https://www.dailymail.co.uk/news/article-15702369/Well-push-schools-class-say-Tories.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:28:46",
+      "description": "Action is needed to restore Scotland's world-class education status, according to the Scottish Conservatives.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621005-0-image-a-11_1775155011839.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621005-0-image-a-11_1775155011839.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073489",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Swinney accused by business leaders of costing jobs by refusing to stop eye-watering rate increases",
+      "link": "https://www.dailymail.co.uk/news/article-15702415/Swinney-accused-business-leaders-costing-jobs-refusing-stop-rate-increases.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:27:12",
+      "description": "John Swinney has been accused by business leaders of costing jobs by refusing to stop eye-watering increases in their bills.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621427-0-image-a-6_1775156395910.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621427-0-image-a-6_1775156395910.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073492",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Not so Wunderbar... pub hit with rates hike of \u00a3300,000",
+      "link": "https://www.dailymail.co.uk/news/article-15702469/Not-Wunderbar-pub-hit-rates-hike-300-000.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:24:40",
+      "description": "A bar and ballroom venue is facing Scotland's biggest business rates hike - with its bills set to soar by more than \u00a3300,000.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621381-0-image-a-5_1775156118415.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621381-0-image-a-5_1775156118415.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073494",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chilling moment businessman asks police 'how many years do you think I'll get?' after stabbing estranged wife to death then calmly smoking a cigarette",
+      "link": "https://www.dailymail.co.uk/news/article-15701829/Chilling-moment-businessman-asks-police-years-you-think-Ill-stabbing-estranged-wife-death-calmly-smoking-cigarette.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:18:58",
+      "description": "Businessman Gavin Shaw, 61, murdered Michele Kennedy, 55, after discovering she'd spent the weekend with a new lover who she'd met on holiday in Turkey.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/16/107615805-0-image-m-15_1775143690121.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/16/107615805-0-image-m-15_1775143690121.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073496",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Revealed: The Clapham teen group chats inviting mob chaos - with more disorder planned for this weekend",
+      "link": "https://www.dailymail.co.uk/news/article-15701987/Clapham-teen-group-chats-mob-weekend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:16:49",
+      "description": "Staff on the high street described having to lock their doors early as children ran amok on Saturday and Tuesday, flouting police orders to disperse and engaging in confrontations with cops.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107562747-0-image-m-26_1775156487293.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107562747-0-image-m-26_1775156487293.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073498",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Husband credits his massive six-figure lottery win to a cashier's mix-up that left him shocked",
+      "link": "https://www.dailymail.co.uk/news/article-15701827/painesville-ohio-man-lottery-win-cashier-mistake.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:15:54",
+      "description": "An Ohio man wins a massive six-figure sum after a cashier mixed up his lottery tickets.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107620551-0-image-m-7_1775157078524.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107620551-0-image-m-7_1775157078524.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073500",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ritzy Wild West city rocked after black resident was caught CROSS BURNING, as jurors fail to accept his bizarre excuse over incident",
+      "link": "https://www.dailymail.co.uk/news/article-15701147/colorado-springs-cross-burning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T19:15:44",
+      "description": "Derrick Bernard, 36, was sentenced to almost four years in prison this week following a hate crime hoax gone wrong in 2023.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/18/107619637-0-image-m-10_1775151541240.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/18/107619637-0-image-m-10_1775151541240.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073502",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman accused of squatting in Florida home before SELLING owner's appliances",
+      "link": "https://www.dailymail.co.uk/news/article-15701623/Florida-squatter-selling-owner-appliances.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T18:49:53",
+      "description": "The homeowner told police that the woman had been staying in her house for months without permission and called 911 after discovering she had sold appliances to a neighbor.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/19/107620943-0-image-m-10_1775155095421.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/19/107620943-0-image-m-10_1775155095421.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.073506",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "NINE people arrested for terrifying kidnap plot against rapper Gucci Mane",
       "link": "https://www.dailymail.co.uk/news/article-15702303/gucci-mane-pooh-shiesty-big-30-robbed-kidnapped-dallas-rapper.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9033,177 +9267,23 @@
       "archived_at": "2026-03-31T19:33:34.416185",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Whispers are growing about Donald Trump serving a potential THIRD term, Alan Dershowitz says, and AOC will be responsible if it happens",
-      "link": "https://www.dailymail.co.uk/news/article-15691753/trump-2028-president-term-alan-dershowitz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T13:20:54",
-      "description": "Formidable attorney and Trump insider Alan Dershowitz has revealed the president's most likely route to a third term - and how the Democrats could be inadvertently paving the way for Trump 2028.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/19/107534271-0-image-m-6_1774896102050.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/19/107534271-0-image-m-6_1774896102050.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416186",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Vietnamese people smugglers who advertised small boat crossings for \u00a315,000 on Facebook are jailed for a decade",
-      "link": "https://www.dailymail.co.uk/news/article-15694351/Vietnamese-people-smugglers-advertised-small-boat-crossings-Facebook-jailed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T12:47:34",
-      "description": "Hop Can Nguyen, 46, and Hoang My Tra Nguyen, 25, helped traffic at least 250 migrants into the UK - offering journeys costing up to \u00a318,000.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107551409-0-image-m-27_1774959385359.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107551409-0-image-m-27_1774959385359.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416187",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hyperwoke Democrat who shrugs shoulders at social decay is on track to beat Karen Bass to be next mayor of LA, shock new poll claims",
-      "link": "https://www.dailymail.co.uk/news/article-15694369/Los-Angeles-Mayor-Nithya-Raman-Karen-Bass-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T12:42:24",
-      "description": "An avowed Democratic socialist has taken a stunning lead in the Los Angeles mayor's race over incumbent Karen Bass despite taking a number of shocking far-left policy stances in recent years.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107552509-0-image-m-13_1774960396474.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107552509-0-image-m-13_1774960396474.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416188",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Before the Government introduced their new fuel-relief package, they were taking in 1million euro EXTRA a day from their cut of price increases. HERE is the staggering figure the State is STILL set to pocket in energy taxes this year...",
-      "link": "https://www.dailymail.co.uk/news/article-15688219/Before-Government-introduced-new-fuel-relief-package-taking-1million-euro-EXTRA-day-cut-price-increases-staggering-figure-State-set-pocket-energy-taxes-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T12:05:50",
-      "description": "Opposition argue the \u20ac250million fuel-relief package announced this week does not go far enough, with one leading economist saying SUVs drivers  will benefit most.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/11/107499903-0-image-m-31_1774953294492.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/11/107499903-0-image-m-31_1774953294492.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416189",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Rhode Island mayor calls for removal of slain refugee's 'divisive' mural after large donation from Elon Musk",
-      "link": "https://www.dailymail.co.uk/news/article-15693025/Rhode-Island-mayor-removal-mural-Elon-Musk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:54:34",
-      "description": "Providence Mayor Brett Smiley said the community wants the unfinished mural removed\u00a0after it was revealed the project was funded by Elon Musk and Andrew Tate.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/02/107539839-0-image-m-19_1774919112693.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/02/107539839-0-image-m-19_1774919112693.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416190",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Orgasm sex cult 'guru' is sentenced to nine years in prison and ordered to pay $890k to victims",
-      "link": "https://www.dailymail.co.uk/news/article-15692593/Orgasm-sex-cult-guru-sentenced-nine-years-prison-ordered-pay-890k-victims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:51:34",
-      "description": "Nicole Daedone, 58, was handed the sentence at Brooklyn Federal Court. Her co-conspirator Rachel Cherwitz, 45, was also jailed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/20/107535375-0-image-a-15_1774900249904.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/20/107535375-0-image-a-15_1774900249904.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416191",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Massive oil tanker struck by Iranian drone near Strait of Hormuz as US unleashes 2,000lb bunker buster bombs on ammunition depot",
-      "link": "https://www.dailymail.co.uk/news/article-15693415/Oil-tanker-Iran-hormuz-bunker-buster.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:49:29",
-      "description": "The US and Iran traded blows late on Monday, as Iranian drones hit a huge Kuwaiti oil tanker near the Strait of Hormuz, while the Americans bombarded an Iranian ammunition depot.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/04/107542545-0-image-m-30_1774929205005.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/04/107542545-0-image-m-30_1774929205005.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416192",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "How BBC staff were told about Scott Mills sacking: Jeremy Vine's awkward response, newsreaders gasp and culture editor says she has spent 'far too many' days on corporation's crises",
-      "link": "https://www.dailymail.co.uk/news/article-15693981/BBC-staff-told-Scott-Mills-sacking-Jeremy-Vine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:34:03",
-      "description": "Radio 2 presenter Jeremy Vine said he found out about the decision after reading about it on the BBC website just 17 minutes before he began his own daytime show at midday yesterday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/11/107549095-0-image-m-27_1774952106978.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/11/107549095-0-image-m-27_1774952106978.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416193",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Couple forced to demolish \u00a380,000 annexe 'built 10 metres out of position'...despite council telling them to put it there in the first place",
-      "link": "https://www.dailymail.co.uk/news/article-15684697/Family-face-40k-bill-ordered-tear-annexe-garden-built-10-metres-position-despite-council-officials-telling-place.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:25:42",
-      "description": "Tracy and Paul Allen, from Gillingham, Kent, received planning permission to erect the property at the back of their garden by Medway Council.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/14/107467695-0-image-m-45_1774620208026.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/14/107467695-0-image-m-45_1774620208026.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416195",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "British parents reveal the wrong sperm was given to them by foreign IVF clinics to conceive their children",
-      "link": "https://www.dailymail.co.uk/news/article-15693629/British-parents-wrong-sperm-foreign-IVF-clinics-children.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T10:43:08",
-      "description": "Parents of at least seven children have come forward and said they believe the wrong donor sperm or egg was given to them in an IVF clinic in Northern Cyprus.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/08/107544773-0-image-m-15_1774941731062.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/08/107544773-0-image-m-15_1774941731062.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416196",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Everything we know about Dezi's secret hideaway and how he survived 216 days in the bush undetected",
-      "link": "https://www.dailymail.co.uk/news/article-15690477/Everything-know-Dezis-secret-hideaway-survived-216-days-bush-undetected.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T10:13:51",
-      "description": "The fugitive had set up camp in a makeshift junkyard of sorts, using abandoned shipping containers to shield himself from the harsh mountain elements.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/06/107543555-0-image-a-15_1774934559620.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/06/107543555-0-image-a-15_1774934559620.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416197",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Reeves in line for \u00a38BILLION tax windfall from soaring energy prices\u2026 but she STILL won't cut fuel duty for desperate drivers as Starmer holds another Cobra meeting",
-      "link": "https://www.dailymail.co.uk/news/article-15693705/Reeves-tax-windfall-energy-prices-fuel-duty-drivers-Starmer-Cobra-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T10:09:22",
-      "description": "Rachel Reeves is still refusing to follow a host of countries, including Australia, Spain and Poland, in trimming duty on fuel at the pumps in response to chaos in the Middle East.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/08/107545043-0-image-m-4_1774941285458.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/08/107545043-0-image-m-4_1774941285458.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416198",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Steven Gerrard confesses he now 'regrets' his quick exit from Rangers but cites lack of Ibrox board backing",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15702457/Steven-Gerrard-confesses-regrets-quick-exit-Rangers-cites-lack-Ibrox-board-backing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T18:56:38",
+      "description": "Steven Gerrard\u00a0has admitted for the first time that he harbours regrets about leaving Rangers when he did.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621357-0-image-a-2_1775156086803.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621357-0-image-a-2_1775156086803.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T19:48:10.387018",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Will this be the weekend when Celtic's faltering title defence is put out of its misery and three becomes two in a thrilling Scottish flag race?",
       "link": "https://www.dailymail.co.uk/sport/football/article-15702017/Will-weekend-Celtics-faltering-title-defence-misery-three-two-thrilling-Scottish-flag-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
