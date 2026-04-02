@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Judge dismisses most of Blake Lively claims in harassment suit against Baldoni",
+      "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T21:30:16",
+      "description": "The judge dismissed all but three claims against Baldoni weeks before a trial date.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8d/live/93aec9d0-2d08-11f1-b297-95b0a0a8331e.png",
+      "enclosure": null,
+      "archived_at": "2026-04-02T21:34:10.013723",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Bielle-Biarrey named men's Six Nations best player",
       "link": "https://www.bbc.com/sport/rugby-union/articles/cqj8qy08wkdo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-02T19:37:23",
@@ -2279,6 +2290,90 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Labour council leader under fire over Reform bashing vid using 'antisemitic' lyrics that Jacko re-recorded 30yrs ago",
+      "link": "https://www.dailymail.co.uk/news/article-15702071/Labour-council-leader-fire-Reform-bashing-vid-using-antisemitic-lyrics-Jacko-recorded-30yrs-ago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T21:30:49",
+      "description": "Gavin Callaghan, leader of Basildon Borough Council, made a humiliating apology over the video he posted to his official Facebook page.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/19/107620931-0-image-m-14_1775154522785.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/19/107620931-0-image-m-14_1775154522785.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T21:34:10.568529",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Smiling Midwest school district boss set to be fired after triggering huge scandal over her treatment of staff",
+      "link": "https://www.dailymail.co.uk/news/article-15702405/grand-rapids-school-district-boss-fired.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T21:00:18",
+      "description": "Dr Brandy Lovelady Mitchell was placed on leave after allegations surfaced that her leadership style had a 'detrimental impact' on staff.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/21/107623389-0-image-m-33_1775163202150.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/21/107623389-0-image-m-33_1775163202150.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T21:34:10.568537",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "As racing royalty gather for the Irish Grand National weekend, the style queen of LADIES DAY tells us what the judges are looking for so YOU can be Best Dressed too",
+      "link": "https://www.dailymail.co.uk/news/article-15695273/As-racing-royalty-gather-Irish-Grand-National-weekend-style-queen-LADIES-DAY-tells-judges-looking-YOU-Best-Dressed-too.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:49:24",
+      "description": "This 29-year-old medical secretary has turned looking effortlessly chic into a fine art - she's now won several prestigious Best Dressed racing day wins in Ireland and Britain",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/16/107558181-0-image-m-42_1774971568660.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/16/107558181-0-image-m-42_1774971568660.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T21:34:10.568540",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "American woman dies in 'freak' zip-lining accident during Caribbean vacation",
+      "link": "https://www.dailymail.co.uk/news/article-15702101/American-zip-lining-freak-accident-Caribbean.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:41:25",
+      "description": "Tamirah Dix, 40, died after zip-lining in Puerto Rico. Loved ones said she was an adventurous spirit who adored her nieces and nephews.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621157-0-image-m-20_1775157067439.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107621157-0-image-m-20_1775157067439.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T21:34:10.568541",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Babysitter from hell tried to kill mother and her two children, cops say - but now she has been RELEASED",
+      "link": "https://www.dailymail.co.uk/news/article-15698767/Babysitter-hell-kill-mother-children.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:39:42",
+      "description": "Vira Zabudko, 40, was arrested and charged with aggravated assault after attacking Karen Garcia and her two sons, 5 and 11, last Friday inside a Philadelphia apartment.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/21/107622799-0-image-m-20_1775161521546.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/21/107622799-0-image-m-20_1775161521546.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T21:34:10.568543",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Talented young Idaho kayaker drowns while enjoying his favorite pastime in Austria",
+      "link": "https://www.dailymail.co.uk/news/article-15702157/idaho-kayaker-campbell-kowalczyk-dead-austria.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:39:21",
+      "description": "Campbell Kowalczyk, a 17-year-old boy from Idaho, died this week while kayaking in Idaho. His brother Mateo shared his love of kayaking and announced his brother's death on Instagram.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622037-0-image-m-47_1775158739255.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622037-0-image-m-47_1775158739255.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T21:34:10.568545",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Pete Hegseth fires highest-ranking US Army officer in the middle of Iran war",
       "link": "https://www.dailymail.co.uk/news/article-15702615/Pete-Hegseth-fires-Army-general-middle-Iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9194,93 +9289,37 @@
       "archived_at": "2026-03-31T19:33:34.416167",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Inside the toxic cult for women where they learn to manipulate MEN for money: CLARA GASPAR exposes influencers behind the 'Pink Pill', how the 'sex carrot' they dangle works - and their truly hateful views",
-      "link": "https://www.dailymail.co.uk/news/article-15692741/cult-women-manipulate-MEN-CLARA-GASPAR-influencers-Pink-Pill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:27:10",
-      "description": "'Be ruthless in your evaluation of men.' 'Make him invest before sex.' 'Don't date financially challenged men.' 'Never split the bill.' These are some 'Female Dating Strategy' commandments.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/22/107536179-0-image-m-20_1774905177922.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/22/107536179-0-image-m-20_1774905177922.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416168",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "America's prettiest city overrun with homeless 'drug zombies' under nightmare woke mayor",
-      "link": "https://www.dailymail.co.uk/news/article-15693147/Savannah-Georgia-homelessness-drugs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:26:12",
-      "description": "An idyllic Southern city has been beset by homelessness and drug use under a Democratic mayor.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/07/107544581-0-image-a-9_1774938880770.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/07/107544581-0-image-a-9_1774938880770.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416169",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Beloved Massachusetts husband and wife named as victims of Hawaii helicopter crash",
-      "link": "https://www.dailymail.co.uk/news/article-15694547/Massachusetts-husband-wife-victims-Hawaii-helicopter-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:25:07",
-      "description": "The couple was taking an aerial tour of Hawaii's northernmost island when the helicopter went down last week. Three people were killed in the crash and two survived.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/14/107554153-0-image-m-19_1774965052350.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/14/107554153-0-image-m-19_1774965052350.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416170",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Husband of woman, 61, who was killed by 'drunk' motorist in Turkey tells of trying 'with all my strength' to stop her from being run over a second time",
-      "link": "https://www.dailymail.co.uk/news/article-15694999/Husband-tells-wife-run-drunk-driver-Turkey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:20:24",
-      "description": "Lisa Di Palma, 61, from Hornchurch in east London, was knocked down when trying to cross a dual carriageway in Fethiye, south-western Turkey.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/15/101100809-0-image-m-15_1774968924643.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/15/101100809-0-image-m-15_1774968924643.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416171",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Largest teaching union votes to oppose 'fascist' Reform in classrooms and campaign to overturn Palestine Action ban",
-      "link": "https://www.dailymail.co.uk/news/article-15694251/Largest-teaching-union-votes-oppose-Reform.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:15:06",
-      "description": "The National Education Union (NEU) passed a motion today to 'oppose' Nigel Farage's party, claiming it is 'racist, fascist and Far Right'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/15/107269081-0-Britain_s_largest_teaching_union_has_branded_Reform_UK_racist_an-a-7_1774968861772.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/15/107269081-0-Britain_s_largest_teaching_union_has_branded_Reform_UK_racist_an-a-7_1774968861772.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416172",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Iconic San Diego beaches that sit close to Tijuana closed over dangerous levels of SEWAGE in its waters",
-      "link": "https://www.dailymail.co.uk/news/article-15694455/san-diego-beach-tijuana-coronado-sewage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:12:41",
-      "description": "Southern California has been plagued by the Tijuana Sewage Crisis for years, as officials try to update infrastructure to prevent runoff.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/15/107555261-0-image-a-8_1774965673745.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/15/107555261-0-image-a-8_1774965673745.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416173",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Italian football in crisis after World Cup humiliation: Gennaro Gattuso on the brink - with TWO ex-Premier League bosses in the frame to replace him - as legend resigns and UEFA chief sends warning over Euro 2032 hosting",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15702453/Italian-football-crisis-World-Cup-humiliation-Gennaro-Gattuso-TWO-ex-Premier-League-bosses-frame-legend-resigns-UEFA-warning-Euro-2032.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T21:31:53",
+      "description": "The fall-out has already seen the resignation of the head of Italy's football association and legendary goalkeeper Gianluigi Buffon , who was working as the head of their delegation.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/22/107624017-0-image-a-47_1775165290440.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/22/107624017-0-image-a-47_1775165290440.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T21:34:10.908227",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sam Kerr responds to bombshell Chelsea exit rumours with Matildas star linked to US move",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15702623/Sam-Kerr-responds-bombshell-Chelsea-exit-rumours-Matildas-star-linked-US-move.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T21:18:11",
+      "description": "Matildas captain Sam Kerr has cast fresh doubt over her future at Chelsea after reports emerged she is set to join NWSL expansion side Denver Summit FC",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/22/107623961-0-image-a-11_1775164652316.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/22/107623961-0-image-a-11_1775164652316.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-02T21:34:10.908232",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Diogo Jota's widow reveals heartbreaking last text she sent him before Liverpool star's fatal Lamborghini crash",
       "link": "https://www.dailymail.co.uk/news/article-15702367/Diogo-Jotas-widow-reveals-heartbreaking-text-sent-Liverpool-stars-fatal-Lamborghini-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
