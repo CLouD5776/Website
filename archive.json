@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Leyland helps St Helens fight back to stun Wigan in derby",
+      "link": "https://www.bbc.com/sport/rugby-league/articles/c145kv5prrmo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T16:35:17",
+      "description": "Bill Leyland scores a dramatic pair of late tries on his St Helens debut to earn them a stunning derby win over Super League leaders Wigan Warriors.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13a5/live/3aa985e0-2f7a-11f1-a6f5-1188a52986a4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T16:52:52.759509",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
       "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T15:04:39",
@@ -2763,6 +2774,48 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Pupils face chaos this year as teachers threaten strikes over pay",
+      "link": "https://www.dailymail.co.uk/news/article-15704695/Teachers-threaten-strikes-pay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T16:39:29",
+      "description": "The NASUWT union said it would mobilise its 300,000 members in mass industrial action if ministers do not commit to a big pay rise and more funding.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/17/107410357-0-image-m-13_1775234172483.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/17/107410357-0-image-m-13_1775234172483.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T16:52:55.000405",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Secret health scare of conservative SCOTUS justice uncovered as liberals fear Trump is plotting court shake-up",
+      "link": "https://www.dailymail.co.uk/news/article-15704147/justice-alito-health-scare-trump-appointments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T16:33:25",
+      "description": "A liberal group is sounding the alarm that Donald Trump could add two conservative Justices to the Supreme Court before his term is over.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639085-0-image-m-12_1775226577495.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639085-0-image-m-12_1775226577495.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T16:52:55.000412",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "NYC shooting that killed baby girl wasn't random as police reveal likely target of deadly drive-by",
+      "link": "https://www.dailymail.co.uk/news/article-15704133/kaori-jamari-patterson-nyc-shooting-baby-target.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T16:25:52",
+      "description": "Kaori Patterson Moore, seven months, was fatally shot in the head on Wednesday in Brooklyn, New York. She was with her parents, Jamari Patterson and Lianna Moore, and her brother.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639511-0-image-m-19_1775227225000.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639511-0-image-m-19_1775227225000.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T16:52:55.000414",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump asks for eye-popping number to fund Pentagon as he rips through $1 billion per DAY on Iran war",
       "link": "https://www.dailymail.co.uk/news/article-15704335/trump-pentagon-budget-increase-iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9720,51 +9773,65 @@
       "archived_at": "2026-04-01T02:11:31.768531",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Tony Burke is grilled over decision to grant visa to Islamic preacher who described Hitler as a 'divine punishment against Jews'",
-      "link": "https://www.dailymail.co.uk/news/article-15696245/tony-burke-albanese-Mizanur-Azhari-islam-radical.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T01:52:49",
-      "description": "The radical Islamic preacher is touring Australia over Easter as part of his 'Legacy of Faith' series, with stops in Brisbane, Melbourne, Sydney and Canberra.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568709-0-image-m-14_1775002901878.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568709-0-image-m-14_1775002901878.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768537",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Bloodied wife seen in bodycam footage moments after top doctor husband\u00a0'tried to bludgeon her to death with a rock' on Hawaii cliff",
-      "link": "https://www.dailymail.co.uk/news/article-15696399/Arielle-Konig-blood-Gerhardt-trial.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T01:47:34",
-      "description": "Gruesome body camera footage showed  blood running down Arielle Konig's face after her husband, Gerhardt, allegedly tried to kill her on a scenic Hawaiian trail last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568325-0-image-a-32_1775004220579.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568325-0-image-a-32_1775004220579.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768539",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The fatal hospital blunder that cost young tradie, 22, his life - as his harrowing last words are revealed",
-      "link": "https://www.dailymail.co.uk/news/article-15696121/Hospital-blunder-Kyle-Gallagher-death-tradie.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T01:44:22",
-      "description": "A coronial inquest into the death of Kyle Gallagher, 22, found that critical warning signs were missed in the final 24 hours of his life.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107565339-0-image-m-9_1774997095639.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107565339-0-image-m-9_1774997095639.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768540",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "'It's completely UNFAIR': Enzo Fernandez's agent hits back after Chelsea banned star for 'crossing a line' with bombshell comments - and casts major doubt on player's future with warning to the club",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704599/Enzo-Fernandez-Chelsea-ban-agent-Premier-League-Real-Madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T16:43:13",
+      "description": "Enzo Fernandez's agent has branded the Chelsea midfielder's two-match ban by his club 'completely unfair' and cast serious doubt over the player's future at Stamford Bridge.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/17/107591663-0-image-a-30_1775234279026.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/17/107591663-0-image-a-30_1775234279026.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T16:52:56.289227",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Liverpool loan star Luca Stephenson has made himself part of the furniture at Tannadice",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704065/Liverpool-loan-star-Luca-Stephenson-furniture-Tannadice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T16:25:22",
+      "description": "Dundee United's\u00a0strategy to survive and prosper in Scottish football's restrictive financial environment has two main strands.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639963-0-image-a-60_1775228207544.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639963-0-image-a-60_1775228207544.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T16:52:56.289234",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Alejandro Garnacho confirms new romance with model girlfriend after Spanish reports claimed Chelsea star 'didn't want to meet her family'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704427/Alejandro-Garnacho-Chelsea-girlfriend-Adriana-Lobaz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T16:01:58",
+      "description": "Chelsea star Alejandro Garnacho has confirmed his romance with his new Spanish model girlfriend on Instagram.\u00a0Garnacho, 21, shared images from his recent time off.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/16/107641583-0-image-a-8_1775231096575.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/16/107641583-0-image-a-8_1775231096575.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T16:52:56.289236",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "A boxing kangaroo, a lucky shirt and 'going toe-to-toe': How a Port Vale team that didn't cost a penny plans to take down Chelsea's \u00a31.5bn superstars",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15703671/Port-Vale-Chelsea-boxing-kangaroo-lucky-shirt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T16:00:49",
+      "description": "Jon Brady grimaces at the mention of the tattoo on his shoulder hidden beneath a training top. 'It's a rubbish tattoo and I should have never got it,' says the Port Vale manager.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/14/107633583-0-image-a-21_1775221481195.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/14/107633583-0-image-a-21_1775221481195.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T16:52:56.289237",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "How Atlanta transformed itself into the new capital of American soccer as the World Cup edges closer",
       "link": "https://www.dailymail.co.uk/sport/football/article-15698819/atlanta-soccer-capital-world-cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -13759,6 +13826,20 @@
   "Tucker Carlson": [],
   "Music News": [
     {
+      "title": "Serge Pizzorno reveals the \"50p microphone\" secret behind Kasabian\u2019s greatest hits",
+      "link": "https://www.music-news.com/news/UK/188151/Serge-Pizzorno-reveals-the-50p-microphone-secret-behind-Kasabian-s-greatest-hits",
+      "pubDate": "2026-04-03T15:25:00",
+      "description": "Kasabian frontman Serge Pizzorno joined The Chris Moyles Show on Radio X this morning to pull back the curtain on the band\u2019s legendary career",
+      "thumbnail": "https://www.music-news.com/images/news/kasabian4.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/kasabian4.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T16:52:59.844233",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
       "title": "\u201cA musical legacy that very few could match\u201d: John Oates on the enduring magic of Hall & Oates",
       "link": "https://www.music-news.com/news/UK/188130/A-musical-legacy-that-very-few-could-match-John-Oates-on-the-enduring-magic-of-Hall-Oates",
       "pubDate": "2026-04-03T14:59:00",
@@ -15090,6 +15171,17 @@
     }
   ],
   "Crev": [
+    {
+      "title": "The Mathematics of Good Friday",
+      "link": "https://crev.info/2026/04/mathematics-of-good-friday/?utm_source=rss&utm_medium=rss&utm_campaign=mathematics-of-good-friday",
+      "pubDate": "2026-04-03T16:36:42",
+      "description": "In this Illustra video of a true story, the numbers turn an atheist to faith in Jesus Christ.",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-03T16:53:01.007289",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Genes Tell Time with Help from \u2018Junk\u2019 DNA",
       "link": "https://crev.info/2026/04/jw-genes-tell-time/?utm_source=rss&utm_medium=rss&utm_campaign=jw-genes-tell-time",
