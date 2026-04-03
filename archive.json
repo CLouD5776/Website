@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "M&S boss calls for more action on crime and abuse of staff",
+      "link": "https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T05:40:00",
+      "description": "Thinus Keeve's comments come days after an M&amp;S store was targeted during disorder in south London.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db04/live/86ffeb10-2f1a-11f1-a70a-0d0fc2b74d5f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T06:10:35.691990",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The thorny issues facing F1 over racing, qualifying and safety",
+      "link": "https://www.bbc.com/sport/formula1/articles/c4gv75ndl1xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T05:15:49",
+      "description": "Andrew Benson analyses what we have learned during the first month of the new F1 rules, and the problems that need to be addressed.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b2/live/6390fd50-2e6f-11f1-97bf-db9f3eb092dc.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T06:10:35.692001",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Only Lauren can match her' - Price in talks to fight Shields",
+      "link": "https://www.bbc.com/sport/boxing/articles/c4gld344v4lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T05:11:54",
+      "description": "Welterweight champion Lauren Price is in discussions to fight undisputed heavyweight champion Claressa Shields at middleweight.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b21/live/093f16b0-2ed4-11f1-b297-95b0a0a8331e.png",
+      "enclosure": null,
+      "archived_at": "2026-04-03T06:10:35.692004",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sutton's FA Cup predictions v boxer Richard Riakporhe",
+      "link": "https://www.bbc.com/sport/football/articles/ce3dvdryr4zo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T18:16:10",
+      "description": "Chris Sutton takes on boxer Richard Riakporhe plus the BBC readers and AI with his predictions for this weekend's FA Cup quarter-finals.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ec/live/12ceec60-2dd9-11f1-934f-036468834728.png",
+      "enclosure": null,
+      "archived_at": "2026-04-03T06:10:35.692005",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Artemis II blasts ever closer to the far side of the Moon",
       "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T03:35:28",
@@ -2422,6 +2466,342 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "RICHARD SHIRREFF: Will Trump choose peace - or a bloody escalation?",
+      "link": "https://www.dailymail.co.uk/debate/article-15702689/RICHARD-SHIRREFF-Trump-choose-peace-bloody-escalation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T06:00:39",
+      "description": "Yes, the American military performance has been outstanding, with the enemy leadership decimated. But there has been no regime change in Tehran, and the mullahs keep fighting.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/07/107630279-0-image-m-3_1775196027350.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/07/107630279-0-image-m-3_1775196027350.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871030",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mother Clanger returns to her family after 50 years! Deathbed confession from thief who stole the children's TV puppet when he was a tearaway teen gives happiest of endings to enduring mystery",
+      "link": "https://www.dailymail.co.uk/tv/article-15702917/deathbed-confession-Mother-Clanger.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T04:37:44",
+      "description": "A beloved puppet from one of Britain's best-known children's television shows is back in its rightful place this weekend, more than half a century after being stolen.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/01/107627185-0-image-m-47_1775176117875.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/01/107627185-0-image-m-47_1775176117875.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871033",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tiger Woods 'called Donald Trump in wake of crash' as DUI arrest of golf legend takes shocking twist",
+      "link": "https://www.dailymail.co.uk/sport/golf/article-15702771/tiger-woods-donald-trump-florida-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T04:28:10",
+      "description": "The golf legend was arrested after\u00a0rolling his SUV on Friday while attempting to overtake a vehicle at high speed, before cops found two opioid pills in his pocket and put him behind bars.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/23/107625133-0-image-a-11_1775168114151.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/23/107625133-0-image-a-11_1775168114151.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871035",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Alice Evans claims brutal feud and salacious allegations against Marvel star ex Ioan Gruffudd somehow HELPED his career",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15703007/Alice-Evans-allegations-Marvel-Ioan-Gruffudd.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T01:32:06",
+      "description": "Asked if her online talk about Gruffudd was meant to ruin his acting career, Evans said 'No,' launching into a commentary about the morals of the movie business.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/01/106818229-0-Gruffudd_with_his_wife_Bianca_Wallace_The_actor_claims_Evans_has-a-10_1775177688979.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/01/106818229-0-Gruffudd_with_his_wife_Bianca_Wallace_The_actor_claims_Evans_has-a-10_1775177688979.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871038",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I've been a doctor for 50 years, and I can see through Labour's cynical stunt to reduce NHS waiting lists. Forget greedy doctors - it's the patients who should go on strike, by DR MARTIN SCURR",
+      "link": "https://www.dailymail.co.uk/debate/article-15702533/Labours-stunt-reduce-NHS-waiting-lists-greedy-doctors-patients-strike-DR-MARTIN-SCURR.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T00:58:23",
+      "description": "Even the most casual observer couldn't help but see through the NHS's obvious ruse to meet Health Secretary Wes Streeting's target of lower hospital waiting lists.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622049-0-image-m-16_1775158323053.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622049-0-image-m-16_1775158323053.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871040",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Inside the world's fattest country - where 95% of residents are overweight or obese and almost half have Type 2 Diabetes",
+      "link": "https://www.dailymail.co.uk/travel/article-15700933/country-highest-obesity-rates-diabetes-costly-food.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T00:49:24",
+      "description": "The remote Micronesian nation, with an area of just 21 square metres, is the fattest country in the world - with over 90 per cent of inhabitants classed as overweight or obese.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/16/107615807-0-image-a-4_1775142364539.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/16/107615807-0-image-a-4_1775142364539.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871041",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Huw Edwards has been inundated with TV offers to 'tell his side of the story', former publicist claims",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15702855/Huw-Edwards-TV-offers-former-publicist.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T00:15:55",
+      "description": "Last week this newspaper revealed he hired veteran publicist Barry Tomes on a pro bono basis for seven days to help rebuild his career. He briefed Edwards on the offers on Wednesday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/00/107626339-0-image-m-63_1775173010445.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/00/107626339-0-image-m-63_1775173010445.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871043",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "ALISON BOSHOFF: Zuckerberg turns his nuclear bunker into Ewok forest from Star Wars",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15702807/ALISON-BOSHOFF-Zuckerberg-Ewok-forest-Star-Wars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T00:07:36",
+      "description": "Meta billionaire Mark Zuckerberg is constructing a bunker under his compound in California, complete with a forest of (fake) giant sequoia trees.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/23/107625383-0-image-m-15_1775169315220.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/23/107625383-0-image-m-15_1775169315220.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871044",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Scott Mills' 'murky' relationship started with much younger husband while under investigation from police: Insider tells of 'odd and untoward' beginning and 'crossover' to DOLLY BUSBY",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15702401/Scott-Mills-murky-relationship-started-younger-husband-investigation-police-Insider-tells-odd-untoward-beginning-crossover-DOLLY-BUSBY.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T23:43:01",
+      "description": "In the wake of the news about Scott Mills' shock axing from the BBC last Friday, I can reveal the truth of what really happened in the early days of his relationship to husband Sam Vaughan.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621317-0-image-a-10_1775155809639.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621317-0-image-a-10_1775155809639.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871045",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I'll never forget the horror of discovering my 'gentle giant' partner was a paedophile. I called the police after finding 400 vile images. Now I'm ready to tell my story - and help other women living through the shame: ROSIE NELSON",
+      "link": "https://www.dailymail.co.uk/lifestyle/article-15701785/never-forget-horror-partner-paedophile-vile-images-ROSIE-NELSON.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T23:42:52",
+      "description": "Rosie Nelson still wonders about all sorts of things in relation to her ex- a man she now refers to as 'Pete the Paedophile'. 'You can't help but go over everything and think, \"Was this significant?\"'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/16/107615933-0-image-a-15_1775142633246.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/16/107615933-0-image-a-15_1775142633246.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871047",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "MIKE STONE was Man United's doctor in the glory years - this is the truth about Wayne Rooney's metatarsal, the boot that hit David Beckham and Rio Ferdinand's failed drugs test... and why Sir Alex Ferguson sacked him",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15700621/Manchester-United-club-doctor-Mike-Stone-Ferguson-Rooney-Beckham-Ferdinand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T23:42:17",
+      "description": "Here, in his own words, DR MIKE STONE reveals what really happened in his time as Manchester United's club doctor - and the truth about why Sir Alex Ferguson sacked him.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/12/107609107-0-image-a-65_1775129347101.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/12/107609107-0-image-a-65_1775129347101.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871048",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I cut my toxic sister out of my life five years ago. I blocked her number and moved house without telling her. My husband says I'm cruel\u2026 but when you hear what she said to me you'll understand why I did it",
+      "link": "https://www.dailymail.co.uk/lifestyle/family-parenting/article-15702087/cut-toxic-sister-life-blocked-number-moved-house-husband-cruel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T23:40:12",
+      "description": "You hear a lot about people who've estranged themselves from their parents, but much less from those who've cut off a sibling. Even my husband said it felt harsh.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/17/107618493-0-image-a-10_1775147679457.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/17/107618493-0-image-a-10_1775147679457.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871049",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Horrifying new twist behind Towie star Jordan Wright's death. He was last seen sprinting in terror before being found a ditch. Now FRED KELLY'S forensic investigation into his final hours tells who he was running from...",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15702473/Horrifying-twist-Towie-star-Jordan-Wrights-death-sprinting-terror-ditch-FRED-KELLY.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T23:36:14",
+      "description": "Considering Wright's clearly disturbed state prior to his death, rumours swirled that he may have been a victim of the island's thriving drink and drugs culture.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107620797-0-image-m-40_1775157575889.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107620797-0-image-m-40_1775157575889.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871050",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "EDEN CONFIDENTIAL: Third cancer shock for wife of The Crown star John Standing",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15702481/EDEN-CONFIDENTIAL-cancer-shock-wife-Crown-star-John-Standing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T23:35:57",
+      "description": "John Standing - officially 4th baronet Sir John Leon - is now reprising the most significant role of his life. He is, I can disclose, once more caring for his wife, Sarah.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/22/107622159-0-image-m-25_1775164285256.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/22/107622159-0-image-m-25_1775164285256.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871052",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Judge delivers brutal dismissal of Blake Lively's fat-shaming and sexual harassment claims in major pre-trial win for Justin Baldoni",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15702687/Justin-Baldoni-judge-DISMISSES-Blake-Lively-sexual-harassment.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T23:20:28",
+      "description": "Justin Baldoni has secured a major win over Blake Lively as a judge has dismissed all of the actress' sexual harassment claims against him ahead of their trial.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/22/107623847-0-image-a-44_1775164248431.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/22/107623847-0-image-a-44_1775164248431.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871053",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "FRANK FUREDI: Starmer's 'summit' is nothing but a coup by an anti-Brexit Establishment that's worked relentlessly to drag us back in to a failing EU bloc",
+      "link": "https://www.dailymail.co.uk/columnists/article-15702389/FRANK-FUREDI-Starmers-summit-coup-anti-Brexit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T22:30:05",
+      "description": "There are few more obvious winners amid the destruction of America's war in the Gulf than the influential gang of Remainers who dominate public life - in parliament and beyond.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/21/107622839-0-image-m-15_1775161364703.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/21/107622839-0-image-m-15_1775161364703.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871054",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Revealed: The Pink Floyd bassist who is chimed with village life... and taken up bell-ringing",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15702795/Pink-Floyd-bassist-chimed-village-bell-ringing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T22:19:02",
+      "description": "But after decades on stage, Guy Pratt now has a 'yen' for 'more genteel pursuits' and has taken up bell-ringing in his local church.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/23/107625137-0-image-a-4_1775168136026.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/23/107625137-0-image-a-4_1775168136026.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871055",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The four types of dementia people don't know exist... and the symptoms to look out for",
+      "link": "https://www.dailymail.co.uk/health/article-15701519/four-unknown-types-dementia-symptoms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T21:24:46",
+      "description": "When most people think of dementia, a specific image comes to mind. However, there are several subtypes of the disease that fly under the radar and don't cause hallmark memory loss off the bat.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/17/107618557-0-image-m-28_1775147165133.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/17/107618557-0-image-m-28_1775147165133.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871056",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Diogo Jota's widow reveals heartbreaking last text she sent him before Liverpool star's fatal Lamborghini crash",
+      "link": "https://www.dailymail.co.uk/news/article-15702367/Diogo-Jotas-widow-reveals-heartbreaking-text-sent-Liverpool-stars-fatal-Lamborghini-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T20:38:37",
+      "description": "Rute Cardoso sent the heartbreaking text just moments before the striker and his younger brother Andre Silva died when the\u00a0car he was driving careered off a motorway in northern Spain in July.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/99960287-0-Childhood_sweethearts_they_married_just_days_ago_before_the_foot-a-8_1775158095170.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/99960287-0-Childhood_sweethearts_they_married_just_days_ago_before_the_foot-a-8_1775158095170.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871058",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "RICHARD LITTLEJOHN: Oh what a lovely war... for Labour. How Starmer and his government are now blaming Trump for ALL their failings",
+      "link": "https://www.dailymail.co.uk/debate/article-15701967/RICHARD-LITTLEJOHN-lovely-war-Labour-Starmer-government-blaming-Trump-failings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T16:32:40",
+      "description": "Keir Starmer seems to have embraced Oh! What A Lovely War as a convenient catch-all excuse for the carnage created by his own hopeless Government.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/17/107617025-0-image-m-17_1775146029813.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/17/107617025-0-image-m-17_1775146029813.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871059",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Why your supplements aren't working: They promise cures for everything from menopause to poor sleep, but these are the reasons they might not be as effective as they claim\u2026 and the four you should REALLY be taking",
+      "link": "https://www.dailymail.co.uk/lifestyle/fitness-wellbeing/article-15695509/supplements-promise-cures-menopause-poor-sleep-effective.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-02T16:08:07",
+      "description": "We spend \u00a3600million a year on them, but those pills and powders may not be doing what you think, says Polly Dunbar",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606871-0-image-a-5_1775125121847.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606871-0-image-a-5_1775125121847.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871060",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "MAGA congressman says Americans would become 'unglued' over alien briefings: 'You'd be up at night worrying'",
+      "link": "https://www.dailymail.co.uk/news/article-15702199/congressman-alien-worries-america-briefing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T05:56:08",
+      "description": "Tennessee Rep. Tim Burchett, a Republican, said the country deserved 'full disclosure' following a recent classified briefing about extraterrestrial life two weeks ago.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/06/107629647-0-image-m-106_1775193912302.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/06/107629647-0-image-m-106_1775193912302.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871063",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "D-day for Australia's highest earning real estate agent Josh Tesolin as he cops 10-year ban from the industry",
+      "link": "https://www.dailymail.co.uk/news/article-15703219/Josh-Tesolin-real-estate-agent-10-year-ban.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T05:08:25",
+      "description": "Australia's leading real estate agent has been hit with a massive ban following findings of misconduct.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/05/107629451-0-image-m-64_1775190704049.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/05/107629451-0-image-m-64_1775190704049.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871064",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Glamorous Massachusetts cop plans to turn tables on fellow officers who shot her after being acquitted in scandalous trial",
+      "link": "https://www.dailymail.co.uk/news/article-15703167/massachusetts-cop-shot-acquitted-trial-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T05:06:26",
+      "description": "Kelsey Fitzsimmons, 29, announced her plans to sue after being found not guilty last week of pulling a gun on her North Andover Police Department colleagues during the fracas.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/05/107629403-0-image-m-110_1775189846006.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/05/107629403-0-image-m-110_1775189846006.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:35.871065",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump puts more Cabinet members on chopping block as Pete Hegseth axes two additional Army officers",
       "link": "https://www.dailymail.co.uk/news/article-15703041/Trump-Hegseth-cabinet-firings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9085,342 +9465,6 @@
       "archived_at": "2026-03-31T19:33:34.416078",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Brain surgeon who 'thought he was going to die' when lift he was in plunged four floors sues NHS for \u00a3200,000",
-      "link": "https://www.dailymail.co.uk/news/article-15693963/Brain-surgeon-thought-die-hospital-lift-legal-battle-NHS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T16:53:08",
-      "description": "Neurosurgery specialist Dr Steven Tominey (pictured) was left with life changing injuries to his leg following his traumatic ordeal at the Royal London Hospital, in Whitechapel, east London, in 2024.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/11/107549079-0-image-m-13_1774952910372.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/11/107549079-0-image-m-13_1774952910372.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416079",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Private school pupil, 16, killed himself a day after asking ChatGPT for advice on how to take his own life",
-      "link": "https://www.dailymail.co.uk/news/article-15693927/Private-school-pupil-16-killed-day-asking-ChatGPT-advice-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T16:52:41",
-      "description": "Luca Walker, 16, asked the AI chat bot about suicide hours before his death on a train track.\nHe was able to 'sidestep' ChatGPT safeguarding protocols by claiming it was for research.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/09/107547047-0-image-a-7_1774947217124.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/09/107547047-0-image-a-7_1774947217124.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416080",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Labour MP Karl Turner suspended by party after leading rebellion over plan to limit jury trials and criticising Keir Starmer",
-      "link": "https://www.dailymail.co.uk/news/article-15694747/Labour-suspends-MP-Karl-Turner-criticised-Governments-plan-limit-trial-jury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T16:37:40",
-      "description": "The\u00a0Kingston upon Hull East MP, 54, has repeatedly hit out at David Lammy's proposal to allow juries to hear only the most serious criminal cases.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107553137-0-image-a-15_1774961358248.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107553137-0-image-a-15_1774961358248.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416082",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Crime on the Tube has soared 46 per cent under Sadiq Khan and most Londoners are afraid to ride it at certain times of day, damning report finds",
-      "link": "https://www.dailymail.co.uk/news/article-15693867/The-Criminal-Underground-Crimes-committed-Londons-Tube-network-46-cent-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T16:03:38",
-      "description": "Around 48,000 crimes were reported across Transport for London (TfL) services in 2025 - up 46 per cent against a pre-pandemic average of 16,544.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/12/107550865-0-image-m-38_1774955400606.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/12/107550865-0-image-m-38_1774955400606.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416083",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Pair of women who smashed up hotel lobby in drunken rampage are banned from EVERY pub, bar, nightclub and hotel in Britain",
-      "link": "https://www.dailymail.co.uk/news/article-15694331/Pair-women-smashed-hotel-lobby-banned-pub-hotel-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:29:15",
-      "description": "Kera McKeown and Larisa Sumovskaja, both 19, who left a 'trail of destruction' at the Trouville Hotel in Bournemouth, Dorset, last April, have now been banned from other establishments in the UK.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/12/105895885-0-image-m-11_1774956978912.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/12/105895885-0-image-m-11_1774956978912.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416084",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Pictured: Beautician and man accused of stabbing girl, 16, to death in 'row over a boy' - as they appear in court accused of murder alongside teenager",
-      "link": "https://www.dailymail.co.uk/news/article-15693915/Three-teenagers-charged-murder-girl-16-stabbed-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:05:10",
-      "description": "Kayla Smith, 18, who is accused of stabbing\u00a016-year-old Chloe Dransfield to death on Saturday after a 'row over a boy', has been pictured.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/12/107551661-0-image-m-34_1774957719771.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/12/107551661-0-image-m-34_1774957719771.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416085",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Girl, 7, found dead in pond at golf course as mother pays tribute to her 'sweet little girl'",
-      "link": "https://www.dailymail.co.uk/news/article-15694723/Child-dead-pond-golf-course-youngster-reported-missing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T14:53:27",
-      "description": "Nyla May Bradshaw was found at Owston Hall golf course in Doncaster, South Yorkshire yesterday following a huge search and rescue operation.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/14/107555139-0-image-m-10_1774965123725.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/14/107555139-0-image-m-10_1774965123725.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416086",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "How Europe has turned its back on Trump: Italy blocks US bomber from landing, Spain closes airspace and Poland 'denies Patriots request' as furious president lashes out at UK and EU",
-      "link": "https://www.dailymail.co.uk/news/article-15694313/How-Europe-turned-Trump-Italy-blocks-US-bomber-landing-Spain-closes-airspace-Poland-denies-Patriots-request-furious-president-lashes-UK-EU.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T14:39:23",
-      "description": "Europe has turned its back on Donald Trump's war in the Middle East, with Italy, Spain and Poland refusing to support American operations against Iran.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107552261-0-image-m-42_1774959825631.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107552261-0-image-m-42_1774959825631.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416087",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Residents in picture perfect 'Venice of the Cotswolds' say they are under siege by tourists who are ruining their village - after 300,000 day-trippers arrived in just one year",
-      "link": "https://www.dailymail.co.uk/news/article-15694147/Residents-Venice-Cotswolds-tourists-village-day-trippers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T14:30:07",
-      "description": "Bourton-on-the-Water is regularly crowded with international visitors taking pictures and vlogging, after being dubbed the 'Venice of the Cotswolds' for its beautiful low bridges.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/15/100673855-0-A_group_of_women_walk_near_picturesque_buildings_in_Bourton_on_t-a-21_1774965960275.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/15/100673855-0-A_group_of_women_walk_near_picturesque_buildings_in_Bourton_on_t-a-21_1774965960275.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416088",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment brazen thieves take young boy on petrol station raid in broad daylight - as UK fuel shortage fears surge amid Iran war blockades",
-      "link": "https://www.dailymail.co.uk/news/article-15694411/Moment-brazen-thieves-young-boy-petrol-station.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T14:13:13",
-      "description": "Footage shows the group of three men pulling into a garage in Blandford Forum, Dorset,\u00a0in a van towing an orange wood mulcher.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107552045-0-image-m-11_1774959020000.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107552045-0-image-m-11_1774959020000.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416089",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment murderer who smothered his ex with blue tape slumps beside a motorway and confesses to traffic officer: 'I've killed my girlfriend'",
-      "link": "https://www.dailymail.co.uk/news/article-15694549/Moment-murderer-smothered-killed-girlfriend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T13:25:47",
-      "description": "Polish man Norbert Maiksner, 49, murdered 'devoted mother'\u00a0Frances Obiefuleh, 45, in her own home in Havant, Hampshire, on April 16 last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107552833-0-image-m-47_1774960831764.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107552833-0-image-m-47_1774960831764.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416090",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ted Lasso star Hannah Waddingham's grandad and Britain's oldest war veteran dies aged 109",
-      "link": "https://www.dailymail.co.uk/news/article-15694587/Ted-Lasso-Hannah-Waddinghams-grandad-Britains-war-veteran-dies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T13:16:26",
-      "description": "World War II veteran Harry Waddingham became the country's oldest living veteran following the death of Donald Rose, 110, in July 2025. He has since died at the age of 109.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/14/107552609-0-image-m-1_1774962329354.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/14/107552609-0-image-m-1_1774962329354.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416092",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Reform UK set to become Scotland's second-largest party ahead of Tories and Labour at Holyrood elections in May, poll shows - while SNP will fall short of a majority",
-      "link": "https://www.dailymail.co.uk/news/article-15694161/Reform-UK-set-Scotlands-second-largest-party-ahead-Tories-Labour-Holyrood-elections-poll-shows-SNP-fall-short-majority.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T13:01:05",
-      "description": "A survey of more than 1,000 Scottish voters, conducted by Survation for the Diffley Partnership, forecast Nigel Farage's party will win 19 seats in the Scottish Parliament.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107553159-0-image-m-8_1774961346254.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107553159-0-image-m-8_1774961346254.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416094",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Nigel Farage bids to save family holidays from Middle East crisis: Reform calls for axing of air passenger duty when adults travel with children",
-      "link": "https://www.dailymail.co.uk/news/article-15694287/Nigel-Farage-bids-save-family-holidays-Middle-East-crisis-Reform-calls-axing-air-passenger-duty-adults-travel-children.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T12:48:19",
-      "description": "Nigel Farage claimed scrapping the 'family holiday tax' would be a 'Brexit benefit', with his party saying it would save families \u00a345 on flights to Europe, or \u00a348 on flights within the UK.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/12/107550921-0-image-m-19_1774955668116.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/12/107550921-0-image-m-19_1774955668116.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416095",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Teenage farm worker, 17, was crushed to death in malfunctioning bale wrapping machine, inquest told",
-      "link": "https://www.dailymail.co.uk/news/article-15694479/Teenage-farm-worker-17-crushed-malfunctioning-bale-machine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T12:42:20",
-      "description": "Teenage farm worker Luke Searle, 17, was fatally crushed while using a bale wrapping machine that had malfunctioned, on Sherwell farm, Plympton, Devon, an inquest has heard.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107552601-0-image-m-37_1774960018642.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107552601-0-image-m-37_1774960018642.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416096",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Doctor's union dares Starmer to follow through on his ultimatum over jobs and pay row, warning patients will suffer",
-      "link": "https://www.dailymail.co.uk/news/article-15694435/Doctors-union-dares-Starmer-follow-ultimatum-jobs-pay-row-warning-patients-suffer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T12:36:26",
-      "description": "The prime minister has accused resident doctors of 'recklessly' walking away from an offer that would have seen some earn more than \u00a3100,000 a year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107201545-0-image-a-11_1774958489416.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107201545-0-image-a-11_1774958489416.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416097",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scott Mills talked about never knowing when his career would end just a month before his BBC sacking 'over relationship from more than 10 years ago'",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15692349/Scott-Mills-career-BBC-sacking-relationship-male.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:36:01",
-      "description": "The former Radio 2 DJ, 53, who was axed by the broadcaster on Monday, had admitted in recent years he had been branching out into TV projects outside of his 'natural environment.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/19/107534327-0-image-m-17_1774896675120.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/19/107534327-0-image-m-17_1774896675120.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416098",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scott Mills' Radio 2 stand-in Gary Davies 'plays back to back records' and doesn't mention sacked colleague during awkward Breakfast Show as it emerges DJ was fired in 'tense' meeting with BBC bosses within five days of complaint",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15693683/Scott-Mills-Radio-2-Gary-Davies-doesnt-mention-sacked-colleague-awkward-DJ-fired.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:34:21",
-      "description": "Gary Davies opened the Radio 2 Breakfast Show on Tuesday morning with no mention of his sacked colleague Scott Mills.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/08/107545381-0-image-a-13_1774942426791.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/08/107545381-0-image-a-13_1774942426791.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416100",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Paranoid Dubai residents have started reporting group chat members for sharing pictures of Iranian drone and missile attacks, rights activist reveals",
-      "link": "https://www.dailymail.co.uk/news/article-15693741/Paranoid-Dubai-residents-started-reporting-group-chat-members-sharing-pictures-Iranian-drone-missile-attacks-rights-activist-reveals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:17:17",
-      "description": "A human rights activist has claimed that paranoid residents in Dubai have started reporting members of group chats who share pictures of Iranian drone and missile attacks to authorities.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/08/107498735-0-image-m-11_1774942697213.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/08/107498735-0-image-m-11_1774942697213.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416101",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I was an expert witness who reviewed the medical evidence that put Lucy Letby behind bars - this is what defenders of the killer nurse get so wrong about the case",
-      "link": "https://www.dailymail.co.uk/news/crime-desk/article-15692267/sandie-bohin-expert-witness-lucy-letby-medical-evidence-defenders-wrong.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:11:49",
-      "description": "In an exclusive episode of the Trial podcast, Liz Hull and Caroline Cheetham interview Dr Sandie Bohin, a neonatologist who acted as an expert witness during Letby's murder trial.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/09/107547099-0-image-m-21_1774947437771.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/09/107547099-0-image-m-21_1774947437771.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416102",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Starmer gives junior doctors 48 hours to halt their 'reckless' strike",
-      "link": "https://www.dailymail.co.uk/news/article-15692923/Starmer-junior-doctors-strike.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:03:40",
-      "description": "The medics will walk out for six days from April 7 to April 13 - just after the Easter Bank Holiday weekend - in pursuit of a 26 per cent pay rise.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/23/107538087-0-image-m-17_1774909339024.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/23/107538087-0-image-m-17_1774909339024.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416103",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Israeli major 'made $160,000 in Polymarket bet using classified information on Israeli bombing campaign in Iran'",
-      "link": "https://www.dailymail.co.uk/news/article-15693941/Israeli-major-160-000-Polymarket-bet-using-classified-information-Israeli-bombing-campaign-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T10:58:48",
-      "description": "The reservist officer allegedly tipped off a civilian accomplice about the launch of the strikes, allowing the pair to place winning bets on the Polymarket prediction site ahead of the operation.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/09/107547201-0-image-a-7_1774947543472.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/09/107547201-0-image-a-7_1774947543472.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416104",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Household energy bills set to soar by \u00a3288 a year from July as Iran war sends wholesale costs rocketing - with Brits warned of an even bigger hit in the autumn",
-      "link": "https://www.dailymail.co.uk/news/article-15693997/Household-energy-bills-set-soar-288-year-July-Iran-war-sends-wholesale-costs-rocketing-Brits-warned-bigger-hit-autumn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T09:23:43",
-      "description": "Latest forecasts by experts at Cornwall Insight predicted that Ofgem's energy price cap from July to September will be \u00a31,929 for a typical dual fuel household.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/10/107547545-0-image-a-6_1774948450735.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/10/107547545-0-image-a-6_1774948450735.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416106",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Getting poorer under Labour? Household incomes fell across 2025 amid high-tax misery - with fears Iran carnage will make things worse",
-      "link": "https://www.dailymail.co.uk/news/article-15693975/Getting-poorer-Labour-Household-incomes-fell-2025-amid-high-tax-misery-fears-Iran-carnage-make-things-worse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T08:54:43",
-      "description": "Official national accounts confirmed the economy was effectively grinding to a halt in the final quarter of last year, even before the Iran War.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/09/107546585-0-image-m-9_1774946880100.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/09/107546585-0-image-m-9_1774946880100.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416107",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
@@ -13263,6 +13307,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Olivia Rodrigo 'so proud' of third studio album",
+      "link": "https://www.music-news.com/news/UK/188138/Olivia-Rodrigo-so-proud-of-third-studio-album",
+      "pubDate": "2026-04-03T05:00:00",
+      "description": "The album is now available for pre-order and is set to drop on 12 June.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188138.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188138.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:39.314605",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Lindsey Buckingham stalker claims she's his daughter",
+      "link": "https://www.music-news.com/news/UK/188137/Lindsey-Buckingham-stalker-claims-she-s-his-daughter",
+      "pubDate": "2026-04-03T05:00:00",
+      "description": "The woman accused of stalking Fleetwood Mac guitarist Lindsey Buckingham has spoken out.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188137.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188137.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T06:10:39.314611",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Brian Littrell refutes reports he used homophobic slur",
       "link": "https://www.music-news.com/news/UK/188136/Brian-Littrell-refutes-reports-he-used-homophobic-slur",
