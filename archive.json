@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Starmer's cost-of-living adviser calls for fuel duty cut extension",
+      "link": "https://www.bbc.com/news/articles/cy81g8ypz6do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T21:31:46",
+      "description": "Lord Walker suggests the government should keep the 5p cut in place due to increased costs caused by war in the Middle East.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c48/live/8b6ae1b0-2f9b-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T22:00:12.355883",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Saints pass stern Castres test to reach last eight",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/c070d4vk8g9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T21:32:40",
+      "description": "Northampton are given a stern examination of their Champions Cup credentials by impressive Castres but win an engrossing contest to reach the quarter-finals.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db6/live/0c5e6190-2fa4-11f1-a84d-a70cf943ddbd.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T22:00:12.355896",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Guardiola wants Rodri to stay but says unhappy stars can go",
+      "link": "https://www.bbc.com/sport/football/articles/c5yvl42y4xeo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T21:30:31",
+      "description": "Manchester City manager Pep Guardiola says unhappy players can leave the club, but he hopes midfielder Rodri will stay.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5931/live/55f752d0-2fa4-11f1-a84d-a70cf943ddbd.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T22:00:12.355898",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
       "link": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T20:43:33",
@@ -9930,6 +9963,62 @@
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Pep Guardiola reveals Man City's stance on Rodri after star hinted at interest in bombshell Real Madrid move - with just over a year left on his contract",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704239/Pep-Guardiola-reveals-Man-City-stance-Rodri-Real-Madrid-contract.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T21:30:49",
+      "description": "JACK GAUGHAN: Rodri had claimed on international duty that Real would be tough to turn down and insisted that his previous allegiance with city rivals Atletico would prove no barrier.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/14/107638069-0-image-a-70_1775223543368.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/14/107638069-0-image-a-70_1775223543368.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T22:00:18.012257",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'This season has been a wake-up call': Martin O'Neill urges club to learn from recent mistakes as Celtic boss hints at future role behind the scenes",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704627/This-season-wake-call-Martin-ONeill-urges-club-learn-recent-mistakes-Celtic-boss-hints-future-role-scenes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T21:51:40",
+      "description": "Martin O'Neill wants Celtic to learn from the mistakes made this season - as he hinted that he might be willing play a part in the club's future.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/20/107646011-0-image-a-18_1775243518856.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/20/107646011-0-image-a-18_1775243518856.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T22:00:18.012266",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "This early meeting with Man City fans ensured Pep Guardiola would always treat the FA Cup with love and respect - no wonder they can boast this astonishing record, writes JACK GAUGHAN",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15703675/This-early-meeting-Man-City-fans-ensured-Pep-Guardiola-treat-FA-Cup-love-respect-no-wonder-boast-astonishing-record-writes-JACK-GAUGHAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T21:30:55",
+      "description": "Pep Guardiola has done his fair share of dinners over a decade at Manchester City and one early in the manager's tenure helped shape an attitude that has brought untold domestic success.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/16/107640491-0-image-a-5_1775228807400.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/16/107640491-0-image-a-5_1775228807400.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T22:00:18.012268",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arne Slot opens up on criticism over his handling of Mohamed Salah after superstar ripped up his contract to leave this summer",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704019/Arne-Slot-criticism-Mohamed-Salah-superstar-ripped-contract-leave.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T21:30:52",
+      "description": "LEWIS STEELE: Salah begins his farewell tour at Manchester City on Saturday in an FA Cup quarter-final after announcing his upcoming exit last week.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/12/107636271-0-image-a-26_1775216811127.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/12/107636271-0-image-a-26_1775216811127.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T22:00:18.012270",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Now ANOTHER Chelsea star casts doubt on their future! Moises Caicedo becomes latest Blues player to refuse to rule out leaving after being asked about Real Madrid following Enzo Fernandez ban",
       "link": "https://www.dailymail.co.uk/sport/football/article-15705129/Chelsea-Moises-Caicedo-Enzo-Fernandez-Real-Madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
