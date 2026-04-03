@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+      "link": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T15:04:39",
+      "description": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee66/live/b721c460-2f62-11f1-9c03-f3e4d4e9190c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T15:59:42.537344",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Children sell knives like clothes online, MP says",
       "link": "https://www.bbc.com/news/articles/c04xdy9zzw6o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T10:09:35",
@@ -2752,6 +2763,76 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Trump asks for eye-popping number to fund Pentagon as he rips through $1 billion per DAY on Iran war",
+      "link": "https://www.dailymail.co.uk/news/article-15704335/trump-pentagon-budget-increase-iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T15:55:07",
+      "description": "President Donald Trump is asking for an eye-popping $1.5 trillion to fund the Pentagon in his proposed budget, which was released by the White House Friday morning.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639065-0-image-a-58_1775225897126.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639065-0-image-a-58_1775225897126.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T15:59:45.315737",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Gorgeous baby great owl looks gratefully at firefighters after being rescued from storm drain",
+      "link": "https://www.dailymail.co.uk/news/article-15704009/baby-owl-rescue-vacaville-california.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T15:49:19",
+      "description": "A baby Great Horned Owl was brought to Vacaville Fire Department Station in California early Thursday morning after a local resident discovered and took it in for help.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/16/107640183-0-image-m-12_1775228877850.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/16/107640183-0-image-m-12_1775228877850.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T15:59:45.315743",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pictured: London schoolboy, 14, who was shot dead in broad daylight in 'targeted attack' - as police arrest three teenagers in murder probe",
+      "link": "https://www.dailymail.co.uk/news/article-15704525/London-schoolboy-shot-targeted-attack-police-arrest-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T15:41:55",
+      "description": "Eghosa Ogbebor was found lifeless as police responded to emergency calls at 3.40pm yesterday on Lord Warwick Street in Woolwich.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/16/107640983-0-image-m-10_1775230235195.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/16/107640983-0-image-m-10_1775230235195.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T15:59:45.315745",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "POLL OF THE DAY: Did Starmer always intend to steer Britain back towards the EU?",
+      "link": "https://www.dailymail.co.uk/news/article-15704421/POLL-DAY-Did-Starmer-intend-steer-Britain-EU.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T15:31:38",
+      "description": "As part of the move, the Government's planned food deal with the EU will see new rules that would mean marmalade would have to be renamed citrus marmalade in a bid to move closer to the bloc.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/16/107640821-0-image-a-1_1775229712917.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/16/107640821-0-image-a-1_1775229712917.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T15:59:45.315747",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Atlanta woman, 40, killed in freak ziplining accident in Puerto Rico... now her mother is struggling to bring her body home",
+      "link": "https://www.dailymail.co.uk/news/article-15703993/atlanta-woman-killed-freak-ziplining-accident-Puerto-Rico.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T15:20:36",
+      "description": "Tamirah Dix, 40, of Atlanta, allegedly struck her head during a ziplining excursion in Puerto Rico for a friend's birthday celebration and died later that night after experiencing seizures.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639799-0-image-a-58_1775227668864.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639799-0-image-a-58_1775227668864.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T15:59:45.315748",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Victims of avalanche that killed nine people were wearing special 'airbag' backpacks that failed to activate",
       "link": "https://www.dailymail.co.uk/news/article-15703979/avalanche-nine-victims-airbag-backpack-lake-tahoe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9681,79 +9762,23 @@
       "archived_at": "2026-04-01T02:11:31.768540",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "How Dezi Freeman was left looking like 'Swiss cheese' after being shot '27 times' during stand-off with cops at his remote compound",
-      "link": "https://www.dailymail.co.uk/news/article-15696341/Dezi-Freeman-shot-Victoria.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T01:35:00",
-      "description": "The cop killer was shot at about 8.30am on Monday after he was reportedly found in a 'long caravan' seven months after he disappeared.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568461-0-image-m-39_1775002528802.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568461-0-image-m-39_1775002528802.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768543",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Death row inmate who raped and murdered girl, 5, in 2021 tells prison bosses to HURRY UP and get on with it, as he gets macabre 'VIP' status",
-      "link": "https://www.dailymail.co.uk/news/article-15694513/death-row-inmate-raped-murdered-girl-prison-vip-status-bosses-demands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T01:31:44",
-      "description": "GRAPHIC CONTENT WARNING: He admitted to smoking meth and forcing the girl to also consume the dangerous drug before sexually abusing her for more than an hour.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107567951-0-image-m-75_1775005067453.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107567951-0-image-m-75_1775005067453.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768544",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "RAF Fairford in Gloucestershire could be a legitimate target for Iran's missiles, country's ambassador to UK warns: 'Every option should be considered'",
-      "link": "https://www.dailymail.co.uk/news/article-15696561/Tehran-considering-strikes-British-bases-UK-Irans-ambassador-London-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T01:29:43",
-      "description": "Tehran's envoy to London , Seyed Ali Mousavi, warned that bases connected to the US war effort may fall within reach if tensions continue to spiral.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107569179-0-image-a-8_1775004661809.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107569179-0-image-a-8_1775004661809.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768546",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussie travellers hit by crushing $800 fuel surcharge as major airline brings in eye-watering new fares - with worse to come after looming China deadline",
-      "link": "https://www.dailymail.co.uk/news/article-15692801/airfare-crisis-jet-fuel-china-exports.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T01:29:22",
-      "description": "Australians planning a holiday are facing a brutal hit to their hip pocket, with airfares set to surge even further and flights slashed as jet fuel supplies tighten and China curbs exports.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/00/107539577-0-image-m-32_1774914525829.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/00/107539577-0-image-m-32_1774914525829.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768547",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Teenage girl is gunned down in Chicago suburb as gunman remains on the loose",
-      "link": "https://www.dailymail.co.uk/news/article-15696403/teen-girl-gunned-chicago-suburb-gunman-loose.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T01:19:29",
-      "description": "Lilly Bova, 16, was fatally shot inside her home in the suburbs of Chicago as family and friends mourn and no arrests have been made.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568617-0-image-m-30_1775002844882.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568617-0-image-m-30_1775002844882.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768548",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "How Atlanta transformed itself into the new capital of American soccer as the World Cup edges closer",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15698819/atlanta-soccer-capital-world-cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T15:49:51",
+      "description": "The clock ticks ever closer to the 2026 World Cup. Atlanta will have a major role to play in that tournament as it hosts one of two semifinals of the world's most beloved sporting event.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/19/107620625-0-image-a-14_1775153475339.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/19/107620625-0-image-a-14_1775153475339.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T15:59:47.734865",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Tottenham cult hero warns Roberto De Zerbi may need to compromise principles but WILL turn Spurs into a force - as he retires and prepares for his own coaching career",
       "link": "https://www.dailymail.co.uk/sport/football/article-15704393/Tottenham-Roberto-Zerbi-principles-Premier-League-relegation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -13733,6 +13758,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "\u201cA musical legacy that very few could match\u201d: John Oates on the enduring magic of Hall & Oates",
+      "link": "https://www.music-news.com/news/UK/188130/A-musical-legacy-that-very-few-could-match-John-Oates-on-the-enduring-magic-of-Hall-Oates",
+      "pubDate": "2026-04-03T14:59:00",
+      "description": "In a deeply reflective new episode of the Rock &amp; Roll High School podcast, John Oates sits down with two-time Grammy-winning producer Pete Ganbarg",
+      "thumbnail": "https://www.music-news.com/images/news/John-Oates.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/John-Oates.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T15:59:52.481297",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Frank Turner taking his time with next album",
       "link": "https://www.music-news.com/news/UK/188145/Frank-Turner-taking-his-time-with-next-album",
