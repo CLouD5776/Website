@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Boy, 14, shot dead and teens arrested for murder",
+      "link": "https://www.bbc.com/news/articles/cj40ekewqrgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T12:01:24",
+      "description": "Two teenagers and one man are arrested after a boy, 14, was shot dead in Woolwich on Thursday.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1837/live/282678c0-2f38-11f1-bf2c-fd91bf9d4122.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T12:56:54.966085",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Italy part company with manager after failing to qualify for World Cup",
+      "link": "https://www.bbc.com/sport/football/articles/cevk0mn93ejo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T12:24:54",
+      "description": "Manager Gennaro Gattuso and Italy agree to \"mutually terminate\" his contract after their failure to qualify for a third successive World Cup.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4a8/live/a3f1bb50-2f55-11f1-b471-73a11a0c1806.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T12:56:54.966094",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "International law experts allege violations in Iran war",
       "link": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T10:18:11",
@@ -2664,6 +2686,160 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Schoolboy, 14, is shot dead in broad daylight in London as police arrest three teens in murder probe",
+      "link": "https://www.dailymail.co.uk/news/article-15704061/Schoolboy-shot-dead-London-police-arrest-teens-murder-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T12:09:19",
+      "description": "The schoolboy was found to have been fatally shot on Lord Warwick Street in Woolwich after police responded to reports of the incident at 3.40pm on Thursday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636647-0-image-m-12_1775217831755.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636647-0-image-m-12_1775217831755.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:57.302604",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Repeatedly telling your boss they are incompetent is not a sackable offence, tribunal concludes",
+      "link": "https://www.dailymail.co.uk/news/article-15703967/Repeatedly-telling-boss-incompetent-not-sackable-offence-tribunal-concludes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T12:51:37",
+      "description": "The decision comes after an engineering worker discovered his new manager was not a qualified engineer and informed him on several occasions he was not capable of doing the job.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/12/107636055-0-image-a-4_1775216023961.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/12/107636055-0-image-a-4_1775216023961.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:57.302615",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man is charged with murdering 84-year-old woman who was stabbed to death outside her home in London",
+      "link": "https://www.dailymail.co.uk/news/article-15704123/Man-charged-murdering-woman-stabbed-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T12:51:13",
+      "description": "Doris Innes, 84, was found with serious injuries on Wednesday and taken to hospital, where she died.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/13/107637129-0-image-a-7_1775220277305.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/13/107637129-0-image-a-7_1775220277305.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:57.302617",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Harrowing update on a Melbourne dad mowed down by a car outside his own home",
+      "link": "https://www.dailymail.co.uk/news/article-15704045/Harrowing-update-Melbourne-dad-mowed-car-outside-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T12:48:37",
+      "description": "Melbourne father Rayden remains in hospital almost a week after the hit-and-run.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636517-0-image-m-108_1775219499662.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636517-0-image-m-108_1775219499662.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:57.302618",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sacked boss of Pride in London claims he was forced out by 'white directors' after being investigated for spending \u00a37,000 of donations on Apple products",
+      "link": "https://www.dailymail.co.uk/news/article-15703899/boss-Pride-London-claims-white-directors-investigation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T12:17:46",
+      "description": "Christopher Joell-Deshields, who had been CEO of\u00a0Pride in London since 2021, was let go last month following an investigation into allegations over misconduct.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636545-0-image-m-18_1775218252374.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636545-0-image-m-18_1775218252374.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:57.302619",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Read NAB staffers' leaked private messages in the wake of their colleague's shocking suicide - as we reveal outrage about 'inadequate' CEO Andrew Irvine",
+      "link": "https://www.dailymail.co.uk/news/article-15696325/Read-NAB-staffers-leaked-private-messages-wake-colleagues-shocking-suicide-reveal-outrage-inadequate-CEO-Andrew-Irvine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T12:10:28",
+      "description": "Leaked posts from NAB's internal platforms shows staff saying they felt 'defeated' by the bank's worsening culture, just hours after a colleague took his own life in Melbourne.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/03/107599719-0-image-a-24_1775095906601.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/03/107599719-0-image-a-24_1775095906601.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:57.302620",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Now even Keir Starmer's 'cost of living tsar' says Rachel Reeves should scrap fuel duty hike as Brits are hammered by rising pump prices due to Iran crisis",
+      "link": "https://www.dailymail.co.uk/news/article-15703987/Now-Keir-Starmers-cost-living-tsar-says-Rachel-Reeves-scrap-fuel-duty-hike-Brits-hammered-rising-pump-prices-Iran-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T12:03:01",
+      "description": "Richard Walker, the boss of supermarket Iceland, added to growing pressure on Chancellor Rachel Reeves to cancel the looming fuel duty rise in September.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/13/106160425-0-image-m-29_1775217710118.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/13/106160425-0-image-m-29_1775217710118.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:57.302622",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "School bully, 12, is arrested for MURDER over claims she hurled metal bottle at girl, 12, and killed her",
+      "link": "https://www.dailymail.co.uk/news/article-15703969/khimberly-zavaleta-bottle-murder-bully.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T12:01:52",
+      "description": "The unidentified youth, who is also 12, was arrested by the Los Angeles Police Department after the death of Khimberly Zavaleta in February.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/12/107635977-0-image-m-6_1775215712867.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/12/107635977-0-image-m-6_1775215712867.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:57.302623",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Female teacher accused of raping student CRIES as she is denied bail",
+      "link": "https://www.dailymail.co.uk/news/article-15701675/ashley-fisler-new-jersey-teacher-rape-cry-bond.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T11:56:57",
+      "description": "Former middle school teacher Ashley Fisler, 36, erupted into tears Wednesday as a New Jersey judge ruled that she remain behind bars until her trial.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/16/107616685-0-image-m-84_1775144477189.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/16/107616685-0-image-m-84_1775144477189.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:57.302624",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'We risked everything for freedom... was it all for nothing?': Why heartbroken families in Iran feel 'betrayed' by Trump after he claims victory... as they're left in the dark without a leader",
+      "link": "https://www.dailymail.co.uk/news/article-15701471/freedom-Heartbreak-families-Iran-Trump-claims-regime-change.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T11:50:35",
+      "description": "President Donald Trump declared 'near-victory' in the war against Iran this week during a subdued White House address.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/14/107606547-0-image-a-10_1775138347336.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/14/107606547-0-image-a-10_1775138347336.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:57.302626",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Manhunt underway for prisoner who fled from transport van with no shoes and a handcuff on his wrist after appearing in court on assault charge",
+      "link": "https://www.dailymail.co.uk/news/article-15703965/Manhunt-shoeless-prisoner-fled-transport-van-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T11:48:23",
+      "description": "The public has been urged not to approach John Evans, 32, who fled from the van at 5.28pm yesterday in Poole Road, Poole, Dorset.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/12/107636003-0-image-m-16_1775215842649.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/12/107636003-0-image-m-16_1775215842649.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:57.302627",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Brace for impact: Battered tourist region prepares for ANOTHER potential cyclone looming off Aussie coast",
       "link": "https://www.dailymail.co.uk/news/article-15703943/Brace-impact-Battered-tourist-region-prepares-potential-cyclone-looming-Aussie-coast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9509,163 +9685,23 @@
       "archived_at": "2026-03-31T23:31:04.960203",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Double demerits over the Easter long weekend: What you need to know",
-      "link": "https://www.dailymail.co.uk/news/article-15695939/Double-demerits-Easter-long-weekend-you-need-know.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T23:04:34",
-      "description": "Double demerit points will be enforced this Easter long weekend with drivers urged to stay on high alert - but the crackdown won't be in place everywhere.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566179-0-image-m-6_1774997830177.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566179-0-image-m-6_1774997830177.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T23:31:04.960205",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Modern-day Fagin ran gang of teens to steal \u00a3100k of phones in two weeks and used old man with Motability car as getaway vehicle",
-      "link": "https://www.dailymail.co.uk/news/article-15695157/Modern-day-Fagin-ran-gang-teens-steal-100k-phones-two-weeks-used-old-man-Motability-car-getaway-vehicle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T23:04:00",
-      "description": "Sammie Govera's band of crooks included schoolboys, a pensioner who drove a motility vehicle with a disabled badge and a getaway driver with an eyepatch.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/16/107556227-0-image-m-26_1774969328459.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/16/107556227-0-image-m-26_1774969328459.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T23:31:04.960206",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Audacious Trump to attend Supreme Court hearing on birthright citizenship in historic first for a sitting president",
-      "link": "https://www.dailymail.co.uk/news/article-15696369/trump-visit-supreme-court-birthright-citizenship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T23:02:06",
-      "description": "Donald Trump has again said he will make the unprecedented move and travel to the Supreme Court to watch oral arguments as he seeks to end birthright citizenship in the United States.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566831-0-image-a-38_1774997218144.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566831-0-image-a-38_1774997218144.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T23:31:04.960207",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Toxic 'manosphere' linked to worrying rise in young people radicalised online, posing new extremist threat to 'ill-prepared' UK, MPs warn",
-      "link": "https://www.dailymail.co.uk/news/article-15694249/Toxic-manosphere-linked-worrying-rise-young-people-radicalised-online-posing-new-extremist-threat-ill-prepared-UK-MPs-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T23:01:46",
-      "description": "Influencer HSTikkyTokky, pictured with documentary maker Louis Theroux, is one of the most high-profile members of the manosphere - the movement highlighted in a report about extremism.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/16/107524077-0-image-m-12_1774971962723.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/16/107524077-0-image-m-12_1774971962723.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T23:31:04.960208",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woman and man are arrested after 'abduction' of schoolgirl, 14, who vanished two days ago",
-      "link": "https://www.dailymail.co.uk/news/article-15696147/Woman-man-arrested-abduction-schoolgirl.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T22:57:40",
-      "description": "The 14-year-old girl was reported missing, having last been seen on CCTV in Rotherham town centre at around 7pm.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107567197-0-image-m-20_1774997791234.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107567197-0-image-m-20_1774997791234.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T23:31:04.960210",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Screaming Hawaii woman makes skin-crawling 'horror movie' discovery in $5 bags of soil she bought from Lowe's",
-      "link": "https://www.dailymail.co.uk/news/article-15694553/disgusting-discovery-lowes-hawaii-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T22:53:29",
-      "description": "The woman said that what she found was 'devastating.' One of the store's managers said the location received similar reports roughly every two months.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566507-0-image-a-15_1774996520675.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566507-0-image-a-15_1774996520675.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T23:31:04.960211",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump vows to crush 'legendary' mail-in voting despite doing so himself just this month",
-      "link": "https://www.dailymail.co.uk/news/article-15696303/Trump-vows-crush-legendary-mail-voting-despite-doing-just-month.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T22:51:56",
-      "description": "President Donald Trump signed an executive order cracking down on mail-in voting - despite casting his own postal ballot just last week.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107565723-0-image-a-55_1774995201103.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107565723-0-image-a-55_1774995201103.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T23:31:04.960212",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man, 36, is charged with nine offences after seven people were injured when a car ploughed into crowds in Derby city centre",
-      "link": "https://www.dailymail.co.uk/news/article-15696263/Man-36-charged-nine-offences-seven-people-injured-car-ploughed-crowds-Derby.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T22:22:51",
-      "description": "A 36-year-old man has been charged with a string of offences after seven people were injured when a car ploughed into crowds in Derby city centre.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/22/107505827-0-image-m-30_1774993961680.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/22/107505827-0-image-m-30_1774993961680.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T22:31:20.018959",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump's warmonger Lindsey Graham slammed for sudden flip on Iran war to take heat off Disney trip disaster",
-      "link": "https://www.dailymail.co.uk/news/article-15695643/lindsey-graham-iran-war-disney-trip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T21:59:22",
-      "description": "Senator Lindsey Graham is trying to change the news cycle off his highly panned trip to Disney World amid the partial government shutdown.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562495-0-image-m-43_1774984348788.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562495-0-image-m-43_1774984348788.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T22:31:20.018966",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Record 106,810 cancer patients waited more than 62 days to start urgent treatment last year",
-      "link": "https://www.dailymail.co.uk/news/article-15694589/Record-106-810-cancer-patients-waited-62-days-start-urgent-treatment-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T21:30:46",
-      "description": "More than four in five trusts (83 per cent) missed the key target of treating 85 per cent of patients within this time frame.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107561847-0-image-a-44_1774980615497.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107561847-0-image-a-44_1774980615497.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T21:36:26.548975",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "America's top banker Jamie Dimon gives surprising take on Trump's Iran war",
-      "link": "https://www.dailymail.co.uk/news/article-15696021/Americas-banker-Jamie-Dimon-gives-surprising-Trumps-Iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T21:23:25",
-      "description": "Wall Street's top banker has given a surprising take on Donald Trump's war with Iran amid skyrocketing oil prices.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564429-0-image-a-44_1774989338870.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564429-0-image-a-44_1774989338870.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T21:36:26.548983",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Italian football's crisis rolls on as head coach Gennaro Gattuso becomes the latest casualty of national team's failure to qualify for the World Cup",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704059/Italy-crisis-head-coach-Gennaro-Gattuso-casualty-failure-qualify-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T12:38:45",
+      "description": "The former AC Milan star had been on the brink in the wake of the disappointment, which has had a seismic impact on Italy's internal football hierarchy.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636707-0-image-a-41_1775218330801.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636707-0-image-a-41_1775218330801.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T12:56:59.458046",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Liverpool boss Arne Slot delivers troubling update on fitness of Alisson... but there's better news on Mohamed Salah ahead of FA Cup showdown with Man City",
       "link": "https://www.dailymail.co.uk/sport/football/article-15703697/Liverpool-boss-Arne-Slot-delivers-troubling-update-fitness-Alisson-theres-better-news-Mohamed-Salah-ahead-FA-Cup-showdown-Man-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
