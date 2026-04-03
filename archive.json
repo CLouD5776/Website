@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Foakes leads superb Surrey recovery at Edgbaston",
+      "link": "https://www.bbc.com/sport/cricket/articles/c6262ly5p47o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T17:43:27",
+      "description": "Ben Foakes and Tom Lawes help rescue Surrey from 65-6 to post 328 all out on day one of their County Championship game against Warwickshire.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaec/live/dd8e2e60-2f83-11f1-a6f5-1188a52986a4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T19:36:07.988888",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arteta defends Arsenal's international withdrawals",
+      "link": "https://www.bbc.com/sport/football/articles/czjwkz3nwvxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T13:54:39",
+      "description": "Mikel Arteta says Arsenal have '\"a very good relationship\" with most national teams, despite 11 of his players withdrawing from international duty.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57e4/live/fb5faa80-2f61-11f1-9c03-f3e4d4e9190c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T19:36:07.988893",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Artemis II crew take 'spectacular' image of Earth",
       "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T18:25:25",
@@ -2851,6 +2873,62 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Man, 24, is charged with attempted murder after Bristol shooting that led to three schools being put in lockdown",
+      "link": "https://www.dailymail.co.uk/news/article-15705059/Man-24-charged-murder-Bristol-shooting-schools-lockdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T19:31:07",
+      "description": "William Scammell, 24, was charged with being in possession of a shortened shotgun after the shooting at a car on Speedwell Road at approximately 1.50pm on Wednesday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/20/107646237-0-image-m-30_1775244096667.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/20/107646237-0-image-m-30_1775244096667.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T19:36:09.468543",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pregnant woman and her partner both killed by suspected DUI driver days before she was due to give birth",
+      "link": "https://www.dailymail.co.uk/news/article-15704905/pregnant-woman-boyfriend-killed-car-crash-suspect-dui.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T19:26:57",
+      "description": "Jennifer Loera Zarco, a 25-year-old pregnant woman was killed along with her boyfriend, Marc Trejo, in a car crash this week. The suspect that police say hit their sedan was arrested and charged.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/20/107645665-0-image-a-49_1775243279246.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/20/107645665-0-image-a-49_1775243279246.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T19:36:09.468549",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Evil beyond words: Mom and boyfriend left adorable special needs boy, 4, to die in his wheelchair in a closet under the basement stairs",
+      "link": "https://www.dailymail.co.uk/news/article-15704555/angela-malichi-lovely-boy-died-neglect-indianapolis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T19:24:58",
+      "description": "Malichi Lovely, four, died on March 23. He was found unresponsive in a basement closet at his mother's home in Indiana.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/18/107643203-0-image-m-51_1775235660060.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/18/107643203-0-image-m-51_1775235660060.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T19:36:09.468550",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Green Party plans to reduce the speed limit on Britain's motorways to 55mph under Zack Polanski's 'war on motorists'",
+      "link": "https://www.dailymail.co.uk/news/article-15704977/Green-Party-speed-limit-motorway-55mph-Polanski-motorists.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T19:14:21",
+      "description": "Taxes on driving would be 'increased incrementally' while parking spaces would be 'steadily reduced' in a bid to drive people from the roads, newly unearthed proposals show.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/20/107580761-0-image-m-6_1775242805324.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/20/107580761-0-image-m-6_1775242805324.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T19:36:09.468552",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Prince Harry's former polo club in pollution row after it bought contaminated soil full of plastic and bricks",
       "link": "https://www.dailymail.co.uk/news/article-15704577/Prince-Harry-former-polo-club-pollution-row-contaminated-soil-plastic-bricks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9794,65 +9872,23 @@
       "archived_at": "2026-04-01T05:10:58.528609",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Mystery of 'second Sphinx' deepens as new footage reveals shafts that could lead to hidden structure",
-      "link": "https://www.dailymail.co.uk/sciencetech/article-15695409/second-sphinx-giza-hidden-shafts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:31:43",
-      "description": "New on-the-ground footage from Egypt's Giza Plateau is fueling renewed speculation about a possible buried second sphinx.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107560221-0-image-m-3_1774984073537.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107560221-0-image-m-3_1774984073537.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528611",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Luisa Zissman shows off her incredibly toned physique in skintight activewear after a PT session at her home gym in her \u00a38m UK mansion after leaving Dubai",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15693829/Luisa-Zissman-shows-incredibly-toned-physique-skintight-activewear-PT-session-home-gym-8m-UK-mansion-leaving-Dubai.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T14:16:35",
-      "description": "The Apprentice star, 38, looked incredible as she flaunted her gym-honed figure while posing in an open leg squat for a mirror selfie.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/14/107553499-0-image-a-75_1774962087538.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/14/107553499-0-image-a-75_1774962087538.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528612",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Type 2 diabetes CAN be reversed, say experts - as they pinpoint six diet and lifestyle changes everyone can make",
-      "link": "https://www.dailymail.co.uk/health/article-15693871/Type-2-diabetes-reversed-lifestyle-changes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T13:51:11",
-      "description": "Addressing the six pillars of lifestyle medicine including eating a plant-based diet, exercising regularly, and prioritising sleep could help reverse type 2 diabetes , experts said today.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/10/107548107-0-image-a-6_1774949292152.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/10/107548107-0-image-a-6_1774949292152.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528613",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Father and son left fighting for life after allegedly being STABBED in their own backyard in a terrifying neighbourhood dispute",
-      "link": "https://www.dailymail.co.uk/news/article-15696647/Father-son-stabbing-Girraween.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T05:03:04",
-      "description": "A father and son were allegedly stabbed by their neighbour during a terrifying encounter in front of traumatised children - leaving them both undergoing emergency surgery.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569767-0-image-m-60_1775007292640.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569767-0-image-m-60_1775007292640.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528614",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Inside Jermain Defoe's management debut: The cousin of an ex-Premier League star who saved his Woking side, the club's grand ambitions and a rollercoaster crash-course for the ex-Spurs striker",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704033/Jermain-Defoe-management-debut-Woking-Eastleigh.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:54:40",
+      "description": "KIERAN GILL AT THE LAITHWAITE COMMUNITY STADIUM: Jermaine Defoe was given a crash course in every emotion he could encounter in this new profession of his.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/19/107645803-0-image-a-2_1775242477325.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/19/107645803-0-image-a-2_1775242477325.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T19:36:11.681000",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Classy Roy Hodgson leads Bristol City to victory in first match in charge in 44 years - and says it's 'only five weeks until the slippers come back on'",
       "link": "https://www.dailymail.co.uk/sport/football/article-15704031/Classy-Roy-Hodgson-leads-Bristol-City-win-44-years-later.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
