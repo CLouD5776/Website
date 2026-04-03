@@ -1,6 +1,61 @@
 {
   "BBC News": [
     {
+      "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
+      "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T07:07:48",
+      "description": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee93/live/962c62b0-2f26-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T07:43:08.086686",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'We fell off the face of the earth': Dad and daughter raced across world but had to keep it secret",
+      "link": "https://www.bbc.com/news/articles/c9951jrr18no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T05:19:07",
+      "description": "Molly Clifford and her father are part of this year's line up for the BBC's Race Across the World.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb22/live/0bdf4fa0-2db9-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T07:43:08.086692",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Who is Christopher LaNeve, set to lead the US army?",
+      "link": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T07:11:07",
+      "description": "He will replace Randy George, who was asked to step down from his post by Defence Secretary Pete Hegseth.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ecc/live/bf8dad10-2f23-11f1-a425-47721dfc6207.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T07:43:08.086694",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "What De Zerbi needs to do to turn Tottenham around",
+      "link": "https://www.bbc.com/sport/football/articles/cj402p5ezylo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T06:15:17",
+      "description": "Tony Pulis explores why Tottenham are in such a mess and what their new manager Roberto de Zerbi might do to change things as they seek to stay in the Premier League.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T07:43:08.086697",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Football quiz: Name every club in the Premier League and EFL",
+      "link": "https://www.bbc.com/sport/football/articles/ckge70rellxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T07:25:41",
+      "description": "Can you tackle our mega-quiz and name all 92 teams in England's top four divisions? There is no time limit. Good luck!",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76d5/live/1951ba70-2d31-11f1-8c7a-d7713554a96a.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T07:43:08.086698",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "M&S boss calls for more action on crime and abuse of staff",
       "link": "https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T05:40:00",
@@ -2466,6 +2521,76 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Harrowing final moments of charter pilot who crashed into croc-infected waters near Normanton Airport",
+      "link": "https://www.dailymail.co.uk/news/article-15703425/thomas-niit-plane-crash-Normanton-atsb.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T07:38:54",
+      "description": "Thomas Niit, 32, was the sole occupant on board when his\u00a0Beechcraft King Air B200 aircraft crashed\u00a0 during a thunderstorm less than one kilometre from Normanton Airport in Far North Queensland .",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/08/107630731-0-image-a-25_1775201178045.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/08/107630731-0-image-a-25_1775201178045.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T07:43:08.458267",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Iran claims second US F-35 fighter jet has been shot down as Trump boasts he will strike power plants after bridge attack - live updates",
+      "link": "https://www.dailymail.co.uk/news/article-15703427/iran-israel-war-trump-gulf-netanyahu-tehran-oil-live-updates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T07:38:09",
+      "description": "LIVE UPDATES: Follow the Daily Mail's latest coverage of the Iran war on the 35th day of the conflict. Donald Trump has claimed an attack on Iran's largest bridge and warns other targets will be hit.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/08/107630923-0-image-a-16_1775201075041.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/08/107630923-0-image-a-16_1775201075041.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T07:43:08.458272",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Meghan shares rare video of Harry and Archie skiing as Duchess gushes she's 'so proud'",
+      "link": "https://www.dailymail.co.uk/news/article-15703361/Meghan-rare-video-Harry-Archie-skiing-Duchess-proud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T07:37:50",
+      "description": "Meghan Markle, 44, gave fans a rare glimpse into the family-of-four's life on the other side of the pond in a brief video, which is only a few seconds long.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/07/107630339-0-image-m-15_1775196672788.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/07/107630339-0-image-m-15_1775196672788.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T07:43:08.458274",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Investigation launched after cage fighter, 40, who murdered two IRA enforcers who wanted him to become a drugs mule dies in prison",
+      "link": "https://www.dailymail.co.uk/news/article-15703401/Investigation-cage-fighter-40-murdered-IRA-enforcers-drugs-dies-prison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T07:26:04",
+      "description": "Thomas Haigh, 40, was serving a life sentence at HMP Manchester, also known as Strangeways, for the double murder of David Griffiths and Brett Flournoy in 2011.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/08/107630523-0-image-m-9_1775200671037.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/08/107630523-0-image-m-9_1775200671037.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T07:43:08.458275",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "High profile neo-Nazi who sent alleged threats to female politicians walks free from prison",
+      "link": "https://www.dailymail.co.uk/news/article-15703367/Neo-Nazi-joel-davis-alleged-threats-bail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T06:23:14",
+      "description": "Joel Davis, 31, had been in custody on remand since his arrest in November for allegedly calling for the 'rhetorical rape' of independent Wentworth MP Allegra Spender.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/06/107630233-0-image-m-5_1775195684039.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/06/107630233-0-image-m-5_1775195684039.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T07:43:08.458277",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "RICHARD SHIRREFF: Will Trump choose peace - or a bloody escalation?",
       "link": "https://www.dailymail.co.uk/debate/article-15702689/RICHARD-SHIRREFF-Trump-choose-peace-bloody-escalation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9395,79 +9520,23 @@
       "archived_at": "2026-03-31T19:33:34.416072",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Hollywood made our tiny village world famous. But now we're crippled by red tape... and forced to live in a museum",
-      "link": "https://www.dailymail.co.uk/news/article-15691377/Hollywood-tiny-village-world-famous-crippled-red-tape-forced-live-museum.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T16:59:55",
-      "description": "To travel down the steep and winding road leading to Pennan is to descend into a time between times.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/13/107525957-0-image-a-8_1774874381024.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/13/107525957-0-image-a-8_1774874381024.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416073",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "England Test cricketer Ben Duckett is fined for speeding at 93pm just hours before match - days after he pulled out of \u00a3200,000 deal and apologised for 'drunk' video filmed on Ashes tour",
-      "link": "https://www.dailymail.co.uk/news/article-15694799/England-Test-cricketer-Ben-Duckett-fined-speeding-93pm-just-hours-match-days-apologised-drunk-video-filmed-Ashes-tour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T16:58:34",
-      "description": "The conviction comes days after Ben Duckett\u00a0pulled out of a \u00a3200,000 deal to play for the Delhi Capitals in the IPL\u00a0in order to play red-ball cricket for Nottinghamshire.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/15/107555603-0-image-m-47_1774967949903.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/15/107555603-0-image-m-47_1774967949903.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416074",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Bomb disposal expert sent former mistress champagne, roses and hampers in failed attempt to rekindle their romance",
-      "link": "https://www.dailymail.co.uk/news/article-15693983/Bomb-disposal-expert-sent-former-mistress-champagne-roses-hampers-failed-attempt-rekindle-romance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T16:58:22",
-      "description": "Ian Armstrong, 56, sent Suzanne Lodge \u00a370 bouquets of roses, hampers of biscuits and other gifts four years after she called time on their romance.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107550765-0-image-m-13_1774959133616.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107550765-0-image-m-13_1774959133616.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416076",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment mob of youths run riot in M&S store as police watch on powerless yet again in lawless London",
-      "link": "https://www.dailymail.co.uk/news/article-15694175/Youths-Marks-Spencer-police-lawless-London.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T16:54:41",
-      "description": "Customers were left terrified as the mob of teenagers took over the food hall in Clapham, south London, on Saturday and appeared to enter into a mass brawl.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/11/107550043-0-image-m-30_1774953916657.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/11/107550043-0-image-m-30_1774953916657.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416077",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scott Mills's 'sexual offence accuser was under 16' and came forward to BBC decades later after police dropped probe over lack of evidence",
-      "link": "https://www.dailymail.co.uk/news/article-15693913/Scott-Mills-faced-axe-Huw-Edwards-drama-inspired-complainant-come-forward-BBC-bosses-urged-reveal-knew-sex-offence-accusations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T16:53:53",
-      "description": "Scotland Yard has also confirmed the Crown Prosecution Service rejected the case due to a lack of evidence and the investigation into the broadcaster was closed in 2019.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/10/107540131-0-image-m-10_1774948822813.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/10/107540131-0-image-m-10_1774948822813.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416078",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Bitter Luke Littler hits back at darts rival with pointed Instagram post after on stage clash saw world champion mock opponent with CRYING gesture",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15703421/Bitter-Luke-Littler-rival-pointed-Instagram-clash-world-champion-mock-opponent-crying.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T07:40:56",
+      "description": "Luke Littler continued to play the pantomime villain away from the oche as he appeared to mock darts rival Gian van Veen on social media after losing their Premier League clash on Thursday evening.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/08/107630869-0-image-a-6_1775200710227.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/08/107630869-0-image-a-6_1775200710227.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T07:43:08.631778",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "The downfall of Arsenal Fan TV: How 'corrupted' kingmaker Robbie Lyle is fighting to keep control of his \u00a36.8m empire run alongside a 'Mad Dwarf' amid toxic fallouts, why viewing figures aren't spiking anymore and the truth about star names' exits",
       "link": "https://www.dailymail.co.uk/sport/football/article-15500997/Arsenal-Fan-TV-AFTV-downfall-toxic-fallouts-Robbie-Lyle-mad-dwarf.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
