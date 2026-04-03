@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
+      "link": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T15:45:25",
+      "description": "The US president's new budget would cut non-defence spending by 10%, partly by slashing domestic programmes.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9f0/live/4152aaf0-2f72-11f1-8612-f1cd1152f88c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T17:30:57.716458",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Raye tops album charts with This Music May Contain Hope",
+      "link": "https://www.bbc.com/news/articles/c2k31wxvgvwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T16:48:29",
+      "description": "It is Raye's second number one this year, after her hugely popular single Where The Hell Is My Husband.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d7/live/51eee460-2f6c-11f1-8612-f1cd1152f88c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T17:30:57.716462",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Video appears to show US plane and helicopters over southern Iran",
+      "link": "https://www.bbc.com/news/videos/cly68eg7px6o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T17:16:27",
+      "description": "Reports from the US, quoting unnamed officials, say a search is under way after the shooting down of a US fighter jet over Iran.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b0a/live/9a0958b0-2f7c-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T17:30:57.716468",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Rapper Gucci Mane kidnapped and robbed by fellow artist, prosecutors say",
+      "link": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T16:54:35",
+      "description": "Officials say the hip-hop star was forced to sign papers releasing a rapper known as Pooh Shiesty from his record contract.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a642/live/441d8030-2f71-11f1-8612-f1cd1152f88c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T17:30:57.716471",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Leyland helps St Helens fight back to stun Wigan in derby",
       "link": "https://www.bbc.com/sport/rugby-league/articles/c145kv5prrmo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T16:35:17",
@@ -2774,6 +2818,20 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Embattled Nancy Guthrie sheriff to be dragged before a public hearing as scandalous details about his past emerge",
+      "link": "https://www.dailymail.co.uk/news/article-15704475/nancy-guthrie-sheriff-chris-nanos-scandal-arizona.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T17:24:04",
+      "description": "Pima County Sheriff Chris Nanos\u00a0has been called on by local officials to answer questions about his past as he faces growing scrutiny over his handling of the Nancy Guthrie case.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/17/107642731-0-image-m-9_1775234555517.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/17/107642731-0-image-m-9_1775234555517.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T17:30:59.207982",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Pupils face chaos this year as teachers threaten strikes over pay",
       "link": "https://www.dailymail.co.uk/news/article-15704695/Teachers-threaten-strikes-pay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9759,20 +9817,6 @@
       "archived_at": "2026-04-01T05:10:58.528625",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Donald Trump and Melania attend the opening night of Chicago at the 'Trump' Kennedy Center",
-      "link": "https://www.dailymail.co.uk/news/article-15696353/Donald-Trump-Melania-Chicago-Trump-Kennedy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T02:00:55",
-      "description": "President Donald Trump and First Lady Melania Trump returned to the newly renamed Trump Kennedy Center on Tuesday to take in the opening night performance of Chicago .",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569707-0-image-a-4_1775006484594.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569707-0-image-a-4_1775006484594.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768531",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
@@ -13825,6 +13869,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Britney Spears' son changes name on social media after reunion",
+      "link": "https://www.music-news.com/news/UK/188153/Britney-Spears-son-changes-name-on-social-media-after-reunion",
+      "pubDate": "2026-04-03T16:00:00",
+      "description": "Britney Spears and her children have seemingly reconnected.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188153.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188153.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T17:31:05.985014",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Serge Pizzorno reveals the \"50p microphone\" secret behind Kasabian\u2019s greatest hits",
       "link": "https://www.music-news.com/news/UK/188151/Serge-Pizzorno-reveals-the-50p-microphone-secret-behind-Kasabian-s-greatest-hits",
