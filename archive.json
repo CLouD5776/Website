@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
+      "link": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T13:16:33",
+      "description": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db29/live/5c328660-2f45-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T14:02:08.821374",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Watch: Artemis II's journey so far as it leaves Earth's orbit ... in 85 seconds",
+      "link": "https://www.bbc.com/news/videos/cpqxn8zx8ydo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T13:06:18",
+      "description": "The crew will not land on the Moon on this current mission, though Nasa is preparing for a potential lunar landing by 2028.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de7b/live/9b57e270-2f60-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T14:02:08.821378",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Son charged with fatal stabbing of 84-year-old mum",
+      "link": "https://www.bbc.com/news/articles/ckgxdw4520no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T13:45:02",
+      "description": "Doris Innes was allegedly attacked by her son outside her home, the Metropolitan Police say.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ad/live/e56b0cc0-2f60-11f1-9c03-f3e4d4e9190c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T14:02:08.821385",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US jobs surge unexpectedly in March despite Iran war",
+      "link": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T13:35:11",
+      "description": "Employers added 178,000 jobs, far more than had expected, the Labor Department says.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de4f/live/87429030-2f58-11f1-b471-73a11a0c1806.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T14:02:08.821387",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Boy, 14, shot dead and teens arrested for murder",
       "link": "https://www.bbc.com/news/articles/cj40ekewqrgo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T12:01:24",
@@ -2686,6 +2730,118 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Police launch murder investigation after 19-year-old man is stabbed to death in seaside town on Good Friday",
+      "link": "https://www.dailymail.co.uk/news/article-15704281/Police-murder-investigation-man-stabbed-death-Good-Friday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T13:56:13",
+      "description": "A man was found with injuries consistent with stab wounds by emergency services, who arrived on the scene at Belmont Road, Whitstable, alongside police.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/14/107638351-0-image-m-39_1775224114264.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/14/107638351-0-image-m-39_1775224114264.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T14:02:10.438723",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Iran puts BOUNTY on American pilots as regime airs chilling footage claiming it shot down US jet",
+      "link": "https://www.dailymail.co.uk/news/article-15704101/Iran-puts-BOUNTY-American-pilots-regime-airs-chilling-footage-claiming-shot-US-jet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T13:54:20",
+      "description": "Iranian state media is incentivizing civilians to capture American pilots with a 'reward' after the regime claimed it shot down a US fighter jet.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/13/107637071-0-image-a-9_1775220830149.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/13/107637071-0-image-a-9_1775220830149.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T14:02:10.438729",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Workers abused every day by customers because Government is failing to take issue seriously, industry boss warns after Marks and Spencer leads condemnation over recent shop riots",
+      "link": "https://www.dailymail.co.uk/news/article-15704223/Workers-abused-day-customers-Government-failing-issue-seriously-industry-boss-warns-Marks-Spencer-leads-condemnation-recent-shop-riots.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T13:45:25",
+      "description": "Jo Causon, chief executive of the Institute of Customer  Service, said workers are being abused daily, with not enough done to protect them. It follows shocking scenes of mob behaviour in Clapham this week.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/14/107638159-0-image-a-7_1775223393163.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/14/107638159-0-image-a-7_1775223393163.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T14:02:10.438730",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teacher struck off after accidentally uploading secret videos of women's legs and bottoms to primary school's IT system",
+      "link": "https://www.dailymail.co.uk/news/article-15704205/Teacher-struck-caught-secretly-filming-womens-legs-bottoms-accidentally-uploading-primary-schools-system.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T13:43:29",
+      "description": "Andrew Winkworth, 45, recorded his victims as they were out walking, often targeting those 'wearing tight clothing'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/14/107637689-0-image-a-7_1775222257322.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/14/107637689-0-image-a-7_1775222257322.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T14:02:10.438731",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment police raid home of woman who 'helped \u00a340million trafficking ring smuggle 1,000 Vietnamese migrants into Britain'",
+      "link": "https://www.dailymail.co.uk/news/article-15703925/Moment-police-raid-home-woman-helped-40million-trafficking-ring-smuggle-1-000-Vietnamese-migrants-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T13:42:08",
+      "description": "Officers from the National Crime Agency hauled the woman and two others into custody during raids across the UK on Monday morning.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/12/107636527-0-image-m-3_1775217278443.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/12/107636527-0-image-m-3_1775217278443.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T14:02:10.438733",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Jealous ex-boyfriend hurled sulfuric acid over woman then mocked her disfigurement and called her 'Freddy Krueger', court told",
+      "link": "https://www.dailymail.co.uk/news/article-15704029/sulferic-acid-attack-freddy-kruger-shaquille-coke-new-york.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T13:37:35",
+      "description": "Shaquille Coke, 31, of Brooklyn, New York, is accused of being the getaway driver in the acid attack on his\u00a0ex-girlfriend, Nafiah Ikram, outside her Long Island home in 2021.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/14/107637405-0-image-m-89_1775221674186.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/14/107637405-0-image-m-89_1775221674186.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T14:02:10.438734",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tragedy as 45-year-old British skier collapses and dies during descent at top French ski resort",
+      "link": "https://www.dailymail.co.uk/news/article-15703733/British-skier-collapses-dies-French-ski-resort.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T13:17:45",
+      "description": "The unnamed 45-year-old was going down a slope in the Alpine resort of Les Menuires on Monday when he suddenly went into cardiac arrest, French news outlet Le Dauphin\u00e9 reports.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/14/107637457-0-image-m-19_1775221614721.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/14/107637457-0-image-m-19_1775221614721.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T14:02:10.438735",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Four alpacas mauled to death and two left injured by Rottweilers at farm",
+      "link": "https://www.dailymail.co.uk/news/article-15704097/four-alpacas-mauled-death-two-injured-Rottweilers-farm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T13:05:49",
+      "description": "A pair of dogs attacked six of the animals in the village of Wisbech St Mary, Cambridgeshire in the early hours of March 24.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/13/107637065-0-image-m-27_1775220491846.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/13/107637065-0-image-m-27_1775220491846.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T14:02:10.438736",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Schoolboy, 14, is shot dead in broad daylight in London as police arrest three teens in murder probe",
       "link": "https://www.dailymail.co.uk/news/article-15704061/Schoolboy-shot-dead-London-police-arrest-teens-murder-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9573,121 +9729,23 @@
       "archived_at": "2026-04-01T02:11:31.768561",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Families brace for soaring bills amid Iran war as Princes becomes latest firm to warn of 'unprecedented pressures' and hikes ALL prices by 5%",
-      "link": "https://www.dailymail.co.uk/news/article-15695381/Families-brace-soaring-bills-amid-Iran-war-Princes-latest-firm-warn-unprecedented-pressures-hikes-prices-5.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T00:06:33",
-      "description": "The food firm, which produces tinned tuna, blamed the Iranian closure of the Strait of Hormuz for the price hikes.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562363-0-image-a-16_1774982532392.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562363-0-image-a-16_1774982532392.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768562",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "DAVID PATRIKARAKOS: They may be a gang of quasi-medieval thugs, but the Houthis are well armed and able to cause economic chaos",
-      "link": "https://www.dailymail.co.uk/news/article-15695855/DAVID-PATRIKARAKOS-gang-quasi-medieval-thugs-Houthis-armed-able-cause-economic-chaos.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T00:05:50",
-      "description": "The world is lurching toward a new era of mass warfare in which ever more advanced technology is deployed in the service of increasingly primitive ideologies.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107562533-0-image-a-4_1774989259645.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107562533-0-image-a-4_1774989259645.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768564",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Barefoot Investor Scott Pape reveals the bizarre encounter he had with an influencer outside viral croissant shop",
-      "link": "https://www.dailymail.co.uk/news/article-15693473/Barefoot-Investor-Scott-Pape-influencer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T23:47:15",
-      "description": "The Barefoot Investor was outside Lune Croissanterie in the\u00a0heart of Melbourne when a woman asked him for a strange favour.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/00/107566899-0-image-m-10_1775000287931.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/00/107566899-0-image-m-10_1775000287931.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768565",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Taking shape, the new face of Mount Rushmore",
-      "link": "https://www.dailymail.co.uk/news/article-15696415/Taking-shape-new-face-Mount-Rushmore.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T23:46:47",
-      "description": "Secured by ropes, a team of intrepid sculptors chisel away at a very famous quiff as the shock first addition to Mount Rushmore in 85 years is revealed by the Daily Mail.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/00/107567935-0-image-m-4_1775000431033.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/00/107567935-0-image-m-4_1775000431033.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768566",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Gavin Newsom's snooty wife Jennifer torched over resurfaced clip saying she brought children to Alabama to teach them about racism",
-      "link": "https://www.dailymail.co.uk/news/article-15696065/Gavin-Newsom-wife-red-state-comments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T23:45:44",
-      "description": "The 'First Partner' of California - whose husband has made no secret of his presidential ambitions - told Jen Psaki about the tour of the south she took her kids on in 2023.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107565711-0-image-m-9_1774995329318.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107565711-0-image-m-9_1774995329318.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768567",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Mail titles 'established complete defences' against hacking claims",
-      "link": "https://www.dailymail.co.uk/news/article-15696419/Mail-titles-established-complete-defences-against-hacking-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T23:34:20",
-      "description": "Journalists from the Daily Mail and The Mail on Sunday faced 'frankly desperate allegations' during evidence to the trial brought by Harry and other public figures, the newspapers' barrister said.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/00/107538301-0-image-m-3_1774999931369.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/00/107538301-0-image-m-3_1774999931369.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T02:11:31.768569",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "NYC's socialist mayor unveils plan to open free childcare center in Manhattan's ritziest enclave",
-      "link": "https://www.dailymail.co.uk/news/article-15695843/Zohran-Mamdani-free-childcare-Upper-East-Side.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T23:16:34",
-      "description": "New York City Mayor Zohran Mamdani will open a free city-run childcare center in Manhattan's wealthiest neighborhood, he announced last month.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/00/107563567-0-image-a-8_1774998348552.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/00/107563567-0-image-a-8_1774998348552.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T23:31:04.960199",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The View hosts try to stir trouble in Usha Vance's marriage to JD as they launch vile attack on second lady",
-      "link": "https://www.dailymail.co.uk/news/article-15696019/view-hosts-attack-usha-vance-second-lady-power.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T23:09:30",
-      "description": "ABC's The View saw two of its host mount an attack on second lady Usha Vance over her interfaith marriage and 'addiction to power.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566607-0-image-m-133_1774997624818.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107566607-0-image-m-133_1774997624818.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T23:31:04.960203",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Former World Cup-winning coach - who once picked his nose and LICKED his finger - 'set to take charge of England's group stage opponents' 16 years on from knocking Three Lions out in South Africa",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15703879/Former-World-Cup-winning-coach-Ghana-England.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T13:53:50",
+      "description": "The Black Stars have been left without a manager just 75 days before their first World Cup group game with Panama on June 18.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/14/107637671-0-image-a-29_1775221981081.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/14/107637671-0-image-a-29_1775221981081.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T14:02:13.734053",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Italian football's crisis rolls on as head coach Gennaro Gattuso becomes the latest casualty of national team's failure to qualify for the World Cup",
       "link": "https://www.dailymail.co.uk/sport/football/article-15704059/Italy-crisis-head-coach-Gennaro-Gattuso-casualty-failure-qualify-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -15102,6 +15160,17 @@
     }
   ],
   "ENV": [
+    {
+      "title": "Post-Darwin, Too, Maxwell Drew a Remarkable Design Inference",
+      "link": "https://scienceandculture.com/2026/04/post-darwin-too-maxwell-drew-a-remarkable-design-inference/",
+      "pubDate": "2026-04-03T13:35:00",
+      "description": "So far we detect significant prescience about intelligent design in Maxwell\u2019s thought. He all but uses the phrase himself. \n<p><a href=\"https://scienceandculture.com/2026/04/post-darwin-too-maxwell-drew-a-remarkable-design-inference/\" rel=\"nofollow\">Source</a></p>",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-03T14:02:23.392058",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Before Darwin, How Maxwell\u2019s Intelligent Design Argument Forecast Modern ID",
       "link": "https://scienceandculture.com/2026/04/before-darwin-how-maxwells-intelligent-design-argument-forecast-modern-id/",
