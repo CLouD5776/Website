@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Funeral boss will pay for what he did, says baby's mum",
+      "link": "https://www.bbc.com/news/articles/cy01w2yjzr8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T09:45:55",
+      "description": "Jasmine Beverley's son was stillborn and his funeral was arranged by the now-disgraced Robert Bush.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf2c/live/b107fcf0-2f3c-11f1-91cb-cd1f5e51ebfd.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T10:39:39.181863",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Researchers spent years interviewing 160 Bigfoot hunters - this is what they learnt",
+      "link": "https://www.bbc.com/news/articles/cvg58ydn4jpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T06:37:01",
+      "description": "There have been thousands of reported Bigfoot sightings since it rose to prominence in the 1960s.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3121/live/413b8b00-2f26-11f1-a425-47721dfc6207.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T10:39:39.181873",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How does the NHS in Scotland compare with the rest of the UK?",
+      "link": "https://www.bbc.com/news/articles/c4g87rlmrnyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T05:21:27",
+      "description": "BBC Verify looks at key measures to see what progress is being made and whether Scotland can be compared with other nations.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8e/live/d4d31050-1e13-11f1-b048-c9424b2cf5fd.png",
+      "enclosure": null,
+      "archived_at": "2026-04-03T10:39:39.181876",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fears cost of water and beer to soar as India's scorching summer hits",
+      "link": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T23:16:37",
+      "description": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bb8/live/2e39bd00-2d9c-11f1-8be6-dbad2e8ac294.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T10:39:39.181879",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Cuba to release more than 2,000 prisoners, as pressure from US mounts",
       "link": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T08:35:53",
@@ -2554,6 +2598,62 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "We'll take your cars away if you don't park them properly, police warn Bank Holiday Instagrammers heading for Britain's 'busiest mountain'",
+      "link": "https://www.dailymail.co.uk/news/article-15703791/Instagrammers-Snowdon-Bank-Holiday-cars-bad-parking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T10:35:03",
+      "description": "Officers will now be patrolling the Eryri National Park area in Snowdon to enforce a zero tolerance approach to vehicles left on the sides of narrow carriageways.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/11/107634197-0-image-m-18_1775212260685.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/11/107634197-0-image-m-18_1775212260685.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T10:39:39.719043",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Saharan dust cloud cloaks Cyprus sparking red weather alert after engulfing nearby Crete",
+      "link": "https://www.dailymail.co.uk/news/article-15703731/saharan-dust-cloud-cyprus-red-weather-alert-crete.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T10:29:11",
+      "description": "Cyprus has been engulfed in a thick cloud of Saharan dust, as a deadly storm continues to lash the Mediterranean with intense rain and strong winds.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/11/107634537-0-image-m-16_1775212049456.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/11/107634537-0-image-m-16_1775212049456.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T10:39:39.719048",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Nicola Sturgeon says her divorce from SNP boss Peter Murrell is about more than his embezzlement charge",
+      "link": "https://www.dailymail.co.uk/news/article-15703679/Nicola-Sturgeon-divorce-SNP-Peter-Murrell-embezzlement.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T10:17:46",
+      "description": "The former First Minister announced she and Murrell had 'decided to end' their 14 year marriage in January last year, months after he was charged with embezzling party funds.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633913-0-image-m-15_1775210197694.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633913-0-image-m-15_1775210197694.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T10:39:39.719050",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Amateur aviator, 82, died of heart attack in light plane he built himself after 'historic' damage to landing gear caused it to veer off the runway at small airfield",
+      "link": "https://www.dailymail.co.uk/news/article-15703757/Amateur-aviator-82-died-heart-attack-light-plane-built-historic-damage-landing-gear-caused-veer-runway-small-airfield.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T10:13:30",
+      "description": "Chris Lodge, 82, who had more than 1,500 flying hours under his belt, was declared dead at the scene after his Taylor Monoplane veered off the grass and 'nosed over' at Nayland Airfield in Suffolk.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633937-0-image-a-4_1775210183949.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633937-0-image-a-4_1775210183949.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T10:39:39.719051",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Outrage at Britain's most expensive cycle lane costing taxpayers \u00a34,198 per METRE - that locals say nobody will use",
       "link": "https://www.dailymail.co.uk/news/article-15703519/Britains-expensive-cycle-lane-taxpayers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9497,65 +9597,23 @@
       "archived_at": "2026-03-31T21:36:26.548995",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Drug driver who killed 'deeply loved' Scot in crash facing jail",
-      "link": "https://www.dailymail.co.uk/news/article-15695809/Drug-driver-killed-deeply-loved-Scot-crash-facing-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:43:44",
-      "description": "A drugged up driver has admitted killing a 'deeply loved' Scottish woman in a horror crash after a police chase.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562433-0-image-a-8_1774982974162.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562433-0-image-a-8_1774982974162.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T21:36:26.548997",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hollywood sees Scotland as all about 'unemployment, drug abuse, alcohol abuse and domestic abuse', says film star",
-      "link": "https://www.dailymail.co.uk/news/article-15695805/Hollywood-sees-Scotland-unemployment-drug-abuse-alcohol-abuse-domestic-abuse-says-film-star.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:40:26",
-      "description": "It was one of the biggest movies to come out of Scotland. But now it would seem that the film industry views Scotland as a scene from Danny Boyle's blockbuster hit Trainspotting.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562529-0-image-m-7_1774983428346.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562529-0-image-m-7_1774983428346.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T21:36:26.548998",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ministers spend \u00a324m a mile on consultants to dual just 11 miles of A9!",
-      "link": "https://www.dailymail.co.uk/news/article-15695807/Ministers-spend-24m-mile-consultants-11-miles-A9.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:39:48",
-      "description": "SNP ministers have blown a 'jaw-dropping' \u00a3340million on design consultants and planners to dual just 11 miles of key Highland routes.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562895-0-image-a-19_1774984459755.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562895-0-image-a-19_1774984459755.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T21:36:26.548999",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scots hit with extortionate pump prices of as much as \u00a32.17 a litre for diesel as Middle East fuel crisis starts to bite",
-      "link": "https://www.dailymail.co.uk/news/article-15695803/Scots-hit-extortionate-pump-prices-2-17-litre-diesel-Middle-East-fuel-crisis-starts-bite.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:38:18",
-      "description": "Scots motorists have been dealt a 'hammer blow' as the cost of petrol has soared to more than \u00a32 a litre - the highest in the UK.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562375-0-image-a-82_1774982659335.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562375-0-image-a-82_1774982659335.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T21:36:26.549000",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Chelsea BAN Enzo Fernandez: Liam Rosenior slaps star with two-match suspension and says 'a line was crossed' following \u00a3107m man's controversial public comments about his future",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15703847/Chelsea-BAN-Enzo-Fernandez-Liam-Rosenior-slaps-star-two-match-suspension-says-line-crossed-following-controversial-public-comments-future.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T10:33:37",
+      "description": "Enzo Fernandez has been sanctioned by Chelsea after appearing to advocate for a move to European rivals Real Madrid during the international break.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/11/107634357-0-image-a-17_1775211211127.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/11/107634357-0-image-a-17_1775211211127.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T10:39:40.053801",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Revealed: Gary Neville's staggering seven-figure earnings from podcast empire as Sky Sports star looks to rival Gary Lineker's media network",
       "link": "https://www.dailymail.co.uk/sport/football/article-15703543/Gary-Nevilles-staggering-seven-figures-earnings-podcast-empire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -13451,6 +13509,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Frank Turner taking his time with next album",
+      "link": "https://www.music-news.com/news/UK/188145/Frank-Turner-taking-his-time-with-next-album",
+      "pubDate": "2026-04-03T09:00:00",
+      "description": "Frank Turner says he\u2019s in no rush to make an 11th album, explaining that he wants his next songs to come from a place of genuine inspiration rather than obligation.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188145.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188145.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T10:39:44.661905",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Yungblud recruited The Molotovs for tour after chance pub meeting",
+      "link": "https://www.music-news.com/news/UK/188144/Yungblud-recruited-The-Molotovs-for-tour-after-chance-pub-meeting",
+      "pubDate": "2026-04-03T09:00:00",
+      "description": "The Molotovs revealed their upcoming tour with Yungblud began with an unexpected encounter at his favourite Camden pub.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188144.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188144.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T10:39:44.661910",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Olivia Rodrigo unveils new album You Seem Pretty Sad For A Girl So In Love",
       "link": "https://www.music-news.com/news/UK/188143/Olivia-Rodrigo-unveils-new-album-You-Seem-Pretty-Sad-For-A-Girl-So-In-Love",
