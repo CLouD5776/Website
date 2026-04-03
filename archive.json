@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T18:25:25",
+      "description": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T18:40:57.922142",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Amputee's home burgled during bus-pass challenge from John O' Groats to Land's End",
+      "link": "https://www.bbc.com/news/articles/ce359wqz008o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T17:06:23",
+      "description": "Barry Mackleston is attempting to get from John O Groats to Land's End using just his bus pass.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d72/live/02af6530-2dac-11f1-8469-3bd0a3d7fbf1.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T18:40:57.922152",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "French-owned ship passes through Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T17:45:46",
+      "description": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ed/live/b4e9e4b0-2f81-11f1-a6f5-1188a52986a4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T18:40:57.922154",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
       "link": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T15:45:25",
@@ -2818,6 +2851,118 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Prince Harry's former polo club in pollution row after it bought contaminated soil full of plastic and bricks",
+      "link": "https://www.dailymail.co.uk/news/article-15704577/Prince-Harry-former-polo-club-pollution-row-contaminated-soil-plastic-bricks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:34:07",
+      "description": "The Royal County of Berkshire Polo Club (RCBPC) in Winkfield has dumped an estimated half a million cubic metres of dirt (pictured) on its grounds since 2013.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/19/107642899-0-image-m-11_1775240072438.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/19/107642899-0-image-m-11_1775240072438.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:40:59.323577",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "ICE arrests head of Wisconsin's largest mosque with links to Hamas and pro-Palestinian 'squad' firebrand Rashida Tlaib",
+      "link": "https://www.dailymail.co.uk/news/article-15704209/ice-arrest-wisconsin-mosque-hamas-rashida-tlaib.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:33:54",
+      "description": "Salah Salem Sarsour, 53, was arrested by DHS on Monday in a 'targeted operation.' Federal officials said he was a 'terrorist.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/18/107641679-0-image-m-23_1775238174092.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/18/107641679-0-image-m-23_1775238174092.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:40:59.323583",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Big Fat Gypsy Wedding and Big Brother star Paddy Doherty leads tributes to his cousin and his three year old daughter after tipper truck crashed into pony and trap",
+      "link": "https://www.dailymail.co.uk/news/article-15704813/Big-Fat-Gypsy-Wedding-Big-Brother-star-Paddy-Doherty-leads-tributes-cousin-three-year-old-daughter-tipper-truck-crashed-pony-trap.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:30:43",
+      "description": "The reality TV star has named the victims of a devastating road accident in Kent as his relatives Francie Connors and three-year-old Ka Connors.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/18/107643583-0-image-a-6_1775239199441.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/18/107643583-0-image-a-6_1775239199441.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:40:59.323584",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sir James Dyson accuses Rachel Reeves of 'revenge economics' with taxes on farms and delays in North Sea gas drilling damaging nation and its security",
+      "link": "https://www.dailymail.co.uk/news/article-15704811/James-Dyson-Rachel-Reeves-revenge-economics-taxes-farms-North-Sea-gas-nation-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:29:38",
+      "description": "The billionaire inventor said the Chancellor's 'death taxes' on farmers and Ed Miliband's continued defence of carbon taxes is weakening Britain's capacity to stay self-sufficient",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/19/107644801-0-image-m-9_1775239769970.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/19/107644801-0-image-m-9_1775239769970.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:40:59.323586",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Jaw-clenching moment fisherman, 20, wrestles with GREAT WHITE SHARK on California beach",
+      "link": "https://www.dailymail.co.uk/news/article-15704151/fisherman-wrestles-GREAT-WHITE-SHARK-California-beach.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:22:49",
+      "description": "Kevin Phan, 20, was on an early-morning fishing trip in California when he struggled to reel in a catch he soon realized was a  juvenile great white shark.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/18/107643901-0-image-m-96_1775238433019.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/18/107643901-0-image-m-96_1775238433019.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:40:59.323587",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pub's beloved stolen badger mascot returned, with a new scarf and an apology from the thief who took it in 'drunken prank'",
+      "link": "https://www.dailymail.co.uk/news/article-15704807/Pubs-stolen-badger-mascot-returned-new-scarf-apology-thief-drunken-prank.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:22:49",
+      "description": "'Mr Badger' and Mrs Badger' as they are known were gifted to\u00a0The Oddfellows Arms in Wimborne, Dorset, by a customer in 1991.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/18/107598689-0-The_Oddfellows_Arms_in_Winborne_Dorset_has_launched_an_appeal_af-a-8_1775239146265.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/18/107598689-0-The_Oddfellows_Arms_in_Winborne_Dorset_has_launched_an_appeal_af-a-8_1775239146265.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:40:59.323589",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Seattle woman, 71, suffering '10 out of 10 pain' died after ambulance took TEN HOURS to arrive, with 911 dispatcher making vile remark and telling her to stop calling lawsuit alleges",
+      "link": "https://www.dailymail.co.uk/news/article-15704373/seattle-woman-ambulance-delay-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:20:56",
+      "description": "Pamela Hogan, 71, died after waiting 10 hours for an ambulance while begging 911 for help and being told 'we're not going to play that game' as her condition worsened",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/19/107643233-0-image-a-24_1775239347642.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/19/107643233-0-image-a-24_1775239347642.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:40:59.323590",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Melania teases Royal visit with rare behind-the-scenes video at White House",
+      "link": "https://www.dailymail.co.uk/news/article-15704543/melania-trump-king-charles-white-house.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:08:42",
+      "description": "First Lady Melania Trump on Friday teased the upcoming royal visit from King Charles with a rare behind-the-scenes video of White House preparations.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/18/107644073-0-image-m-38_1775237860144.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/18/107644073-0-image-m-38_1775237860144.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:40:59.323591",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Embattled Nancy Guthrie sheriff to be dragged before a public hearing as scandalous details about his past emerge",
       "link": "https://www.dailymail.co.uk/news/article-15704475/nancy-guthrie-sheriff-chris-nanos-scandal-arizona.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9705,121 +9850,51 @@
       "archived_at": "2026-04-01T05:10:58.528614",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Year One student goes viral for hilarious reason he was running late to school - but not all is as it seems",
-      "link": "https://www.dailymail.co.uk/news/article-15696487/child-late-slip-school-queensland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T04:55:10",
-      "description": "A primary school student has gone viral for being late to school due to a hilarious mishap on the family farm, or so it seemed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569887-0-image-a-17_1775007985805.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569887-0-image-a-17_1775007985805.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528616",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Horror as man charged with groping mall Easter BUNNY before asking if it's 'a boy or a girl'",
-      "link": "https://www.dailymail.co.uk/news/article-15696551/man-gropes-easter-bunny-mall-pennsylvania.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T04:51:36",
-      "description": "A New Jersey man was arrested and charged with indecent assault after allegedly groping a woman dressed as the Easter Bunny at a Pennsylvania mall.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/04/107571135-0-image-m-108_1775014169805.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/04/107571135-0-image-m-108_1775014169805.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528617",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Teacher of the Year finalist who groomed teen refused to cut ties with him even AFTER being charged",
-      "link": "https://www.dailymail.co.uk/news/article-15694857/Tera-Johnson-Swartz-Teacher-Year-groomed-student-Colorado.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T04:48:55",
-      "description": "Tera Johnson-Swartz, 45, a former finalist to be the 2025 Colorado Teacher of the Year, will spend more than a decade behind bars after she pleaded guilty to sexually exploiting a 16-year-old former student.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/04/107568925-0-image-m-16_1775015670577.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/04/107568925-0-image-m-16_1775015670577.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528618",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Major mix-up as Delta pilots contact WRONG tower while landing at NYC's LaGuardia Airport",
-      "link": "https://www.dailymail.co.uk/news/article-15696659/delta-pilots-wrong-tower-landing-NYC-laguardia-airport.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T04:48:41",
-      "description": "Pilots of a Delta flight were all set to land at LaGuardia airport but radioed the wrong tower for clearance just over a week after the NYC airport saw a deadly crash.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/04/107571363-0-image-a-9_1775013719765.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/04/107571363-0-image-a-9_1775013719765.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528619",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The stagflation trap: Why nightmare scenario looms for every Aussie with a mortgage. PVO reports on a ghost of the 1970s that could be about to return with a vengeance",
-      "link": "https://www.dailymail.co.uk/news/article-15696687/stafglation-peter-van-onselen-pvo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T04:14:18",
-      "description": "Australia could be heading towards the worst kind of economic downturn.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/05/107571883-0-image-m-12_1775016785190.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/05/107571883-0-image-m-12_1775016785190.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528621",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Bruce Springsteen goes scorched earth on Trump admin during Minneapolis concert",
-      "link": "https://www.dailymail.co.uk/news/article-15696697/Bruce-Springsteen-Trump-admin-Minneapolis-concert.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T03:50:12",
-      "description": "Springsteen, long an outspoken liberal, sounded off on Trump as he took the stage at Target Center to launch his Land of Hope and Dreams Tour.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/03/107570105-0-image-m-28_1775012280211.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/03/107570105-0-image-m-28_1775012280211.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528622",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Heavy-handed or fair enough? Aussies divided after young e-bike rider is confronted by no-nonsense cop",
-      "link": "https://www.dailymail.co.uk/news/article-15696475/ebike-queensland-police-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T03:44:26",
-      "description": "A young e-bike rider has been handcuffed at a Gold Coast beach, with Aussies divided over whether the police officer's response was fair.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107567715-0-image-m-36_1775003080018.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107567715-0-image-m-36_1775003080018.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528623",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "No car, no worries: Angus Taylor's wheels are stolen just hours before important fuel press conference",
-      "link": "https://www.dailymail.co.uk/news/article-15696655/angus-taylor-car-stolen-act-canberra-liberals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T02:29:00",
-      "description": "The Opposition Leader has been revealed as the victim of a car theft just hours before a high\u2011stakes media conference.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569941-0-image-m-26_1775007468999.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/02/107569941-0-image-m-26_1775007468999.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528625",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Classy Roy Hodgson leads Bristol City to victory in first match in charge in 44 years - and says it's 'only five weeks until the slippers come back on'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704031/Classy-Roy-Hodgson-leads-Bristol-City-win-44-years-later.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:22:54",
+      "description": "MATT BARLOW AT THE VALLEY: Forget the man hugs and high fives, Roy Hodgson is back on the touchline immaculately dressed and marking his first win as Bristol City boss for 44 years.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/19/107645107-0-image-a-2_1775240178363.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/19/107645107-0-image-a-2_1775240178363.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:41:02.656424",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Rangers boss Danny Rohl issues warning to Premiership title rivals ahead of crunch Dundee Utd clash",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704713/Rangers-boss-Danny-Rohl-issues-warning-Premiership-title-rivals-ahead-crunch-Dundee-Utd-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:17:54",
+      "description": "Rangers boss Danny Rohl says his team have both the 'mentality' and the 'quality' required to come out on top in the Premiership title race.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/19/107645103-0-image-a-36_1775240228011.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/19/107645103-0-image-a-36_1775240228011.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:41:02.656430",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man United legend backs Jose Mourinho to make stunning Old Trafford return - but names key reason why it will 'NEVER' happen",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704823/Jose-Mourinho-Man-United-Premier-League-manager-Nicky-Butt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T18:12:55",
+      "description": "Jose Mourinho would be able to 'carry' Man United if he returned for a second spell in charge of the club, according to Nicky Butt.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/18/107644345-0-image-a-49_1775238554829.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/18/107644345-0-image-a-49_1775238554829.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:41:02.656432",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "'It's completely UNFAIR': Enzo Fernandez's agent hits back after Chelsea banned star for 'crossing a line' with bombshell comments - and casts major doubt on player's future with warning to the club",
       "link": "https://www.dailymail.co.uk/sport/football/article-15704599/Enzo-Fernandez-Chelsea-ban-agent-Premier-League-Real-Madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -13869,6 +13944,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "RAYE claims historic first Number 1 album with 'THIS MUSIC MAY CONTAIN HOPE.'",
+      "link": "https://www.music-news.com/news/UK/188147/RAYE-claims-historic-first-Number-1-album-with-THIS-MUSIC-MAY-CONTAIN-HOPE",
+      "pubDate": "2026-04-03T16:55:00",
+      "description": "The British music scene belongs to RAYE in 2026. The independent South London superstar has officially secured her first-ever Number 1 on",
+      "thumbnail": "https://www.music-news.com/images/news/raye3.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/raye3.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:41:07.538771",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tame Impala smashes records as \"Dracula\" vaults into the Top 3",
+      "link": "https://www.music-news.com/news/UK/188148/Tame-Impala-smashes-records-as-Dracula-vaults-into-the-Top-3",
+      "pubDate": "2026-04-03T16:54:00",
+      "description": "The Official Singles Chart has been set ablaze this week as Tame Impala\u2014the psych-pop powerhouse led by Kevin Parker\u2014reaches unchartered territory.",
+      "thumbnail": "https://www.music-news.com/images/news/TameImpala3.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/TameImpala3.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T18:41:07.538776",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Britney Spears' son changes name on social media after reunion",
       "link": "https://www.music-news.com/news/UK/188153/Britney-Spears-son-changes-name-on-social-media-after-reunion",
