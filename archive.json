@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Cuba to release more than 2,000 prisoners, as pressure from US mounts",
+      "link": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T08:35:53",
+      "description": "US President Trump has made clear his desire to change Cuba's leadership and has placed the country under an oil embargo.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b0/live/b3c41e70-2f36-11f1-bf2c-fd91bf9d4122.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T09:50:10.825451",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "A maverick untamed? Why Cherki splits opinion",
+      "link": "https://www.bbc.com/sport/football/articles/cvge9r8v0jyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T09:13:02",
+      "description": "Rayan Cherki caused a social media stir at the Carabao Cup final - and the Manchester City midfielder will hope to steal the show again in Saturday's FA Cup quarter-final against Liverpool.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2487/live/31654be0-2dc7-11f1-b5b8-bdb2c7a76bf2.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T09:50:10.825460",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Hurtling towards relegation - but can Port Vale shock Chelsea in FA Cup?",
       "link": "https://www.bbc.com/sport/football/articles/cm2x22jgrkno?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T07:59:53",
@@ -2532,6 +2554,132 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Outrage at Britain's most expensive cycle lane costing taxpayers \u00a34,198 per METRE - that locals say nobody will use",
+      "link": "https://www.dailymail.co.uk/news/article-15703519/Britains-expensive-cycle-lane-taxpayers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T09:46:54",
+      "description": "The strip of blue tarmac in the non-'cycling town' of Willenhall, West Midlands, stretches for less than a mile, and is costing \u00a35,037,792 - or \u00a34,198 per metre.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633249-0-image-m-14_1775208586444.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633249-0-image-m-14_1775208586444.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:11.210688",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Britain rejects Iran's bid to set up a 'toll booth' in the Strait of Hormuz as Tehran continues to 'hold the world economy hostage' with closure of key shipping lane",
+      "link": "https://www.dailymail.co.uk/news/article-15703523/Britain-rejects-Irans-bid-set-toll-booth-Strait-Hormuz-Tehran-continues-hold-world-economy-hostage-closure-key-shipping-lane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T09:44:51",
+      "description": "Iran has effectively shut down the key shipping lane in the Gulf in retaliation for US and Israeli attacks that began at the end of February.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632957-0-image-a-4_1775209279543.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632957-0-image-a-4_1775209279543.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:11.210694",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How 'Frankenstein' undertaker's trip to the US helped expose Britain's worst ever funeral home scandal - as he faces prison for letting 30 bodies rot and pocketing cremation fees",
+      "link": "https://www.dailymail.co.uk/news/article-15703513/How-Frankenstein-undertakers-trip-US-helped-unveil-Britains-worst-funeral-home-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T09:43:59",
+      "description": "Robert Bush, 48, is facing prison after he yesterday admitted preventing the burials of 30 people at Legacy Independent Funeral Directors in Hull.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/99706407-0-image-m-6_1775206117198.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/99706407-0-image-m-6_1775206117198.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:11.210696",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump's mockery of Starmer shows PM 'isn't respected on the world stage', says Reform's Jenrick after President's belittling impersonation",
+      "link": "https://www.dailymail.co.uk/news/article-15703701/Trumps-mockery-Starmer-shows-PM-isnt-respected-world-stage-says-Reforms-Jenrick-Presidents-belittling-impersonation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T09:39:56",
+      "description": "At a White House lunch on Wednesday, the US President put on a weak-sounding voice as he mimicked Keir Starmer saying he couldn't send UK forces to the Middle East.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107618363-0-image-m-13_1775207101893.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107618363-0-image-m-13_1775207101893.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:11.210698",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Scott Mills bridge plaque is removed from M3 service station after star was sacked by BBC",
+      "link": "https://www.dailymail.co.uk/news/article-15703547/Scott-Mills-bridge-plaque-removed-star-sacked-BBC.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T09:37:48",
+      "description": "The plaque for the 'Scott Mills Bridge' was put up at Fleet services on the M3 on March 16, 2016, following a light-hearted campaign on his then-Radio 1 show to get the bridge named after him.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/107621171-0-image-a-8_1775205355463.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/107621171-0-image-a-8_1775205355463.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:11.210700",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Outrage over Albo's glaring omission in Easter message to Aussies: 'Just a letter to the people you hate'",
+      "link": "https://www.dailymail.co.uk/news/article-15703555/Albo-easter-message-fuel-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T09:34:23",
+      "description": "The Prime Minister focused on family and faith while reflecting on the significance of the crucifixion and resurrection of Jesus Christ.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107631855-0-image-m-45_1775207437041.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107631855-0-image-m-45_1775207437041.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:11.210701",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Horrified woman 'trapped' in her Travelodge room while a naked man banged on her door and performed 'vile sex acts' in the corridor",
+      "link": "https://www.dailymail.co.uk/news/article-15703607/woman-trapped-Travelodge-room-naked-man-banged-door.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T09:33:40",
+      "description": "Wendy Griffith was staying at the chain's London Stratford branch in July 2025 when she witnessed the 'vile' spectacle through the door's peephole.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632543-0-image-m-25_1775208681478.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632543-0-image-m-25_1775208681478.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:11.210702",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Residents claim they're being 'suffocated' after scaffolding is left surrounding their \u00a312million block of flats for four years",
+      "link": "https://www.dailymail.co.uk/news/article-15703565/Residents-suffocated-scaffolding-left-surrounding-flats-four-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T09:33:35",
+      "description": "Contractors began work to remove combustible cladding from Kingsgate House on King's Road in Chelsea, west London, in 2022, when the scaffolding was put up.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632515-0-image-a-4_1775205233281.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632515-0-image-a-4_1775205233281.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:11.210703",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Revealed: The Brit flight attendant who posted an airport drone attack photo and the London tourist who pictured an airstrike both now facing up to two years in UAE jail for 'cyber crimes'",
+      "link": "https://www.dailymail.co.uk/news/article-15703649/brit-flight-attendant-drone-attack-photo-UAE-jail-cyber-crimes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T09:23:28",
+      "description": "At least three Britons are in prison facing serious charges in the UAE for 'cyber crimes' relating to photographing, filming or sharing drone or missile strikes, the Daily Mail has learned.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632821-0-image-m-38_1775208180405.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632821-0-image-m-38_1775208180405.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:11.210704",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Four-hour passport queues are a punishment for Brexit from the EU, Ryanair boss claims",
       "link": "https://www.dailymail.co.uk/news/article-15703463/Four-hour-passport-queues-Brexit-EU-Ryanair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9405,135 +9553,23 @@
       "archived_at": "2026-03-31T21:36:26.549000",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Woman who dumped goldendoodle at Las Vegas airport after being told she couldn't fly with him is hit with arrest warrant",
-      "link": "https://www.dailymail.co.uk/news/article-15695563/woman-abandoned-goldendoodle-dog-las-vegas-airport-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:37:31",
-      "description": "Germiran Bryson, 26, allegedly left her dog inside Harry Reid International Airport after being told she did not have the proper paperwork to bring him on board as a service animal.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/106513351-0-image-m-13_1774985476687.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/106513351-0-image-m-13_1774985476687.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T20:41:18.002270",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "A&E in meltdown and cancer targets missed\u2026 but First Minister John Swinney 'proud of progress'",
-      "link": "https://www.dailymail.co.uk/news/article-15695785/A-E-meltdown-cancer-targets-missed-Minister-John-Swinney-proud-progress.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:37:19",
-      "description": "John Swinney has said he is 'proud' of progress in Scotland's NHS - as 'atrocious' figures show huge numbers of patients facing long waits for appointments, cancer care and A&amp;E.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562213-0-image-a-72_1774981955958.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107562213-0-image-a-72_1774981955958.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T20:41:18.002275",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Stunning downfall of San Francisco 'queen' as she's charged with stealing fortune city allocated for black nonprofits",
-      "link": "https://www.dailymail.co.uk/news/article-15694413/sheryl-davis-san-francisco-stealing-black-nonprofit-funds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:37:14",
-      "description": "Sheryl Davis has been charged with multiple felonies after allegedly siphoning hundreds of thousands in taxpayer funds from a program meant to support the city's black community.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/18/107560935-0-image-m-12_1774979731678.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/18/107560935-0-image-m-12_1774979731678.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T20:41:18.002276",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Confused German shepherd dumped on hot street by cruel owner before loyally waiting in vain for them to return",
-      "link": "https://www.dailymail.co.uk/news/article-15695751/german-shepherd-dumped-austin-texas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:35:58",
-      "description": "A truck took off after bystanders watched a man dump his German shepherd  and its belongings to the side of a road in Austin Texas on Monday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107562587-0-image-a-1_1774987507265.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107562587-0-image-a-1_1774987507265.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T20:41:18.002278",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tributes pour in for man, 26, who was gunned down by 'suspect who fled on a bike' near Euston Station",
-      "link": "https://www.dailymail.co.uk/news/article-15696033/Tributes-man-gunned-Euston-Station.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:27:38",
-      "description": "Nahom Medhanie, 26, was tragically pronounced dead at the scene on Chalton Street in Camden on Saturday night.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564309-0-image-a-9_1774988677687.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564309-0-image-a-9_1774988677687.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T20:41:18.002280",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "William Hill to close 200 high street stores in weeks as betting firm blames 'significant tax increases' under Labour",
-      "link": "https://www.dailymail.co.uk/news/article-15695639/William-Hill-close-200-high-street-stores-weeks-betting-firm-blames-significant-tax-increases-Labour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:21:44",
-      "description": "The bookmaker said on Tuesday that 15 per cent of its outlets will shut within weeks in the latest blow for the British high street.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107563963-0-image-m-10_1774988162338.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107563963-0-image-m-10_1774988162338.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T20:41:18.002282",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Brother of murdered schoolboy dies without finding out the truth or seeing 11-year-old's killer caught",
-      "link": "https://www.dailymail.co.uk/news/article-15695833/murdered-schoolboy-truth-killer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:15:09",
-      "description": "Allan Graham was found dead aged 11 in a ditch, 24 hours after going missing from Newcastle's West End in 1970.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107563387-0-image-m-19_1774987569603.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107563387-0-image-m-19_1774987569603.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T20:41:18.002283",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Adorable pet dog rescued from unusual predicament after a passerby heard barking coming from underground",
-      "link": "https://www.dailymail.co.uk/news/article-15694879/dog-rescued-virginia-storm-drain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T20:02:10",
-      "description": "Diesel, a Pitbull from Norfolk, Virginia, escaped from his family home when a gate was accidentally left open. He was missing for a full day before a Good Samaritan found him in this odd hiding place.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107561245-0-image-m-15_1774982663051.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107561245-0-image-m-15_1774982663051.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T20:41:18.002284",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Single image at a petrol station sums up the fuel crisis gripping Australia - as a fresh warning is issued for millions driving over the Easter long weekend",
-      "link": "https://www.dailymail.co.uk/news/article-15695905/fuel-crisis-live-blog-australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T19:49:33",
-      "description": "Follow Daily Mail's live updates on Australia's fuel crisis.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107563381-0-image-m-3_1774985959285.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107563381-0-image-m-3_1774985959285.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:56:08.211039",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Revealed: Gary Neville's staggering seven-figure earnings from podcast empire as Sky Sports star looks to rival Gary Lineker's media network",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15703543/Gary-Nevilles-staggering-seven-figures-earnings-podcast-empire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T09:25:48",
+      "description": "The Manchester United icon is a co-founder of the sports entertainment organisation, which plays host to his podcast empire including its jewel in the crown, The Overlap - Stick To Football.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633241-0-image-a-6_1775207929998.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633241-0-image-a-6_1775207929998.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:11.530037",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Rio Ferdinand urges Man United to make FOUR signings this summer - and reveals why he would not go for Sandro Tonali",
       "link": "https://www.dailymail.co.uk/sport/football/article-15703423/Rio-Ferdinand-Man-United-FOUR-signings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -13415,6 +13451,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Olivia Rodrigo unveils new album You Seem Pretty Sad For A Girl So In Love",
+      "link": "https://www.music-news.com/news/UK/188143/Olivia-Rodrigo-unveils-new-album-You-Seem-Pretty-Sad-For-A-Girl-So-In-Love",
+      "pubDate": "2026-04-03T08:00:00",
+      "description": "Olivia Rodrigo has announced her third album You Seem Pretty Sad For A Girl So In Love, revealing the June 12 release was inspired by her time in London and packed with \u201csad love songs\u201d as she opens up about the raw, terrifying beauty of falling in love.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188143.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188143.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:16.053099",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "KATSEYE\u2019s Manon Bannerman breaks silence after announcing hiatus as fans spot Instagram bio change",
+      "link": "https://www.music-news.com/news/UK/188142/KATSEYE-s-Manon-Bannerman-breaks-silence-after-announcing-hiatus-as-fans-spot-Instagram-bio-change",
+      "pubDate": "2026-04-03T08:00:00",
+      "description": "Manon Bannerman reassured fans she is \u201chappy and healthy\u201d after stepping back from KATSEYE, after the group confirmed she will temporarily halt activities.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188142.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188142.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T09:50:16.053104",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "RAYE apologises to fans who bought 'first edition' of new album",
       "link": "https://www.music-news.com/news/UK/188140/RAYE-apologises-to-fans-who-bought-first-edition-of-new-album",
