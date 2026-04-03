@@ -1,6 +1,61 @@
 {
   "BBC News": [
     {
+      "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
+      "link": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T20:43:33",
+      "description": "Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeaf/live/25e129c0-2f92-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T21:29:55.719615",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Unanswered questions remain after death of Australia's most wanted fugitive",
+      "link": "https://www.bbc.com/news/articles/cg7358zzz0no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T19:19:02",
+      "description": "Double-murderer Dezi Freeman evaded capture for seven months in the bush but police believe he had help.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc8/live/9c3419e0-2e69-11f1-a79a-77e93010d956.png",
+      "enclosure": null,
+      "archived_at": "2026-04-03T21:29:55.719624",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How elite US teams tackle combat rescue missions",
+      "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T20:42:56",
+      "description": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T21:29:55.719627",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Marshmallows fall from the sky at annual Michigan Easter event",
+      "link": "https://www.bbc.com/news/videos/cvglpewvx15o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T20:12:55",
+      "description": "At the annual 'Great Marshmallow Drop', more than 15,000 fluffy treats fell from a helicopter as kids raced to collect them.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1492/live/74921060-2f98-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T21:29:55.719630",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Leeds beat Bradford to go top of Super League",
+      "link": "https://www.bbc.com/sport/rugby-league/articles/c5yx89ekr8go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T21:02:58",
+      "description": "Leeds Rhinos move to the top of Super League as they earn a derby victory over Bradford Bulls at Odsal.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa22/live/75958460-2f9d-11f1-82aa-e78815ba31b1.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T21:29:55.719632",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Foakes leads superb Surrey recovery at Edgbaston",
       "link": "https://www.bbc.com/sport/cricket/articles/c6262ly5p47o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T17:43:27",
@@ -2873,6 +2928,104 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Political reporter Jon Michael Raasch discusses removal of Pam Bondi, who might be next, and why President Trump needs to make a move prior to midterms",
+      "link": "https://www.dailymail.co.uk/news/article-15705193/Jon-Raasch-firing-Pam-Bondi-Trump-cabinet-midterms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T21:01:12",
+      "description": "US political reporter Jon Michael Raasch discusses the removal of Attorney General Pam Bondi from office and who might be next on the chopping block",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/22/107647011-0-image-a-43_1775250040565.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/22/107647011-0-image-a-43_1775250040565.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T21:29:57.018232",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "America's top Catholic military bishop rebukes Trump's Iran war as he delivers explosive Easter warning",
+      "link": "https://www.dailymail.co.uk/news/article-15704961/trump-iran-war-catholic-bishop-rebuke.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T21:00:40",
+      "description": "Archbishop Timothy Broglio called Defense Secretary Pete Hegseth's invocations of Jesus Christ to justify the war 'problematic.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/21/107647333-0-image-m-16_1775248269131.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/21/107647333-0-image-m-16_1775248269131.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T21:29:57.018238",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "LA's 'most tasteful burglar' snatches $58,000 sofa and grabs $15,000 worth of designer labels from fashion influencer",
+      "link": "https://www.dailymail.co.uk/news/article-15704265/los-angeles-burglar-stole-vintage-furniture-influencer-designer-goods.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T20:51:27",
+      "description": "Business owners and influencers have accused Zack Vincler, 36, of stealing expensive vintage furniture and designer items.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/21/69798671-0-image-m-17_1775246472663.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/21/69798671-0-image-m-17_1775246472663.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T21:29:57.018240",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Former reality star Spencer Pratt closes in on Karen Bass in bid to be next Los Angeles mayor",
+      "link": "https://www.dailymail.co.uk/news/article-15705097/spencer-pratt-karen-bass-los-angeles-mayor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T20:50:50",
+      "description": "Spencer Pratt got his start on the hit MTV series, The Hills, but his political ambitions are becoming increasingly likely as new polling data shows him closing in on incumbent Mayor Karen Bass.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/21/107646609-0-image-m-9_1775248355385.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/21/107646609-0-image-m-9_1775248355385.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T21:29:57.018241",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Outrage as crime-ridden city removes key road safety measure so drivers can go FASTER at busy intersection",
+      "link": "https://www.dailymail.co.uk/news/article-15705105/st-louis-sidewalk-extension-removed-traffic-pedestrian-deaths.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T20:49:34",
+      "description": "St. Louis got rid of concrete bumpouts on busy city thoroughfares that were supposed to cut down on pedestrian deaths. The mayor said they were gotten rid of to lessen traffic jams.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/21/107647117-0-image-m-68_1775248498910.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/21/107647117-0-image-m-68_1775248498910.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T21:29:57.018242",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Adorably cute bear cub is rescued by New Jersey State Troopers after its mother abandoned it by side of road",
+      "link": "https://www.dailymail.co.uk/news/article-15705099/bear-cub-rescue-new-jersey-interstate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T20:47:31",
+      "description": "A tiny bear cub was found alone in a roadside ditch along I-78 before New Jersey troopers stepped in and brought it to safety.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/21/107647147-0-image-m-44_1775248342255.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/21/107647147-0-image-m-44_1775248342255.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T21:29:57.018243",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "REVEALED:\u00a0The sinister underworld of illegal ayahuasca retreats in Ireland\u00a0 - where vulnerable people pay thousands for 'healing' and risk triggering a mental health crisis or even psychosis...",
+      "link": "https://www.dailymail.co.uk/news/article-15699319/The-sinister-underworld-illegal-ayahuasca-retreats-Ireland-vulnerable-people-pay-thousands-healing-risk-triggering-mental-health-crisis-psychosis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T20:40:22",
+      "description": "As the use of illegal ayahuasca spreads to European and Irish alternative healing circles, devotees describe deep insight, while others report destabilising after-effects.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/21/107591809-0-image-m-15_1775074364034.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/21/107591809-0-image-m-15_1775074364034.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T21:29:57.018245",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Scottish Tories vow \u00a312k boost for families in a move to combat cost of living crisis",
       "link": "https://www.dailymail.co.uk/news/article-15705025/Scottish-Tories-vow-12k-boost-families-combat-cost-living-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9772,104 +9925,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-01T05:10:58.528595",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "King Charles will not meet survivors of Jeffrey Epstein when he jets to the US - but may one day",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15696363/King-Charles-not-meet-survivors-Jeffrey-Epstein-jets-US-one-day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T01:22:17",
-      "description": "Sources stressed that His Majesty's previous position regarding the survivors has been well-noted, as has Her Majesty's long-standing support for all victims of sexual violence and domestic abuse.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/23/107567117-0-image-m-10_1774997747972.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/23/107567117-0-image-m-10_1774997747972.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528597",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tiger Woods finally breaks silence on DUI arrest and reveals he is getting help for 'lasting recovery'",
-      "link": "https://www.dailymail.co.uk/sport/golf/article-15696425/tiger-woods-dui-arrest-rehab-florida.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T01:22:09",
-      "description": "Tiger Woods has announced that he is taking time away to seek help as he spoke out on his latest DUI arrest for the first time.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/00/107567285-0-image-a-19_1774998074828.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/00/107567285-0-image-a-19_1774998074828.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528598",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "King Charles 'invites Princesses Beatrice and Eugenie to the Royal Ascot'",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15696563/King-Charles-invites-Princesses-Beatrice-Eugenie-Royal-Ascot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T00:44:37",
-      "description": "The sisters are in line for an appearance in the official\u00a0carriage procession and Royal Enclosure at the racing festival this June following a disastrous few months.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568937-0-image-m-46_1775003689492.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568937-0-image-m-46_1775003689492.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528600",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Doomsday preppers' are getting ready for disaster. Here's how to survive a financial apocalypse",
-      "link": "https://www.dailymail.co.uk/money/bills/article-15695801/Doomsday-preppers-getting-ready-disaster-you-need-know-survive-financial-apocalypse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T00:36:05",
-      "description": "Father of two Dan Goss, pictured, founder of the website Start Prepping UK, is digging in as he prepares for what could lie ahead.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564729-0-image-a-7_1774990249011.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564729-0-image-a-7_1774990249011.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528601",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Radio 2 presenter Sara Cox says she's no longer afraid to 'crumple a man's fragile ego' as she replaces ex colleague Scott Mills on BBC's Eurovision coverage",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15694979/Sara-Cox-not-afraid-crumple-mans-fragile-ego-replaces-Scott-Mills-BBCs-Eurovision-coverage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T00:15:05",
-      "description": "Sara Cox has said she is no longer afraid to 'crumple a man's fragile ego' as she replaces sacked DJ Scott Mills on the BBC's Eurovision coverage.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107556773-0-image-m-3_1775002459704.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107556773-0-image-m-3_1775002459704.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528603",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "ROBERT HARDMAN: I've interviewed Trump and Charles... here's why this visit MUST go ahead",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15696127/ROBERT-HARDMAN-Trump-Charles-visit-ahead.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T00:07:23",
-      "description": "There is something almost endearing about the calls from the Lib Dem leader, Sir Ed Davey, for the King to cancel his state visit to the US.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564639-0-image-a-5_1774990278170.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564639-0-image-a-5_1774990278170.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528604",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I've been getting someone else's post for months - am I allowed to bin it? DEAN DUNHAM KC replies",
-      "link": "https://www.dailymail.co.uk/money/experts/article-15695397/Ive-getting-elses-post-months-allowed-bin-Consumer-lawyer-DEAN-DUNHAM-replies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T23:04:04",
-      "description": "I receive post every day for someone who used to live at my address. I've tried returning it to sender unopened, but I still get a few letters a week.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564671-0-image-a-10_1774989907616.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/21/107564671-0-image-a-10_1774989907616.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T05:10:58.528606",
       "feed_category": "News",
       "feed_visibility": "both"
     }
