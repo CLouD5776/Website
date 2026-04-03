@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Hurtling towards relegation - but can Port Vale shock Chelsea in FA Cup?",
+      "link": "https://www.bbc.com/sport/football/articles/cm2x22jgrkno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T07:59:53",
+      "description": "Six thousand Port Vale fans will travel to Chelsea on Saturday to cheer on the struggling League One side in the quarter-finals of the FA Cup.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cff/live/6c4a84b0-2b5a-11f1-8c3a-a5a96d0e4227.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-03T08:49:02.924315",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
       "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T07:07:48",
@@ -2521,6 +2532,62 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Four-hour passport queues are a punishment for Brexit from the EU, Ryanair boss claims",
+      "link": "https://www.dailymail.co.uk/news/article-15703463/Four-hour-passport-queues-Brexit-EU-Ryanair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T08:42:10",
+      "description": "Chief executive Michael O'Leary claimed the bloc was 'undoubtedly' forcing Britons to endure longer waits at airports as a 'f*** you' for leaving the EU in 2020.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632441-0-image-a-8_1775204965904.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632441-0-image-a-8_1775204965904.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T08:49:03.394618",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Outgoing BBC director general Tim Davie says staff culture at corporation will 'never be fully fixed'",
+      "link": "https://www.dailymail.co.uk/news/article-15703469/BBC-Tim-Davie-staff-culture.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T08:38:08",
+      "description": "Mr Davie added that there were senior BBC employees who\u00a0'have had a lot of power' which has not been 'called out' if they 'misuse' it.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/107618729-0-image-m-11_1775205016570.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/107618729-0-image-m-11_1775205016570.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T08:49:03.394622",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Iran still has 50% of its missile launchers and thousands of drones and can still 'wreak absolute havoc' across Middle East, US intelligence sources claim despite weeks of bombing",
+      "link": "https://www.dailymail.co.uk/news/article-15703455/Iran-missile-launchers-thousands-drones-wreak-havoc-intelligence-sources.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T08:26:47",
+      "description": "Iran still has half its missile launchers intact and an arsenal of thousands of drones,\u00a0US intelligence sources have claimed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632241-0-image-m-36_1775204538505.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632241-0-image-m-36_1775204538505.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T08:49:03.394626",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "NHS boss warns junior doctors could go on strike every month for the rest of the year in row over pay - as they walkout from hospitals next week",
+      "link": "https://www.dailymail.co.uk/news/article-15703409/NHS-boss-warns-junior-doctors-strike-month-rest-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T07:46:49",
+      "description": "Sir Jim Mackey, chief executive of the health service, yesterday told hospital chief executives the union was likely to hold strikes 'every four weeks' for the next year",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/08/107561597-0-image-m-8_1775202247989.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/08/107561597-0-image-m-8_1775202247989.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T08:49:03.394627",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Harrowing final moments of charter pilot who crashed into croc-infected waters near Normanton Airport",
       "link": "https://www.dailymail.co.uk/news/article-15703425/thomas-niit-plane-crash-Normanton-atsb.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9464,65 +9531,37 @@
       "archived_at": "2026-03-31T19:56:08.211039",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Trump ordered to stop all construction on his glitzy White House ballroom",
-      "link": "https://www.dailymail.co.uk/news/article-15695947/donald-trump-ballroom-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T19:48:50",
-      "description": "President Donald Trump's White House ballroom project was halted Tuesday by a federal judge.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107533337-0-image-m-52_1774985387591.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107533337-0-image-m-52_1774985387591.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:56:08.211045",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump tells America's allies 'get your own oil' as furious President issues ominous warning over lack of support for his war in Iran: 'You'll have to start learning how to fight for yourself'",
-      "link": "https://www.dailymail.co.uk/news/article-15695945/trump-allies-australia-iran-war-jet-fuel-warning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T19:46:23",
-      "description": "Donald Trump has ordered America's allies to 'go get your own oil' and prepare to 'fight for yourself' as he signals the US may withdraw support from the war in Iran.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/14/107551209-0-Donald_Trump_insisted_he_had_done_the_hard_part_by_launching_the-a-7_1774962676266.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/14/107551209-0-Donald_Trump_insisted_he_had_done_the_hard_part_by_launching_the-a-7_1774962676266.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:56:08.211047",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Grooming gang inquiry will expose bungling police who failed to investigate gangs of Asian men, chairman pledges",
-      "link": "https://www.dailymail.co.uk/news/article-15694303/Grooming-gang-inquiry-expose-bungling-police-failed-investigate-gangs-Asian-men-chairman-pledges.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T17:45:54",
-      "description": "Police who failed to investigate child sex grooming gangs will be held to account, the new independent inquiry's head pledged today.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/12/107550815-0-image-m-32_1774956676945.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/12/107550815-0-image-m-32_1774956676945.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416066",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "New police taskforce to investigate Epstein's alleged UK sex ring",
-      "link": "https://www.dailymail.co.uk/news/article-15694299/New-police-taskforce-investigate-UK-exploitation-sexual-abuse-linked-Jeffrey-Epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T16:59:59",
-      "description": "Police have set up a new taskforce to specifically examine allegations of sexual abuse involving paedophile financier Jeffrey Epstein in the UK",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/12/107550809-0-image-m-11_1774955581593.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/12/107550809-0-image-m-11_1774955581593.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.416072",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Rio Ferdinand urges Man United to make FOUR signings this summer - and reveals why he would not go for Sandro Tonali",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15703423/Rio-Ferdinand-Man-United-FOUR-signings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T08:44:06",
+      "description": "Ferdinand has his eyes set on the summer, and how United can improve their team whoever is in charge next season.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632453-0-image-a-26_1775204910194.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632453-0-image-a-26_1775204910194.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T08:49:03.740927",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man United U21s facing battle to play Shea Lacey in Real Madrid showdown after 18-year-old is promoted to first team by Michael Carrick",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15699907/Man-United-U21s-facing-battle-play-Shea-Lacey-Real-Madrid-showdown-18-year-old-promoted-team-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T08:11:28",
+      "description": "INTERVIEW BY NATHAN SALT: Man United's U21s play on Friday away to Leeds before hosting Real Madrid  on Tuesday in the quarter-finals of the Premier League International Cup.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/107597483-0-image-a-2_1775203867536.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/107597483-0-image-a-2_1775203867536.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T08:49:03.740936",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Bitter Luke Littler hits back at darts rival with pointed Instagram post after on stage clash saw world champion mock opponent with CRYING gesture",
       "link": "https://www.dailymail.co.uk/sport/football/article-15703421/Bitter-Luke-Littler-rival-pointed-Instagram-clash-world-champion-mock-opponent-crying.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -13376,6 +13415,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "RAYE apologises to fans who bought 'first edition' of new album",
+      "link": "https://www.music-news.com/news/UK/188140/RAYE-apologises-to-fans-who-bought-first-edition-of-new-album",
+      "pubDate": "2026-04-03T07:00:00",
+      "description": "RAYE has apologised to fans who bought her new album on vinyl because it was pressed before the final mix was done.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188140.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188140.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T08:49:07.698158",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Rita Wilson drops powerful new single Jury of One",
+      "link": "https://www.music-news.com/news/UK/188139/Rita-Wilson-drops-powerful-new-single-Jury-of-One",
+      "pubDate": "2026-04-03T07:00:00",
+      "description": "Rita Wilson has unveiled her heartfelt new single Jury of One as she gears up to release her most personal album yet, Sound of a Woman.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188139.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188139.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-03T08:49:07.698162",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Olivia Rodrigo 'so proud' of third studio album",
       "link": "https://www.music-news.com/news/UK/188138/Olivia-Rodrigo-so-proud-of-third-studio-album",
