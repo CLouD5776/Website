@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Trump seeks $152m to reopen notorious Alcatraz prison",
+      "link": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T09:17:10",
+      "description": "Former Speaker of the House Nancy Pelosi calls the plan a \"stupid notion that would be nothing more than a waste of taxpayer dollars\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddcf/live/782ba7e0-3006-11f1-a1a5-7555ad51d4c1.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T10:29:36.440201",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Storm Dave triggers weather warning as 80mph gusts and travel disruption expected",
+      "link": "https://www.bbc.com/news/articles/c5y80nj5v50o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T09:04:11",
+      "description": "Power firm SSEN predicts wind guts could reach about 80mph in parts of the country over the Easter weekend.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29f4/live/20119ed0-2f79-11f1-9ab7-3fd8eff9efaa.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T10:29:36.440211",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teachers' union warns of 'masculinity crisis brewing' in schools",
+      "link": "https://www.bbc.com/news/articles/cpd5j4lnnq0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T09:37:04",
+      "description": "NASWUT's leader said there is a \"ticking time bomb\" if male pupils cannot be helped with misogyny.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dba/live/1aed83f0-3001-11f1-938c-99cee797e089.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T10:29:36.440214",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ex-England defender Trippier to leave Newcastle",
+      "link": "https://www.bbc.com/sport/football/articles/cgj0y8zvl21o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T10:00:55",
+      "description": "Kieran Trippier is to leave Newcastle United when the defender's contract expires this summer.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e4c/live/d94f0730-3009-11f1-8972-b3708b7027f3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T10:29:36.440216",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "How former Liverpool prospect found love for football again",
       "link": "https://www.bbc.com/sport/football/articles/cd7j8wn59pno?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T07:07:25",
@@ -3181,6 +3225,34 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Gregg Wallace attempts food show comeback with 12-hour TikTok 'cookathon' sponsored by 'Britain's favourite halal butchers'",
+      "link": "https://www.dailymail.co.uk/news/article-15705895/Gregg-Wallace-food-comeback-TikTok-cookathon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T10:24:19",
+      "description": "Gregg Wallace\u00a0appears to have made an attempt to relaunch his career on social media as he gears up to host a 12-hour TikTok 'cookathon' sponsored by 'Britain's favourite halal butchers'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/10/107652861-0-image-m-9_1775294365597.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/10/107652861-0-image-m-9_1775294365597.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T10:29:38.716362",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Green Party deputy leader admits she knows nothing about her party's plans to limit motorway speed limits to 55mph",
+      "link": "https://www.dailymail.co.uk/news/article-15706003/Green-Party-deputy-leader-admits-knows-partys-plans-limit-motorway-speed-limits-55mph.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T10:21:35",
+      "description": "In a car crash interview, Rachel Millward was left speechless and then stuttering when she was quizzed about the plans, part of leader Zack Polanski's 'war on motorists'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/11/107653235-0-image-m-18_1775297506316.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/11/107653235-0-image-m-18_1775297506316.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T10:29:38.716367",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Horror as the Sydney Royal Easter Show is rocked by two shocking mishaps",
       "link": "https://www.dailymail.co.uk/news/article-15705857/Sydney-Royal-Easter-horror-mishaps.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10152,37 +10224,37 @@
       "archived_at": "2026-04-01T16:05:09.545994",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Migrant filmed hurling vile abuse at female cop and vowing to make her his 'slave' moans he is the victim of racism after being shamed over his behavior",
-      "link": "https://www.dailymail.co.uk/news/article-15698025/Canada-Quebec-cop-rant-Mohamed-Bekkali-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T15:27:38",
-      "description": "Mohammed Bekkali, 24, claimed he was the victim of 'racial and socio-profiling' after being hit with a fine for berating a female police officer and calling her vile names in an on-camera rant.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107583991-0-image-m-30_1775055195353.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107583991-0-image-m-30_1775055195353.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T16:05:09.545996",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Greedy women filmed dancing with delight while eating shellfish banquet at mom-and-pop restaurant - then they left without paying",
-      "link": "https://www.dailymail.co.uk/news/article-15698071/dallas-texas-tasty-tails-dine-dash-customers-seafood.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T15:26:19",
-      "description": "Two women were seen jamming out and dancing while they enjoyed a seafood feast at Tasty Tails restaurant in Dallas, Texas on Sunday. Once they were full, they darted for the door without paying.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584049-0-image-m-34_1775055169576.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584049-0-image-m-34_1775055169576.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T16:05:09.545997",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Kieran Trippier to leave Newcastle this summer after four and a half years",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15706009/Kieran-Trippier-leave-Newcastle-summer-four-half-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T10:27:30",
+      "description": "The full back, 35, joined the club from Atletico Madrid in January 2022\u00a0and has made 115 Premier League appearances for Eddie Howe's side in just over four years.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/11/107653249-0-image-a-13_1775297742375.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/11/107653249-0-image-a-13_1775297742375.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T10:29:40.961677",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Brazil icon Neymar facing 10-MATCH ban over shocking referee comments amid World Cup agony",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15705957/Brazil-icon-Neymar-facing-10-MATCH-ban-shocking-referee-comments-amid-World-Cup-agony.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T10:19:15",
+      "description": "Neymar's hopes of making Brazil's World Cup squad have been put at further risk amid reports he faces a 10-match ban over sexist comments.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/11/107653275-0-image-a-6_1775297813112.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/11/107653275-0-image-a-6_1775297813112.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T10:29:40.961685",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Man City vs Liverpool - COMBINED XI: Stats boffins reveal just FOUR Reds stars make superteam amid stuttering season for Arne Slot's side - and which surprise England star gets the nod?",
       "link": "https://www.dailymail.co.uk/sport/article-15700467/man-city-liverpool-combined-xi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -13461,6 +13533,17 @@
     }
   ],
   "BBC Sport": [
+    {
+      "title": "Ex-England defender Trippier to leave Newcastle",
+      "link": "https://www.bbc.com/sport/football/articles/cgj0y8zvl21o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T10:00:55",
+      "description": "Kieran Trippier is to leave Newcastle United when the defender's contract expires this summer.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e4c/live/d94f0730-3009-11f1-8972-b3708b7027f3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T10:29:41.484913",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Arrest in Tyne-Wear derby racist abuse probe",
       "link": "https://www.bbc.com/news/articles/cz0edgk4xejo?at_medium=RSS&at_campaign=rss",
