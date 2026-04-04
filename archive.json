@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "What we know so far about the search for missing US airman in Iran",
+      "link": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T11:00:34",
+      "description": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/207d/live/22f79690-300f-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T11:51:44.355266",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fugitive mafia boss wanted for murder arrested in Amalfi Coast luxury villa",
+      "link": "https://www.bbc.com/news/articles/cn437qkk80lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T11:10:28",
+      "description": "Roberto Mazzarella has been on the run for more than a year and was living under a false name, police say.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/212/cpsprodpb/2378/live/9196d0f0-3016-11f1-8045-2550a829c511.png",
+      "enclosure": null,
+      "archived_at": "2026-04-04T11:51:44.355272",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Trump seeks $152m to reopen notorious Alcatraz prison",
       "link": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T09:17:10",
@@ -3225,6 +3247,76 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "My parents are leaving their entire estate to my sibling because they 'need it more'. I don't want to fall out with them, but I'm so angry and hurt: VANESSA STOYKOV",
+      "link": "https://www.dailymail.co.uk/news/article-15699705/My-parents-leaving-entire-estate-sibling-need-dont-want-fall-Im-angry-hurt-VANESSA-STOYKOV.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T11:50:40",
+      "description": "I found out indirectly, which made it feel even more unfair and secretive. Now I feel resentful - not just about the money, but about what it says.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/23/107595193-0-image-a-11_1775082880393.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/23/107595193-0-image-a-11_1775082880393.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T11:51:46.783118",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Albo's great at buying votes but he's dragging Australia into decline. We're all suffering the cost of his cowardice: PETER VAN ONSELEN",
+      "link": "https://www.dailymail.co.uk/news/article-15699917/Albos-great-buying-votes-hes-dragging-Australia-decline-suffering-cost-cowardice-PETER-VAN-ONSELEN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T11:50:14",
+      "description": "Until it changes, Canberra will keep producing what it now specialises in: politics without confidence and leadership without boldness.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/01/107597879-0-image-a-9_1775089752354.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/01/107597879-0-image-a-9_1775089752354.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T11:51:46.783123",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aussie expert's dire warning about Albo's fuel excise cuts: 'Dead wrong'",
+      "link": "https://www.dailymail.co.uk/news/article-15705981/scott-phillips-fuel-excise-warning-albo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T11:31:02",
+      "description": "The Motley Fool chief investment officer Scott Phillips is yet to speak to an economist who thinks that the fuel excise cuts are a good idea.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/12/107653219-0-image-m-45_1775302054491.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/12/107653219-0-image-m-45_1775302054491.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T11:51:46.783125",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Horrifying moment plane crashes into restaurant and bursts into flames killing four people",
+      "link": "https://www.dailymail.co.uk/news/article-15705949/Horrifying-moment-plane-crashes-restaurant-killing-four-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T11:22:52",
+      "description": "The plane, a Piper JetProp DLX, had taken off from the Criciuma Diomicio Freitas Airport in Capao da Canoa, southeastern Brazil at around 10.40am on Friday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/12/107653563-0-image-m-21_1775301652453.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/12/107653563-0-image-m-21_1775301652453.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T11:51:46.783126",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man who found his mother and teenage sister dead inside his burger van is jailed for 'humiliating' campaign of abuse against girlfriend - after judge rules trauma from their deaths was 'no excuse'",
+      "link": "https://www.dailymail.co.uk/news/article-15705993/Man-mother-teenage-sister-dead-burger-van-jailed-campaign-abuse-girlfriend-judge-rules-trauma-deaths.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T11:05:47",
+      "description": "Canterbury Crown Court heard he had struggled with PTSD after discovering his loved ones' lifeless bodies, after they died of carbon monoxide poisoning at his Whitstable food truck.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/11/107653329-0-image-a-11_1775299941632.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/11/107653329-0-image-a-11_1775299941632.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T11:51:46.783128",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "'I felt my blood run cold': The disturbing email about Jeffrey Epstein's 10,000-acre Zorro ranch - and claims his darkest secrets were 'covered up' there",
       "link": "https://www.dailymail.co.uk/news/article-15701847/Jeffrey-Epstein-Zorro-Ranch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10152,76 +10244,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-01T16:05:09.545980",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Nail technician nearly mauled to death and left with horrific injuries in unprovoked dog attack",
-      "link": "https://www.dailymail.co.uk/news/article-15698441/Nail-technician-nearly-mauled-death-left-horrific-injuries-unprovoked-dog-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T14:58:05",
-      "description": "Samantha Redding, 20, was getting ready to be picked up from a friend's house in January when she was mauled by a Spanish Mastiff-Akita that 'ripped off and swallowed' part of her face.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584307-0-image-m-34_1775054533902.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584307-0-image-m-34_1775054533902.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T16:05:09.545982",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Greek island is cloaked by Saharan dust storm and hit by tornados with Easter holiday flights diverted and sky turning eerie red and orange",
-      "link": "https://www.dailymail.co.uk/news/article-15698707/Greek-island-cloaked-Saharan-dust-storm-hit-tornados-Easter-holiday-flights-diverted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T15:59:38",
-      "description": "Travel chaos unfolded on Crete as thick African dust smothered visibility, grounding aircraft and disrupting arrivals at Heraklion's main airport.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107585769-0-image-a-17_1775057226508.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107585769-0-image-a-17_1775057226508.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T16:05:09.545988",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Three schools plunged into lockdown as police launch manhunt for gunman following shooting",
-      "link": "https://www.dailymail.co.uk/news/article-15698777/Three-schools-plunged-lockdown-police-launch-manhunt-gunman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T15:59:14",
-      "description": "Police say a victim has been taken to hospital with a potentially life-changing injury after a gun was fired in the Speedwell area of Bristol this afternoon.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107586853-0-image-a-88_1775058986769.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107586853-0-image-a-88_1775058986769.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T16:05:09.545990",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment hotel migrants party at hotel barbecue after allegedly raping 33-year-old woman on Brighton Beach",
-      "link": "https://www.dailymail.co.uk/news/article-15698735/Moment-hotel-migrants-party-hotel-barbecue.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T15:57:56",
-      "description": "Egyptian national Ibrahim Alshafe, 25, and Iranian national Abdulla Ahmadi, 26, are accused of repeatedly raping the 33-year-old woman\u00a0on October 4 last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107587083-0-image-m-24_1775058758715.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107587083-0-image-m-24_1775058758715.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T16:05:09.545991",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Iran unleashes new execution spree with battered regime 'fearful of another uprising' - as gun-wielding 12-year-olds are sent to guard the streets",
-      "link": "https://www.dailymail.co.uk/news/article-15698095/Iran-execution-spree-regime-uprising-gun-guard-streets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T15:55:07",
-      "description": "The National Council of Resistance of Iran warned that the lives of Iranian political prisoners are in danger after the regime brutally executed four men this week.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/105783503-0-image-m-20_1775057965418.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/105783503-0-image-m-20_1775057965418.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T16:05:09.545992",
       "feed_category": "News",
       "feed_visibility": "both"
     }
