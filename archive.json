@@ -1,6 +1,61 @@
 {
   "BBC News": [
     {
+      "title": "Amber wind warning issued as Storm Dave set to hit parts of UK",
+      "link": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T13:39:54",
+      "description": "The Met Office said injuries or danger to life could occur as a result of flying debris.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0ba/live/9dd38c90-302b-11f1-9cbd-37c700a63936.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T13:51:07.594885",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fourth suspect arrested over Jewish charity ambulance arson attack",
+      "link": "https://www.bbc.com/news/articles/clyjrrl17j1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T13:37:47",
+      "description": "Three men who had been charged following the attack appeared at court this morning, and have since been remanded in custody.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164f/live/63f11bc0-28ea-11f1-a95f-75471ca6e71e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T13:51:07.594891",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Russian attack on Ukraine market kills five",
+      "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T13:13:36",
+      "description": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a103/live/c0c0df90-3018-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T13:51:07.594893",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "World's only full-scale Jaws boat replica to open",
+      "link": "https://www.bbc.com/news/articles/c2k31510y7xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T12:04:51",
+      "description": "The vessel took two years to build and will be filled with replica props from Steven Spielberg\u2019s 1975 classic film.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1101/live/b842f650-3027-11f1-9cbd-37c700a63936.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T13:51:07.594900",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Feyi-Waboso stars as Exeter hold off Munster charge",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cn4v31rx819o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T13:34:29",
+      "description": "Immanuel Feyi-Waboso's superb solo try on his injury return helps Exeter Chiefs beat Munster to reach the Challenge Cup quarter-finals.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8da6/live/0e7fc410-302a-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T13:51:07.594904",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "What we know so far about the search for missing US airman in Iran",
       "link": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T11:00:34",
@@ -3247,6 +3302,118 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Man arrested at airport and charged with murder after Melbourne mum failed to board flight to Bali",
+      "link": "https://www.dailymail.co.uk/news/article-15706099/Eva-Lasrini-dead-dandenong.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T13:48:32",
+      "description": "Eva Lasrini, 53, was reported missing to police on Thursday after she failed to board a scheduled flight to Bali to visit her daughter.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/13/107654279-0-image-m-57_1775306459743.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/13/107654279-0-image-m-57_1775306459743.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T13:51:09.002298",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Shocking family secret of Chinese siblings accused of trying to bomb Florida Air Base",
+      "link": "https://www.dailymail.co.uk/news/article-15706057/family-secret-chinese-siblings-florida-air-base.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T13:47:01",
+      "description": "Alen Zeng, 20, and Ann Mary Zheng, 27, were federally indicted for allegedly placing a bomb at a Florida Air Force Base critical to wartime operations.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/14/107653637-0-image-a-4_1775308321830.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/14/107653637-0-image-a-4_1775308321830.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T13:51:09.002303",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Former RAF pilot who was taken captive during Gulf War reveals what it's like to be shot down in enemy territory",
+      "link": "https://www.dailymail.co.uk/news/article-15706147/Former-RAF-pilot-captive-Gulf-War-reveals-shot-enemy-territory.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T13:46:52",
+      "description": "Former RAF pilot John Peters who was captured during the Gulf War in 1991 after his plane was shot down says it is 'a game of cat and mouse'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/14/107654431-0-image-m-7_1775308965118.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/14/107654431-0-image-m-7_1775308965118.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T13:51:09.002305",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tragedy of eight Swedish climbers including two teenage girls who froze to death huddled together in freak -20C storm... with just one survivor who watched mountain disaster unfold",
+      "link": "https://www.dailymail.co.uk/news/article-15685539/Tragedy-eight-Swedish-climbers-including-two-teenage-girls-froze-death-huddled-freak-20C-storm-just-one-survivor-watched-mountain-disaster-unfold.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T13:36:40",
+      "description": "'A horrible sight greeted us, with frozen dead bodies,' recalls\u00a0mountain rescuer John-Erik Olofsson.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/16/107549623-0-image-m-50_1775229437494.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/16/107549623-0-image-m-50_1775229437494.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T13:51:09.002307",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Canadian family of five living in Martha's Vineyard are BANNED from re-entering US after weekend skiing in Quebec",
+      "link": "https://www.dailymail.co.uk/news/article-15704025/canadian-family-denied-entry-united-states-michael-freeze.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T13:30:16",
+      "description": "The family has lived in Martha's Vineyard for about four years. Michael Freeze was able to live and work in the US thanks to his TN visa. US Border Patrol agents declined to renew it last month.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/17/107640101-0-image-m-34_1775232420344.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/17/107640101-0-image-m-34_1775232420344.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T13:51:09.002308",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Easter horror as teen is rushed to hospital after being stabbed in south-west Sydney",
+      "link": "https://www.dailymail.co.uk/news/article-15706157/camden-stabbing-teen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T13:11:32",
+      "description": "Emergency services were called to Argyle Street in Camden about 8.10pm on Saturday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/14/106779259-0-image-a-67_1775307719924.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/14/106779259-0-image-a-67_1775307719924.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T13:51:09.002309",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment 'dine-and-dash couple who ordered \u00a3195 meal flee without paying while going for vape'",
+      "link": "https://www.dailymail.co.uk/news/article-15706029/Moment-dine-dash-couple-flee-without-paying-vape.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T13:09:31",
+      "description": "Julien Jourdain, owner of Bistro on the Quay in Ipswich, alleged the pair had ordered a bottle of wine, two starters and two mains on April Fools Day, claiming they left without paying their \u00a3195 bill.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/13/107654101-0-image-m-34_1775306610089.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/13/107654101-0-image-m-34_1775306610089.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T13:51:09.002311",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tragedy after four-year-old boy dies suddenly as police and paramedics rush to the scene",
+      "link": "https://www.dailymail.co.uk/news/article-15706121/Tragedy-boy-dies-suddenly.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T13:00:54",
+      "description": "Emergency services were called to Lenham Gardens in the Breightmet area of Bolton, Greater Manchester, at around 1.30pm on Good Friday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/13/107654309-0-image-m-14_1775306393999.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/13/107654309-0-image-m-14_1775306393999.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T13:51:09.002312",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "The Chinese innovation that could give Xi Jinping an 'enormous' edge in warfare that has the Pentagon scrambling",
       "link": "https://www.dailymail.co.uk/news/article-15678041/ai-pentagon-china-xi-jinping.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10132,118 +10299,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-01T18:09:31.391879",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Strong winds of up to 70mph could cause Easter getaway chaos, Met Office warns",
-      "link": "https://www.dailymail.co.uk/news/article-15698677/Strong-winds-70mph-Easter-chaos-Met-Office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T17:17:50",
-      "description": "A yellow weather warning has been issued for very strong winds in Scotland, Northern Ireland and parts of north Wales and northern England.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588457-0-image-m-9_1775063420410.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588457-0-image-m-9_1775063420410.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T17:27:52.639450",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Beloved executive, 43, who 'loved being a girl dad' is killed in front of young family in freak Vermont skiing accident",
-      "link": "https://www.dailymail.co.uk/news/article-15698047/vermont-skiing-accident-executive-father-killed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T17:15:49",
-      "description": "Cory Hartman, 43, died on a black diamond trail on Saturday afternoon. Ski patrol members responded to the accident, but police said he was pronounced dead at the scene.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587535-0-image-m-9_1775060611488.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587535-0-image-m-9_1775060611488.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T17:27:52.639455",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Midwest woman shot 'friends with benefits' baby-daddy while giving him car massage, then killed his mother and stepfather at their beautiful home, prosecutors say",
-      "link": "https://www.dailymail.co.uk/news/article-15697977/Jenna-Strouble-Illinois-killed-massage-Jacob-Lambert-parents.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T17:05:55",
-      "description": "Jenna Strouble, 30,\u00a0allegedly confessed to shooting her 'friends with benefits' partner by tricking him into a car massage before then killing his mother and stepfather, prosecutors say.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/17/107388795-0-image-m-61_1775061306770.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/17/107388795-0-image-m-61_1775061306770.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T17:27:52.639457",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Democrat erupts in foul-mouthed 1am rant over Trump's Supreme Court showdown\u2026 then hits delete",
-      "link": "https://www.dailymail.co.uk/news/article-15698895/democrat-susie-lee-trump-supreme-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T16:59:06",
-      "description": "A Democratic congresswoman is facing backlash after a foul-mouthed late-night tirade targeting Donald Trump's birthright citizenship Supreme Court case.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587585-0-image-m-19_1775061184415.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587585-0-image-m-19_1775061184415.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T17:27:52.639458",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woke San Francisco nonprofit boss charged with fraud made local library buy 1,500 copies of HER children's book, netting her $100,000",
-      "link": "https://www.dailymail.co.uk/news/article-15697989/San-Francisco-nonprofit-charged-fraud-library-buy-childrens-book.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T16:53:11",
-      "description": "Sheryl Davis, former head of San Francisco's Human Rights Commission, was arrested for a 'pervasive pattern of self-dealing,' with prosecutors accusing her of thousands of dollars in public funds.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107584947-0-image-m-6_1775057918017.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107584947-0-image-m-6_1775057918017.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T17:27:52.639460",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Department of Defense employee, 33, died horrific death during 15 hour Korean Airlines flight after staff made terrible blunder, lawsuit alleges",
-      "link": "https://www.dailymail.co.uk/news/article-15698523/defense-employee-porscha-brown-korea-air-plane-death-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T16:33:16",
-      "description": "Porscha Tynisha Brown, 33, was on board a 15-hour Korean Air flight in the spring of 2024 for a holiday in Seoul with three friends when she stopped breathing.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587285-0-image-m-20_1775060585169.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/17/107587285-0-image-m-20_1775060585169.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T17:27:52.639462",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "MPs' pay and expenses budgets soar by \u00a330MILLION after bumper 5% salary rise and accommodation costs boost",
-      "link": "https://www.dailymail.co.uk/news/article-15697507/MPs-pay-expenses-budgets-salary-rise-accommodation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T15:44:33",
-      "description": "The Commons watchdog is planning to spend \u00a3300million on politicians' salaries, offices and business expenses over the next 12 months.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/104977473-0-MPs_are_facing_a_backlash_over_their_soaring_expenses_and_have_b-a-15_1775054670483.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/104977473-0-MPs_are_facing_a_backlash_over_their_soaring_expenses_and_have_b-a-15_1775054670483.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T16:05:09.545969",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Andrew Mountbatten-Windsor looks downcast as he faces lonely Easter in Norfolk after his arrest",
-      "link": "https://www.dailymail.co.uk/news/article-15698291/Andrew-Mountbatten-Windsor-downcast-lonely-Easter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T15:16:18",
-      "description": "The former prince, who is expected to move into his new permanent home, Marsh Farm in the next few weeks, faces a lonely Easter after his arrest in February.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/14/107581885-0-image-m-47_1775051732529.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/14/107581885-0-image-m-47_1775051732529.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T16:05:09.545974",
       "feed_category": "News",
       "feed_visibility": "both"
     }
