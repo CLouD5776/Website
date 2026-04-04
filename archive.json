@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Football rally in Peru leaves one dead and dozens injured",
+      "link": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T06:34:56",
+      "description": "Hundreds of Alianza Lima fans had gathered for a pregame rally ahead of a match against local rivals Universitario de Deportes.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c761/live/64486520-2fdd-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T06:56:33.863578",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "After more than 14 years at Atletico Madrid, what next for Simeone?",
+      "link": "https://www.bbc.com/sport/football/articles/cp9v2pz803ro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T06:33:33",
+      "description": "BBC Sport asks if Atletico Madrid could really part ways with manager Diego Simeone at the end of the season?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b410/live/ca6fa910-2dd7-11f1-a186-bdbec3fa8607.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T06:56:33.863584",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'Not fit for purpose' - the secret history of a deadly phrase",
       "link": "https://www.bbc.com/news/articles/c3dl18ndvydo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T05:01:25",
@@ -3082,6 +3104,34 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "'Broke' movie star Alice Evans had $100k in bank despite begging cash from fans, claims ex-husband Ioan Gruffudd in divorce trial",
+      "link": "https://www.dailymail.co.uk/news/article-15705829/Fantastic-Four-Ioan-Gruffudd-Alice-Evans-court-poverty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T06:20:47",
+      "description": "The 52 year-old star was testifying at a Los Angeles trial in which Evans is seeking an increase in the $1,500 a month her ex pays her, while he is asking a judge to end spousal support.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/07/107652087-0-image-m-11_1775282527140.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/07/107652087-0-image-m-11_1775282527140.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T06:56:35.367169",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "My son was last seen laughing with his best friend, an hour later I found him dead in his bedroom - I blame social media and will not rest until Silicon Valley takes responsibility for their 'dangerous' products",
+      "link": "https://www.dailymail.co.uk/news/article-15704191/trial-podcast-ellen-roome-jools-law-social-media-son-death-tiktok-meta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T06:00:49",
+      "description": "In April 2022, after spending a day at the races in Cheltenham, Roome entered the bedroom of her 14-year-old son Jools to find him not breathing and unresponsive.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/14/105568037-0-Jools_Sweeney_pictured_with_his_mother_was_found_dead_in_his_bed-a-12_1775223061143.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/14/105568037-0-Jools_Sweeney_pictured_with_his_mother_was_found_dead_in_his_bed-a-12_1775223061143.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T06:56:35.367174",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Dramatic update in Dezi Freeman investigation as TWO people are arrested amid fears the double cop killer was being assisted while on the run",
       "link": "https://www.dailymail.co.uk/news/article-15705795/Dezi-Freeman-TWO-people-arrested.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10053,37 +10103,37 @@
       "archived_at": "2026-04-01T14:48:34.691241",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Anthony Albanese cops backlash over his fuel crisis address to the nation - as critics question how calming it is to be told not to panic in an emergency speech",
-      "link": "https://www.dailymail.co.uk/news/article-15698075/Anthony-Albaneses-fuel-Australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T14:13:11",
-      "description": "Prime Minister Anthony Albanese made a rare address to the nation on Wednesday evening, the first since the Covid pandemic.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/14/107581825-0-image-m-54_1775049118670.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/14/107581825-0-image-m-54_1775049118670.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691242",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Kemi Badenoch fills potholes as she launches \u00a3112.5million plan for hundreds of modern, specialist road-repair machines",
-      "link": "https://www.dailymail.co.uk/news/article-15698269/Kemi-Badenoch-fills-potholes-launches-112-5million-plan-repairs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T14:10:14",
-      "description": "The Conservative opposition leader was pictured smoothing out the edges today in the West Midlands as part of her campaign trail for the local elections.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/14/107582161-0-image-m-39_1775051130443.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/14/107582161-0-image-m-39_1775051130443.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691244",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Title race is still a three-horse race, insists Hearts boss Derek McInnes",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704705/Title-race-three-horse-race-insists-Hearts-boss-Derek-McInnes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T06:01:02",
+      "description": "Hearts boss Derek McInnes emphatically dismissed any notion that Celtic can be ruled out of the Premiership title race.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/20/107646321-0-image-a-13_1775244370357.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/20/107646321-0-image-a-13_1775244370357.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T06:56:37.679066",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Steven Gerrard revealed he had to turn a 'blind eye' to his antics. And he gave every single one of his managers a headache. But how Rangers would dearly love ALFREDO MORELOS and his goals right now!",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15704445/Steven-Gerrard-revealed-turn-blind-eye-antics-gave-single-one-managers-headache-Rangers-dearly-love-ALFREDO-MORELOS-goals-right-now.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T06:00:55",
+      "description": "Over the course of his six years in Glasgow, chaos and controversy were often familiar companions for Alfredo Morelos.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/19/107645457-0-image-a-33_1775241790565.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/19/107645457-0-image-a-33_1775241790565.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T06:56:37.679070",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Southampton's FA Cup heroes on the 'Spirit of 76', sand dunes, Brett Ormerod's 'shepherd' suit and making Thierry Henry run scared",
       "link": "https://www.dailymail.co.uk/sport/football/article-15703673/Southampton-FA-Cup-Spirit-76-Thierry-Henry-Ormerod.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -14295,6 +14345,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Brandy never saw herself becoming an actress",
+      "link": "https://www.music-news.com/news/UK/188158/Brandy-never-saw-herself-becoming-an-actress",
+      "pubDate": "2026-04-04T05:00:00",
+      "description": "Brandy has reflected on her extensive career.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188158.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188158.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T06:56:43.478129",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "RAYE claims historic first Number 1 album with 'THIS MUSIC MAY CONTAIN HOPE.'",
       "link": "https://www.music-news.com/news/UK/188147/RAYE-claims-historic-first-Number-1-album-with-THIS-MUSIC-MAY-CONTAIN-HOPE",
