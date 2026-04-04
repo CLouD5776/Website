@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Archbishop to pray for Middle East peace in first Easter sermon",
+      "link": "https://www.bbc.com/news/articles/c93edxr57d0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T21:30:15",
+      "description": "Dame Sarah Mullally will call for an 'end to the violence and destruction' before a congregation in Canterbury.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bca/live/917615d0-3053-11f1-a58f-07c787a90e98.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T21:35:49.523180",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "German men under 45 may need military approval for long stays abroad",
+      "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T21:16:42",
+      "description": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e7/live/ec4a7e00-305e-11f1-ba49-5da6d3e5ad3c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T21:35:49.523185",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sale hold off Quins comeback to reach Champions Cup last eight",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/clyrvd272y2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T21:30:40",
+      "description": "Sale Sharks hold off a second-half comeback from Harlequins to progress to the Champions Cup quarter-finals.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5980/live/e1ba9a20-306c-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T21:35:49.523193",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Search for missing airman presents serious test for US",
       "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T20:13:41",
@@ -3434,6 +3467,62 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "It's one giant treat for womankind as musclebound astronaut Victor Glover is caught on camera taking a post-workout 'space shower'",
+      "link": "https://www.dailymail.co.uk/news/article-15706817/Its-one-giant-treat-womankind-musclebound-astronaut-Victor-Glover-caught-camera-taking-post-workout-space-shower.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T21:29:29",
+      "description": "Footage of him stripped to his shorts on the Artemis II mission on its way to the Moon was accidentally broadcast by Nasa.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/22/107660765-0-image-m-25_1775337732442.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/22/107660765-0-image-m-25_1775337732442.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T21:35:53.224477",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The letter that Fingal County Council tried to hide, the Longford man who wrote it, why he challenged Conor McGregor to a bare-knuckle fight... and how he continues to be a MASSIVE thorn in Donald Trump's side",
+      "link": "https://www.dailymail.co.uk/news/article-15706711/The-letter-Fingal-County-Council-tried-hide-Longford-man-wrote-challenged-Conor-McGregor-bare-knuckle-fight-continues-MASSIVE-thorn-Donald-Trumps-side.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T21:25:57",
+      "description": "Few men can claim to have been set alight, kidnapped, imprisoned, driven at by a car intent on inflicting injury and banned from their local town council meetings.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/21/107659993-0-image-m-162_1775333996596.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/21/107659993-0-image-m-162_1775333996596.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T21:35:53.224483",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "They've been doing it since the mid-1800s... but now this church has been told that advertising their mass times on their protected railings is against planning rules. But they're not taking the barmy ruling lying down...",
+      "link": "https://www.dailymail.co.uk/news/article-15706775/Theyve-doing-mid-1800s-church-told-advertising-mass-times-protected-railings-against-planning-rules-theyre-not-taking-barmy-ruling-lying-down.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T21:20:15",
+      "description": "A special performance by celebrated soprano Celine Byrne may now not go ahead due to the row",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/22/107660611-0-image-m-12_1775337460729.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/22/107660611-0-image-m-12_1775337460729.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T21:35:53.224485",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pippa Middleton ready for a rumble with The Ramblers' Association after shutting footpath at her \u00a315million mansion",
+      "link": "https://www.dailymail.co.uk/news/article-15706723/Pippa-Middleton-Ramblers-Association-shutting-footpath-15million-mansion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T21:10:15",
+      "description": "But Pippa Middleton and James Matthews now find themselves in a battle with furious locals, after they barred dog walkers and ramblers from going through their grounds.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/21/107660033-0-image-m-8_1775333973119.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/21/107660033-0-image-m-8_1775333973119.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T21:35:53.224486",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "As fuel prices soar, voters tell Miliband to ditch his Net Zero obsession and lift ban on North Sea oil and gas that would make ALL our lives easier",
       "link": "https://www.dailymail.co.uk/news/article-15706747/fuel-prices-soar-voters-Miliband-ditch-Net-Zero-obsession-lift-ban-North-Sea-oil-gas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10377,65 +10466,51 @@
       "archived_at": "2026-04-01T23:33:12.493043",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "AI is killing pupils' critical thinking - and many now can't be bothered to learn how to spell",
-      "link": "https://www.dailymail.co.uk/news/article-15698223/AI-killing-pupils-critical-thinking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T23:01:52",
-      "description": "A survey of 9,000 teachers found 66 per cent of those in secondary schools thought critical thinking has declined because of AI tools such as ChatGPT.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/21/107593291-0-image-m-13_1775076706796.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/21/107593291-0-image-m-13_1775076706796.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T23:33:12.493044",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Couple snaps up $760k apartment for their nine-year-old amid Australia's crippling housing crisis",
-      "link": "https://www.dailymail.co.uk/news/article-15696889/Couple-buys-apartment-kids-freemantle-perth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T22:35:39",
-      "description": "A couple has bought a $760,000 two-bedroom apartment for their pre-teen children amid fears their kids won't be able to make it onto the property ladder themselves.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/06/107572753-0-image-a-17_1775021527782.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/06/107572753-0-image-a-17_1775021527782.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T23:33:12.493046",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "PM scraps plan to expand specialty doctor training after the BMA failed to call off its strikes",
-      "link": "https://www.dailymail.co.uk/news/article-15699587/PM-scraps-plan-expand-specialty-doctor-training.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T22:27:47",
-      "description": "Sir Keir Starmer warned on Monday that he would axe the places if the union did not postpone the walkout by resident doctors within 48 hours and put a pay offer to members.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/23/107594925-0-image-m-60_1775082392223.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/23/107594925-0-image-m-60_1775082392223.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T22:34:04.419128",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I was there the day JFK Jr and Carolyn Bessette died. I'll never forget what I saw when the Kennedy clan learned the horrific news",
-      "link": "https://www.dailymail.co.uk/news/article-15685575/jfk-jr-carolyn-bessette-death-plane-crash-love-story.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T22:27:35",
-      "description": "The morning of July 17, 1999 was not unlike most hazy summer days growing up on Cape Cod. That day, the wind was exceptionally strong.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/23/107473961-0-image-m-12_1775082362434.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/23/107473961-0-image-m-12_1775082362434.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T22:34:04.419134",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Tounekti tipping Scots to get off to a flier Stateside... and he's telling his Celtic team-mates just how to do it!",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15706385/Tounekti-tipping-Scots-flier-Stateside-hes-telling-Celtic-team-mates-just-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T21:30:49",
+      "description": "Upon returning to Lennoxtown this week, Seb Tounekti found himself to be a man in demand. It's a situation which is unlikely to change as the World Cup draws nearer.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/17/107657125-0-image-a-116_1775321054440.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/17/107657125-0-image-a-116_1775321054440.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T21:35:54.652684",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "West Ham star Matheus Fernandes reveals the story behind his unusual tattoo - and his disastrous attempt at playing golf!",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15706079/West-Ham-star-Matheus-Fernandes-reveals-story-unusual-tattoo-disastrous-attempt-playing-golf.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T21:30:46",
+      "description": "Before Mateus Fernandes pulls on his West Ham shirt on Sunday afternoon for an FA Cup quarter-final, he will take a moment to speak to a man who is no longer with him but forever by his side.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/12/107653911-0-image-a-12_1775303799177.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/12/107653911-0-image-a-12_1775303799177.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T21:35:54.652689",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ex-Arsenal and Man City star Samir Nasri could be 'exposed as a tax cheat after 200 Deliveroo orders were made to his Paris address'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15706315/Ex-Arsenal-Man-City-star-Samir-Nasri-exposed-tax-cheat-200-Deliveroo-orders-Paris-address.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T21:17:49",
+      "description": "Former Arsenal and Manchester City star Samir Nasri is under investigation by French tax authorities after reportedly being rumbled by his Deliveroo orders.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/21/107660271-0-image-a-136_1775335174010.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/21/107660271-0-image-a-136_1775335174010.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T21:35:54.652691",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "DON'T LOOK NOW: Danny Rohl watches Rangers hit the summit... but admits he'll be turning off when title rivals Hearts and Celtic are in action",
       "link": "https://www.dailymail.co.uk/sport/football/article-15706611/DONT-LOOK-Danny-Rohl-watches-Rangers-hit-summit-admits-hell-turning-title-rivals-Hearts-Celtic-action.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -16452,6 +16527,17 @@
     }
   ],
   "Crev": [
+    {
+      "title": "Evidence for Easter Shown on Film",
+      "link": "https://crev.info/2026/04/evidence-for-easter-shown-on-film/?utm_source=rss&utm_medium=rss&utm_campaign=evidence-for-easter-shown-on-film",
+      "pubDate": "2026-04-04T21:33:14",
+      "description": "Easter is more than eggs, bunnies and springtime. But can thinking people believe Jesus rose from the dead?",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-04T21:36:00.117217",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "The Mathematics of Good Friday",
       "link": "https://crev.info/2026/04/mathematics-of-good-friday/?utm_source=rss&utm_medium=rss&utm_campaign=mathematics-of-good-friday",
