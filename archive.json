@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "What we know so far about the US fighter jet shot down over Iran",
+      "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T17:04:46",
+      "description": "The pilot of the downed jet has been safely rescued, but a search and rescue operation is still under way for the jet's second crew member, US media reports.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/47b79c30-3048-11f1-bcfc-dda6bbc21b25.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T17:56:32.710944",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Haaland's 'old-school' lesson for Liverpool as FA Cup record falls",
+      "link": "https://www.bbc.com/sport/football/articles/c145g7z4xm0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T16:21:50",
+      "description": "Manchester City have beaten Arsenal and taken apart Liverpool in their past two games and Erling Haaland's return to goalscoring form has laid down the gauntlet for the run-in.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6013/live/210c8da0-304a-11f1-bcfc-dda6bbc21b25.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T17:56:32.710955",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Bath hold off brave Saracens to reach last eight",
       "link": "https://www.bbc.com/sport/rugby-union/articles/c0q9lll4e8do?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T16:09:02",
@@ -3368,6 +3390,20 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Sleepless neighbours tell of 'mayhem' misery caused by dozens of teenagers attending Airbnb house parties",
+      "link": "https://www.dailymail.co.uk/news/article-15706471/Sleepless-neighbours-tell-mayhem-misery-caused-dozens-teenagers-attending-Airbnb-house-parties.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T17:48:01",
+      "description": "Residents living in and around Broomhill Road, in Bulwell, say they have experienced sleepless nights and intimidation during the Saturday night bashes.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657137-0-image-m-12_1775322850493.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657137-0-image-m-12_1775322850493.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T17:56:35.293667",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Niece and grand niece of infamous Iranian general are arrested by ICE after 'celebrating deaths of US soldiers while living high life in LA' - and now their green cards have been REVOKED",
       "link": "https://www.dailymail.co.uk/news/article-15706499/Hamideh-Soleimani-Afshar-qasem-niece-iran-green-card-ice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10353,20 +10389,6 @@
       "archived_at": "2026-04-01T20:40:32.800059",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Even thinner blue line...Police Scotland now 'funded to do less' amid budget cuts",
-      "link": "https://www.dailymail.co.uk/news/article-15699243/Even-thinner-blue-line-Police-Scotland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T20:19:12",
-      "description": "Scotland's single force is no longer able to police the streets adequately because of budget cuts and a rise in the number of protests, senior officers have warned.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591165-0-image-m-12_1775070874522.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591165-0-image-m-12_1775070874522.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T20:40:32.800061",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
@@ -14816,6 +14838,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "\u201cEverything comes back to the loss of my dad\u201d: Luke Pritchard on stardom, stability, and regret",
+      "link": "https://www.music-news.com/news/UK/188154/Everything-comes-back-to-the-loss-of-my-dad-Luke-Pritchard-on-stardom-stability-and-regret",
+      "pubDate": "2026-04-04T16:30:00",
+      "description": "In an intimate and revealing interview on The Evening Show with Dan O\u2019Connell on Radio X, The Kooks frontman Luke Pritchard opened",
+      "thumbnail": "https://www.music-news.com/images/news/kooks4.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/kooks4.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T17:56:44.197040",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "\u201cBowie had me thrown out of the room\u201d: Gary Numan reveals heartbreaking clash with his hero -",
       "link": "https://www.music-news.com/news/UK/188156/Bowie-had-me-thrown-out-of-the-room-Gary-Numan-reveals-heartbreaking-clash-with-his-hero",
