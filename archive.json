@@ -1,6 +1,72 @@
 {
   "BBC News": [
     {
+      "title": "Five Met Police officers taken off duty after bag of weapons is left in the street",
+      "link": "https://www.bbc.com/news/articles/cjd8y33ze08o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T06:46:54",
+      "description": "A member of the public found the bag containing guns and a Taser on a south London street.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7511/live/2393de20-2dc0-11f1-b45a-13c2fd78bbe1.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T07:48:48.316161",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Five-hour rescue saves cat missing for 4 years",
+      "link": "https://www.bbc.com/news/articles/cn53yrk9p4yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T05:23:25",
+      "description": "RSPCA, vets and firefighters free cat from tight space to discover Alfie had been  missing in 2022.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ce/live/5ae8db70-2cec-11f1-934f-036468834728.png",
+      "enclosure": null,
+      "archived_at": "2026-04-04T07:48:48.316174",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'I haven't played Wordle since the day I sold it' says game's Welsh creator",
+      "link": "https://www.bbc.com/news/articles/c2k3vz48qq7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-30T17:02:27",
+      "description": "Josh Wardle created Wordle to keep his girlfriend entertained during the Covid lockdowns.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c7/live/cf4b92b0-2c23-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T07:48:48.316176",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'I started running at 70 after daughter's death'",
+      "link": "https://www.bbc.com/news/articles/c0mjrzer81do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-02T05:22:36",
+      "description": "A 74-year-old grandfather is set to run three marathons in 14 days in memory of his daughter.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6681/live/b59c95d0-2db3-11f1-927b-f98ec5617a78.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T07:48:48.316178",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Highland cows moved over viral TikTok visitor surge",
+      "link": "https://www.bbc.com/news/articles/cjw8vz1jze0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-31T05:12:18",
+      "description": "The cows have been moved from Hothfield Heathland after unheeded warnings, Kent Wildlife Trust says.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80fe/live/3e218bd0-1c85-11f1-a7bf-efb6e72f87e6.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T07:48:48.316179",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump sweeps Robertson aside to reach Tour Championship final",
+      "link": "https://www.bbc.com/sport/snooker/articles/cgqkn2kzxqjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-03T21:49:26",
+      "description": "Judd Trump sweeps to a commanding 10-4 victory over Neil Robertson as he reaches the final of the Tour Championship in Manchester.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf6/live/d62316e0-2fa1-11f1-a84d-a70cf943ddbd.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T07:48:48.316182",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Football rally in Peru leaves one dead and dozens injured",
       "link": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T06:34:56",
@@ -3104,6 +3170,34 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "US special forces enter Iran in frantic bid to rescue missing airman after Iran downs two jets - as Tehran offers $60,000 reward to find him: Live updates",
+      "link": "https://www.dailymail.co.uk/news/article-15705873/US-special-forces-enter-Iran-rescue-missing-airman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T07:42:51",
+      "description": "US special forces entered Iran late on Friday to rescue a missing crew member after two fighter jets were downed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/08/107652477-0-image-a-4_1775287145565.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/08/107652477-0-image-a-4_1775287145565.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T07:48:50.696251",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How I uncovered the hidden crisis of homeless delivery drivers in London and why it was one of the most difficult stories I've ever worked on",
+      "link": "https://www.dailymail.co.uk/news/article-15698825/Video-MIMI-YATES-investigation-homeless-delivery-drivers-one-difficult-stories-Ive-worked-on.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T07:39:46",
+      "description": "This is how I investigated homeless delivery drivers and why it was one of the most difficult stories I've ever worked on. It's made me think twice about using platforms like Deliveroo, Just Eat, and Uber Eats.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107586553-0-image-m-6_1775057889076.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107586553-0-image-m-6_1775057889076.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T07:48:50.696256",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "'Broke' movie star Alice Evans had $100k in bank despite begging cash from fans, claims ex-husband Ioan Gruffudd in divorce trial",
       "link": "https://www.dailymail.co.uk/news/article-15705829/Fantastic-Four-Ioan-Gruffudd-Alice-Evans-court-poverty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10073,34 +10167,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-01T14:48:34.691238",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump stares down SCOTUS justices face-to-face as they poke holes in his plan to stop birthright citizenship - in a dramatic FIRST for a sitting President",
-      "link": "https://www.dailymail.co.uk/news/article-15698229/Trump-stares-SCOTUS-justices-face-face-poke-holes-plan-stop-birthright-citizenship-dramatic-sitting-President.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T14:19:41",
-      "description": "President Donald Trump is making a first-of-its-kind visit to the Supreme Court to oversee the status of his birthright citizenship case that could dramatically alter US precedent.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107582753-0-image-m-11_1775052580815.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107582753-0-image-m-11_1775052580815.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691240",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Second Somali fraudster is handed very light sentence for money laundering scheme by Minneapolis judge with growing reputation for letting them off easy",
-      "link": "https://www.dailymail.co.uk/news/article-15698045/zamzam-jama-somali-fraud-sentence-judge-minneapolis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T14:14:37",
-      "description": "Zamzam Jama was sentenced to six months in jail on Tuesday for her role in the Feeding Our Future scam by Judge Nancy Brasel.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/14/107582559-0-image-m-13_1775049478912.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/14/107582559-0-image-m-13_1775049478912.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691241",
       "feed_category": "News",
       "feed_visibility": "both"
     }
