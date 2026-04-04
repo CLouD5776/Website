@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Bath hold off brave Saracens to reach last eight",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/c0q9lll4e8do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T16:09:02",
+      "description": "Bath hold off a brave effort from out-of-form Saracens to book their place in the Champions Cup quarter-finals.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cef/live/25fb9180-3040-11f1-b7b6-d109e91ca282.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T17:26:53.545050",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
       "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T16:19:25",
@@ -3357,6 +3368,62 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Niece and grand niece of infamous Iranian general are arrested by ICE after 'celebrating deaths of US soldiers while living high life in LA' - and now their green cards have been REVOKED",
+      "link": "https://www.dailymail.co.uk/news/article-15706499/Hamideh-Soleimani-Afshar-qasem-niece-iran-green-card-ice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T17:23:48",
+      "description": "Hamideh Soleimani Afshar and her daughter, who was not named, were detained by ICE on Friday while living the high life in the City of Angels.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657567-0-image-m-31_1775323198550.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657567-0-image-m-31_1775323198550.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T17:26:54.906937",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Royal Navy could send aircraft carrier to join US Independence Day commemorations in New York - despite Trump's insults and the occasion celebrating British defeat",
+      "link": "https://www.dailymail.co.uk/news/article-15706341/Royal-Navy-aircraft-carrier-US-Independence-Day.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T17:10:44",
+      "description": "Labour is considering sending the 65,000-ton HMS Prince of Wales to join the event on July 4, which will mark 250 years since America defeated Britain in 1776.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657171-0-image-a-7_1775322542944.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657171-0-image-a-7_1775322542944.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T17:26:54.906942",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Former SNP chief executive Peter Murrell 'told of Linden complaints a decade ago'",
+      "link": "https://www.dailymail.co.uk/news/article-15706453/Former-SNP-chief-executive-Peter-Murrell-told-Linden-complaints-decade-ago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T17:08:23",
+      "description": "Former SNP chief executive Peter Murrell was personally told about sexual misconduct complaints against predator Jordan Linden a decade ago, it has been claimed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/17/107657047-0-image-a-17_1775320676626.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/17/107657047-0-image-a-17_1775320676626.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T17:26:54.906943",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "If you own an estate you need to look the part... Ewan McGregor goes full-on country gent",
+      "link": "https://www.dailymail.co.uk/news/article-15706461/If-you-estate-you-need-look-Ewan-McGregor-goes-country-gent.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T17:01:31",
+      "description": "The fact he owns a sprawling Scottish estate would be enough justification to refer to him as a laird.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/17/107656989-0-image-m-100_1775320542184.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/17/107656989-0-image-m-100_1775320542184.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T17:26:54.906945",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Millionaire parents spoiled son with $94k BMW M4 for his SIXTEENTH birthday... now a 100mph crash has killed a schoolgirl - and his family's troubling past has been revealed",
       "link": "https://www.dailymail.co.uk/news/article-15685941/om-patel-bmw-crash-missouri-tessa-walker.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10300,65 +10367,51 @@
       "archived_at": "2026-04-01T20:40:32.800061",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Scottish Easter washout as storm barrels in with a month\u2028of rain and gales",
-      "link": "https://www.dailymail.co.uk/news/article-15699259/Scottish-Easter-washout-storm-barrels-month-rain-gales.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T20:18:55",
-      "description": "Hurricane force winds and a month's worth of rain are expected to batter Scotland this Easter weekend with temperatures colder than parts of Siberia.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591353-0-image-a-55_1775071452320.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591353-0-image-a-55_1775071452320.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T20:40:32.800062",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Renewable quango's snub to residents over pylons and battery storage... but 100 meetings with developers",
-      "link": "https://www.dailymail.co.uk/news/article-15699257/Renewable-quangos-snub-residents-pylons-100-meetings-developers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T20:18:32",
-      "description": "An SNP quango which has the final say on renewable energy projects has never met residents affected by pylon or battery storage applications despite meeting developers.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107592249-0-image-a-5_1775073436901.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107592249-0-image-a-5_1775073436901.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T20:40:32.800064",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Larry the cat FINALLY catches a rodent: Downing Street's 19-year-old chief mouser shows off his 'skills' for the TV cameras",
-      "link": "https://www.dailymail.co.uk/news/article-15699193/Larry-cat-rodent-Downing-Street-TV-camera.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T20:16:35",
-      "description": "While his boss has backtracked on a number of issues during his premiership - from winter fuel payments to benefits - there were no U-turns from Larry who simply stuck to his manifesto pledges.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/21/107591827-0-image-m-24_1775073877078.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/21/107591827-0-image-m-24_1775073877078.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T20:40:32.800065",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump plots dramatic Greenland military push with special forces and Navy set to DEPLOY... as buried pact opens the door",
-      "link": "https://www.dailymail.co.uk/news/article-15699043/trump-greenland-military-bases-negotiations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T20:15:31",
-      "description": "US military planners are pushing ahead to gain additional access to Greenland, indicating Donald Trump's sustained interest in the island.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/19/107590653-0-image-m-28_1775069312062.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/19/107590653-0-image-m-28_1775069312062.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T20:40:32.800067",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "RANGERS 4 DUNDEE UTD 2: Danny Rohl's men go top to pile pressure on Hearts... but they'll need to defend better than this if they intend to stay there",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15706501/RANGERS-4-DUNDEE-UTD-2-Danny-Rohls-men-pile-pressure-Hearts-theyll-need-defend-better-intend-stay-there.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T17:12:16",
+      "description": "When your team have just gone back to the top of the Premiership for the first time in two years, it's only natural that most fans should have the championship flag at the forefront of their minds.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657339-0-image-a-54_1775322233749.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657339-0-image-a-54_1775322233749.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T17:26:58.159334",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arne Slot is sleepwalking towards the sack: The issues Liverpool boss can't fix, the key men who have let him down and when the club might be forced to act as fans turn and the walls close in, writes LEWIS STEELE",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15700931/Arne-Slot-Liverpool-sleepwalking-sack-Man-City-FA-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T17:11:26",
+      "description": "LEWIS STEELE: As Man City fans briefly averted their starry-eyed gazes from the pitch to perform their famous Poznan dance, the 7,600 Liverpool supporters up on high decided to follow suit.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/17/107657295-0-image-a-9_1775321805433.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/17/107657295-0-image-a-9_1775321805433.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T17:26:58.159340",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Banned Enzo Fernandez watches on after Chelsea star was hit with two-game suspension by Liam Rosenior over Real Madrid comments",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15706455/Banned-Enzo-Fernandez-watches-Chelsea-two-game-suspension-Liam-Rosenior-Real-Madrid-comments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T16:57:35",
+      "description": "The 25-year-old, who is Chelsea's vice-captain, appeared in good spirits despite his club imposed suspension as he was seen laughing with Marc Cucurella behind the bench.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/17/107657163-0-image-a-58_1775321149142.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/17/107657163-0-image-a-58_1775321149142.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T17:26:58.159341",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Martin O'Neill is NOT the right man to help drag Celtic into the modern era",
       "link": "https://www.dailymail.co.uk/sport/football/article-15706039/Martin-ONeill-NOT-right-man-help-drag-Celtic-modern-era.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
