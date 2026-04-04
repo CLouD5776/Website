@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Search for missing airman presents serious test for US",
+      "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T20:13:41",
+      "description": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f49/live/002930e0-305c-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T20:27:02.063115",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "World's oldest leader to get a deputy for first time in 43-year rule",
       "link": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T18:30:58",
@@ -3423,6 +3434,20 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Rising star Democrat furiously denies claims he is boozed-up drug user who gets 'handsy' with women",
+      "link": "https://www.dailymail.co.uk/news/article-15706619/jonah-garson-state-senate-north-carolina.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T20:20:27",
+      "description": "Jonah Garson, 39, faced a litany of allegations right before he faced an election to the North Carolina state senate.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/21/107659843-0-image-m-11_1775333272268.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/21/107659843-0-image-m-11_1775333272268.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T20:27:03.440959",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Female CEO is killed in accident during paradise Nicaragua vacation with her husband and three young children",
       "link": "https://www.dailymail.co.uk/news/article-15706329/female-ceo-killed-nicaragua-accident.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10408,23 +10433,23 @@
       "archived_at": "2026-04-01T22:34:04.419140",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "HOW TONE DEAF CAN YOU GET? New fees for exams and blister packs, the costs of fuel and living soaring, plus a never-ending housing CRISIS, and the Finance Minister announces a new saving scheme for all that SPARE cash you have lying around: FIONA LOONEY",
-      "link": "https://www.dailymail.co.uk/news/article-15695011/HOW-TONE-DEAF-YOU-New-fees-exams-blister-packs-costs-fuel-living-soaring-plus-never-ending-housing-CRISIS-Finance-Minister-announces-new-saving-scheme-SPARE-cash-you-lying-FIONA-LOONEY.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T21:48:33",
-      "description": "A Tale of Two Irelands:\u00a0The Education Minister's reintroduction of examination fees for Junior and Leaving Cert students is a most unwelcome bolt from the blue.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/19/107561815-0-image-a-24_1774980441422.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/19/107561815-0-image-a-24_1774980441422.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T22:34:04.419142",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "DON'T LOOK NOW: Danny Rohl watches Rangers hit the summit... but admits he'll be turning off when title rivals Hearts and Celtic are in action",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15706611/DONT-LOOK-Danny-Rohl-watches-Rangers-hit-summit-admits-hell-turning-title-rivals-Hearts-Celtic-action.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T20:20:22",
+      "description": "Danny Rohl led Rangers back to the top of the Premiership yesterday - then revealed he will carry on his new superstition by blocking out what is going on with title rivals Hearts and Celtic later today.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/21/107660071-0-image-a-3_1775334019372.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/21/107660071-0-image-a-3_1775334019372.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T20:27:04.900582",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Shocking moment goalkeeper 'PUNCHES a rival fan' behind the goal during match before being escorted off the pitch by security at full-time",
       "link": "https://www.dailymail.co.uk/sport/football/article-15706443/Shocking-moment-Enfield-Town-goalkeeper-punch-Chelmsford-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
