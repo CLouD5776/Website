@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "World's oldest leader to get a deputy for first time in 43-year rule",
+      "link": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T18:30:58",
+      "description": "Cameroon's President Paul Biya, 93, won his eighth successive term last year in a disputed election.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6678/live/1f9ddb10-304d-11f1-b4a1-71281f71e968.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T19:55:21.287182",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Rohl won't watch title rivals as Rangers take top spot",
+      "link": "https://www.bbc.com/sport/football/articles/cx2e959dqpwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T19:19:36",
+      "description": "As Rangers move to the top of the Scottish Premiership for the first time this season, head coach Danny Rohl is \"convinced\" they can finish the job.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce71/live/fbb802d0-3055-11f1-908b-93cc749a44cd.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T19:55:21.287190",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Liverpool's FA Cup capitulation ramps up pressure on Slot",
       "link": "https://www.bbc.com/sport/football/articles/crk1zl0ll1zo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T17:43:14",
@@ -3401,6 +3423,20 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Female CEO is killed in accident during paradise Nicaragua vacation with her husband and three young children",
+      "link": "https://www.dailymail.co.uk/news/article-15706329/female-ceo-killed-nicaragua-accident.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T19:51:34",
+      "description": "Kasey Grelle, 41, was the founder and CEO of Aux Insights, a marketing consultancy that specialized in helping private equity firms grow and scale businesses.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/17/107656637-0-image-m-17_1775320851478.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/17/107656637-0-image-m-17_1775320851478.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T19:55:24.668309",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Bill Belichick sued for $300,000 by painter who says he was badly injured while working at $5M Nantucket home coach, 73, shares with cheerleader girlfriend Jordon Hudson, 24",
       "link": "https://www.dailymail.co.uk/news/article-15706377/bill-belichick-sued-painter-injured.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10386,23 +10422,23 @@
       "archived_at": "2026-04-01T22:34:04.419142",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Reform to commit to triple lock at next election after previous flip-flopping",
-      "link": "https://www.dailymail.co.uk/news/article-15698981/Reform-commit-triple-lock-election-previous-flip-flopping.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T21:30:46",
-      "description": "Robert Jenrick is expected today to announce Reform's plans to maintain the triple lock in a key economic announcement ahead of the local elections.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588845-0-image-a-2_1775063776462.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588845-0-image-a-2_1775063776462.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T21:38:25.538286",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Shocking moment goalkeeper 'PUNCHES a rival fan' behind the goal during match before being escorted off the pitch by security at full-time",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15706443/Shocking-moment-Enfield-Town-goalkeeper-punch-Chelmsford-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T19:49:52",
+      "description": "A non-league goalkeeper was caught on camera appearing to punch a rival fan during a match on Friday before being escorted off the pitch.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657623-0-image-a-108_1775323688144.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657623-0-image-a-108_1775323688144.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T19:55:25.927661",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Moment football manager 'goes down like a sack of spuds' after being 'headbutted' by opposition boss during staggering brawl in non-league match",
       "link": "https://www.dailymail.co.uk/news/article-15706131/football-manager-sack-spuds-headbutted-opposition-boss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
