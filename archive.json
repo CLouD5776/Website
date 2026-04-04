@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
+      "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T16:19:25",
+      "description": "The International Atomic Energy Agency urges restraint to avoid a nuclear accident at Iran's Bushehr plant.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abc/live/1e9f9c60-3036-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T16:33:13.752033",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US arrests relatives of deceased Iranian \u200bgeneral Qasem \u200bSoleimani",
+      "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T16:12:15",
+      "description": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/435a/live/11fc7470-303a-11f1-b7b6-d109e91ca282.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T16:33:13.752038",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Two arrested after boy killed and two hurt in crash",
       "link": "https://www.bbc.com/news/articles/c86e04l4yneo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T15:20:58",
@@ -3335,6 +3357,34 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Millionaire parents spoiled son with $94k BMW M4 for his SIXTEENTH birthday... now a 100mph crash has killed a schoolgirl - and his family's troubling past has been revealed",
+      "link": "https://www.dailymail.co.uk/news/article-15685941/om-patel-bmw-crash-missouri-tessa-walker.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T16:28:13",
+      "description": "Om Patel was given the monstrously powerful car in 2024 by his millionaire parents Amarkumar and Heena. Late last month, he crashed it and killed Tessa Walker.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/20/107415391-0-image-m-38_1775244383918.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/20/107415391-0-image-m-38_1775244383918.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T16:33:15.903889",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Barclays set to open new branches as it plots revival of high street banking",
+      "link": "https://www.dailymail.co.uk/news/article-15706295/Barclays-branches-high-street-banking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T16:12:27",
+      "description": "Vim Maru, chief executive of Barclays UK, said the bank wanted to spread its 'footprint' through a branch expansion - and does not want customers to get 'stuck in some chatbot'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/16/107656599-0-image-m-15_1775318283298.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/16/107656599-0-image-m-15_1775318283298.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T16:33:15.903894",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Moment football manager 'goes down like a sack of spuds' after being 'headbutted' by opposition boss during staggering brawl in non-league match",
       "link": "https://www.dailymail.co.uk/news/article-15706131/football-manager-sack-spuds-headbutted-opposition-boss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10306,37 +10356,37 @@
       "archived_at": "2026-04-01T20:40:32.800067",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Jailed, Afghan asylum seeker who spied on naked woman in leisure centre while out on bail for sexual assault",
-      "link": "https://www.dailymail.co.uk/news/article-15699265/Jailed-Afghan-asylum-seeker-spied-naked-woman-leisure-centre-bail-sexual-assault.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T20:08:52",
-      "description": "An Afghan asylum seeker who sexually assaulted two female commuters has been sent to prison for 30 weeks for secretly spying on a naked swimmer at a leisure pool.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107590949-0-image-m-11_1775070385388.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107590949-0-image-m-11_1775070385388.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T20:40:32.800068",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Mother aged FOURTEEN drove under the influence and crashed car, killing her one-year-old son, toddler's relative says",
-      "link": "https://www.dailymail.co.uk/news/article-15699157/MaKhai-Virginia-boy-crash-mother-fourteen-DUI-car.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T20:07:26",
-      "description": "A one-year-old Virginia boy named Ma'Khai was tragically killed when his 14-year-old mother drove under the influence and crashed a car in a late night collision, police say.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591913-0-image-m-89_1775073573420.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591913-0-image-m-89_1775073573420.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T20:40:32.800070",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Martin O'Neill is NOT the right man to help drag Celtic into the modern era",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15706039/Martin-ONeill-NOT-right-man-help-drag-Celtic-modern-era.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T16:14:08",
+      "description": "Martin O'Neill, blissfully unaware that Celtic were about to pull the ultimate flanker and haul him out of retirement and back into the dugout, had a book to sell towards the tail-end of last year.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/15/107655833-0-image-a-43_1775314041335.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/15/107655833-0-image-a-43_1775314041335.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T16:33:17.112031",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The TWO players Man City need to buy this summer to challenge on all four fronts next season and become a consistent force as Pep Guardiola's side finally hit their usual heights, writes JACK GAUGHAN",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15700911/Man-City-Liverpool-FA-Cup-dismantling-summer-transfer-window.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T16:01:51",
+      "description": "JACK GAUGHAN: According to Pep Lijnders, there are two certainties in life at Man City: the weather is no good and Pep Guardiola will hold endless meetings with players about principles.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/16/107656603-0-image-a-21_1775318311874.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/16/107656603-0-image-a-21_1775318311874.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T16:33:17.112036",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Man City 4-0 Liverpool: Mohamed Salah's farewell tour started awfully as the Reds lost all fight in the face of the hosts' ruthlessness - if Arne Slot survives this season it will be a surprise, writes IAN LADYMAN",
       "link": "https://www.dailymail.co.uk/sport/football/article-15700873/Man-City-4-0-Liverpool-Mohamed-Salah-FA-CUP-ruthlessness.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
