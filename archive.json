@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Oxford dominate to win Women's Boat Race",
+      "link": "https://www.bbc.com/sport/rowing/articles/crl1zz4de7zo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T13:52:37",
+      "description": "Oxford take advantage of a brilliant start to get the better of Cambridge and win a first Women's Boat Race since 2016.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a04e/live/410731b0-3030-11f1-9cbd-37c700a63936.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T14:30:50.424773",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Australians told to continue Easter travel plans despite fuel shortages",
+      "link": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T12:10:10",
+      "description": "Hundreds of petrol stations across Australia have run out of fuel as the Iran war disrupts global oil shipments and pushes up prices.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1232/live/86e3bc60-301e-11f1-93d4-afd16efe51c8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T14:30:50.424778",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Amber wind warning issued as Storm Dave set to hit parts of UK",
       "link": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T13:39:54",
@@ -3302,6 +3324,48 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Billionaire art dynasty is ordered to hand back $25m Modigliani painting confiscated from Jewish dealer by Nazis during WW2",
+      "link": "https://www.dailymail.co.uk/news/article-15706117/Modigliani-painting-nazis-confiscated-returned-original-owner-david-nahmad.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T14:14:00",
+      "description": "Billionaire David Nahmad must return the valuable oil portrait to the family of Oscar Stettiner, an art dealer who had the painting stolen from him by the Nazis during their occupation of France.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/14/107654323-0-image-m-15_1775310945486.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/14/107654323-0-image-m-15_1775310945486.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T14:30:53.614431",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Police make new arrest over Golders Green 'arson' that saw four Jewish community ambulances set on fire - as three appear in court over attack",
+      "link": "https://www.dailymail.co.uk/news/article-15706143/Police-arrest-Golders-Green-arson-attack-Jewish-community.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T14:07:14",
+      "description": "The arrest took place at Westminster Magistrates' Court this morning, and was announced\u00a0by prosecutor Emma Harraway during the hearing.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/15/107655249-0-image-a-1_1775311628632.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/15/107655249-0-image-a-1_1775311628632.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T14:30:53.614437",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "California Governor Gavin Newsom accused of accidentally letting secret slip about Joe Biden's cognitive decline",
+      "link": "https://www.dailymail.co.uk/news/article-15706107/gavin-newsom-slip-joe-biden-cognitive-decline.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T14:03:45",
+      "description": "California Governor Gavin Newsom has been accused to hinting that former President Joe Biden was in cognitive decline while in office.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/14/107654627-0-image-m-11_1775308553312.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/14/107654627-0-image-m-11_1775308553312.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T14:30:53.614439",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Man arrested at airport and charged with murder after Melbourne mum failed to board flight to Bali",
       "link": "https://www.dailymail.co.uk/news/article-15706099/Eva-Lasrini-dead-dandenong.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10259,51 +10323,23 @@
       "archived_at": "2026-04-01T18:09:31.391873",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Minnesota dad kills adorable toddler son and himself in murder suicide and leaves THREE notes",
-      "link": "https://www.dailymail.co.uk/news/article-15698355/Mystery-Minnesota-dad-kills-toddler-son.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T18:02:51",
-      "description": "Koltyn Bartnes, 3, was killed inside a home in Holmesville Township by his father Gene Bartnes, 45, who then killed himself, police said.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/18/107589373-0-image-m-26_1775064387250.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/18/107589373-0-image-m-26_1775064387250.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T18:09:31.391875",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Archie Battersbee's mother found guilty of 'revenge attack' against man after her daughter was 'smashed over the head with a bottle'",
-      "link": "https://www.dailymail.co.uk/news/article-15698685/Archie-Battersbees-mother-guilty-revenge-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T17:43:18",
-      "description": "Hollie Dance, 50, and Thomas Summers, 26, were convicted of grievous bodily harm by a jury at Basildon Crown Court on Wednesday after around two hours of deliberations.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588657-0-image-m-19_1775063638205.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588657-0-image-m-19_1775063638205.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T18:09:31.391877",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Watch in full: NASA administrator Jared Isaacman on the Artemis II launch and return to the moon",
-      "link": "https://www.dailymail.co.uk/news/article-15698409/Watch-NASA-administrator-Jared-Isaacman-Artemis-II-launch-return-moon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T17:25:32",
-      "description": "NASA Administrator Jared Isaacman sat down with the Daily Mail to talk about President Donald Trump's plan to return to the moon.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/14/107269045-0-image-a-7_1775049730701.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/14/107269045-0-image-a-7_1775049730701.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T18:09:31.391879",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Man City 4-0 Liverpool - PLAYER RATINGS: Which star was 'mesmeric'? Who looked like a shadow of their former self? And who beat hat-trick hero Erling Haaland to be named man of the match?",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15700907/Man-City-4-0-Liverpool-PLAYER-RATINGS-star-mesmeric-looked-like-shadow-former-self-beat-hat-trick-hero-Erling-Haaland-named-man-match.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T13:52:56",
+      "description": "JACK GAUGHAN was on hand to give his verdict on the performance of every City player - with LEWIS STEELE assessing Liverpool...",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/14/107655037-0-image-a-8_1775310496384.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/14/107655037-0-image-a-8_1775310496384.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T14:30:56.908738",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Manchester City vs Liverpool - FA Cup LIVE: Latest score, team news and updates as Mohamed Salah farewell tour begins in crunch quarter-final clash",
       "link": "https://www.dailymail.co.uk/sport/football/article-15698323/Manchester-City-vs-Liverpool-FA-Cup-quarter-final-2025-26-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -16238,6 +16274,17 @@
     }
   ],
   "ENV": [
+    {
+      "title": "Scientists Keep Removed Human Uterus Alive for a Day; Get Ready for Experiments",
+      "link": "https://scienceandculture.com/2026/04/scientists-keep-removed-human-uterus-alive-for-a-day-get-ready-for-experiments/",
+      "pubDate": "2026-04-04T14:20:00",
+      "description": "So, the plan ultimately is to manufacture human life solely for experimenting upon.\n<p><a href=\"https://scienceandculture.com/2026/04/scientists-keep-removed-human-uterus-alive-for-a-day-get-ready-for-experiments/\" rel=\"nofollow\">Source</a></p>",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-04T14:31:02.605368",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Post-Darwin, Too, Maxwell Drew a Remarkable Design Inference",
       "link": "https://scienceandculture.com/2026/04/post-darwin-too-maxwell-drew-a-remarkable-design-inference/",
