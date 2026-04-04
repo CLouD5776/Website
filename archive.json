@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "'Not fit for purpose' - the secret history of a deadly phrase",
+      "link": "https://www.bbc.com/news/articles/c3dl18ndvydo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T05:01:25",
+      "description": "The four word phrase - first uttered by Labour Home Secretary John Reid - has become a by-word for incompetence.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fa1/live/789cc790-2fb6-11f1-8b44-bd28747f874b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T05:38:58.030806",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Shell of a fighter' - Chisora v Wilder predictions",
+      "link": "https://www.bbc.com/sport/boxing/articles/cy81n4p4jlpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T05:13:29",
+      "description": "Figures from the boxing world give their predictions for Saturday's heavyweight battle between Derek Chisora and Deontay Wilder.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ffd/live/1bc28470-2f83-11f1-a6f5-1188a52986a4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T05:38:58.030812",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fake tan disasters & living two lives - inside the camp of a world champ",
+      "link": "https://www.bbc.com/sport/boxing/videos/c3ex5x75p7do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T05:20:28",
+      "description": "World boxing champion Lauren Price says the structure in her life gives her the \"confidence\" to win.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6888/live/d4a4b400-2dcf-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T05:38:58.030814",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "State pension age starts rising to 67 - here's how much you get and when",
       "link": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-03T23:27:52",
@@ -3049,6 +3082,62 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Dramatic update in Dezi Freeman investigation as TWO people are arrested amid fears the double cop killer was being assisted while on the run",
+      "link": "https://www.dailymail.co.uk/news/article-15705795/Dezi-Freeman-TWO-people-arrested.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T05:22:53",
+      "description": "Victoria Police arrested a man and a woman at two properties in the state's northeast on Saturday morning.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/05/107651799-0-image-a-6_1775277832051.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/05/107651799-0-image-a-6_1775277832051.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T05:38:59.411990",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Texas toddler, four, accidentally shoots two-year-old in the head after finding family gun",
+      "link": "https://www.dailymail.co.uk/news/article-15705581/Texas-houston-toddler-child-shot-gun.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T05:20:22",
+      "description": "Family in another room heard gunshots while the toddlers were left unsupervised. They found the four-year-old holding the gun as the two-year-old bled from the head.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/06/107651171-0-image-a-5_1775279692467.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/06/107651171-0-image-a-5_1775279692467.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T05:38:59.411996",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Reason Lizzo was excused from jury duty revealed - and it has nothing to do with her fame",
+      "link": "https://www.dailymail.co.uk/news/article-15705565/Lizzo-excused-jury-duty-anti-ICE-views-trial-Los-Angeles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T05:19:58",
+      "description": "The Grammy Award-winning musician had been considered for the trial of Luis Dalhet Hipolito, who faced a felony count of assault on a federal officer resulting in bodily injury.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/05/107599025-0-image-m-70_1775277197075.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/05/107599025-0-image-m-70_1775277197075.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T05:38:59.411998",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Illegal migrant convicted of posing as an Uber driver to kidnap women before raping them at knifepoint",
+      "link": "https://www.dailymail.co.uk/news/article-15705519/rideshare-uber-driver-raped-women-san-francisco.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T05:00:33",
+      "description": "Vilchez Lazo is from Peru and was living in the US illegally when he committed the heinous crimes, according to US Immigration and Customs Enforcement.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/05/107651183-0-image-m-81_1775275886525.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/05/107651183-0-image-m-81_1775275886525.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T05:38:59.411999",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "'Paranoid' Pete Hegseth fired highest-ranking US Army officer amid Iran war 'because he was threatened by him'",
       "link": "https://www.dailymail.co.uk/news/article-15705649/Paranoid-Pete-Hegseth-Army-officer-fired.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -9990,62 +10079,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-01T14:48:34.691244",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Baffled' homeowner hits out at his 'jealous' neighbour as pair row over six-foot illegally built fence",
-      "link": "https://www.dailymail.co.uk/news/article-15698217/Baffled-homeowner-jealous-neighbour-row-illegally-fence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T13:55:25",
-      "description": "Marcus Brown applied for retrospective planning on the fence after building it to ensure they have privacy for their child in their Trowbridge garden.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/14/107581623-0-image-m-23_1775051409930.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/14/107581623-0-image-m-23_1775051409930.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691245",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scottish Labour candidate ditched after he is charged with fraud",
-      "link": "https://www.dailymail.co.uk/news/article-15698283/Scottish-Labour-candidate-ditched-charged-fraud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T13:36:51",
-      "description": "A scottish Labour candidate for Holyrood has been ditched after being charged with fraud. Mohammed Ameen, 43, had been due to stand in Nicola Sturgeon's Glasgow Southside seat.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/14/107582237-0-image-m-21_1775049176387.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/14/107582237-0-image-m-21_1775049176387.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691247",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Calls for 'mass arrests' as police are accused of letting teen mobs ransack shop in Easter holiday 'linkups'",
-      "link": "https://www.dailymail.co.uk/news/article-15698007/Calls-mass-arrests-teenage-mobs-supercharged-social-media-ransacked-shops-ran-riot-London-Birmingham-Easter-holiday-linkups.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T13:09:35",
-      "description": "Hundreds of teenagers supercharged by social media have ransacked shops and ran riot in London and Birmingham during Easter holiday 'linkups' - prompting calls for mass arrests.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562747-0-image-m-19_1774983936993.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107562747-0-image-m-19_1774983936993.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T13:14:14.633370",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "BBC admits it knew about 'sex offences' police probe into Scott Mills in 2017 - but only sacked him last week when it 'obtained new information'",
-      "link": "https://www.dailymail.co.uk/news/article-15698091/BBC-admits-knew-sex-offences-police-probe-Scott-Mills.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T13:07:54",
-      "description": "Corporation chiefs felt they had 'no choice' but to dismiss Radio 2's flagship morning show host after fresh information about his alleged conduct.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/12/107561141-0-image-m-41_1775044613382.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/12/107561141-0-image-m-41_1775044613382.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T13:14:14.633375",
       "feed_category": "News",
       "feed_visibility": "both"
     }
