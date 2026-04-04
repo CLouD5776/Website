@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Two arrested after boy killed and two hurt in crash",
+      "link": "https://www.bbc.com/news/articles/c86e04l4yneo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T15:20:58",
+      "description": "Police say a vehicle collided with three teenagers, two riding a bike and another on a scooter.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c420/live/b32a54f0-3032-11f1-b297-95b0a0a8331e.png",
+      "enclosure": null,
+      "archived_at": "2026-04-04T15:55:43.965625",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Oxford dominate to win Women's Boat Race",
       "link": "https://www.bbc.com/sport/rowing/articles/crl1zz4de7zo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T13:52:37",
@@ -3324,6 +3335,62 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Moment football manager 'goes down like a sack of spuds' after being 'headbutted' by opposition boss during staggering brawl in non-league match",
+      "link": "https://www.dailymail.co.uk/news/article-15706131/football-manager-sack-spuds-headbutted-opposition-boss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T15:50:49",
+      "description": "Maidenhead United boss Ryan Peters was sent off after he allegedly heatbutted Slough Town coach Scott Davis during a confrontation after a last-minute equaliser in the National League South tie.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/16/107656433-0-image-a-12_1775317206329.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/16/107656433-0-image-a-12_1775317206329.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T15:55:45.316825",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Muslim called Jewish family 'dirty people' in park then tried to tell cops that he had First Amendment right to do so, prosecutors say",
+      "link": "https://www.dailymail.co.uk/news/article-15706125/ahmed-zeeshawn-assault-jewish-family-arrest-miami.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T15:48:56",
+      "description": "Ahmad Zeeshan, 32, was arrested on Thursday after he allegedly approached a Jewish family at Stillwater Park and shouted anti-Semitic slurs at them.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/16/107656059-0-image-m-50_1775315262777.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/16/107656059-0-image-m-50_1775315262777.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T15:55:45.316832",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Schools are pocketing up to \u00a3700,000 each to teach pupils who don't speak English as their first language as bill hits all-time high of \u00a3572million",
+      "link": "https://www.dailymail.co.uk/news/article-15553095/schools-local-authorities-non-English-speaking-kids-speed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T15:48:05",
+      "description": "Two schools - one in Manchester and another in Northampton - this year collected at least \u00a3500,000, according to Department for Education figures.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/15/107472493-0-image-a-5_1774625716056.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/27/15/107472493-0-image-a-5_1774625716056.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T15:55:45.316833",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Two young children orphaned after parents' car crossed center line of highway and slammed into empty grain truck",
+      "link": "https://www.dailymail.co.uk/news/article-15706193/parents-killed-highway-truck-north-carolina.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T15:35:02",
+      "description": "Harry Spruill, 42, and his wife, Whitney Spruill, 37, were killed in a highway crash on April 1.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/16/107655813-0-image-m-17_1775314815167.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/16/107655813-0-image-m-17_1775314815167.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T15:55:45.316836",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Woman's hilarious outburst on realizing she's turned 109-years-old, as she credits 'moonshine and good-looking men' for her longevity",
       "link": "https://www.dailymail.co.uk/news/article-15706119/irma-palmer-birthday-aurora-colorado.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10265,62 +10332,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-01T20:40:32.800070",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tradie accused of foiled terror plot believed his alleged 'day of justice' attack would pale in comparison to Bondi Beach massacre that killed 15",
-      "link": "https://www.dailymail.co.uk/news/article-15699353/jayson-joseph-michaels-assault.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T20:05:22",
-      "description": "Jayson Joseph Michaels detailed his alleged plan for a violent assault on police headquarters, Parliament House and mosques in a diary, a court  has been told.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/21/107591721-0-image-m-13_1775073887756.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/21/107591721-0-image-m-13_1775073887756.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T20:40:32.800071",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Let it be! Stella McCartney gets green light for \u00a35m Scots home",
-      "link": "https://www.dailymail.co.uk/news/article-15699233/Let-Stella-McCartney-gets-green-light-5m-Scots-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T20:04:45",
-      "description": "Stella McCartney's plans for a luxury \u00a35million Highland home have been given the go-ahead despite the design being described as 'hideous'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591209-0-image-a-42_1775070797777.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591209-0-image-a-42_1775070797777.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T20:40:32.800072",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Lord Malcolm Offord admits to 'bumps in road' in Reform's Scottish election campaign",
-      "link": "https://www.dailymail.co.uk/news/article-15699229/Lord-Malcolm-Offord-admits-bumps-road-Reforms-Scottish-election-campaign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T19:57:32",
-      "description": "The Scottish leader of Reform UK has admitted the party has suffered 'bumps in the road' following a chaotic fortnight - and attempted to shift the focus of the election campaign onto immigration.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107590829-0-image-m-34_1775070086971.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107590829-0-image-m-34_1775070086971.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T20:40:32.800073",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment NYC gunman shoots BABY dead on Brooklyn street in broad daylight before fleeing on back of scooter",
-      "link": "https://www.dailymail.co.uk/news/article-15699199/NYC-gunman-shoots-BABY-dead-Brooklyn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T19:32:34",
-      "description": "The unknown child was hit while being pushed in a stroller near Humboldt and Moore Street in Brooklyn on Wednesday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591575-0-image-m-24_1775071939248.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591575-0-image-m-24_1775071939248.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T19:36:54.649569",
       "feed_category": "News",
       "feed_visibility": "both"
     }
