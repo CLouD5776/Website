@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "How former Liverpool prospect found love for football again",
+      "link": "https://www.bbc.com/sport/football/articles/cd7j8wn59pno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T07:07:25",
+      "description": "After 18 years at Liverpool, Tyler Morton tells BBC Sport how moving to Lyon in the summer has helped him fall back in love with football.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d5e/live/f8cb0ad0-2f3e-11f1-91cb-cd1f5e51ebfd.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-04T08:37:16.957348",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Five Met Police officers taken off duty after bag of weapons is left in the street",
       "link": "https://www.bbc.com/news/articles/cjd8y33ze08o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T06:46:54",
@@ -3170,6 +3181,90 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Helen Flanagan's money woes go on as ex-WAG finally sells marital home - \u00a3500k below the asking price",
+      "link": "https://www.dailymail.co.uk/news/article-15704537/Helen-Flanagan-home-sale-scott-sinclair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T08:23:58",
+      "description": "The property in rural Belmont near Bolton has six bedrooms, 'dramatic' floor to ceiling windows and a large kitchen diner.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/20/107646195-0-image-a-50_1775244497352.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/20/107646195-0-image-a-50_1775244497352.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T08:37:20.140654",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man and woman arrested on suspicion of murder after pedestrian hit and killed by Volkswagen Touareg",
+      "link": "https://www.dailymail.co.uk/news/article-15705863/Man-woman-arrested-suspicion-murder-pedestrian-killed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T08:22:01",
+      "description": "The 45-year-old pedestrian died after he was hit by a Volkswagen Touareg in the Cudworth area on Friday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/09/107652713-0-image-a-5_1775290132595.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/09/107652713-0-image-a-5_1775290132595.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T08:37:20.140660",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Prince Edward 'becomes first royal to visit Andrew' after his exile to Sandringham - as Duke of Edinburgh has a 'quiet word' with disgraced brother",
+      "link": "https://www.dailymail.co.uk/news/article-15705861/Prince-Edward-royal-visit-Andrew-exile-Sandringham-Duke-Edinburgh-disgraced-brother.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T08:18:17",
+      "description": "Andrew, 66, who is currently living in exile at Wood Farm in Sandringham, was paid a visit by his younger brother Edward, 62, this week.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/08/107652463-0-image-m-12_1775286886680.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/08/107652463-0-image-m-12_1775286886680.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T08:37:20.140662",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Union warns schools face 'masculinity crisis' as nearly a quarter of female teachers complain about misogyny from students",
+      "link": "https://www.dailymail.co.uk/news/article-15705877/nearly-quarter-female-teachers-complain-misogyny-students.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T08:17:06",
+      "description": "Female teachers reporting misogyny from pupils rose for the fourth year in a row to 23.4 per cent, according to a survey by the teachers' union NASUWT.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/08/107652549-0-image-m-14_1775288713003.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/08/107652549-0-image-m-14_1775288713003.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T08:37:20.140663",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'I'm back baby!' Mark Latham makes shock return to Royal Randwick, exactly six months after he was escorted from the venue",
+      "link": "https://www.dailymail.co.uk/news/article-15705853/Mark-Latham-Randwick-Racecourse-return.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T08:03:34",
+      "description": "Mark Latham shared a selfie of himself in the stands, almost 50 years to the day since his first visit to Royal Randwick.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/08/107652467-0-image-a-7_1775288343455.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/08/107652467-0-image-a-7_1775288343455.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T08:37:20.140665",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment new 'Cycling Mikey' angrily confronts Iceland delivery man for driving too close to him while riding OUTSIDE the bike lane, so who's right?",
+      "link": "https://www.dailymail.co.uk/news/article-15701349/Moment-new-Cycling-Mikey-angrily-confronts-Iceland-delivery-man-driving-close-riding-OUTSIDE-bike-lane-whos-right.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T07:54:54",
+      "description": "A cycling vigilante was riding outside the designated bike path in Poole, Dorset when he had a near miss with a delivery driver who blamed him for the near collision.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/16/107641127-0-image-a-14_1775230504100.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/16/107641127-0-image-a-14_1775230504100.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T08:37:20.140666",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "US special forces enter Iran in frantic bid to rescue missing airman after Iran downs two jets - as Tehran offers $60,000 reward to find him: Live updates",
       "link": "https://www.dailymail.co.uk/news/article-15705873/US-special-forces-enter-Iran-rescue-missing-airman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10085,93 +10180,23 @@
       "archived_at": "2026-04-01T14:48:34.691230",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Parents' fury as 'intimidating' fleet of caravans pitch up next to playground popular with families ahead of Easter Bank Holiday",
-      "link": "https://www.dailymail.co.uk/news/article-15698257/Parents-fury-intimidating-fleet-caravans-pitch-playground-popular-families-Easter-Bank-Holiday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T14:39:45",
-      "description": "Around five caravans set up an illegal camp (pictured) at Sheldon Country Park in Birmingham on Sunday - and more have joined them in the days since.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/14/107582601-0-image-m-16_1775050861404.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/14/107582601-0-image-m-16_1775050861404.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691231",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hotel migrant who planted fake explosive outside MI5 headquarters facing jail",
-      "link": "https://www.dailymail.co.uk/news/article-15698157/Hotel-migrant-planted-fake-explosive-outside-MI5-headquarters-facing-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T14:39:07",
-      "description": "Brazilian national Julian Valente Pereira, 32, staged a protest at the secret services base at Thames House, in central London , a day after he had been told he would be deported from the UK.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107582997-0-image-m-17_1775052963892.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107582997-0-image-m-17_1775052963892.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691233",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man looking at his phone while standing on train platform suffers every commuter's worst nightmare at hands of vile stranger who was watching him from behind elevator",
-      "link": "https://www.dailymail.co.uk/news/article-15698041/train-platform-nightmare-seattle-washington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T14:36:50",
-      "description": "Elisio Melendez, 26, was charged with second-degree attempted murder after police obtained the harrowing surveillance footage.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107583809-0-image-m-2_1775053814228.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107583809-0-image-m-2_1775053814228.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691234",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Chinese woman used ChatGPT to help her brother flee to their homeland after he planted bomb outside Florida Air Force base, prosecutors say",
-      "link": "https://www.dailymail.co.uk/news/article-15698035/Chinese-woman-used-ChatGPT-help-brother-flee-homeland-planted-bomb-outside-Florida-Air-Force-base-prosecutors-say.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T14:36:12",
-      "description": "Shocking new allegations have emerged against Ann Mary Zheng, whose brother Alen remains in China.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584535-0-image-a-4_1775054169155.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584535-0-image-a-4_1775054169155.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691235",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "What you can now get for \u00a3100 at the supermarket: How prices have soared by 40% since Covid with olive oil up 133% and beef mince doubling (and this shop cost just \u00a372 in 2021!)",
-      "link": "https://www.dailymail.co.uk/news/article-15694583/Supermarket-prices-soared-100-pounds-shopping-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T14:31:31",
-      "description": "UK retail food prices are already 38 per cent higher than pre-Covid levels and experts fear further significant increases if disruption caused by the war in Iran continues.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/14/107582123-0-image-m-124_1775049449942.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/14/107582123-0-image-m-124_1775049449942.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691237",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "SNP ditches candidate over handling of Jordan Linden sex pest allegations",
-      "link": "https://www.dailymail.co.uk/news/article-15698429/SNP-ditches-candidate-handling-Jordan-Linden-sex-pest-allegations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T14:22:11",
-      "description": "The SNP has sacked its group leader on North Lanarkshire Council as a candidate over her handling of allegations made against Jordan Linden.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107583791-0-image-a-7_1775052734652.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107583791-0-image-a-7_1775052734652.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-01T14:48:34.691238",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Man City vs Liverpool - COMBINED XI: Stats boffins reveal just FOUR Reds stars make superteam amid stuttering season for Arne Slot's side - and which surprise England star gets the nod?",
+      "link": "https://www.dailymail.co.uk/sport/article-15700467/man-city-liverpool-combined-xi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-04T07:54:31",
+      "description": "The two clubs will be battling out for a semi-final place at Wembley, where Liverpool look to salvage their campaign while Man City aim to add to their Carabao Cup success.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/16/107641191-0-image-a-24_1775230576030.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/16/107641191-0-image-a-24_1775230576030.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T08:37:21.280834",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Title race is still a three-horse race, insists Hearts boss Derek McInnes",
       "link": "https://www.dailymail.co.uk/sport/football/article-15704705/Title-race-three-horse-race-insists-Hearts-boss-Derek-McInnes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -14411,6 +14436,48 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Lily Allen launches sold-out North American tour with \"Unforgettable\" Chicago opener",
+      "link": "https://www.music-news.com/news/UK/188161/Lily-Allen-launches-sold-out-North-American-tour-with-Unforgettable-Chicago-opener",
+      "pubDate": "2026-04-04T07:25:00",
+      "description": "Lily Allen has officially made her triumphant return to the North American stage, kicking off her highly anticipated, sold-out headline tour last night",
+      "thumbnail": "https://www.music-news.com/images/news/Lily-Allen4.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Lily-Allen4.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T08:37:25.686935",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "RAYE tops UK Albums Chart for first time with This Music May Contain Hope",
+      "link": "https://www.music-news.com/news/UK/188160/RAYE-tops-UK-Albums-Chart-for-first-time-with-This-Music-May-Contain-Hope",
+      "pubDate": "2026-04-04T07:00:00",
+      "description": "RAYE has earned her first UK chart-topping album as her new record This Music May Contain Hope went straight in at number one on Friday (03.04.26).",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188160.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188160.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T08:37:25.686941",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Duffy 'signs with new management' ahead of return to spotlight with Disney+ documentary",
+      "link": "https://www.music-news.com/news/UK/188159/Duffy-signs-with-new-management-ahead-of-return-to-spotlight-with-Disney-documentary",
+      "pubDate": "2026-04-04T07:00:00",
+      "description": "Mercy hitmaker Duffy has reportedly signed with a new management team after it was revealed that she will be sharing the harrowing kidnap and rape ordeal that caused her to withdraw from the spotlight in a Disney+ documentary.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188159.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188159.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-04T08:37:25.686942",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Brandy never saw herself becoming an actress",
       "link": "https://www.music-news.com/news/UK/188158/Brandy-never-saw-herself-becoming-an-actress",
