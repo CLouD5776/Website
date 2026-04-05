@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Family 'utterly devastated' after boy, 13, killed in crash as two charged",
+      "link": "https://www.bbc.com/news/articles/c8jkm74yvzjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T18:11:36",
+      "description": "Noah Campbell's family say he was a \"talented, versatile sportsman\" who was \"incredibly well-liked\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9c/live/baab9960-310d-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T18:50:59.055016",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Leinster beat Edinburgh in Champions Cup thriller",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cly7rxnv3nwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T18:22:23",
+      "description": "Leinster turn on the style in the second half to beat Edinburgh 49-31 in a chaotic Champions Cup last-16 game at the Aviva Stadium.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee03/live/ca717660-310f-11f1-8078-2797c344ad7d.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T18:50:59.055028",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Critchley stars as Essex wrap up big win at Hants",
+      "link": "https://www.bbc.com/sport/cricket/articles/ckge4myxxemo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T18:10:43",
+      "description": "Essex wrap up an innings and 137 run victory at Hampshire as Matt Critchley takes 5-9 to go with his knock of 173.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a862/live/3764f530-311a-11f1-b4eb-f70081c45e1f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T18:50:59.055030",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Seven arrested at RAF base demo accused of supporting Palestine Action",
       "link": "https://www.bbc.com/news/articles/cx26rkk2zr4o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-05T17:26:48",
@@ -3896,6 +3929,48 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "STEPHEN DAISLEY: Sorry, Mr Swinney, but you ARE the cost of living crisis",
+      "link": "https://www.dailymail.co.uk/news/article-15708095/STEPHEN-DAISLEY-Sorry-Mr-Swinney-you-cost-living-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T18:47:24",
+      "description": "One of the advantages of writing a political column is that you seldom have to consult opinion polls. Readers will go out of their way to let you know what they think about current affairs.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/17/107671571-0-image-m-13_1775408132917.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/17/107671571-0-image-m-13_1775408132917.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T18:51:01.401862",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "More than 70 migrants feared dead after crammed small boat capsizes off the coast of Libya",
+      "link": "https://www.dailymail.co.uk/news/article-15708143/More-70-migrants-feared-dead-small-boat-capsizes-Libya.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T18:46:49",
+      "description": "The vessel had left Libya just hours before it began taking on water and capsized in turbulent weather conditions.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/19/107672327-0-image-m-14_1775413148334.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/19/107672327-0-image-m-14_1775413148334.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T18:51:01.401869",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ugly war breaks out in NYC's most elite mommy groups: Upper East Side moles lift lid on what everyone is saying in the side chat",
+      "link": "https://www.dailymail.co.uk/news/article-15691927/elite-moms-upper-east-new-york-ugly-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T18:32:16",
+      "description": "The Daily Mail infiltrated the cutthroat world of affluent Upper East Side mom groups, in which the mothers of Manhattan's most tony neighborhood wallow in petty drama.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/22/107537437-0-image-a-44_1774907150142.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/30/22/107537437-0-image-a-44_1774907150142.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T18:51:01.401872",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Joe Biden hit with humiliating snub as smug Democrats share Easter message: 'Better times at the White House'",
       "link": "https://www.dailymail.co.uk/news/article-15708075/Joe-Biden-snub-Democrats-share-Easter-message-Obama.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10853,51 +10928,23 @@
       "archived_at": "2026-04-02T11:47:04.860293",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Nigel Farage commits to keeping 'triple lock' for state pensions if he becomes PM - but Reform UK eyes taking the axe 'gold-plated' civil service schemes",
-      "link": "https://www.dailymail.co.uk/news/article-15701055/Nigel-Farage-commits-keeping-triple-lock-state-pensions-PM-Reform-UK-eyes-taking-axe-gold-plated-civil-service-schemes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T11:33:14",
-      "description": "After months of internal wrangling within Reform over the issue, Mr Farage said the triple lock 'is going to stay' if his party wins the next general election.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608155-0-image-m-7_1775127534223.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608155-0-image-m-7_1775127534223.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T11:47:04.860294",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Asylum seeker who fled Iran tells immigration judges that life in Gateshead has left him with depression",
-      "link": "https://www.dailymail.co.uk/news/article-15700959/Asylum-seeker-fled-Iran-tells-immigration-judges-life-Gateshead-left-depression.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T11:30:44",
-      "description": "The 20-year-old first came to the UK by small boat and claimed was an opponent of the regime in Tehran who faced violent retribution at home.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607333-0-image-a-4_1775125377534.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607333-0-image-a-4_1775125377534.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T11:47:04.860296",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hamas should NOT be treated as terrorists, says Green Party's 'Zionism is racism' policy mastermind as she claims violent group was banned in UK to 'delegitimise armed resistance' to Israel",
-      "link": "https://www.dailymail.co.uk/news/article-15691301/Hamas-NOT-treated-terrorists-Green-Zionism-racism-mastermind.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T11:18:48",
-      "description": "Artist Lubna Speitan called on activists to oppose the UK proscription of the organisation behind the\u00a0October 7 2023 massacre which left almost 1,200 people, including children, dead.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107557951-0-image-m-8_1775126933792.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107557951-0-image-m-8_1775126933792.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T11:47:04.860297",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Hearts boss Derek McInnes hits out at\u00a0his team's 'inexplicable' defending after title setback",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15708189/Hearts-boss-Derek-McInnes-hits-teams-inexplicable-defending-title-setback.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T18:44:37",
+      "description": "Hearts manager Derek McInnes labelled his side's defending as 'inexplicable' after dropping two crucial points in the race for the Premiership title with a frustrating 2-2 draw at Livingston.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/19/107672937-0-image-a-2_1775414667443.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/19/107672937-0-image-a-2_1775414667443.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T18:51:03.628672",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Furious Leeds left stunned after unusual police intervention before FA Cup clash with West Ham",
       "link": "https://www.dailymail.co.uk/sport/football/article-15708099/leeds-west-ham-fa-cup-police.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -15702,6 +15749,62 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "\"It just burst everywhere\": Niall Horan recalls Beef Wellington disaster",
+      "link": "https://www.music-news.com/news/UK/188058/It-just-burst-everywhere-Niall-Horan-recalls-Beef-Wellington-disaster",
+      "pubDate": "2026-04-05T17:30:00",
+      "description": "This week on Dish from Waitrose, Niall Horan traded stories of chart-topping success for tales of kitchen catastrophes. Speaking with",
+      "thumbnail": "https://www.music-news.com/images/news/Niall-Horan8.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Niall-Horan8.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T18:51:07.371730",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arlo Parks swaps ballads for the beat in new club-inspired era",
+      "link": "https://www.music-news.com/news/UK/188171/Arlo-Parks-swaps-ballads-for-the-beat-in-new-club-inspired-era",
+      "pubDate": "2026-04-05T17:23:00",
+      "description": "Arlo Parks is stepping out of the bedroom and onto the dancefloor. In a recent interview with the BBC, the Mercury Prize winner",
+      "thumbnail": "https://www.music-news.com/images/news/Arlo-Parks2.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Arlo-Parks2.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T18:51:07.371736",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "BBC chief Tim Davie defends decision to sack Scott Mills",
+      "link": "https://www.music-news.com/news/UK/188170/BBC-chief-Tim-Davie-defends-decision-to-sack-Scott-Mills",
+      "pubDate": "2026-04-05T17:15:00",
+      "description": "In a candid all-staff meeting marking the end of his tenure, outgoing BBC Director General Tim Davie stated that the dismissal of veteran broadcaster",
+      "thumbnail": "https://www.music-news.com/images/news/Scott-Mills.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Scott-Mills.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T18:51:07.371738",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "U2 embraces maturity with second surprise EP release of 2026 'Easter Lily'",
+      "link": "https://www.music-news.com/news/UK/188169/U2-embraces-maturity-with-second-surprise-EP-release-of-2026-Easter-Lily",
+      "pubDate": "2026-04-05T16:58:00",
+      "description": "U2 has surprised fans once again, dropping a second collection of new music in less than two months. The six-track EP, titled Easter Lily",
+      "thumbnail": "https://www.music-news.com/images/news/u23.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/u23.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T18:51:07.371739",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Pepsi cuts ties with Wireless Festival over controversial Kanye West headlining slot",
       "link": "https://www.music-news.com/news/UK/188167/Pepsi-cuts-ties-with-Wireless-Festival-over-controversial-Kanye-West-headlining-slot",
