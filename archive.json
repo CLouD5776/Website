@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Seven arrested at RAF base demo accused of supporting Palestine Action",
+      "link": "https://www.bbc.com/news/articles/cx26rkk2zr4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T17:26:48",
+      "description": "Five men and two women at a peace camp at RAF Lakenheath are held on suspicion of supporting Palestine Action.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dee/live/dd5c4d00-3104-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T17:57:46.893071",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Who is Viktor Orban, Hungarian PM fighting to stay in power after 16 years?",
+      "link": "https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T17:04:26",
+      "description": "Since 2010, Orb\u00e1n has transformed Hungary into what the European Parliament has denounced as a \"hybrid regime of electoral autocracy\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5076/live/f4bbb470-30fc-11f1-85f0-7fe7dd4a9b2b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T17:57:46.893080",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
       "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-05T16:38:06",
@@ -3874,6 +3896,76 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Joe Biden hit with humiliating snub as smug Democrats share Easter message: 'Better times at the White House'",
+      "link": "https://www.dailymail.co.uk/news/article-15708075/Joe-Biden-snub-Democrats-share-Easter-message-Obama.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T17:55:01",
+      "description": "The official X account for the Democrat Party snubbed their most recent President in their Easter message.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/18/107671335-0-image-a-6_1775409520901.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/18/107671335-0-image-a-6_1775409520901.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T17:57:49.234305",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'America's saddest husky' spotted wandering baking Arizona desert without water after owners were DEPORTED",
+      "link": "https://www.dailymail.co.uk/news/article-15697971/husky-Arizona-desert-owners-deported.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T17:53:51",
+      "description": "Jaime Simpson, 28, spotted a lonely husky wandering the Arizona desert all alone and assumed the owners were nearby. Instead, she discovered the pup may never see his family again.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107583617-0-image-m-15_1775055947219.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107583617-0-image-m-15_1775055947219.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T17:57:49.234312",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Elderly pizza delivery driver who went out of his way for customer's Diet Coke order receives $40,000 tip from kind strangers online",
+      "link": "https://www.dailymail.co.uk/news/article-15707837/Elderly-pizza-delivery-driver-Diet-Coke-40-000-tip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T17:46:01",
+      "description": "Dan Simpson, 68, of Idaho, became a viral sensation last month after taking a second trip to a grocery store to get Diet Cokes for a couple when the Domino's where he works ran out.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/18/107671723-0-image-a-93_1775408538530.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/18/107671723-0-image-a-93_1775408538530.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T17:57:49.234316",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Step by step, how US Special Forces pulled off 'most daring operation in history' to rescue downed airman from deep inside Iran",
+      "link": "https://www.dailymail.co.uk/news/article-15708191/US-Special-Forces-daring-operation-history-rescue-airman-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T17:40:45",
+      "description": "Hunkered down in a mountain-top ravine, armed only with a pistol, and with gun-toting tribesmen bearing down on him, the US Airforce colonel probably had slim hopes for his survival.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/18/107672131-0-image-m-42_1775410623807.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/18/107672131-0-image-m-42_1775410623807.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T17:57:49.234318",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Boy, 13, killed after 'car struck three teens on bikes and scooter' is pictured: Man, 24, and woman, 23, are charged",
+      "link": "https://www.dailymail.co.uk/news/article-15708139/boy-13-killed-car-three-teens-bikes-scooter-pictured-man-woman-charged.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T17:34:39",
+      "description": "The\u00a0'utterly devastated' family of a 13-year-old boy killed in a car crash on Friday have paid tribute to their late son, as a man and a woman were charged in connection with the incident.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/18/107671777-0-image-m-7_1775408939986.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/18/107671777-0-image-m-7_1775408939986.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T17:57:49.234320",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Clubber in his 20s dies in the street in Manchester after falling ill inside the venue",
       "link": "https://www.dailymail.co.uk/news/article-15708023/Clubber-20s-dies-street-Manchester-falling-ill-inside-venue.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10801,76 +10893,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-02T11:47:04.860297",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Detectives investigating unsolved 2012 house fire death of mother and her five children appeal to anonymous author of letter to 'be brave and come forward'.",
-      "link": "https://www.dailymail.co.uk/news/article-15701011/Detectives-investigating-2012-house-fire-death-mother-five-children-appeal-anonymous-author-letter-brave-come-forward.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T11:14:12",
-      "description": "The individual contacted the force to reveal they are burdened with the 'nightmare' of having information about the fate of the family but not being able to share it.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606187-0-image-a-4_1775126336499.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606187-0-image-a-4_1775126336499.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T11:47:04.860298",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "POLL OF THE DAY:\u00a0Is Sadiq Khan right to say London is a safe city?",
-      "link": "https://www.dailymail.co.uk/news/article-15700409/Poll-Sadiq-Khan-London-safe-city-Clapham-rioting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T11:13:45",
-      "description": "London Mayor Sir Sadiq Khan urged British diplomats stationed around the world to help counter 'disinformation and lies' about the capital amplified by Donald Trump.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608025-0-image-a-30_1775127351676.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608025-0-image-a-30_1775127351676.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T11:47:04.860299",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Teaching union brands social media bosses 'sleazy degenerates' who profiteer from 'humiliation'",
-      "link": "https://www.dailymail.co.uk/news/article-15700869/Union-social-media-bosses-sleazy-degenerates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T11:00:46",
-      "description": "Daniel Kebede, General Secretary of the National Education Union (NEU), accused tech companies of exposing children to 'online worlds that reward cruelty, speed and spectacle'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107268893-0-The_National_Education_Union_NEU_blamed_party_leader_Nigel_Farag-a-7_1775125659778.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107268893-0-The_National_Education_Union_NEU_blamed_party_leader_Nigel_Farag-a-7_1775125659778.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T11:47:04.860301",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Now even the SNP backs more North Sea oil and gas as isolated Miliband insists Net Zero is 'central mission' of Labour government - despite Reeves saying she is 'happy' to see drilling",
-      "link": "https://www.dailymail.co.uk/news/article-15701027/SNP-North-Sea-oil-gas-Miliband-Net-Zero-Labour-Reeves-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T10:59:09",
-      "description": "Ed Miliband insisted yesterday that breaking the UK's reliance on fossil fuels is the 'central mission' of the Labour government.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608023-0-image-a-16_1775127235684.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107608023-0-image-a-16_1775127235684.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T11:47:04.860302",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Huw Edwards hints he's preparing to\u00a0speak out after criticising 'one-sided' Martin Clunes dramatisation of his downfall",
-      "link": "https://www.dailymail.co.uk/news/article-15700737/huw-edwards-publicist-stands-down.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T10:53:59",
-      "description": "The 64-year-old convicted\u00a0paedophile has criticised Channel 5 drama, claiming the programme's makers did not fact-check it with him.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606653-0-image-m-9_1775125401330.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606653-0-image-m-9_1775125401330.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T10:57:06.996354",
       "feed_category": "News",
       "feed_visibility": "both"
     }
