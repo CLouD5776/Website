@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "How rescue of US airman in remote part of Iran unfolded",
+      "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T20:00:20",
+      "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/122ce0c0-30de-11f1-8ddd-d1b5840720ab.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T20:59:37.221439",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "O'Neill hails Celtic spirit as they stay in title hunt",
+      "link": "https://www.bbc.com/sport/football/articles/c93e0gxp1zyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T20:36:03",
+      "description": "Celtic interim manager Martin O'Neill hails his team's spirit after they battle to a crucial victory in the Scottish Premiership at Dundee.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ff/live/48931b20-3124-11f1-806c-8f5b2321746a.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T20:59:37.221445",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Leeds beat West Ham on penalties in thriller to reach FA Cup semis",
+      "link": "https://www.bbc.com/sport/football/videos/c3r3vd42vrzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T20:35:53",
+      "description": "Leeds United survive West Ham's fightback from 2-0 down to 2-2 as a penalty shootout victory sends the West Yorkshire side to their first FA Cup semi-final since 1987.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/863d/live/39464c70-3127-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T20:59:37.221447",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Trump declares victory in Iran war after rescue, but threats to US operation still loom",
       "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-05T20:02:01",
@@ -3962,6 +3995,62 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Donald Trump emerges from White House for first time since incredible rescue mission to save downed airman",
+      "link": "https://www.dailymail.co.uk/news/article-15708271/Donald-Trump-White-House-Golf-Easter-Iran-Airman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T20:58:27",
+      "description": "President Donald Trump was spotted at the White House on Sunday afternoon in the middle of a rather quiet Easter with few public appearances on his schedule.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/21/107673795-0-image-m-12_1775421897525.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/21/107673795-0-image-m-12_1775421897525.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T20:59:39.638915",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Savannah Guthrie holds back tears as she describes 'deep disappointment with God' and cruel torture she's enduring this Easter without her mother Nancy",
+      "link": "https://www.dailymail.co.uk/news/article-15708319/savannah-nancy-guthrie-case-easter-mass-kidnapping.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T20:56:47",
+      "description": "The Today Show host shared a raw and emotional statement about how she's navigating the Easter holiday amid the disappearance of her mother Nancy Guthrie, 84.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/21/107673981-0-image-a-28_1775422012947.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/21/107673981-0-image-a-28_1775422012947.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T20:59:39.638920",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "New Yorkers step out in their most extravagant Easter bonnets as colorful creations and adorable animals take over the streets of Manhattan",
+      "link": "https://www.dailymail.co.uk/news/article-15708229/new-york-easter-parade-bonnet-manhattan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T20:45:29",
+      "description": "New Yorkers spilled onto the streets of Manhattan in their most extravagant creations for the 2026 Easter Bonnet Parade.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/21/107673505-0-Casey_Sobel_a_Brooklyn_based_artist_said_that_the_event_not_only-a-26_1775421480202.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/21/107673505-0-Casey_Sobel_a_Brooklyn_based_artist_said_that_the_event_not_only-a-26_1775421480202.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T20:59:39.638921",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Drunk' driver, 57, is charged with ramming into dozens of people during religious parade in Louisiana",
+      "link": "https://www.dailymail.co.uk/news/article-15707939/Louisiana-Todd-Landry-Drunk-driver-charged-ramming-dozens-parade.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T20:44:37",
+      "description": "State police identified Todd Landry, 57, as the suspect who injured more than a dozen parade attendees, leaving at least four in critical condition. He is facing more than 20 charges.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/21/107673389-0-image-m-13_1775419343307.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/21/107673389-0-image-m-13_1775419343307.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T20:59:39.638923",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Blood-curdling words intruder shouted moments before he tried to rape mom holding her baby inside bedroom",
       "link": "https://www.dailymail.co.uk/news/article-15707755/words-intruder-moments-attempted-rape-mom-baby-bedroom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10905,65 +10994,23 @@
       "archived_at": "2026-04-02T13:05:15.492203",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Moment grim-faced Putin squirms in his seat as Armenian PM hails the importance of democracy and social media freedom during Kremlin meeting",
-      "link": "https://www.dailymail.co.uk/news/article-15701183/Moment-grim-faced-Putin-squirms-seat-Armenian-PM-hails-importance-democracy-social-media-freedom-Kremlin-meeting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T12:45:12",
-      "description": "Armenia's prime minister made Russian despot Vladimir Putin squirm in his seat by extolling the virtues of democracy and social media freedom to his face at a Kremlin meeting.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107610355-0-image-m-46_1775132459074.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107610355-0-image-m-46_1775132459074.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T13:05:15.492204",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Kathleen Folbigg and fianc\u00e9 seen for the first time after she spent two decades in jail over the deaths of her four children - amid rumours she's fallen out with the woman who helped free her",
-      "link": "https://www.dailymail.co.uk/news/article-15696291/Kathleen-Folbigg-fianc-seen-time-spent-two-decades-jail-deaths-four-children-amid-rumours-shes-fallen-woman-helped-free-her.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T12:38:56",
-      "description": "Kathleen Folbigg was in high spirits while walking with her fiance Bob Muir after they attended the Newcastle Writers Festival on Sunday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568085-0-image-a-11_1775002668978.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568085-0-image-a-11_1775002668978.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T13:05:15.492206",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Iconic cathedral gets \u00a31million bling makeover - but residents say 'Disney-style' stained glass windows are 'horrible'",
-      "link": "https://www.dailymail.co.uk/news/article-15701167/Cathedrals-bling-makeover-slammed-horrible-locals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T12:37:55",
-      "description": "Canterbury Cathedral attracts more than a million people a year and the famous entrance Christ Church Gate has been restored in a 'gaudy' and 'awful' fashion, say locals.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609999-0-image-a-3_1775133009866.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609999-0-image-a-3_1775133009866.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T13:05:15.492207",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Boss of London Pride is sacked after 'spending \u00a37,000 of donations on luxury perfumes and Apple products'",
-      "link": "https://www.dailymail.co.uk/news/article-15700847/pride-london-boss-sacked-accused-luxury-goods.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T12:32:25",
-      "description": "Christopher Joell-Deshields was let go after an investigation was launched into allegations of misuse of company funds and a failure to safeguard against bullying.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609309-0-image-m-8_1775132597020.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609309-0-image-m-8_1775132597020.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T13:05:15.492208",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Dundee 1-2 Celtic: Martin O'Neill's men breathe new life into their title defence",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15708219/Dundee-1-2-Celtic-Martin-ONeills-men-breathe-new-life-title-defence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T20:36:33",
+      "description": "In\u00a0the city of discovery, Celtic finally found three precious points which breathes new life into their title challenge.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/21/107673757-0-image-a-57_1775420566296.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/21/107673757-0-image-a-57_1775420566296.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T20:59:42.960695",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Aasgaard finally showing his worth as Norwegian comes to the boil just in time for title tilt",
       "link": "https://www.dailymail.co.uk/sport/football/article-15707653/Aasgaard-finally-showing-worth-Norwegian-comes-boil-just-time-title-tilt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
