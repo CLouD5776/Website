@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Survival or FA Cup glory - which would you choose?",
+      "link": "https://www.bbc.com/sport/football/articles/c1l9ged3vq3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T05:25:09",
+      "description": "Leeds visit West Ham on Sunday in the FA Cup quarter-finals but both are also in a relegation scrap. Would you risk safety for glory?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c33e/live/25fddfa0-2dc8-11f1-b5b8-bdb2c7a76bf2.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T06:16:31.034793",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'A messed-up situation' - world champion Dubois on family rift",
+      "link": "https://www.bbc.com/sport/boxing/articles/cx26jkkrkk4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T06:07:40",
+      "description": "Caroline Dubois opens up about her family rift and says she wants to reconcile with her brother Daniel, as she looks to unify lightweight world titles.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a42d/live/616a5ef0-2dce-11f1-91d2-f9f3a172f846.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T06:16:31.034798",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "AI videos fuel rhetoric as Orb\u00e1n bids for four more years in Hungary",
       "link": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T23:15:48",
@@ -3632,6 +3654,48 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Brutal reason Sydney Royal Easter Show ruined the long weekend for visitors as Aussies unleash: 'It was a disaster'",
+      "link": "https://www.dailymail.co.uk/news/article-15707131/Sydney-Royal-Easter-outrage-price-outage-crowd.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T06:02:59",
+      "description": "The annual event may have only kicked off at Sydney Olympic Park on Thursday, but visitors are already complaining about their experiences.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/06/107664617-0-image-a-12_1775366217076.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/06/107664617-0-image-a-12_1775366217076.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T06:16:34.322735",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Crew on $4.1bn Artemis II mission thwarted by embarrassing Outlook error: 'Microsoft's not content with being the worst email service on Earth'",
+      "link": "https://www.dailymail.co.uk/news/article-15706891/artemis-ii-mission-outlook-error-microsoft-space.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T05:37:53",
+      "description": "Commander Reid Wiseman was having the issues on his personal computing device, which refers to a specialized tablet that astronauts rely on to access emails and mission data.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/06/107665587-0-image-m-128_1775366641002.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/06/107665587-0-image-m-128_1775366641002.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T06:16:34.322741",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pennsylvania man stabs Planet Fitness employee in a fit of rage after he was banned from the gym",
+      "link": "https://www.dailymail.co.uk/news/article-15706827/Pennsylvania-Planet-Fitness-stabbing-employee.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T05:21:19",
+      "description": "Davier Massey, 28, reportedly got into a dispute with employees over an unpaid bill. The next day, police say he arrived with a weapon in hand.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/05/107664879-0-image-a-6_1775362422475.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/05/107664879-0-image-a-6_1775362422475.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T06:16:34.322743",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Second US airman is injured but SAFE after 'miraculous' rescue mission deep inside Iran, says Trump",
       "link": "https://www.dailymail.co.uk/news/article-15707345/Iran-pilot-rescued-second-US-forces-firefight.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10589,51 +10653,37 @@
       "archived_at": "2026-04-02T04:35:47.910541",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "EDEN CONFIDENTIAL: Stop attacks on Meghan Markle, says Loose Women star",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15699215/EDEN-CONFIDENTIAL-Stop-attacks-Meghan-Markle-says-Loose-Women-star.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T23:48:35",
-      "description": "The Duchess of Sussex found an unexpected ally in ITV news presenter Tom Bradby when she opened up to him in a candid interview. Now, Meghan has gained further support from another ITV voice...",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107590811-0-image-m-56_1775070245293.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107590811-0-image-m-56_1775070245293.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910542",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "QUENTIN LETTS: If you want to reassure voters, it's best if your whole presence on stage doesn't shriek 'HELP!'",
-      "link": "https://www.dailymail.co.uk/columnists/article-15699497/QUENTIN-LETTS-you-want-reassure-voters-best-presence-stage-doesnt-shriek-HELP.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T23:48:15",
-      "description": "There was a delay to Sir Keir Starmer's press conference on the war. Perhaps there had been some late-breaking development. No.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/21/107593175-0-image-a-5_1775076425993.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/21/107593175-0-image-a-5_1775076425993.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910543",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "RUPERT DARWALL: Starmer's stubborn refusal to open up the North Sea in the face of an energy crisis proves he MUST sack monomaniac Miliband",
-      "link": "https://www.dailymail.co.uk/debate/article-15699301/RUPERT-DARWALL-Starmers-stubborn-refusal-open-North-Sea-face-energy-crisis-proves-sack-monomaniac-Miliband.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T23:47:54",
-      "description": "War in the Middle East has made the British public  aware as never before that the government's Net Zero policy is not just nonsensical but deeply dangerous.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/21/107593383-0-image-a-8_1775076970772.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/21/107593383-0-image-a-8_1775076970772.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910544",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "I thought about quitting plenty of times, says Dundee boss STEVEN PRESSLEY... I was aware of the noise and I've always had lots of insecurities, but you don't get anywhere without a struggle",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15705049/I-thought-quitting-plenty-times-says-Dundee-boss-STEVEN-PRESSLEY-aware-noise-Ive-lots-insecurities-you-dont-without-struggle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T06:00:52",
+      "description": "The line is delivered in Steven Pressley's trademark matter-of-fact fashion.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/15/107654929-0-image-a-33_1775313427737.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/15/107654929-0-image-a-33_1775313427737.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T06:16:35.461267",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "More of John McGinn's welcome honesty will be required if Scotland are to stop the World Cup being a disaster",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15706201/More-John-McGinns-welcome-honesty-required-Scotland-stop-World-Cup-disaster.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T06:00:49",
+      "description": "John McGinn stood on the  pitch for a TV interview after beating Denmark last November and spoke a truth that no one was really of the mind at the time to countenance, far less dwell upon.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/15/107655683-0-image-a-31_1775313088314.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/15/107655683-0-image-a-31_1775313088314.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T06:16:35.461273",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Lionel Messi makes history as David Beckham celebrates opening of Inter Miami's brand new $1 BILLION stadium",
       "link": "https://www.dailymail.co.uk/sport/football/article-15707147/lionel-messi-david-beckham-inter-miami-miami.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
