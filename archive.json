@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Durham tell fans to stay away from ground after storm damage",
+      "link": "https://www.bbc.com/sport/cricket/articles/cew7yerz9epo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T09:19:14",
+      "description": "Spectators are told to stay away from Durham's Riverside ground at Chester-le-Street after it was hit by Storm Dave overnight.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8abc/live/f152aec0-30ce-11f1-8eb1-c3991b038902.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T09:35:41.179225",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Keir Starmer 'concerned' over Kanye West UK festival dates",
       "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-05T07:52:04",
@@ -3720,6 +3731,34 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Yobs clash with police in Milton Keynes as teenager disorder that began in Clapham spreads",
+      "link": "https://www.dailymail.co.uk/news/article-15707557/Yobs-clash-police-Milton-Keynes-teenager-disorder-began-Clapham-spreads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T09:29:15",
+      "description": "Footage posted on social media shows officers in a stand off with a group of youths in tracksuits outside Midsummer Place shopping centre in Milton Keynes yesterday evening.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/10/107666983-0-image-m-29_1775380630501.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/10/107666983-0-image-m-29_1775380630501.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T09:35:43.606834",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Finally some fuel relief as petrol prices fall - but is it too little, too late for Anthony Albanese?",
+      "link": "https://www.dailymail.co.uk/news/article-15692929/anthony-albanese-manly-locals-fuel-prices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T09:01:01",
+      "description": "When Daily Mail spoke to Aussies in Sydney's Northern Beaches earlier this week, locals had a lot to say about Anthony Albanese's handling of the fuel crisis.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/03/107600217-0-image-m-66_1775097639006.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/03/107600217-0-image-m-66_1775097639006.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T09:35:43.606841",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Inside the Islamic Revolutionary Guard Corp death cult: How henchmen brainwashed in 'violent and extremist' training camps oversee prison rapes and mass executions to maintain Iranian regime's stranglehold",
       "link": "https://www.dailymail.co.uk/news/article-15700647/Inside-Islamic-Revolutionary-Guard-Corp-death-cult-henchmen-brainwashed-violent-extremist-training-camps-oversee-prison-rapes-mass-executions-maintain-Iranian-regimes-stranglehold.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10689,34 +10728,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-02T04:35:47.910532",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "NHS issues major warning on drug shortages with blood pressure, cancer, stroke medicine and antibiotics in crisis. But changing prescription can come with devastating consequences. Here's what to do if YOUR doctor tries to 'swap' you",
-      "link": "https://www.dailymail.co.uk/health/article-15699011/drug-shortages-NHS-warning-supply-crisis-low-stock-pharmacy-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T00:21:15",
-      "description": "Everyday medicines could soon be in such short supply that Britain will face a crisis situation, with the Iran conflict leading to shortages of 'honestly everything', the head of the NHS warned this week",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/21/107593117-0-image-m-109_1775076579666.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/21/107593117-0-image-m-109_1775076579666.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910534",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "How I've wiped \u00a3655 a month off my bills: Everything's suddenly so expensive says SUSANNAH JOWITT. But with my simple tweaks anyone can do you will save a fortune... start now",
-      "link": "https://www.dailymail.co.uk/lifestyle/article-15699037/bills-Billmageddon-SUSANNAH-JOWITT-save-money-tips.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T00:20:04",
-      "description": "With a fifth of the world's oil and gas being held in a massive traffic jam in Iran , there are fears the conflict will trigger a crippling price hike. So how can I stop my household finances from going into freefall?",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588593-0-image-m-10_1775064273510.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/18/107588593-0-image-m-10_1775064273510.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910535",
       "feed_category": "News",
       "feed_visibility": "both"
     }
