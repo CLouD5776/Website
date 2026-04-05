@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Keir Starmer 'concerned' over Kanye West UK festival dates",
+      "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T07:52:04",
+      "description": "The rapper has drawn significant criticism over his antisemitic and offensive remarks in recent years.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b969/live/d25257c0-30bd-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T08:38:53.184669",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The \u2018Not Fit For Purpose\u2019 Department - Part 3",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nb9l78?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-04T05:01:00",
+      "description": "Covering the Home Office.",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0nb9lrs.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T08:38:53.184680",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'My special blood helps critically ill babies'",
       "link": "https://www.bbc.com/news/articles/c30rqvml9n4o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-01T05:01:59",
@@ -3698,6 +3720,48 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Inside the Islamic Revolutionary Guard Corp death cult: How henchmen brainwashed in 'violent and extremist' training camps oversee prison rapes and mass executions to maintain Iranian regime's stranglehold",
+      "link": "https://www.dailymail.co.uk/news/article-15700647/Inside-Islamic-Revolutionary-Guard-Corp-death-cult-henchmen-brainwashed-violent-extremist-training-camps-oversee-prison-rapes-mass-executions-maintain-Iranian-regimes-stranglehold.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T08:33:28",
+      "description": "In countless camps deep in rural Iran, gruff military men bark orders at trembling young boys.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/105576393-0-image-m-6_1775208872139.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/105576393-0-image-m-6_1775208872139.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T08:38:55.542271",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Wreckage of American planes blown up by US special forces during raid to rescue second missing F15 pilot is revealed",
+      "link": "https://www.dailymail.co.uk/news/article-15707527/US-airman-hunted-Iran-forces-American-rescue-shielded-moving-airborne-fleet-drones.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T08:26:02",
+      "description": "LIVE: The wreckage of American planes blown up by US special forces during a raid to rescue a second missing pilot has been revealed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/08/107666235-0-image-a-9_1775374734601.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/08/107666235-0-image-a-9_1775374734601.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T08:38:55.542276",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Meghan's \u00a31,400-per-person 'girls weekend' retreat overshadowed by growing security concerns after online troll reveals plans to attend and 'secretly record'",
+      "link": "https://www.dailymail.co.uk/news/article-15706963/Meghan-girls-weekend-retreat-overshadowed-growing-security-concerns-online-troll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T08:24:05",
+      "description": "The Duchess of Sussex (pictured) is set to headline a women-only three-day retreat in Sydney later this month organised by the Her Best Life podcast.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/00/107662697-0-image-m-17_1775346635925.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/00/107662697-0-image-m-17_1775346635925.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T08:38:55.542278",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Magnitude 5.5 earthquake rocks central Australia on Easter long weekend",
       "link": "https://www.dailymail.co.uk/news/article-15707499/earthquake-Uluru-Amata-Australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10655,48 +10719,6 @@
       "archived_at": "2026-04-02T04:35:47.910535",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "PETER HITCHENS: Everywhere, railways closed by Beeching in the 60s are springing to life. Trains are fuller than ever despite outrageous fares. Scandalous truth reveals just how far Britain has come off the rails... Why were we so stupid?",
-      "link": "https://www.dailymail.co.uk/debate/article-15699537/PETER-HITCHENS-scandalous-truth-reveals-Britain-rails.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T00:18:28",
-      "description": "Britain's latest, most modern stretch of railway line has been ready for use since October but has yet to carry a single passenger. Nobody knows when it will.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/22/107593443-0-image-m-24_1775077397513.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/22/107593443-0-image-m-24_1775077397513.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910536",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "It's now cheaper to spend a weekend abroad than in the UK thanks to new all-inclusive trips launched by major holiday company",
-      "link": "https://www.dailymail.co.uk/travel/article-15697943/cheaper-weekend-abroad-uk-inclusive-deals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T00:12:52",
-      "description": "Brits could get more for their money by jetting across the ocean to a destination abroad, instead of spending a weekend in the UK.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/12/107580237-0-image-a-16_1775043615070.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/12/107580237-0-image-a-16_1775043615070.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910537",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Easter Bank Holiday weekend travel expected to see more than 2 million UK holidaymakers head overseas",
-      "link": "https://www.dailymail.co.uk/travel/article-15697983/easter-bank-holiday-weekend-busy-travel-british-holidaymakers-overseas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T00:10:51",
-      "description": "Planning to head overseas this Easter weekend? Well, you won't be the only one, as a whopping two million Brits are set to be jetting off.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/12/107523781-0-image-a-69_1775044107635.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/12/107523781-0-image-a-69_1775044107635.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910538",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
@@ -15350,6 +15372,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Rapper Gucci Mane \"ambushed and kidnapped\" by prot\u00e9g\u00e9 Pooh Shiesty",
+      "link": "https://www.music-news.com/news/UK/188162/Rapper-Gucci-Mane-ambushed-and-kidnapped-by-prot%C3%A9g%C3%A9-Pooh-Shiesty",
+      "pubDate": "2026-04-05T07:28:00",
+      "description": "In a shocking development for the music industry, federal prosecutors have revealed that Atlanta rap icon Gucci Mane was allegedly kidnapped",
+      "thumbnail": "https://www.music-news.com/images/news/Gucci-Mane2.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Gucci-Mane2.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T08:39:02.104359",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "\u201cEverything comes back to the loss of my dad\u201d: Luke Pritchard on stardom, stability, and regret",
       "link": "https://www.music-news.com/news/UK/188154/Everything-comes-back-to-the-loss-of-my-dad-Luke-Pritchard-on-stardom-stability-and-regret",
