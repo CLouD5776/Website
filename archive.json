@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Liverpool 'gave up' in FA Cup exit - Van Dijk",
+      "link": "https://www.bbc.com/sport/football/articles/cz670q6583jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T12:34:15",
+      "description": "Liverpool captain Virgil van Dijk apologises to the supporters and says his side \"gave up\" during their 4-0 FA Cup quarter-final defeat by Manchester City.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc8/live/f74b4580-30e7-11f1-b519-432a7775734e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T12:51:11.618711",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Man completes record-breaking mountain challenge after climbing 742 times in one year",
       "link": "https://www.bbc.com/news/articles/c9qdyyrzyn0o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T17:03:29",
@@ -3775,6 +3786,90 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "PE Teacher who dragged a school girl across a changing room floor because she took too long to tie her shoelaces is spared classroom ban",
+      "link": "https://www.dailymail.co.uk/news/article-15705063/PE-Teacher-dragged-school-girl-changing-room-floor-took-long-tie-shoelaces-spared-classroom-ban.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T12:50:51",
+      "description": "Sports teacher Charlotte Venables (pictured) grabbed the pupil by the ankle as she tried to get her out of the girls' changing room at Stewards Academy in Harlow, Essex.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/20/107645827-0-image-a-41_1775242963578.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/20/107645827-0-image-a-41_1775242963578.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T12:51:14.863358",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump vows to bomb Iran into a living HELL in expletive-laden Easter Sunday threat that he ends with 'praise be to Allah'",
+      "link": "https://www.dailymail.co.uk/news/article-15707803/trump-iran-bomb-easter-sunday-threat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T12:49:23",
+      "description": "Trump made the swear-filled threat on Sunday morning, as Americans woke up to celebrate the Christian holiday of Easter.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/13/107668935-0-image-a-6_1775392265480.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/13/107668935-0-image-a-6_1775392265480.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T12:51:14.863363",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pope Leo XIV seems to send message to Trump in Easter Sunday address urging 'Let those who have weapons lay them down'",
+      "link": "https://www.dailymail.co.uk/news/article-15707689/Pope-Leo-XIV-Trump-Easter-Sunday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T12:42:56",
+      "description": "The pope deplored to the thousands gathered in St. Peter's Square that people 'are growing accustomed to violence, resigning ourselves to it and becoming indifferent'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/13/107668769-0-image-m-12_1775391810668.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/13/107668769-0-image-m-12_1775391810668.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T12:51:14.863365",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US Airman evading $60,000 Iranian bounty on his head hid in mountains until rescuers arrived",
+      "link": "https://www.dailymail.co.uk/news/article-15707717/us-airman-rescued-hid-mountains.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T12:41:10",
+      "description": "The stranded colonel, armed with just a pistol for protection, had been wounded after ejecting from an F-15 fighter jet, which had been shot down over southern Iran on Friday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/13/107662027-0-image-m-54_1775392576157.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/13/107662027-0-image-m-54_1775392576157.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T12:51:14.863367",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Twisted urges, salacious texts and slow dances in the gym... what's fueling the alarming rise of female teachers accused of preying on teenage boys",
+      "link": "https://www.dailymail.co.uk/news/article-15686233/female-teachers-predators-sexual-abuse-students.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T12:35:11",
+      "description": "Two female teachers last month, in Rhode Island and New Jersey, have been accused of sexually abusing their teenage male students. Is this the sign of a new dark trend?",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/22/107484539-0-image-a-30_1774651370055.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/27/22/107484539-0-image-a-30_1774651370055.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T12:51:14.863368",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Why cops mistakenly put two bullets into unarmed relative of a homeowner who called them to report a burglary",
+      "link": "https://www.dailymail.co.uk/news/article-15707577/police-shooting-Hobart-Goodwood.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T12:24:23",
+      "description": "The man was rushed to hospital in Hobart after he was shot twice in the chest.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/13/107668625-0-image-a-120_1775391607558.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/13/107668625-0-image-a-120_1775391607558.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T12:51:14.863370",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump's daring extraction of US airman trapped in Iran almost failed and cost dozens of American lives",
       "link": "https://www.dailymail.co.uk/news/article-15707635/Trumps-extraction-airman-Iran-failed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10690,93 +10785,37 @@
       "archived_at": "2026-04-02T06:10:36.370916",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "What is a cooker?\u00a0As sovereign citizen and fugitive Dezi Freeman was gunned down on a farm with the slogan 'cookers welcome' - here's what to know about the bizarre subculture",
-      "link": "https://www.dailymail.co.uk/news/article-15699795/Dezi-Freeman-cooker-Australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T05:28:53",
-      "description": "Dezi Freeman was found by cops at a farm that claimed 'cookers' were welcome. But what does that actually mean?",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601975-0-image-a-46_1775105010463.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601975-0-image-a-46_1775105010463.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T06:10:36.370917",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Parents recall moment baby girl was shot dead in broad baby gunman who fled on back of scooter: 'My daughter was innocent'",
-      "link": "https://www.dailymail.co.uk/news/article-15700215/parents-baby-shot-dead-nyc-gunman-brooklyn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T05:25:17",
-      "description": "The parents of seven-month-old Kaori shared the heartbreaking moment the baby girl was shot in broad daylight in New York City.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601545-0-image-m-127_1775103778364.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601545-0-image-m-127_1775103778364.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T06:10:36.370918",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Son, 29, killed both parents at Arizona home then dialed 911 to tell cops what he'd done, investigators say",
-      "link": "https://www.dailymail.co.uk/news/article-15697957/son-killed-parents-arizona-confess-cops.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T05:25:13",
-      "description": "He also told the 911 dispatcher that he would be 'stepping outside with a water bottle in his hand and would wait for officers,' according to investigators.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/05/107598299-0-image-m-55_1775105592646.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/05/107598299-0-image-m-55_1775105592646.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T06:10:36.370920",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Lawyers for female teacher accused of grooming boy then having sex with him when he hit age of consent claim VICTIM is partly to blame",
-      "link": "https://www.dailymail.co.uk/news/article-15699465/ashley-fisler-new-jersey-teacher-grooming.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T05:18:31",
-      "description": "Rocco Cipparone, Ashley Fisler's attorney, defended his client in court on Wednesday during a virtual hearing that lasted roughly an hour.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/06/107457547-0-image-m-12_1775106693623.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/06/107457547-0-image-m-12_1775106693623.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T06:10:36.370921",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The disturbing reason why this spectacular $400million ultraluxe unit block on Sydney's harbourside is keeping VERY quiet about one of its BIGGEST selling points",
-      "link": "https://www.dailymail.co.uk/news/article-15692965/royal-scandal-sydney-million-dollar-homes-epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T05:06:16",
-      "description": "The royal connections of a $400million harbourside trophy home development on Sydney's waterfront should have been the exclusive unit block's biggest selling point.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601811-0-image-a-1_1775104874354.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601811-0-image-a-1_1775104874354.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T06:10:36.370922",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Have Iran's drone strikes kneecapped Operation Epic Fury? Daily Mail show uses satellite imagery to assess the scale of damage caused by aerial warfare campaign against US bases",
-      "link": "https://www.dailymail.co.uk/news/article-15697663/Iran-drone-strikes-Operation-Epic-Fury-satellite-imagery-damage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T05:01:34",
-      "description": "Iranian drone strikes appear to have destroyed important US military assets and caused massive damage to vital energy infrastucture, the Daily Mail's Photo Evidence has revealed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107442271-0-image-a-57_1775057236168.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107442271-0-image-a-57_1775057236168.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T06:10:36.370924",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Former Champions League manager's football coach son abandons his team's derby to rush to his father's bedside as he 'has just days' to live and is in a coma after heart attack",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15707797/Champions-League-manager-son-father-coma-heart-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T12:34:28",
+      "description": "The coach, who only left his role as Romania boss a matter of days ago, has been battling severe arrhythmias, which is a condition involving heart rhythm disturbances that can be life-threatening.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/13/107668913-0-image-a-34_1775392078601.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/13/107668913-0-image-a-34_1775392078601.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T12:51:18.098050",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Colleagues call him a 'childish idiot' and critics say he's disrespectful and arrogant but Cesc Fabregas is like Pep Guardiola 10 years ago. Here's how he is disrupting Italian football - and why Premier League clubs are taking note",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15707613/cesc-fabregas-como-disrupting-serie-a.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T12:23:53",
+      "description": "A young buck from Spain, schooled at Barcelona's famed La Masia academy before winning it all at club level, is rather underappreciated among the established order.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/11/107667873-0-image-a-32_1775385582351.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/11/107667873-0-image-a-32_1775385582351.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T12:51:18.098055",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "'Take a look at yourselves': Virgil van Dijk speaks out on Liverpool disaster at Man City and apologises as he urges team-mates to save their season",
       "link": "https://www.dailymail.co.uk/sport/football/article-15707739/virgil-van-dijk-liverpool-man-city-reaction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -15511,6 +15550,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "\u201cI absolutely love it\u201d: RAYE on reclaiming her power and \u201clabour of absolute passion\u201d behind new album",
+      "link": "https://www.music-news.com/news/UK/188126/I-absolutely-love-it-RAYE-on-reclaiming-her-power-and-labour-of-absolute-passion-behind-new-album",
+      "pubDate": "2026-04-05T10:54:00",
+      "description": "In a raw and revealing interview on The Zane Lowe Show, seven-time BRIT Award winner RAYE sat down to discuss her monumental new album",
+      "thumbnail": "https://www.music-news.com/images/news/raye3.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/raye3.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T12:51:26.084503",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Rapper Gucci Mane \"ambushed and kidnapped\" by prot\u00e9g\u00e9 Pooh Shiesty",
       "link": "https://www.music-news.com/news/UK/188162/Rapper-Gucci-Mane-ambushed-and-kidnapped-by-prot%C3%A9g%C3%A9-Pooh-Shiesty",
