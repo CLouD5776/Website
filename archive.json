@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "'My special blood helps critically ill babies'",
+      "link": "https://www.bbc.com/news/articles/c30rqvml9n4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T05:01:59",
+      "description": "Nigel Vaughan has a rare blood type which can be used to help critically ill babies.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca48/live/77a38730-2d08-11f1-903b-c7d082edabea.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T07:36:57.469995",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sunglass-wearing police horse Luna retires",
+      "link": "https://www.bbc.com/news/articles/c248q426jz7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-03-31T13:08:39",
+      "description": "Luna turned heads at Ascot in her 'neigh-bands' and stayed on duty after being punched at a match.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c5a/live/66810360-2ce5-11f1-bdf5-ddbf94ae98c3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T07:36:57.470001",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman, 95, breaks five more swimming world records",
+      "link": "https://www.bbc.com/news/articles/c248qzld0deo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T05:12:20",
+      "description": "Jane Asher has set more than 100 Masters swimming records throughout her career.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd2/live/318ba9a0-2c48-11f1-b979-37139b7cb8c6.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T07:36:57.470003",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Rubbish' animal artist raises \u00a3500k for charity",
+      "link": "https://www.bbc.com/news/articles/c93elee2e41o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-01T16:50:28",
+      "description": "Money is still coming after he walked 500 miles [805 km] in March to raise funds for two charities.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef33/live/6f7bd970-059c-11f0-80aa-91c66fd5fcb4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T07:36:57.470005",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Survival or FA Cup glory - which would you choose?",
       "link": "https://www.bbc.com/sport/football/articles/c1l9ged3vq3o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-05T05:25:09",
@@ -3654,6 +3698,34 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Magnitude 5.5 earthquake rocks central Australia on Easter long weekend",
+      "link": "https://www.dailymail.co.uk/news/article-15707499/earthquake-Uluru-Amata-Australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T07:11:18",
+      "description": "The 'rare' quake shook Outback communities in the early hours of Sunday morning.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/07/107665967-0-image-m-16_1775370931488.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/07/107665967-0-image-m-16_1775370931488.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T07:36:59.654551",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "SNL tears into Kristi Noem's husband and his crooked 'puppies' with brutal sketch after Daily Mail exposed fetish secrets",
+      "link": "https://www.dailymail.co.uk/news/article-15707495/Kristi-Noem-husband-Bryan-SNL-Saturday-Night-Live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T06:35:07",
+      "description": "During this week's Weekend Update segment, cast member Sarah Sherman posed as Bryon Noem in recently exposed images of him posing in pink biker shorts sporting faux breasts.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/07/107665925-0-image-m-12_1775369640079.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/07/107665925-0-image-m-12_1775369640079.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T07:36:59.654558",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Brutal reason Sydney Royal Easter Show ruined the long weekend for visitors as Aussies unleash: 'It was a disaster'",
       "link": "https://www.dailymail.co.uk/news/article-15707131/Sydney-Royal-Easter-outrage-price-outage-crowd.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10623,34 +10695,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-02T04:35:47.910538",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "STEPHEN GLOVER: Trump has abandoned Britain and started a war he doesn't know how to finish. There's only one way to stop us becoming an irrelevant laughing stock. This is what soft Starmer must do",
-      "link": "https://www.dailymail.co.uk/debate/article-15699315/STEPHEN-GLOVER-Trump-Starmer-Keir-abandoned-Britain-war-Iran-irrelevant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T00:07:23",
-      "description": "Britain is in a state of crisis. When will we realise it? The abuse directed against the British Armed Forces by Donald Trump is all the evidence we need that the transatlantic relationship is crumbling.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591671-0-image-m-71_1775072783323.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/20/107591671-0-image-m-71_1775072783323.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910539",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Where Scott Mills is hiding. Who he's turned to. And what REALLY happened when he was sacked. Reeling TV insiders tell every detail to MOLLY CLAYTON",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15699549/Scott-Mills-sacked-true-story-MOLLY-CLAYTON.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-01T23:53:52",
-      "description": "Since the bombshell news of Scott Mills's sudden departure from his prestigious BBC Radio 2 breakfast slot on Monday, Broadcasting House has been in a state of shock.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/22/107593475-0-image-m-126_1775077872916.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/22/107593475-0-image-m-126_1775077872916.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910541",
       "feed_category": "News",
       "feed_visibility": "both"
     }
