@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Royals gather for Windsor Easter Sunday service",
+      "link": "https://www.bbc.com/news/articles/c80md8v473do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T10:15:32",
+      "description": "Andrew-Mountbatten Windsor and his family are absent from the traditional family event.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d79b/live/12567b10-30d9-11f1-9671-d707f9a5b2a4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T10:29:41.721280",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Let's do it' - Wilder calls out Joshua after win",
+      "link": "https://www.bbc.com/sport/boxing/articles/cvg032de22wo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T10:13:54",
+      "description": "Deontay Wilder tells Anthony Joshua \"let's do it\" following the American's points victory over Derek Chisora.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b62c/live/6428e040-30cf-11f1-8eb1-c3991b038902.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T10:29:41.721293",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Durham tell fans to stay away from ground after storm damage",
       "link": "https://www.bbc.com/sport/cricket/articles/cew7yerz9epo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-05T09:19:14",
@@ -3731,6 +3753,34 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Bizarre rampage at Aussie airport involved passenger allegedly smashing cop car window with a rock before trying to flee on a shuttle bus",
+      "link": "https://www.dailymail.co.uk/news/article-15707537/Perth-Airport-police-car-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T10:17:41",
+      "description": "Airports can be stressful places, but one traveller has been accused of allowing their frustrations to boil over into vandalism.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/11/107667493-0-image-m-95_1775384005184.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/11/107667493-0-image-m-95_1775384005184.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T10:29:44.036499",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Revealed: Seaside village which banned new holiday homes is now split with two estates",
+      "link": "https://www.dailymail.co.uk/news/article-15707609/Seaside-village-banned-new-holiday-homes-split.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T10:13:15",
+      "description": "Locals living in Beadnell, Northumberland, say the divide shows how a crackdown on second homes has helped breathe new life back into parts of their community.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/10/107667035-0-image-m-25_1775381921133.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/10/107667035-0-image-m-25_1775381921133.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T10:29:44.036505",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Yobs clash with police in Milton Keynes as teenager disorder that began in Clapham spreads",
       "link": "https://www.dailymail.co.uk/news/article-15707557/Yobs-clash-police-Milton-Keynes-teenager-disorder-began-Clapham-spreads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10702,37 +10752,23 @@
       "archived_at": "2026-04-02T04:35:47.910529",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "DEONTAY WILDER: A gang killed my brother. I've never spoken about him before - until now. This is the full story of my childhood tragedy, why I carry a gun with me and how my family 'stabbed me in the back'",
-      "link": "https://www.dailymail.co.uk/sport/boxing/article-15694877/Deontay-Wilder-brother-gang-killed-gun-childhood-family.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T01:20:21",
-      "description": "INTERVIEW BY CHARLOTTE DALY: A single act of violence ended the life of Deontay Wilder's brother. One strike to the back of the head, and a lifetime of potential was gone.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107555339-0-image-m-44_1775054011789.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107555339-0-image-m-44_1775054011789.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910531",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Fleetwood Mac icon Lindsey Buckingham, 76, attacked and 'doused in unknown substance' in horror assault",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15699007/fleetwood-mac-legend-lindsey-buckingham-attacked-woman-threw-unidentified-substance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T00:25:14",
-      "description": "Multiple law enforcement sources said the 76-year-old was set upon by a woman while arriving for an appointment in the Santa Monica neighborhood.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/18/107589679-0-image-a-54_1775065585836.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/18/107589679-0-image-a-54_1775065585836.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T04:35:47.910532",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Thierry Henry's incredible weekly wages are revealed in his company accounts as he rakes in cash from TV work, sponsors and property - 12 years after retiring from football",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15707565/thierry-henry-wages-tv-sponsors-property.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T10:08:29",
+      "description": "Thierry Henry is taking home a footballer-style near-six-figure weekly wage, raking in the cash 12 years after he quit playing.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/10/107666981-0-image-a-22_1775381690116.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/10/107666981-0-image-a-22_1775381690116.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T10:29:46.304451",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "I thought about quitting plenty of times, says Dundee boss STEVEN PRESSLEY... I was aware of the noise and I've always had lots of insecurities, but you don't get anywhere without a struggle",
       "link": "https://www.dailymail.co.uk/sport/football/article-15705049/I-thought-quitting-plenty-times-says-Dundee-boss-STEVEN-PRESSLEY-aware-noise-Ive-lots-insecurities-you-dont-without-struggle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
