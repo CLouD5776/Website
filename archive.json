@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T16:38:06",
+      "description": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1f/live/b9410ce0-310d-11f1-8078-2797c344ad7d.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T17:27:03.245622",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "I bought the theme park I loved growing up",
       "link": "https://www.bbc.com/news/articles/cn43le7y7kyo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-05T06:08:30",
@@ -3863,6 +3874,76 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Clubber in his 20s dies in the street in Manchester after falling ill inside the venue",
+      "link": "https://www.dailymail.co.uk/news/article-15708023/Clubber-20s-dies-street-Manchester-falling-ill-inside-venue.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T17:21:56",
+      "description": "The reveller, in his 20s, is thought to have suffered a medical episode in the early hours of Saturday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/17/107671231-0-image-a-2_1775406042771.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/17/107671231-0-image-a-2_1775406042771.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T17:27:04.559776",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Outcry over parking lot at very popular mall where simple mistake outlined on easy-to-miss sign can end up costing you HUNDREDS of dollars",
+      "link": "https://www.dailymail.co.uk/news/article-15694695/university-square-dezavala-ihop-parking-lot-towing-outrage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T17:20:50",
+      "description": "Visitors to a San Antonio mall are infuriated by a simple mistake that ends up costing them hundreds of dollars, as they warn of predatory towing companies.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/15/107555713-0-image-m-89_1774967138935.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/31/15/107555713-0-image-m-89_1774967138935.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T17:27:04.559783",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Latin Grammy winner running for Congress as a Democrat is slammed by rival over his weekend job... and for performing with child sex offender",
+      "link": "https://www.dailymail.co.uk/news/article-15707787/Texas-Bobby-Pulido-Congress-weekend-job-sex-offender.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T16:59:23",
+      "description": "Bobby Pulido, a Latin Grammy Award Winner, has been criticized for peforming at quincea\u00f1eras and associating with a man who was convicted of indecent contact with an eight-year-old girl.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/17/107671065-0-image-a-1_1775406302479.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/17/107671065-0-image-a-1_1775406302479.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T17:27:04.559786",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Coastguard warn 20 campers after they pitch up on small Welsh bay DURING Storm Dave",
+      "link": "https://www.dailymail.co.uk/news/article-15708027/coastguard-warn-campers-Welsh-bay-Storm-Dave.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T16:52:13",
+      "description": "A group of 20 campers were nearly cut off by the tide after deciding to pitch up on a remote Welsh beach in the middle of Storm Dave.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/17/107671497-0-image-m-13_1775407285352.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/17/107671497-0-image-m-13_1775407285352.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T17:27:04.559787",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hundreds of SEAL Team 6 commandos, fake CIA intel and a battle for survival atop 7,000-foot ridge: Inside the historic US mission to save F-15 airman in Iran",
+      "link": "https://www.dailymail.co.uk/news/article-15707893/us-airman-rescue-mission-iran-america-war-donald-trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T16:41:08",
+      "description": "A courageous US airman managed to make it out alive after going missing behind enemy lines in Iran after his F-15 fighter jet was shot down on Friday as the war escalates.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/15/107670239-0-image-m-9_1775399502558.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/15/107670239-0-image-m-9_1775399502558.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T17:27:04.559789",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Headteacher is seen for the first time since 'Joey Barton golf club attack'",
       "link": "https://www.dailymail.co.uk/news/article-15699495/Headteacher-seen-time-Joey-Barton-golf-club-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10792,79 +10873,23 @@
       "archived_at": "2026-04-02T10:57:06.996354",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Young police cadet, 17, dies after\u00a0her Chevrolet collided with tractor - as\u00a0teen's family release emotional tribute",
-      "link": "https://www.dailymail.co.uk/news/article-15700763/Teen-police-cadet-dies-car-accident-family-pay-tribute.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T10:48:14",
-      "description": "Mariella Rose died aged 17 after crashing into a tractor with her Chevrolet in East Yorkshire\u00a0on Everingham Road on Monday at 3.40pm. She was pronounced dead at the scene.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606643-0-image-m-16_1775125741212.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606643-0-image-m-16_1775125741212.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T10:57:06.996361",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "King Charles 'warned Keir Starmer against appointing Peter Mandelson as US ambassador' in latest humiliation for the PM",
-      "link": "https://www.dailymail.co.uk/news/article-15700721/King-Charles-warned-Keir-Starmer-against-appointing-Peter-Mandelson-US-ambassador-latest-humiliation-PM.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T10:44:27",
-      "description": "His Majesty is reported to have penned two notes raising his concerns about naming the controversial peer as the UK's top diplomat in Washington DC .",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607445-0-image-m-9_1775125680234.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607445-0-image-m-9_1775125680234.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T10:57:06.996362",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Widow, 81, who won \u00a34million Omaze Highland mansion sells property after slashing \u00a3800,000 from asking price",
-      "link": "https://www.dailymail.co.uk/news/article-15700829/Widow-81-won-4million-Omaze-Highland-mansion-sells-property-slashing-800-000-asking-price.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T10:44:08",
-      "description": "Patricia Moule, 81, from Southampton, scooped the dream home after entering the Omaze prize draw with a \u00a325 ticket.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606983-0-image-m-18_1775125485491.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107606983-0-image-m-18_1775125485491.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T10:57:06.996364",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Frankenstein' undertaker finally admits guilt over Britain's worst ever funeral home scandal: Director left 30 bodies to rot and gave families wrong ashes as he pocketed thousands in cremation fees",
-      "link": "https://www.dailymail.co.uk/news/article-14996041/Funeral-director-pleads-guilty-64-offences-stockpiling-bodies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T10:33:33",
-      "description": "Robert Bush, 47, left at least 30 bodies to rot for as long as 11 months at his parlour in Hull after charging their relatives thousands of pounds in the belief they would be cremated.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/99706407-0-image-m-19_1775125833287.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/99706407-0-image-m-19_1775125833287.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T10:57:06.996365",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Lib Dem council bans group from putting up St George's flags as leader accuses them of 'intimidating' residents",
-      "link": "https://www.dailymail.co.uk/news/article-15700383/lib-democrat-council-bans-group-St-Georges-flags-intimidating.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T10:29:02",
-      "description": "A Lib Democrat council has banned a group from putting up England flags, accusing it of using them to 'intimidate' people.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/101483955-0-image-m-11_1775124458144.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/101483955-0-image-m-11_1775124458144.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T10:57:06.996367",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Furious Leeds left stunned after unusual police intervention before FA Cup clash with West Ham",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15708099/leeds-west-ham-fa-cup-police.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T17:13:20",
+      "description": "Leeds were left furious after being told that should their FA Cup quarter-final against West Ham go to penalties, they would not be allowed to take the spot-kicks in front of their own fans.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/18/107671697-0-image-a-30_1775408501853.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/18/107671697-0-image-a-30_1775408501853.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T17:27:07.831261",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "FA Cup semi-final draw - plus West Ham vs Leeds LIVE: Final place alongside Chelsea, Man City and Southampton to be decided",
       "link": "https://www.dailymail.co.uk/sport/football/article-15701029/fa-cup-draw-west-ham-leeds-chelsea-man-city-southampton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
