@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Leeds draw Chelsea, Man City face Southampton in FA Cup semis",
+      "link": "https://www.bbc.com/sport/football/articles/c4g6j43yzy5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T18:58:53",
+      "description": "Leeds United will play Chelsea at Wembley after reaching the FA Cup semi-finals for the first time in almost four decades, while Manchester City take on Southampton.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee2/live/a57cfe30-3121-11f1-b5dc-b3661fbf84ea.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T19:31:38.817348",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Family 'utterly devastated' after boy, 13, killed in crash as two charged",
       "link": "https://www.bbc.com/news/articles/c8jkm74yvzjo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-05T18:11:36",
@@ -3929,6 +3940,48 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Sleepless neighbours tell of 'mayhem' misery caused by dozens of teenagers attending house parties",
+      "link": "https://www.dailymail.co.uk/news/article-15706471/Sleepless-neighbours-tell-mayhem-misery-caused-dozens-teenagers-attending-house-parties.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T19:18:22",
+      "description": "Residents living in and around Broomhill Road, in Bulwell, say they have experienced sleepless nights and intimidation during the Saturday night bashes.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657137-0-image-m-12_1775322850493.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/18/107657137-0-image-m-12_1775322850493.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T19:31:40.609509",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Botched GTA-style heist leaves luxury sports cars worth half a MILLION dollars smashed in the street as urgent hunt for raiders is launched",
+      "link": "https://www.dailymail.co.uk/news/article-15707985/luxury-sports-cars-heist-new-york-city-garage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T19:25:09",
+      "description": "Several pricey cars were left abandoned after a luxury car heist went wrong in New York City.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/20/107672655-0-image-m-75_1775416010018.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/20/107672655-0-image-m-75_1775416010018.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T19:31:40.609525",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman in her 20s is 'led down alleyway and raped' in seaside town sex attack: Teen, 18, is arrested after fleeing scene",
+      "link": "https://www.dailymail.co.uk/news/article-15708193/Woman-20s-led-alleyway-raped-seaside-town-sex-attack-Teen-18-arrested-fleeing-scene.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T19:15:38",
+      "description": "The victim was attacked in Lowestoft, Suffolk, in the early hours of this morning.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/19/107672505-0-image-m-7_1775412459248.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/19/107672505-0-image-m-7_1775412459248.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T19:31:40.609527",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "STEPHEN DAISLEY: Sorry, Mr Swinney, but you ARE the cost of living crisis",
       "link": "https://www.dailymail.co.uk/news/article-15708095/STEPHEN-DAISLEY-Sorry-Mr-Swinney-you-cost-living-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10886,51 +10939,51 @@
       "archived_at": "2026-04-02T11:47:04.860279",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Blind-folded Catholic devotees whip their bloodied backs in the Philippines as world marks Maundy Thursday",
-      "link": "https://www.dailymail.co.uk/news/article-15700871/Blind-folded-Catholic-devotees-whip-bloodied-backs-Philippines-world-marks-Maundy-Thursday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T11:00:04",
-      "description": "It comes as millions of Christians worldwide are marking the day commemorating the Last Supper of Jesus Christ.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607137-0-image-a-24_1775127043748.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/11/107607137-0-image-a-24_1775127043748.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T11:47:04.860284",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Family of schoolgirl, 16, who was stabbed to death in 'row over a boy' see three teenagers accused of murdering her for first time in court",
-      "link": "https://www.dailymail.co.uk/news/article-15701129/family-schoolgirl-stabbed-death-row-boy-teenagers-accused-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T11:42:10",
-      "description": "Grieving relatives of Chloe Watson filed into Leeds Crown Court today as three teenagers accused of stabbing her to death appeared over prison video-links.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/12/107552169-0-image-m-37_1775129090837.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/12/107552169-0-image-m-37_1775129090837.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T11:47:04.860291",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "NHS to overhaul staffing so it becomes less dependent on 'unreliable' striking doctors, chief executive says",
-      "link": "https://www.dailymail.co.uk/news/article-15700909/NHS-overhaul-staffing-dependent-unreliable-striking-doctors-chief-executive-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T11:35:44",
-      "description": "Sir Jim Mackey, head of NHS England, said the permanent shift will make greater use of other clinicians following a series of disruptive strikes by the medics.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/12/107561597-0-image-a-4_1775129553005.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/12/107561597-0-image-a-4_1775129553005.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T11:47:04.860293",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "FA Cup semi-final draw: Grudge match reignited at Wembley as Southampton take on heavyweights after Arsenal shock",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15708209/FA-Cup-semi-final-draw-Grudge-match-reignited-Wembley-Southampton-heavyweights-Arsenal-shock.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T19:18:53",
+      "description": "Leeds booked their spot in the last four with a dramatic penalty shootout win at West Ham on Sunday and their reward is a tie against an old foe.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/20/107673161-0-image-a-2_1775416499215.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/20/107673161-0-image-a-2_1775416499215.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T19:31:43.009343",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "West Ham 2-2 Leeds (pens 2-4): FA Cup classic breathes fresh life into London Stadium as spirited Hammers suffer penalty shootout agony - but fans are LOCKED OUT after giving up on Nuno Espirito Santo's team at 2-0 down!",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15701037/West-Ham-2-2-Leeds-FA-Cup-penalties.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T19:07:51",
+      "description": "JAMES SHARPE: To close your eyes, you would never have known that the final throes of this insane Cup tie was being played out in front of a sea of plastic seats.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/20/107673105-0-image-a-28_1775415993680.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/20/107673105-0-image-a-28_1775415993680.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T19:31:43.009350",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Livingston 2-2 Hearts: Title hunters waste big opportunity in the Lions' den as woeful away form continues",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15708065/Livingston-2-2-Hearts-Title-hunters-waste-big-opportunity-Lions-den-woeful-away-form-continues.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T19:04:41",
+      "description": "Having spent the vast majority of this season playing 'The Hunted', the question on everyone's lips ahead of Hearts' trip to Livingston was how Derek McInnes' men would fare doing the hunting.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/20/107673099-0-image-a-11_1775415877638.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/20/107673099-0-image-a-11_1775415877638.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T19:31:43.009352",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Hearts boss Derek McInnes hits out at\u00a0his team's 'inexplicable' defending after title setback",
       "link": "https://www.dailymail.co.uk/sport/football/article-15708189/Hearts-boss-Derek-McInnes-hits-teams-inexplicable-defending-title-setback.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -15749,6 +15802,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Zara Larsson eyes double chart success on Easter Weekend",
+      "link": "https://www.music-news.com/news/UK/188168/Zara-Larsson-eyes-double-chart-success-on-Easter-Weekend",
+      "pubDate": "2026-04-05T17:55:00",
+      "description": "The UK singles chart is heating up just in time for the holiday break, with Swedish pop sensation Zara Larsson leading the charge for a major festive windfall.",
+      "thumbnail": "https://www.music-news.com/images/news/Zara-Larsson3.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Zara-Larsson3.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T19:31:47.690084",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "\"It just burst everywhere\": Niall Horan recalls Beef Wellington disaster",
       "link": "https://www.music-news.com/news/UK/188058/It-just-burst-everywhere-Niall-Horan-recalls-Beef-Wellington-disaster",
