@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Do cats like being taken for walks or is it an Instagram fad?",
+      "link": "https://www.bbc.com/news/articles/cn8j3y2mr91o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T06:07:40",
+      "description": "Owners say they train their cats to walk on a lead because letting them outside alone is dangerous.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ea/live/482ee9e0-305a-11f1-b297-89123f741b3d.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T14:32:42.279719",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
       "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-05T12:35:36",
@@ -3808,6 +3819,34 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Explosive tradie supplier email 'they didn't want you to see' exposes crushing price hike on the way for Aussies in the wake of fuel crisis",
+      "link": "https://www.dailymail.co.uk/news/article-15707335/australia-building-cost-hike-prices-albanese.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T14:23:19",
+      "description": "A major pillar of the Australian economy is facing another sharp cost surge, driven by the escalating conflict in the Middle East.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/15/107669819-0-image-m-141_1775398926486.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/15/107669819-0-image-m-141_1775398926486.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T14:32:43.672976",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "History's most daring rescues behind enemy lines: After US swoop to save airman in Iran how it compares to thrilling raids from over the decades",
+      "link": "https://www.dailymail.co.uk/news/article-15707581/Historys-daring-rescues-US-save-airman-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T14:12:59",
+      "description": "President Donald Trump hailed the special forces mission to rescue an airman trapped in Iran as 'one of the most daring Search and Rescue Operations in U.S. History'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/15/107668657-0-image-a-7_1775397852135.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/15/107668657-0-image-a-7_1775397852135.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T14:32:43.672982",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Shocking discovery of secret China-linked biolabs housing vials of COVID, HIV and Ebola\u2026 amid fears America is a 'sitting duck' for bioterrorism",
       "link": "https://www.dailymail.co.uk/news/article-15678197/Secret-Chinese-biolab-California-Las-Vegas-bioterrorism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10777,34 +10816,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-02T07:46:35.693193",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump 'threatened to stop supplying weapons for Ukraine unless Europe joined coalition to reopen Strait of Hormuz'",
-      "link": "https://www.dailymail.co.uk/news/article-15700445/Trump-threatened-stop-supplying-weapons-Ukraine-unless-Europe-joined-coalition-reopen-Strait-Hormuz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T07:37:57",
-      "description": "Ever since the war began, the Islamic Republic has enforced the de facto closure of the vital waterway through which a fifth of the world's daily oil and liquefied natural gas (LNG) supply passes.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/08/107603155-0-image-a-6_1775114279673.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/08/107603155-0-image-a-6_1775114279673.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T07:46:35.693195",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "BBC sacked Scott Mills after learning alleged victim in police sex offence probe was a child under 16",
-      "link": "https://www.dailymail.co.uk/news/article-15700431/BBC-sacked-Scott-Mills-learning-alleged-victim-police-sex-offence-probe-child-16.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T07:35:54",
-      "description": "The corporation's current bosses only learned that the alleged victim had been under 16 in 'recent weeks'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/07/107589553-0-image-m-36_1775110870687.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/07/107589553-0-image-m-36_1775110870687.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T07:46:35.693196",
       "feed_category": "News",
       "feed_visibility": "both"
     }
