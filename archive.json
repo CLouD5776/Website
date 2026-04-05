@@ -1,6 +1,61 @@
 {
   "BBC News": [
     {
+      "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
+      "link": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T21:30:19",
+      "description": "The BBC's Orla Guerin travels to the edge of the critical waterway that Iran has put a stranglehold on.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c34/live/1a05ce70-3132-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T21:41:11.857632",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Why did US and Israel attack Iran and how long could the war last?",
+      "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T21:25:48",
+      "description": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddd/live/33c15b00-25c9-11f1-9659-a9a8987c78b0.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T21:41:11.857638",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Artemis II astronauts have toilet trouble on their way towards the Moon",
+      "link": "https://www.bbc.com/news/articles/c87wy05wr4no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T18:35:24",
+      "description": "The four astronauts aboard the Artemis II mission's Orion capsule have encountered intermittent complications with their spacecraft's toilet.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1364/live/76cc98f0-310a-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T21:41:11.857640",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Dubois outpoints bloodied Harper to unify titles",
+      "link": "https://www.bbc.com/sport/boxing/articles/crl15n14668o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T21:34:40",
+      "description": "Caroline Dubois floored a bloodied Terri Harper before outpointing her British rival to become the unified lightweight world champion in London.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "enclosure": null,
+      "archived_at": "2026-04-05T21:41:11.857643",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Was 11 minutes of stoppage time at West Ham excessive?",
+      "link": "https://www.bbc.com/sport/football/articles/cvge47evx0no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-05T21:16:05",
+      "description": "There were 11 minutes of stoppage time at the end of the second half of West Ham's FA Cup quarter-final against Leeds - but was that an excessive or an explainable amount of added time?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/828f/live/ebd66d20-3127-11f1-92ba-d7f1365cb894.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-05T21:41:11.857644",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "How rescue of US airman in remote part of Iran unfolded",
       "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-05T20:00:20",
@@ -3995,6 +4050,48 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Woman who was targeted by vile 'spitting influencer' while shopping in Penneys reveals how the Only Fans reject fled when confronted for calling her the 'N' word - but what the cowardly racist did next is sickening",
+      "link": "https://www.dailymail.co.uk/news/article-15706597/Woman-targeted-vile-spitting-influencer-shopping-Penneys-reveals-Fans-reject-fled-confronted-calling-N-word-cowardly-racist-did-sickening.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T21:23:38",
+      "description": "The civil law graduate, who is in her early 20s, is part of a growing trend where vile agitators attempt to make money from being openly hateful towards people they consider different.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/04/19/107658743-0-image-m-107_1775328270426.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/04/19/107658743-0-image-m-107_1775328270426.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T21:41:13.051448",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Red Ed faces backbench revolt over ban on North Sea oil and gas drilling - as growing number of Labour MPs demand he ditch Net Zero agenda to tackle cost of living and lower bills",
+      "link": "https://www.dailymail.co.uk/news/article-15708373/Red-Ed-Miliband-backbench-revolt-ban-North-Sea-oil-gas-drilling-Net-Zero.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T21:19:59",
+      "description": "A growing number of Labour MPs are calling on the Energy Secretary to soften his Net Zero agenda to tackle the cost of living and bring down bills.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/22/107674123-0-image-m-43_1775423598304.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/22/107674123-0-image-m-43_1775423598304.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T21:41:13.051453",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mother of Nottingham stabbing victim Barnaby Webber accuses inquiry witnesses of being 'arrogant, evasive and deflective'",
+      "link": "https://www.dailymail.co.uk/news/article-15703817/Mother-Nottingham-stabbing-victim-Barnaby-Webber-accuses-inquiry-witnesses-arrogant-evasive-deflective.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T21:12:08",
+      "description": "Emma Webber, whose eldest son Barney was killed in a stabbing rampage in 2023, said several witnesses at the inquiry into the atrocity were arrogant and evasive when giving evidence.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639149-0-image-a-7_1775226223934.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/15/107639149-0-image-a-7_1775226223934.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T21:41:13.051455",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Donald Trump emerges from White House for first time since incredible rescue mission to save downed airman",
       "link": "https://www.dailymail.co.uk/news/article-15708271/Donald-Trump-White-House-Golf-Easter-Iran-Airman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -10952,51 +11049,37 @@
       "archived_at": "2026-04-02T13:05:15.492198",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Terrorist who plotted to blow up an army base and was about to be released facing new parole hearing after review",
-      "link": "https://www.dailymail.co.uk/news/article-15701281/Terrorist-plotted-blow-army-base-released-new-parole-hearing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T12:52:39",
-      "description": "Zahid Iqbal was a member of a terrorist gang who plotted an attack at a Territorial Army centre in Luton where a remote-controlled toy car would be used to carry a homemade bomb.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/106288055-0-image-m-29_1775133454043.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/106288055-0-image-m-29_1775133454043.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T13:05:15.492200",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment distraught NYC mother realized her baby had been shot dead by gunman who fled on scooter",
-      "link": "https://www.dailymail.co.uk/news/article-15701123/NYC-shooting-bodega-baby-Kaori-Charles-Moore-moped-gunman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T12:51:59",
-      "description": "The tragedy unfolded in a bodega in East Williamsburg, Brooklyn on Wednesday, where young mother Lianna Charles-Moore",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609671-0-image-m-23_1775133237768.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107609671-0-image-m-23_1775133237768.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T13:05:15.492202",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Rude awakening! Police arrest burglary suspect who broke into family home and fell asleep in child's bed",
-      "link": "https://www.dailymail.co.uk/news/article-15700943/Rude-awakening-Police-arrest-burglary-suspect-broke-family-home-fell-asleep-childs-bed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T12:49:37",
-      "description": "Nottinghamshire Police said officers were called to a house in the market town of Newark in response to reports it was being burgled in the early hours of April 1.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/13/107611519-0-image-a-6_1775133513255.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/13/107611519-0-image-a-6_1775133513255.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-02T13:05:15.492203",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Man City CONFIRM captain Bernardo Silva is leaving this summer on a free transfer - after admitting he and his wife preferred the food and weather away from England",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15707921/man-city-bernardo-silva-transfer-wife.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T21:36:25",
+      "description": "Pep Lijnders has confirmed that Bernardo Silva will leave Manchester City this summer and hopes the captain is afforded a deserving farewell.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/15/107669837-0-image-a-9_1775398045299.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/15/107669837-0-image-a-9_1775398045299.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T21:41:16.371628",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Robin van Persie hit with brutal three-word chant from furious Feyenoord fans as pressure builds on Man United legend after Raheem Sterling & Co struggle to 0-0 draw with relegation strugglers",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15708165/robin-van-persie-feyenoord-chants.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-05T21:33:05",
+      "description": "Performances have been underwhelming under Robin van Persie and Sunday's effort against Volderdam, who are 14th, sparked fury in the stands.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/22/107674259-0-image-a-19_1775424405663.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/05/22/107674259-0-image-a-19_1775424405663.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-05T21:41:16.371634",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Dundee 1-2 Celtic: Martin O'Neill's men breathe new life into their title defence",
       "link": "https://www.dailymail.co.uk/sport/football/article-15708219/Dundee-1-2-Celtic-Martin-ONeills-men-breathe-new-life-title-defence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
