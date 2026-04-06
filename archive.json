@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Pressure mounts over UK festival's Kanye West booking",
+      "link": "https://www.bbc.com/news/articles/cwywnkdn3zno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T11:10:02",
+      "description": "Jewish groups and MPs call on the London festival to cancel the controversial rapper's headline booking.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b3/live/286983f0-31a3-11f1-b238-cf10fe15ebcf.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T12:04:47.864837",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Airport seeking public's help to reunite parrot with owner",
+      "link": "https://www.bbc.com/news/articles/c0q97p281lgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T11:07:59",
+      "description": "The bird was found by airport police near terminal one after being spotted perched on a rubbish bin.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecef/live/1c259a60-31a4-11f1-b238-cf10fe15ebcf.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T12:04:47.864849",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I Am Maximus & Nick Rockett head Grand National confirmations",
+      "link": "https://www.bbc.com/sport/horse-racing/articles/cwywnkgxv4xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T11:45:20",
+      "description": "The past two winners of the Grand National - I Am Maximus and Nick Rockett - head the five-day confirmations for Saturday's race at Aintree.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3afd/live/4ba4c780-319e-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T12:04:47.864852",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
       "link": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-06T10:16:36",
@@ -4336,6 +4369,62 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Clarifications and corrections",
+      "link": "https://www.dailymail.co.uk/home/article-15067765/Clarifications-corrections.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2025-11-01T00:19:30",
+      "description": "To report an inaccuracy, please email corrections@mailonline.co.uk. To make a formal complaint under IPSO rules please go to www.dailymail.co.uk/readerseditor where you will...",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2025/02/12/13/95132203-0-image-m-34_1739368658525.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2025/02/12/13/95132203-0-image-m-34_1739368658525.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T12:04:49.232963",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "British career gangster Sam Walker 'is arrested by undercover cops in Vietnam' as he shares clip of moment he's put into back of police van to his TikTok followers",
+      "link": "https://www.dailymail.co.uk/news/article-15709403/Notorious-gangster-turned-content-creator-arrested-undercover-police-Vietnam.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T12:02:33",
+      "description": "Sam Walker, who previously chronicled himself hitching a ride to West Africa after skipping bail over drugs offences, filmed officers apparently following him in the capital Hanoi.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/11/107681231-0-image-m-16_1775472219461.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/11/107681231-0-image-m-16_1775472219461.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T12:04:49.232968",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "JD Vance leads desperate all night scramble for Iran peace deal as Trump sets deadline and warns: 'I'll blow up everything'",
+      "link": "https://www.dailymail.co.uk/news/article-15709513/JD-Vance-leads-desperate-night-scramble-Iran-peace-deal-Trump-sets-deadline-warns-Ill-blow-everything.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T12:00:52",
+      "description": "JD Vance led a frantic last-minute push Sunday night to secure a peace deal with Iranian leaders after Donald Trump threatened to rain 'hell' down on Tehran ahead of his looming deadline.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/12/107613961-0-image-a-5_1775476158212.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/12/107613961-0-image-a-5_1775476158212.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T12:04:49.232970",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aussie teenager embarks on Guinness world record solo flight - and the heartwarming reason behind her journey",
+      "link": "https://www.dailymail.co.uk/news/article-15709283/Rose-Donald-Australia-pilot-world-record.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T11:41:18",
+      "description": "Melbourne teenager Rose Donald will attempt to break the distance record as the youngest female to fly a small aircraft solo.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/12/107682803-0-image-m-63_1775475128870.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/12/107682803-0-image-m-63_1775475128870.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T12:04:49.232973",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Riot breaks out in\u00a0rural village as police try to shut down\u00a0all night illegal rave, leaving one officer injured",
       "link": "https://www.dailymail.co.uk/news/article-15709097/Riot-police-pelted-missiles-officer-attacked-revellers-break-night-illegal-rave-rural-village-10-people-arrested.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -11279,65 +11368,23 @@
       "archived_at": "2026-04-03T06:10:35.871060",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "MAGA congressman says Americans would become 'unglued' over alien briefings: 'You'd be up at night worrying'",
-      "link": "https://www.dailymail.co.uk/news/article-15702199/congressman-alien-worries-america-briefing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T05:56:08",
-      "description": "Tennessee Rep. Tim Burchett, a Republican, said the country deserved 'full disclosure' following a recent classified briefing about extraterrestrial life two weeks ago.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/06/107629647-0-image-m-106_1775193912302.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/06/107629647-0-image-m-106_1775193912302.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871063",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "D-day for Australia's highest earning real estate agent Josh Tesolin as he cops 10-year ban from the industry",
-      "link": "https://www.dailymail.co.uk/news/article-15703219/Josh-Tesolin-real-estate-agent-10-year-ban.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T05:08:25",
-      "description": "Australia's leading real estate agent has been hit with a massive ban following findings of misconduct.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/05/107629451-0-image-m-64_1775190704049.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/05/107629451-0-image-m-64_1775190704049.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871064",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Glamorous Massachusetts cop plans to turn tables on fellow officers who shot her after being acquitted in scandalous trial",
-      "link": "https://www.dailymail.co.uk/news/article-15703167/massachusetts-cop-shot-acquitted-trial-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T05:06:26",
-      "description": "Kelsey Fitzsimmons, 29, announced her plans to sue after being found not guilty last week of pulling a gun on her North Andover Police Department colleagues during the fracas.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/05/107629403-0-image-m-110_1775189846006.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/05/107629403-0-image-m-110_1775189846006.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871065",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump puts more Cabinet members on chopping block as Pete Hegseth axes two additional Army officers",
-      "link": "https://www.dailymail.co.uk/news/article-15703041/Trump-Hegseth-cabinet-firings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T04:32:12",
-      "description": "Donald Trump was considering firing additional members of his Cabinet on Thursday night, following the ouster of Attorney General Pam Bondi, a report said.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/02/107624837-0-image-a-17_1775179124157.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/02/107624837-0-image-a-17_1775179124157.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T04:41:24.910001",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Barcelona boss Hansi Flick hails Marcus Rashford after Man United star bagged ANOTHER goal in win over Atletico Madrid - with LaLiga giants set for crunch talks with Old Trafford chiefs over his future",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15709375/Barcelona-boss-Hansi-Flick-Marcus-Rashford-Man-United-Atletico-Madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T12:02:52",
+      "description": "Rashford impressed at the Wanda Metropolitano on Saturday night, scoring an equaliser before Robert Lewandowski went on to send Barcelona seven points clear at the top of LaLiga.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/13/107683955-0-image-a-4_1775476875732.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/13/107683955-0-image-a-4_1775476875732.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T12:04:50.471548",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Arne Slot is deep in sacking territory and that is why I had to be blunt with him in our post-match exchange after Man City hammering - and the startling word he used that epitomises Liverpool's decline - IAN LADYMAN'S FA CUP WEEKEND",
       "link": "https://www.dailymail.co.uk/sport/football/article-15709029/Arne-Slot-deep-sacking-territory-blunt-post-match-exchange-Man-City-hammering-startling-word-used-epitomises-Liverpools-decline-IAN-LADYMANS-FA-CUP-WEEKEND.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -16427,6 +16474,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Wireless Festival hit by second sponsor exit as Diageo and Pepsi pull support over Kanye West booking",
+      "link": "https://www.music-news.com/news/UK/188181/Wireless-Festival-hit-by-second-sponsor-exit-as-Diageo-and-Pepsi-pull-support-over-Kanye-West-booking",
+      "pubDate": "2026-04-06T10:30:00",
+      "description": "Wireless Festival has lost two major sponsors after backlash over Kanye West being booked to headline all three nights of the 2026 event.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188181.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188181.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T12:04:54.182971",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "NASA astronauts left laughing after Chappell Roan cut short during lunar wake-up call",
       "link": "https://www.music-news.com/news/UK/188182/NASA-astronauts-left-laughing-after-Chappell-Roan-cut-short-during-lunar-wake-up-call",
