@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Warmest weather of the year expected with 24C this week",
+      "link": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T15:38:21",
+      "description": "The warmest weather of the year is expected on Tuesday and Wednesday as temperatures rise above average, as Simon King explains",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ef/live/1ac9d8c0-3195-11f1-91c1-ed120fec5b47.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T16:42:28.245283",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
+      "link": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T15:40:35",
+      "description": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6356/live/45cb9240-31ca-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T16:42:28.245288",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Hundreds take part in Easter coal-carrying race",
       "link": "https://www.bbc.com/news/articles/crl1590w7w8o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-06T15:10:23",
@@ -4435,6 +4457,146 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Katie Price's husband's latest 'lies': Lee Andrews claimed Forbes AI-ed his image for front cover, said he knows 'most elite people on planet' including Tony Blair, boasted of speaking EVERY language and said his dad was dying",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15709215/Katie-Prices-husbands-latest-lies-Lee-Andrews-claimed-Forbes-AI-ed-image-cover-said-knows-elite-people-planet-including-Tony-Blair-boasted-speaking-language-said-dad-dying.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T16:22:05",
+      "description": "Katie Price's husband Lee Andrews's latest slew of alleged lies have been unveiled in messages exposed by his ex-fianc\u00e9e\u00a0Alana Percival.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/12/107683677-0-image-m-28_1775475011622.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/12/107683677-0-image-m-28_1775475011622.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:31.495036",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ronan Keating breaks down in tears sharing biggest regret about his brother's death, sobbing 'I grew up quickly and made a lot of sacrifices'",
+      "link": "https://www.dailymail.co.uk/tv/article-15709727/ronan-keating-tears-brothers-death-ciaran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T16:06:52",
+      "description": "Boyzone and The One Show star Ronan, 49, is fronting a BBC show titled Ronan Keating's Wild Atlantic Way.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/15/107686463-0-image-a-4_1775484854081.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/15/107686463-0-image-a-4_1775484854081.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:31.495042",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I once tipped the scales at 18 stone and was so fat I needed to use a wheelchair. Then I tried this unfashionable retro diet, and am wearing a size 10 for the first time in 20 years",
+      "link": "https://www.dailymail.co.uk/health/article-15703665/I-tipped-scales-18-stone-fat-needed-use-wheelchair-tried-unfashionable-retro-diet-wearing-size-10-time-20-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T11:49:06",
+      "description": "With a growing list of pressures - three children to look after, her own health problems, and then her husband's cancer scare - Gillian Thomas found her weight creeping up.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/12/107683711-0-image-a-9_1775475332976.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/12/107683711-0-image-a-9_1775475332976.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:31.495048",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Inside Lorna Luxe's new home: Influencer, 43, gives followers another glimpse of her breathtaking new \u00a32m 'invisible' property with a special link to late husband John, 64",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15709291/Inside-Lorna-Luxes-new-home-Influencer-43-gives-followers-glimpse-breathtaking-new-2m-invisible-property-special-link-late-husband-John-64.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T11:37:18",
+      "description": "Lorna Luxe has given her followers another glimpse into her new \u00a32m rental home after she was forced to leave her last home unexpectedly.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/12/107683539-0-image-a-13_1775474561904.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/12/107683539-0-image-a-13_1775474561904.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:31.495050",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chinese University of Michigan researcher DIES after 'hostile questioning by feds'",
+      "link": "https://www.dailymail.co.uk/news/article-15709831/Chinese-University-researcher-DIES-questioning-feds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T16:26:02",
+      "description": "Danhao Wang, an assistant research scientist in the schools College of Engineering, died on March 20 inside the university after falling to his death.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/16/107688311-0-image-m-41_1775490083970.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/16/107688311-0-image-m-41_1775490083970.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:31.495057",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "More firms withdraw sponsorship for Wireless Festival over Kanye West booking after MPs urged Starmer to ban rapper from UK over anti-Semitic comments",
+      "link": "https://www.dailymail.co.uk/news/article-15709971/firms-sponsorship-Wireless-Festival-Kanye-West-Starmer-rapper-anti-Semitic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T16:25:20",
+      "description": "PayPal confirmed on Monday it was pulling its branding from all promotional material used for the event after the move to have West, also known as Ye, headline was widely criticised.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/16/107689425-0-image-m-15_1775490045048.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/16/107689425-0-image-m-15_1775490045048.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:31.495058",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump takes another swipe at Keir Starmer's lack of support for his war in Iran, saying 'we don't want another Neville Chamberlain'",
+      "link": "https://www.dailymail.co.uk/news/article-15710085/Trump-takes-swipe-Keir-Starmers-lack-support-war-Iran-saying-dont-want-Neville-Chamberlain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T16:23:54",
+      "description": "Asked by a reporter whether he had spoken to Sir Keir and if the UK could 'resurrect like Jesus this Easter weekend', Trump replied, 'Well, that's what they need.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/16/107689825-0-image-m-26_1775490869740.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/16/107689825-0-image-m-26_1775490869740.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:31.495059",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Distraught elderly cancer survivor, 71, is forced to live in NYC apartment filled with RATS",
+      "link": "https://www.dailymail.co.uk/news/article-15709539/elderly-cancer-survivor-NYC-apartment-RATS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T16:17:03",
+      "description": "Cora Robinson, 71, is losing sleep as she defends her home from a rat infestation for almost a year.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/17/107689907-0-image-m-31_1775491399028.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/17/107689907-0-image-m-31_1775491399028.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:31.495060",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Glasgow becomes fat jab capital of the UK - where 1 in 3 dieters are on Mounjaro or Ozempic",
+      "link": "https://www.dailymail.co.uk/news/article-15709529/Glasgow-fat-jab-capital-UK-mounjaro-Ozempic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T16:07:17",
+      "description": "Glasgow has become the fat jab capital of the UK, where as many as one in three adults trying to lose weight are using them.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690215-0-image-a-4_1775491279544.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690215-0-image-a-4_1775491279544.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:31.495061",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Waitrose faces mounting backlash after sacking worker for tackling Easter egg thief as supermarket insists there is a 'serious danger to life' in confronting shoplifters",
+      "link": "https://www.dailymail.co.uk/news/article-15709879/Waitrose-backlash-sacked-worker-tackling-thief.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T16:03:50",
+      "description": "Walker Smith, who worked at the Clapham Junction branch for 17 years,\u00a0claimed he was fired by the retailer two days after he confronted the 'repeat offender' shoplifter.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/16/107672333-0-image-m-16_1775490449411.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/16/107672333-0-image-m-16_1775490449411.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:31.495063",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Read sickening sex texts allegedly sent by disgraced Texas congressman to ANOTHER staffer... years before aide he had affair with killed herself",
       "link": "https://www.dailymail.co.uk/news/article-15709575/congressman-Tony-Gonzales-texts-second-aide-affair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -11294,149 +11456,51 @@
       "archived_at": "2026-04-03T10:39:39.719051",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Outrage at Britain's most expensive cycle lane costing taxpayers \u00a34,198 per METRE - that locals say nobody will use",
-      "link": "https://www.dailymail.co.uk/news/article-15703519/Britains-expensive-cycle-lane-taxpayers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T09:46:54",
-      "description": "The strip of blue tarmac in the non-'cycling town' of Willenhall, West Midlands, stretches for less than a mile, and is costing \u00a35,037,792 - or \u00a34,198 per metre.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633249-0-image-m-14_1775208586444.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633249-0-image-m-14_1775208586444.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T09:50:11.210688",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Britain rejects Iran's bid to set up a 'toll booth' in the Strait of Hormuz as Tehran continues to 'hold the world economy hostage' with closure of key shipping lane",
-      "link": "https://www.dailymail.co.uk/news/article-15703523/Britain-rejects-Irans-bid-set-toll-booth-Strait-Hormuz-Tehran-continues-hold-world-economy-hostage-closure-key-shipping-lane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T09:44:51",
-      "description": "Iran has effectively shut down the key shipping lane in the Gulf in retaliation for US and Israeli attacks that began at the end of February.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632957-0-image-a-4_1775209279543.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632957-0-image-a-4_1775209279543.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T09:50:11.210694",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "How 'Frankenstein' undertaker's trip to the US helped expose Britain's worst ever funeral home scandal - as he faces prison for letting 30 bodies rot and pocketing cremation fees",
-      "link": "https://www.dailymail.co.uk/news/article-15703513/How-Frankenstein-undertakers-trip-US-helped-unveil-Britains-worst-funeral-home-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T09:43:59",
-      "description": "Robert Bush, 48, is facing prison after he yesterday admitted preventing the burials of 30 people at Legacy Independent Funeral Directors in Hull.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/99706407-0-image-m-6_1775206117198.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/99706407-0-image-m-6_1775206117198.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T09:50:11.210696",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump's mockery of Starmer shows PM 'isn't respected on the world stage', says Reform's Jenrick after President's belittling impersonation",
-      "link": "https://www.dailymail.co.uk/news/article-15703701/Trumps-mockery-Starmer-shows-PM-isnt-respected-world-stage-says-Reforms-Jenrick-Presidents-belittling-impersonation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T09:39:56",
-      "description": "At a White House lunch on Wednesday, the US President put on a weak-sounding voice as he mimicked Keir Starmer saying he couldn't send UK forces to the Middle East.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107618363-0-image-m-13_1775207101893.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107618363-0-image-m-13_1775207101893.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T09:50:11.210698",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scott Mills bridge plaque is removed from M3 service station after star was sacked by BBC",
-      "link": "https://www.dailymail.co.uk/news/article-15703547/Scott-Mills-bridge-plaque-removed-star-sacked-BBC.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T09:37:48",
-      "description": "The plaque for the 'Scott Mills Bridge' was put up at Fleet services on the M3 on March 16, 2016, following a light-hearted campaign on his then-Radio 1 show to get the bridge named after him.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/107621171-0-image-a-8_1775205355463.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/107621171-0-image-a-8_1775205355463.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T09:50:11.210700",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Outrage over Albo's glaring omission in Easter message to Aussies: 'Just a letter to the people you hate'",
-      "link": "https://www.dailymail.co.uk/news/article-15703555/Albo-easter-message-fuel-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T09:34:23",
-      "description": "The Prime Minister focused on family and faith while reflecting on the significance of the crucifixion and resurrection of Jesus Christ.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107631855-0-image-m-45_1775207437041.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107631855-0-image-m-45_1775207437041.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T09:50:11.210701",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Horrified woman 'trapped' in her Travelodge room while a naked man banged on her door and performed 'vile sex acts' in the corridor",
-      "link": "https://www.dailymail.co.uk/news/article-15703607/woman-trapped-Travelodge-room-naked-man-banged-door.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T09:33:40",
-      "description": "Wendy Griffith was staying at the chain's London Stratford branch in July 2025 when she witnessed the 'vile' spectacle through the door's peephole.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632543-0-image-m-25_1775208681478.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632543-0-image-m-25_1775208681478.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T09:50:11.210702",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Residents claim they're being 'suffocated' after scaffolding is left surrounding their \u00a312million block of flats for four years",
-      "link": "https://www.dailymail.co.uk/news/article-15703565/Residents-suffocated-scaffolding-left-surrounding-flats-four-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T09:33:35",
-      "description": "Contractors began work to remove combustible cladding from Kingsgate House on King's Road in Chelsea, west London, in 2022, when the scaffolding was put up.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632515-0-image-a-4_1775205233281.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632515-0-image-a-4_1775205233281.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T09:50:11.210703",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Revealed: The Brit flight attendant who posted an airport drone attack photo and the London tourist who pictured an airstrike both now facing up to two years in UAE jail for 'cyber crimes'",
-      "link": "https://www.dailymail.co.uk/news/article-15703649/brit-flight-attendant-drone-attack-photo-UAE-jail-cyber-crimes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T09:23:28",
-      "description": "At least three Britons are in prison facing serious charges in the UAE for 'cyber crimes' relating to photographing, filming or sharing drone or missile strikes, the Daily Mail has learned.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632821-0-image-m-38_1775208180405.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107632821-0-image-m-38_1775208180405.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T09:50:11.210704",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Four-hour passport queues are a punishment for Brexit from the EU, Ryanair boss claims",
-      "link": "https://www.dailymail.co.uk/news/article-15703463/Four-hour-passport-queues-Brexit-EU-Ryanair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T08:42:10",
-      "description": "Chief executive Michael O'Leary claimed the bloc was 'undoubtedly' forcing Britons to endure longer waits at airports as a 'f*** you' for leaving the EU in 2020.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632441-0-image-a-8_1775204965904.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/09/107632441-0-image-a-8_1775204965904.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T08:49:03.394618",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "How Trent Alexander-Arnold put his Real Madrid blues behind him - the extra work he's done behind the scenes, the team-mate who's taking his game to new heights and why he's sorely missed at Liverpool",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15709587/trent-alexander-arnold-real-madrid-liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T16:06:11",
+      "description": "After a difficult first few months in Madrid, Alexander-Arnold is finally living up to his sky-high reputation.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/14/107685429-0-image-a-25_1775482277097.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/14/107685429-0-image-a-25_1775482277097.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:32.745103",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "EFL side become the first to secure promotion to return them to the Championship after 65 years away",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15710071/Lincoln-City-EFL-secure-promotion-Championship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T16:33:14",
+      "description": "Lincoln City secured promotion to the Sky Bet Championship for the first time in 65 years with a dramatic 2-1 victory at Reading, extending their unbeaten run to 24 matches.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690569-0-image-a-24_1775492338355.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690569-0-image-a-24_1775492338355.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:32.745110",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "OLIVER HOLT: Should Liverpool sack Arne Slot? Don't make me laugh - here's what's been so easily forgotten about the miracle he achieved",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15709127/Liverpool-sack-Arne-Slot-miracle-Oliver-Holt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T16:00:46",
+      "description": "OLIVER HOLT: Sure, Liverpool may be struggling this season but they are still way ahead of the curve when it comes to their recovery from Klopp's exit. And Slot's way ahead of the curve, too.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/09/107680525-0-image-a-8_1775464401680.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/09/107680525-0-image-a-8_1775464401680.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T16:42:32.745112",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Arsenal mocked for bizarre training drills - including team huddles and PENS - as Mikel Arteta searches for spark after back-to-back defeats",
       "link": "https://www.dailymail.co.uk/sport/football/article-15709823/Arsenal-mocked-bizarre-training-drills-Mikel-Arteta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
