@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Wireless Festival boss defends Kanye West appearance",
+      "link": "https://www.bbc.com/news/articles/cwyvr08l7lzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T20:30:59",
+      "description": "Its managing director calls the rapper's past comments \"abhorrent\" but asks people to \"offer some forgiveness\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0b3/live/286983f0-31a3-11f1-b238-cf10fe15ebcf.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T20:34:46.429030",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
       "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-06T18:55:45",
@@ -4534,6 +4545,76 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Personal trainer, 43, left 'fuming' after council fine him \u00a3600 for 'fly-tipping' envelope 'littered by homeless people who rummaged through waste bins'",
+      "link": "https://www.dailymail.co.uk/news/article-15691835/Personal-trainer-fuming-council-fine-fly-tipping-envelope.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T20:32:34",
+      "description": "Personal trainer Robb McGeary, 43, thought he was doing the responsible thing when he threw an envelope in the bin outside his apartment complex in Ealing, west London.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/16/107525149-0-image-a-58_1774882874490.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/30/16/107525149-0-image-a-58_1774882874490.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T20:34:48.768613",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Wireless Festival boss asks public to forgive Kanye West as he defends booking 'anti-semitic' rapper amid growing backlash",
+      "link": "https://www.dailymail.co.uk/news/article-15710729/Festival-boss-asks-public-forgive-Kanye-West-defends-booking-anti-semitic-rapper-Wireless-amid-growing-backlash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T20:31:53",
+      "description": "The boss of Wireless Festival has asked the public to 'forgive' Kanye West\u00a0as he defended booking the disgraced rapper as a headliner.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693959-0-image-m-13_1775505341682.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693959-0-image-m-13_1775505341682.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T20:34:48.768619",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Donald Trump calls out Australia for not joining the fight against Iran: 'You know who else didn't help us?'",
+      "link": "https://www.dailymail.co.uk/news/article-15710765/Donald-Trump-Australia-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T20:31:09",
+      "description": "US President Donald Trump has once again lashed Australia for not helping join their war against Iran.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/21/107693275-0-image-a-1_1775506080989.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/21/107693275-0-image-a-1_1775506080989.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T20:34:48.768621",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Savannah Guthrie is taunted by another cruel ransom note claiming mom Nancy is alive in Mexico",
+      "link": "https://www.dailymail.co.uk/news/article-15710811/Savannah-Guthrie-taunted-cruel-ransom-note-writers-claim-mom-Nancys-kidnappers-Mexico.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T20:27:36",
+      "description": "The presenter took leave from her job after her mother, Nancy, disappeared from her Arizona home without a trace on February 1. Nancy Guthrie's location is still not known.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/21/107694257-0-image-m-9_1775506740851.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/21/107694257-0-image-m-9_1775506740851.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T20:34:48.768622",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "A humble Edinburgh bungalow, which the owners HATED at first, hopes to be crowned the Scottish Home of the Year",
+      "link": "https://www.dailymail.co.uk/news/article-15710335/A-humble-Edinburgh-bungalow-owners-HATED-hopes-crowned-Scottish-Home-Year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T20:01:46",
+      "description": "At first glance, it is little more than a humble bungalow similar to many others seen up and down the country.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691495-0-image-m-19_1775495846518.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691495-0-image-m-19_1775495846518.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T20:34:48.768624",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Villagers' fury after travellers with bulldozers and diggers tear up green belt field in Easter bank holiday land grab",
       "link": "https://www.dailymail.co.uk/news/article-15710399/Villagers-fury-travellers-bulldozers-tear-green-belt-field.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -11463,79 +11544,37 @@
       "archived_at": "2026-04-03T12:56:57.302617",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Harrowing update on a Melbourne dad mowed down by a car outside his own home",
-      "link": "https://www.dailymail.co.uk/news/article-15704045/Harrowing-update-Melbourne-dad-mowed-car-outside-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T12:48:37",
-      "description": "Melbourne father Rayden remains in hospital almost a week after the hit-and-run.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636517-0-image-m-108_1775219499662.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636517-0-image-m-108_1775219499662.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T12:56:57.302618",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Sacked boss of Pride in London claims he was forced out by 'white directors' after being investigated for spending \u00a37,000 of donations on Apple products",
-      "link": "https://www.dailymail.co.uk/news/article-15703899/boss-Pride-London-claims-white-directors-investigation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T12:17:46",
-      "description": "Christopher Joell-Deshields, who had been CEO of\u00a0Pride in London since 2021, was let go last month following an investigation into allegations over misconduct.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636545-0-image-m-18_1775218252374.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/13/107636545-0-image-m-18_1775218252374.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T12:56:57.302619",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Read NAB staffers' leaked private messages in the wake of their colleague's shocking suicide - as we reveal outrage about 'inadequate' CEO Andrew Irvine",
-      "link": "https://www.dailymail.co.uk/news/article-15696325/Read-NAB-staffers-leaked-private-messages-wake-colleagues-shocking-suicide-reveal-outrage-inadequate-CEO-Andrew-Irvine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T12:10:28",
-      "description": "Leaked posts from NAB's internal platforms shows staff saying they felt 'defeated' by the bank's worsening culture, just hours after a colleague took his own life in Melbourne.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/03/107599719-0-image-a-24_1775095906601.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/03/107599719-0-image-a-24_1775095906601.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T12:56:57.302620",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Now even Keir Starmer's 'cost of living tsar' says Rachel Reeves should scrap fuel duty hike as Brits are hammered by rising pump prices due to Iran crisis",
-      "link": "https://www.dailymail.co.uk/news/article-15703987/Now-Keir-Starmers-cost-living-tsar-says-Rachel-Reeves-scrap-fuel-duty-hike-Brits-hammered-rising-pump-prices-Iran-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T12:03:01",
-      "description": "Richard Walker, the boss of supermarket Iceland, added to growing pressure on Chancellor Rachel Reeves to cancel the looming fuel duty rise in September.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/13/106160425-0-image-m-29_1775217710118.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/13/106160425-0-image-m-29_1775217710118.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T12:56:57.302622",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "School bully, 12, is arrested for MURDER over claims she hurled metal bottle at girl, 12, and killed her",
-      "link": "https://www.dailymail.co.uk/news/article-15703969/khimberly-zavaleta-bottle-murder-bully.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T12:01:52",
-      "description": "The unidentified youth, who is also 12, was arrested by the Los Angeles Police Department after the death of Khimberly Zavaleta in February.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/12/107635977-0-image-m-6_1775215712867.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/12/107635977-0-image-m-6_1775215712867.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T12:56:57.302623",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Manchester United and Everton are among a cluster of clubs looking at \u00a320m-rated FA Cup hero",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15710571/Manchester-United-Everton-cluster-clubs-looking-20m-rated-FA-Cup-hero.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T20:29:03",
+      "description": "Everton and Manchester United are among the clubs that are scouting Southampton FA Cup hero Shea Charles.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693489-0-image-a-2_1775504887161.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693489-0-image-a-2_1775504887161.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T20:34:50.215803",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mikel Arteta pinpoints what Arsenal must do ahead of Champions League showdown in Lisbon... and breaks silence on bizarre training routine",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15710781/Mikel-Arteta-pinpoints-Arsenal-ahead-Champions-League-showdown-Lisbon-breaks-silence-bizarre-training-routine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T20:17:31",
+      "description": "The club have just two trophies left to chase this season after crashing out of the Carabao Cup and FA Cup, with their season in the balance.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/21/107694167-0-image-a-7_1775506557642.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/21/107694167-0-image-a-7_1775506557642.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T20:34:50.215808",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "New Yorkers outraged as plans are announced to SHUT biggest train station in the US during World Cup matches",
       "link": "https://www.dailymail.co.uk/sport/football/article-15710563/new-york-penn-station-world-cup-shutdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
