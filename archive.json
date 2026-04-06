@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Ban for teacher who told pupils about drunken night",
+      "link": "https://www.bbc.com/news/articles/c625q951ng3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T13:50:44",
+      "description": "Natasha Blackmore, 36, met students outside of school and told them of relationships and drunken nights.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62b8/live/67f78ee0-31a8-11f1-a6f3-7585f035235e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T14:43:02.466919",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Could saunas become the 'new pub' when it comes to socialising?",
       "link": "https://www.bbc.com/news/articles/c625jp08zl1o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-06T09:53:55",
@@ -4402,6 +4413,146 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Incredibly brave boy, 10, seen for first time since medical jet crash that burned 90% of his body",
+      "link": "https://www.dailymail.co.uk/news/article-15709553/brave-boy-burned-philadelphia-medical-jet-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T14:41:12",
+      "description": "Ramesses Vazquez-Viana, 10, was out shopping with his father and his fianc\u00e9e, when a Learjet 55 crashed near Roosevelt Mall\u00a0on January 31, 2025, striking a busy intersection.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/15/107684587-0-image-m-16_1775485561976.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/15/107684587-0-image-m-16_1775485561976.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T14:43:05.785756",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Gorgeously-remote Oregon beach is named America's best place for a digital detox",
+      "link": "https://www.dailymail.co.uk/news/article-15709531/Oregon-gorgeous-remote-beach-best-digital-detox.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T14:37:53",
+      "description": "A coastal vacation booking website compared 800 beaches across the US to determine the best one to disconnect from the world, and a splendid cove hidden in southern Oregon topped the list.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/15/107685025-0-Secret_Beach_is_in_Curry_County_three_quarters_of_which_is_prote-a-4_1775486108552.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/15/107685025-0-Secret_Beach_is_in_Curry_County_three_quarters_of_which_is_prote-a-4_1775486108552.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T14:43:05.785763",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The battle brewing on the sidelines of Australia's Olympic preparations - as the Queensland government backflips on First Nations cultural centre earmarked as tourist drawcard",
+      "link": "https://www.dailymail.co.uk/news/article-15709615/Australia-Olympic-Brisbane-Indigenous-centre.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T14:37:08",
+      "description": "The Queensland Government's decision to knock back a significant Indigenous development ahead of the 2032 Olympics has been questioned after secret documents were leaked.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/15/107686471-0-image-a-78_1775486187111.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/15/107686471-0-image-a-78_1775486187111.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T14:43:05.785765",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Adorable boy, 5, was murdered by brother aged ELEVEN as he took a nap, cops say, as shellshocked family speak out",
+      "link": "https://www.dailymail.co.uk/news/article-15709537/Adorable-boy-murdered-brother-Colorado.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T14:35:38",
+      "description": "Elias Reliford was killed while taking a nap inside his family's home in Centennial, Colorado , on March 10, his family said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/15/107686201-0-image-m-22_1775484547542.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/15/107686201-0-image-m-22_1775484547542.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T14:43:05.785766",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Andrew Mountbatten-Windsor is spotted near Sandringham farmhouse after it was revealed he was 'blocking' Edward and Sophie from using the property",
+      "link": "https://www.dailymail.co.uk/news/article-15709717/Andrew-Sandringham-farmhouse-Edward-Sophie.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T14:33:49",
+      "description": "Andrew Mountbatten-Windsor has been spotted near his farmhouse in Sandringham after it was revealed Prince Edward and Sophie had to use a 'holiday let' because he refused to leave.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/14/107685707-0-image-m-17_1775483866157.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/14/107685707-0-image-m-17_1775483866157.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T14:43:05.785767",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Horrified tourists visiting Chicago confronted by nightmarish Mad Max scene unfolding outside window of their Hampton Inn hotel room",
+      "link": "https://www.dailymail.co.uk/news/article-15709507/chicago-teen-mad-max-scene-hotel-loop-cars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T14:32:56",
+      "description": "An unsuspecting couple visiting Chicago were startled awake by a group of teens taking over the streets, as the Democratic city continues to struggle with 'large gatherings.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/14/107685901-0-image-m-32_1775483657440.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/14/107685901-0-image-m-32_1775483657440.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T14:43:05.785769",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "All eyes on the OTHER Kyle Sandilands-linked court case - as judge erupts: 'I can't believe I have to say this'",
+      "link": "https://www.dailymail.co.uk/news/article-15693217/all-eyes-kyle-sandilands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T14:20:49",
+      "description": "More than nine months after LanLan Yang allegedly slammed her Rolls into a van being driven by radio host Kyle Sandilands's chauffer, police have not produced a brief of evidence.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568313-0-image-m-14_1775001629107.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/01/107568313-0-image-m-14_1775001629107.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T14:43:05.785771",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Couple appear in court following death of 13-year-old boy in crash 'involving a car, a bike and a scooter' that left two other teenagers in hospital",
+      "link": "https://www.dailymail.co.uk/news/article-15709241/Couple-appear-court-following-death-13-year-old-boy-crash-car-bike-scooter-left-two-teenagers-hospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T14:17:30",
+      "description": "Airport ground worker Jamie Fountain, 24, and easyJet cabin crew member Ellie Ireland, 23,  faced a series of charges following the death of Noah Campbell, 13.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/14/107680207-0-image-m-21_1775483907886.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/14/107680207-0-image-m-21_1775483907886.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T14:43:05.785772",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ed Miliband will 'cry betrayal' if Labour U-turns over North Sea oil and gas amid Cabinet split over new drilling",
+      "link": "https://www.dailymail.co.uk/news/article-15709637/Ed-Miliband-cry-betrayal-Labour-U-turns-North-Sea-oil-gas-amid-Cabinet-split-new-drilling.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T14:01:40",
+      "description": "The Energy Secretary has banned new exploration of the North Sea as he pursues his Net Zero agenda.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/14/107685973-0-image-m-8_1775483568881.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/14/107685973-0-image-m-8_1775483568881.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T14:43:05.785774",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Drone pictures show Britain's eroding coastline edging closer to the country's oldest theme park after devastating landslips",
+      "link": "https://www.dailymail.co.uk/news/article-15709679/Drone-pictures-eroding-coastline-oldest-theme-park.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T13:51:56",
+      "description": "Blackgang Chine on the Isle of Wight has lost around 350m of land to coastal erosion in the last 75 years, mostly caused by rain on its clay layers.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/14/107685351-0-image-m-18_1775482340764.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/14/107685351-0-image-m-18_1775482340764.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T14:43:05.785776",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Bungling council ordered to pay back tens of thousands to seaside town restaurants after overcharging them for 14 YEARS for right to put tables outside",
       "link": "https://www.dailymail.co.uk/news/article-15709465/council-pay-restaurants-overcharging-14-years-tables-chairs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -11259,146 +11410,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-03T07:43:08.458275",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "High profile neo-Nazi who sent alleged threats to female politicians walks free from prison",
-      "link": "https://www.dailymail.co.uk/news/article-15703367/Neo-Nazi-joel-davis-alleged-threats-bail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T06:23:14",
-      "description": "Joel Davis, 31, had been in custody on remand since his arrest in November for allegedly calling for the 'rhetorical rape' of independent Wentworth MP Allegra Spender.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/06/107630233-0-image-m-5_1775195684039.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/06/107630233-0-image-m-5_1775195684039.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T07:43:08.458277",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "RICHARD SHIRREFF: Will Trump choose peace - or a bloody escalation?",
-      "link": "https://www.dailymail.co.uk/debate/article-15702689/RICHARD-SHIRREFF-Trump-choose-peace-bloody-escalation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T06:00:39",
-      "description": "Yes, the American military performance has been outstanding, with the enemy leadership decimated. But there has been no regime change in Tehran, and the mullahs keep fighting.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/07/107630279-0-image-m-3_1775196027350.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/07/107630279-0-image-m-3_1775196027350.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871030",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Mother Clanger returns to her family after 50 years! Deathbed confession from thief who stole the children's TV puppet when he was a tearaway teen gives happiest of endings to enduring mystery",
-      "link": "https://www.dailymail.co.uk/tv/article-15702917/deathbed-confession-Mother-Clanger.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T04:37:44",
-      "description": "A beloved puppet from one of Britain's best-known children's television shows is back in its rightful place this weekend, more than half a century after being stolen.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/01/107627185-0-image-m-47_1775176117875.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/01/107627185-0-image-m-47_1775176117875.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871033",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tiger Woods 'called Donald Trump in wake of crash' as DUI arrest of golf legend takes shocking twist",
-      "link": "https://www.dailymail.co.uk/sport/golf/article-15702771/tiger-woods-donald-trump-florida-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T04:28:10",
-      "description": "The golf legend was arrested after\u00a0rolling his SUV on Friday while attempting to overtake a vehicle at high speed, before cops found two opioid pills in his pocket and put him behind bars.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/23/107625133-0-image-a-11_1775168114151.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/23/107625133-0-image-a-11_1775168114151.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871035",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Alice Evans claims brutal feud and salacious allegations against Marvel star ex Ioan Gruffudd somehow HELPED his career",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15703007/Alice-Evans-allegations-Marvel-Ioan-Gruffudd.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T01:32:06",
-      "description": "Asked if her online talk about Gruffudd was meant to ruin his acting career, Evans said 'No,' launching into a commentary about the morals of the movie business.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/01/106818229-0-Gruffudd_with_his_wife_Bianca_Wallace_The_actor_claims_Evans_has-a-10_1775177688979.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/01/106818229-0-Gruffudd_with_his_wife_Bianca_Wallace_The_actor_claims_Evans_has-a-10_1775177688979.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871038",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I've been a doctor for 50 years, and I can see through Labour's cynical stunt to reduce NHS waiting lists. Forget greedy doctors - it's the patients who should go on strike, by DR MARTIN SCURR",
-      "link": "https://www.dailymail.co.uk/debate/article-15702533/Labours-stunt-reduce-NHS-waiting-lists-greedy-doctors-patients-strike-DR-MARTIN-SCURR.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T00:58:23",
-      "description": "Even the most casual observer couldn't help but see through the NHS's obvious ruse to meet Health Secretary Wes Streeting's target of lower hospital waiting lists.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622049-0-image-m-16_1775158323053.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/20/107622049-0-image-m-16_1775158323053.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871040",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Inside the world's fattest country - where 95% of residents are overweight or obese and almost half have Type 2 Diabetes",
-      "link": "https://www.dailymail.co.uk/travel/article-15700933/country-highest-obesity-rates-diabetes-costly-food.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T00:49:24",
-      "description": "The remote Micronesian nation, with an area of just 21 square metres, is the fattest country in the world - with over 90 per cent of inhabitants classed as overweight or obese.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/16/107615807-0-image-a-4_1775142364539.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/16/107615807-0-image-a-4_1775142364539.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871041",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Huw Edwards has been inundated with TV offers to 'tell his side of the story', former publicist claims",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15702855/Huw-Edwards-TV-offers-former-publicist.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T00:15:55",
-      "description": "Last week this newspaper revealed he hired veteran publicist Barry Tomes on a pro bono basis for seven days to help rebuild his career. He briefed Edwards on the offers on Wednesday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/00/107626339-0-image-m-63_1775173010445.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/00/107626339-0-image-m-63_1775173010445.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871043",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "ALISON BOSHOFF: Zuckerberg turns his nuclear bunker into Ewok forest from Star Wars",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15702807/ALISON-BOSHOFF-Zuckerberg-Ewok-forest-Star-Wars.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T00:07:36",
-      "description": "Meta billionaire Mark Zuckerberg is constructing a bunker under his compound in California, complete with a forest of (fake) giant sequoia trees.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/23/107625383-0-image-m-15_1775169315220.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/23/107625383-0-image-m-15_1775169315220.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871044",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scott Mills' 'murky' relationship started with much younger husband while under investigation from police: Insider tells of 'odd and untoward' beginning and 'crossover' to DOLLY BUSBY",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15702401/Scott-Mills-murky-relationship-started-younger-husband-investigation-police-Insider-tells-odd-untoward-beginning-crossover-DOLLY-BUSBY.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-02T23:43:01",
-      "description": "In the wake of the news about Scott Mills' shock axing from the BBC last Friday, I can reveal the truth of what really happened in the early days of his relationship to husband Sam Vaughan.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621317-0-image-a-10_1775155809639.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/19/107621317-0-image-a-10_1775155809639.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T06:10:35.871045",
       "feed_category": "News",
       "feed_visibility": "both"
     }
