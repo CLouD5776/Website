@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Tories urge Waitrose to reinstate worker sacked 'after tackling shoplifter'",
+      "link": "https://www.bbc.com/news/articles/cgqk4en5150o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T16:37:35",
+      "description": "The Waitrose employee says he was dismissed from his job after 17 years for trying to stop a theft of Easter eggs.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0bd/live/1a28cd40-31d6-11f1-bf60-311fd3da206f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T17:41:29.174118",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US Supreme Court paves way for dismissal of Steve Bannon conviction",
+      "link": "https://www.bbc.com/news/articles/cgqk4kyj4yvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T16:43:14",
+      "description": "The order allows a lower court to consider dismissing the former Trump strategist's indictment.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf44/live/1f2b5f80-31d4-11f1-bf60-311fd3da206f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T17:41:29.174124",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Former BOA and Wada executive Reedie dies aged 84",
+      "link": "https://www.bbc.com/sport/olympics/articles/cp84w4pd29jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T17:24:23",
+      "description": "Sir Craig Reedie, the former chair of the British Olympic Association and president of the World Anti-Doping Agency, dies at the age of 84.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4311/live/a9b05320-31db-11f1-bf60-311fd3da206f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T17:41:29.174128",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Warmest weather of the year expected with 24C this week",
       "link": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-06T15:38:21",
@@ -4457,6 +4490,48 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Hard labour for pinching slippers and stealing a violin: Rogues gallery of Victorian soldiers, sailors and workers who were locked up for minor offences",
+      "link": "https://www.dailymail.co.uk/news/article-15709891/Victorian-mugshots-faces-criminals-jailed-minor-offences.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T17:30:37",
+      "description": "The mugshots were revealed in Doctor Helen Rutherford's book, Newcastle Prison: A History 1828 - 1925, examining crime after the expansion of policing in the city.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690637-0-image-m-18_1775494200744.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690637-0-image-m-18_1775494200744.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T17:41:31.732911",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Newlywed fighting for his life after freak tractor accident just three weeks after he got married",
+      "link": "https://www.dailymail.co.uk/news/article-15709821/newlywed-tractor-accident-married-georgia-alabama.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T17:24:27",
+      "description": "Hilton Lane, 36, is fighting for his life just three weeks after marrying the 'love of his life' after a freak tractor accident in Georgia.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691071-0-image-m-52_1775494889280.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691071-0-image-m-52_1775494889280.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T17:41:31.732917",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Promising young dental student, 26, suffered dystopian death at Connecticut hospital that saw him treated and pronounced dead by doctor beamed in on TV screen, lawsuit alleges",
+      "link": "https://www.dailymail.co.uk/news/article-15709625/dental-student-conor-hylton-connecticut-hospital-virtual-doctor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T17:23:17",
+      "description": "Conor Hylton, 26, died after he was admitted to a hospital where the doctor responsible for his care only saw him virtually, a new lawsuit claims.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690661-0-image-m-12_1775492851421.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690661-0-image-m-12_1775492851421.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T17:41:31.732918",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Katie Price's husband's latest 'lies': Lee Andrews claimed Forbes AI-ed his image for front cover, said he knows 'most elite people on planet' including Tony Blair, boasted of speaking EVERY language and said his dad was dying",
       "link": "https://www.dailymail.co.uk/tvshowbiz/article-15709215/Katie-Prices-husbands-latest-lies-Lee-Andrews-claimed-Forbes-AI-ed-image-cover-said-knows-elite-people-planet-including-Tony-Blair-boasted-speaking-language-said-dad-dying.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -11414,51 +11489,23 @@
       "archived_at": "2026-04-03T10:39:39.719043",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Saharan dust cloud cloaks Cyprus sparking red weather alert after engulfing nearby Crete",
-      "link": "https://www.dailymail.co.uk/news/article-15703731/saharan-dust-cloud-cyprus-red-weather-alert-crete.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T10:29:11",
-      "description": "Cyprus has been engulfed in a thick cloud of Saharan dust, as a deadly storm continues to lash the Mediterranean with intense rain and strong winds.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/11/107634537-0-image-m-16_1775212049456.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/11/107634537-0-image-m-16_1775212049456.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T10:39:39.719048",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Nicola Sturgeon says her divorce from SNP boss Peter Murrell is about more than his embezzlement charge",
-      "link": "https://www.dailymail.co.uk/news/article-15703679/Nicola-Sturgeon-divorce-SNP-Peter-Murrell-embezzlement.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T10:17:46",
-      "description": "The former First Minister announced she and Murrell had 'decided to end' their 14 year marriage in January last year, months after he was charged with embezzling party funds.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633913-0-image-m-15_1775210197694.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633913-0-image-m-15_1775210197694.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T10:39:39.719050",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Amateur aviator, 82, died of heart attack in light plane he built himself after 'historic' damage to landing gear caused it to veer off the runway at small airfield",
-      "link": "https://www.dailymail.co.uk/news/article-15703757/Amateur-aviator-82-died-heart-attack-light-plane-built-historic-damage-landing-gear-caused-veer-runway-small-airfield.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T10:13:30",
-      "description": "Chris Lodge, 82, who had more than 1,500 flying hours under his belt, was declared dead at the scene after his Taylor Monoplane veered off the grass and 'nosed over' at Nayland Airfield in Suffolk.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633937-0-image-a-4_1775210183949.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/107633937-0-image-a-4_1775210183949.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T10:39:39.719051",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "'I'm fighting fit for run-in,' says goal hero Kelechi Iheanacho as Celtic prepare for title push",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15710057/Im-fighting-fit-run-says-goal-hero-Kelechi-Iheanacho-Celtic-prepare-title-push.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T17:27:08",
+      "description": "Kelechi Iheanacho is determined to stay fit and fire Celtic to the league title over the final few weeks of the season.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691731-0-image-a-48_1775496382779.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691731-0-image-a-48_1775496382779.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T17:41:34.054148",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "How Trent Alexander-Arnold put his Real Madrid blues behind him - the extra work he's done behind the scenes, the team-mate who's taking his game to new heights and why he's sorely missed at Liverpool",
       "link": "https://www.dailymail.co.uk/sport/football/article-15709587/trent-alexander-arnold-real-madrid-liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
