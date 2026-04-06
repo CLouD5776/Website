@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
+      "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T18:55:45",
+      "description": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ad/live/ea8133c0-31df-11f1-82b6-073392989d2e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T19:51:09.319237",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+      "link": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T19:11:20",
+      "description": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9c6/live/93510bb0-31e5-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T19:51:09.319246",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bayern face waiting game on 'very special' Kane",
+      "link": "https://www.bbc.com/sport/football/articles/cm2rzp8lrzdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-06T19:13:48",
+      "description": "Bayern Munich are waiting on the fitness of \"very special\" Harry Kane to see if he can lead their challenge to overcome Real Madrid in the Champions League quarter-final.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3934/live/99b912a0-31e9-11f1-8794-099b3bc3f94e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-06T19:51:09.319250",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Monday Night Club",
       "link": "https://www.bbc.co.uk/iplayer/episode/l00583yk?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-06T17:37:41",
@@ -4501,6 +4534,62 @@
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Villagers' fury after travellers with bulldozers and diggers tear up green belt field in Easter bank holiday land grab",
+      "link": "https://www.dailymail.co.uk/news/article-15710399/Villagers-fury-travellers-bulldozers-tear-green-belt-field.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T19:37:49",
+      "description": "Residents of Flamstead, Hertfordshire, say they spotted the machinery being driven onto green belt land off Friendless Lane on Thursday before caravans followed suit on Easter Sunday morning.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/19/107692201-0-image-m-12_1775499588883.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/19/107692201-0-image-m-12_1775499588883.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T19:51:11.575820",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woke mob convulses after Seattle appoints no-nonsense new public school boss, with one complaining that it is 'irresponsible for a white man' to criticize them",
+      "link": "https://www.dailymail.co.uk/news/article-15709517/woke-mob-attack-seattle-school-superintendent.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T19:33:59",
+      "description": "Seattle Public Schools Superintendent Ben Shuldiner, who took office on February 1, criticized the district's 'soft bigotry of low expectations.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693409-0-image-m-21_1775502711175.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693409-0-image-m-21_1775502711175.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T19:51:11.575825",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Little boy melts Trump's heart as president fires off brutal Biden dig at Easter Egg roll",
+      "link": "https://www.dailymail.co.uk/news/article-15710339/donald-trump-joe-biden-easter-egg-roll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T19:27:53",
+      "description": "President Donald Trump shared a cute moment with a little boy on Monday at the White House Easter Egg Roll, but moments later couldn't help mocking his\u00a0predecessor, former President Joe Biden.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/20/107691989-0-image-a-37_1775502168603.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/20/107691989-0-image-a-37_1775502168603.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T19:51:11.575826",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Urgent search for American woman who fell overboard during Bahamas boat ride with husband",
+      "link": "https://www.dailymail.co.uk/news/article-15709945/search-american-woman-overboard-bahamas-boat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T19:09:22",
+      "description": "The missing woman's husband told the Royal Bahamas Police Force that the couple left on the boat at around 7.30pm on an eight-foot dinghy. She is still unaccounted for.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/19/107693077-0-image-a-65_1775501779841.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/19/107693077-0-image-a-65_1775501779841.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T19:51:11.575828",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "CHARANDEEP SINGH: Scotland's in the grip of relentless squeeze ... but 15 minutes away across the Border the story is very different",
       "link": "https://www.dailymail.co.uk/news/article-15710409/CHARANDEEP-SINGH-Scotlands-grip-relentless-squeeze-15-minutes-away-Border-story-different.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -11444,65 +11533,51 @@
       "archived_at": "2026-04-03T12:56:57.302623",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Female teacher accused of raping student CRIES as she is denied bail",
-      "link": "https://www.dailymail.co.uk/news/article-15701675/ashley-fisler-new-jersey-teacher-rape-cry-bond.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T11:56:57",
-      "description": "Former middle school teacher Ashley Fisler, 36, erupted into tears Wednesday as a New Jersey judge ruled that she remain behind bars until her trial.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/16/107616685-0-image-m-84_1775144477189.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/16/107616685-0-image-m-84_1775144477189.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T12:56:57.302624",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'We risked everything for freedom... was it all for nothing?': Why heartbroken families in Iran feel 'betrayed' by Trump after he claims victory... as they're left in the dark without a leader",
-      "link": "https://www.dailymail.co.uk/news/article-15701471/freedom-Heartbreak-families-Iran-Trump-claims-regime-change.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T11:50:35",
-      "description": "President Donald Trump declared 'near-victory' in the war against Iran this week during a subdued White House address.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/14/107606547-0-image-a-10_1775138347336.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/14/107606547-0-image-a-10_1775138347336.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T12:56:57.302626",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Manhunt underway for prisoner who fled from transport van with no shoes and a handcuff on his wrist after appearing in court on assault charge",
-      "link": "https://www.dailymail.co.uk/news/article-15703965/Manhunt-shoeless-prisoner-fled-transport-van-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T11:48:23",
-      "description": "The public has been urged not to approach John Evans, 32, who fled from the van at 5.28pm yesterday in Poole Road, Poole, Dorset.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/12/107636003-0-image-m-16_1775215842649.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/12/107636003-0-image-m-16_1775215842649.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T12:56:57.302627",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Brace for impact: Battered tourist region prepares for ANOTHER potential cyclone looming off Aussie coast",
-      "link": "https://www.dailymail.co.uk/news/article-15703943/Brace-impact-Battered-tourist-region-prepares-potential-cyclone-looming-Aussie-coast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T11:32:53",
-      "description": "A tropical low between Papua New Guinea and the Solomon Islands is expected to strengthen into a cyclone by Sunday and pose yet another threat to North Queensland.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/12/107635849-0-image-a-91_1775215607423.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/12/107635849-0-image-a-91_1775215607423.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-03T11:35:37.862811",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "New Yorkers outraged as plans are announced to SHUT biggest train station in the US during World Cup matches",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15710563/new-york-penn-station-world-cup-shutdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T19:45:51",
+      "description": "Ahead of the\u00a0eight World Cup matches that will be held at New Jersey's MetLife Stadium, including the final showdown, the station will reportedly only be accessed by fans attending the games.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693749-0-image-a-5_1775504334776.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693749-0-image-a-5_1775504334776.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T19:51:15.059550",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man United boost as injured star named in squad for four-day Dublin training camp",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15710619/Man-United-boost-injured-star-named-squad-four-day-Dublin-training-camp.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T19:35:15",
+      "description": "Argentina international Lisandro Martinez is also in the squad after missing the last five league games with a calf injury, but both Diogo Dalot and Tom Heaton have not travelled due to illness.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693675-0-image-a-8_1775504028288.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693675-0-image-a-8_1775504028288.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T19:51:15.059556",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ibrahima Konate 'wants Liverpool future decided before World Cup' - with France defender able to walk away this summer and become one of football's most valuable free agents",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15710555/Ibrahima-Konate-Liverpool-future-decided-World-Cup-France.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-06T19:08:12",
+      "description": "Liverpool star Ibrahima Konate wants his future resolved before this summer's World Cup in the United States, Canada and Mexico.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/19/107693189-0-image-a-70_1775501694410.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/19/107693189-0-image-a-70_1775501694410.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-06T19:51:15.059558",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Former Liverpool star backs Dominik Szoboszlai after confrontation with his own fans following FA Cup humiliation at Man City",
       "link": "https://www.dailymail.co.uk/sport/football/article-15710437/Former-Liverpool-star-backs-Dominik-Szoboszlai-confrontation-fans-following-FA-Cup-humiliation-Man-City.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -18611,6 +18686,17 @@
   ],
   "Crev": [
     {
+      "title": "Slugfest: Sea Slugs Operate on Time",
+      "link": "https://crev.info/2026/04/slugfest-sea-slugs-operate-on-time/?utm_source=rss&utm_medium=rss&utm_campaign=slugfest-sea-slugs-operate-on-time",
+      "pubDate": "2026-04-06T18:55:13",
+      "description": "Scientists find \u2018molecular timers\u2019 in sea slugs and other organisms, showing astonishing temporal precision in their peak memory capacity.",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-06T19:51:20.503663",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
+    {
       "title": "Happy Easter from All of Us",
       "link": "https://crev.info/2026/04/happy-easter-ceh/?utm_source=rss&utm_medium=rss&utm_campaign=happy-easter-ceh",
       "pubDate": "2026-04-05T20:03:22",
@@ -18788,6 +18874,17 @@
     }
   ],
   "ENV": [
+    {
+      "title": "Story of Everything Presents the Truth About the Universe, Unshackled",
+      "link": "https://scienceandculture.com/2026/04/story-of-everything-presents-the-truth-about-the-universe-unshackled/",
+      "pubDate": "2026-04-06T19:23:57",
+      "description": "In our university outreach events, we present evidence for a creator. But the high-quality production of the film transports this message to a whole new level!\n<p><a href=\"https://scienceandculture.com/2026/04/story-of-everything-presents-the-truth-about-the-universe-unshackled/\" rel=\"nofollow\">Source</a></p>",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-06T19:51:20.794355",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Because of Hannah: A Story of Faith Lost and Regained",
       "link": "https://scienceandculture.com/2026/04/because-of-hannah-a-story-of-faith-lost-and-regained/",
