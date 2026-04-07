@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Is 'free' McIlroy ready to create more Masters history?",
+      "link": "https://www.bbc.com/sport/golf/articles/cn89zp1e38no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-07T21:05:12",
+      "description": "Twelve months after the greatest moment of his career, Rory McIlroy returns to the Masters looking for a rare back-to-back win.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72a2/live/84f943a0-31a1-11f1-b238-cf10fe15ebcf.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-07T22:03:03.022128",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Man, 21, fatally stabbed on London's Primrose Hill",
       "link": "https://www.bbc.com/news/articles/c75k13wz6k2o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-07T20:46:21",
@@ -5488,20 +5499,79 @@
       "archived_at": "2026-03-31T19:33:34.052398",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Why does Trump want to take Iran\u2019s Kharg Island?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0n9nh7p?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-30T18:45:00",
-      "description": "The president has threatened to escalate the war if a deal is not \u201cshortly reached\u201d",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052399",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Gina Rinehart erupts over Ben Roberts-Smith arrest and asks major question: 'I don't understand how it can be justified'",
+      "link": "https://www.dailymail.co.uk/news/article-15713813/Gina-Rinehart-ben-roberts-smith-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T21:58:49",
+      "description": "Mining magnate Gina Rinehart - a long-time a vocal supporter of Ben Roberts-Smith and Australian Defence Force veterans, has joined the furious backlash over his arrest late Tuesday night.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/22/107722901-0-image-a-7_1775596769032.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/22/107722901-0-image-a-7_1775596769032.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T22:03:06.408300",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Rollout of 20mph zones blamed for number of drivers getting points on their licences to almost a million",
+      "link": "https://www.dailymail.co.uk/news/article-15713969/rollout-20mph-zones-blamed-drivers-points-licences.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T21:42:47",
+      "description": "Last year's total for the number of drivers getting points on their licences is nearly a third higher than the 678,367 who received points for speeding in 2022.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/22/107724459-0-image-m-11_1775598009360.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/22/107724459-0-image-m-11_1775598009360.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T22:03:06.408306",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Shock over unearthed clip of Gavin Newsom's wife revealing how her experience of accidentally killing her sister as a child helped her win over hardened prisoners",
+      "link": "https://www.dailymail.co.uk/news/article-15713659/jennifer-siebel-newsom-gavin-sister-golf-cart.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T21:32:01",
+      "description": "Jennifer Siebel Newsom recalled the harrowing childhood incident in a 2016 interview discussing her documentary.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/22/107723399-0-image-m-12_1775595685393.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/22/107723399-0-image-m-12_1775595685393.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T22:03:06.408308",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Quiet town rocked after mom's boyfriend dunked her daughter, 7, into frigid water by her legs as she begged to be let go, police say",
+      "link": "https://www.dailymail.co.uk/news/article-15713527/sunset-beach-north-carolina-mom-boyfriend-child-water-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T21:31:47",
+      "description": "Christopher Maurice Lee, 38, was arrested on Saturday in a small North Carolina town after he allegedly dunked his girlfriend's seven-year-old daughter under water as she begged him to stop.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/21/107722605-0-image-m-3_1775593923218.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/21/107722605-0-image-m-3_1775593923218.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T22:03:06.408310",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Kemi says Tories would ban doctors' strikes after Streeting accuses medics of trying to 'fleece' the public with \u00a330bn pay demand",
+      "link": "https://www.dailymail.co.uk/news/article-15713115/Kemi-says-Tories-ban-doctors-strikes-Streeting-accuses-medics-trying-fleece-public-30bn-pay-demand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T21:25:05",
+      "description": "Writing for the Daily Mail, the Conservative leader says the medics' jobs are so critical she would subject them to the same restrictions as police and the military.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/18/107719331-0-image-a-17_1775583275047.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/18/107719331-0-image-a-17_1775583275047.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T22:03:06.408312",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump says 'we're in heated negotiations' as Iran and US review two-week ceasefire plan",
       "link": "https://www.dailymail.co.uk/news/article-15713777/Trump-says-heated-negotiations-Iran-US-review-two-week-ceasefire-plan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12431,79 +12501,37 @@
       "archived_at": "2026-04-05T08:38:55.542278",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Magnitude 5.5 earthquake rocks central Australia on Easter long weekend",
-      "link": "https://www.dailymail.co.uk/news/article-15707499/earthquake-Uluru-Amata-Australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T07:11:18",
-      "description": "The 'rare' quake shook Outback communities in the early hours of Sunday morning.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/07/107665967-0-image-m-16_1775370931488.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/07/107665967-0-image-m-16_1775370931488.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T07:36:59.654551",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "SNL tears into Kristi Noem's husband and his crooked 'puppies' with brutal sketch after Daily Mail exposed fetish secrets",
-      "link": "https://www.dailymail.co.uk/news/article-15707495/Kristi-Noem-husband-Bryan-SNL-Saturday-Night-Live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T06:35:07",
-      "description": "During this week's Weekend Update segment, cast member Sarah Sherman posed as Bryon Noem in recently exposed images of him posing in pink biker shorts sporting faux breasts.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/07/107665925-0-image-m-12_1775369640079.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/07/107665925-0-image-m-12_1775369640079.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T07:36:59.654558",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Brutal reason Sydney Royal Easter Show ruined the long weekend for visitors as Aussies unleash: 'It was a disaster'",
-      "link": "https://www.dailymail.co.uk/news/article-15707131/Sydney-Royal-Easter-outrage-price-outage-crowd.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T06:02:59",
-      "description": "The annual event may have only kicked off at Sydney Olympic Park on Thursday, but visitors are already complaining about their experiences.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/06/107664617-0-image-a-12_1775366217076.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/06/107664617-0-image-a-12_1775366217076.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T06:16:34.322735",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Crew on $4.1bn Artemis II mission thwarted by embarrassing Outlook error: 'Microsoft's not content with being the worst email service on Earth'",
-      "link": "https://www.dailymail.co.uk/news/article-15706891/artemis-ii-mission-outlook-error-microsoft-space.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T05:37:53",
-      "description": "Commander Reid Wiseman was having the issues on his personal computing device, which refers to a specialized tablet that astronauts rely on to access emails and mission data.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/06/107665587-0-image-m-128_1775366641002.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/06/107665587-0-image-m-128_1775366641002.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T06:16:34.322741",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Pennsylvania man stabs Planet Fitness employee in a fit of rage after he was banned from the gym",
-      "link": "https://www.dailymail.co.uk/news/article-15706827/Pennsylvania-Planet-Fitness-stabbing-employee.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T05:21:19",
-      "description": "Davier Massey, 28, reportedly got into a dispute with employees over an unpaid bill. The next day, police say he arrived with a weapon in hand.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/05/107664879-0-image-a-6_1775362422475.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/05/107664879-0-image-a-6_1775362422475.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T06:16:34.322743",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Real Madrid 1-2 Bayern Munich: Thomas Tuchel watches the best and the worst of Trent Alexander-Arnold as Harry Kane gives Germans the edge in Champions League quarter-final",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15712099/Real-Madrid-1-2-Bayern-Munich-Champions-League-2025-26-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T21:56:26",
+      "description": "CHRIS WHEELER: Bayern Munich edged it, as we thought they might, and head back to Bavaria as favourites to break a hold that Real Madrid have had over them for 14 years.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/22/107724715-0-image-a-37_1775598983751.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/22/107724715-0-image-a-37_1775598983751.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T22:03:09.105657",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sporting Lisbon 0-1 Arsenal: Kai Havertz snatches dramatic late winner for gritty Gunners to soothe silverware-chasing jitters and stop the rot",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15712003/Sporting-Lisbon-0-1-Arsenal-Kai-Havertz-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T21:44:46",
+      "description": "ISAAN KHAN AT THE JOSE ALVALADE STADIUM: The ghosts of Arsenal's previous seasons were lingering in the Lisbon air. The naysayers had the words 'bottle jobs' ready.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/22/107723635-0-image-a-10_1775595811611.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/22/107723635-0-image-a-10_1775595811611.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T22:03:09.105663",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Steven Gerrard names the \u00a365.5m former Liverpool star he wants BACK at Anfield - and reveals his ideal Mo Salah replacement",
       "link": "https://www.dailymail.co.uk/sport/football/article-15713695/Steven-Gerrard-Liverpool-Anfield-Mo-Salah.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -18225,6 +18253,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Paul Anka to be honored with BMI Icon Award at 2026 BMI Pop Awards",
+      "link": "https://www.music-news.com/news/UK/188207/Paul-Anka-to-be-honored-with-BMI-Icon-Award-at-2026-BMI-Pop-Awards",
+      "pubDate": "2026-04-07T20:52:00",
+      "description": "BMI (Broadcast Music, Inc.) has announced that legendary singer-songwriter Paul Anka will receive the prestigious BMI Icon Award at the 2026 BMI Pop Awards.",
+      "thumbnail": "https://www.music-news.com/images/news/Paul-Anka2.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Paul-Anka2.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T22:03:13.190153",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Wireless Festival cancelled after Kanye West blocked from entering U.K.",
       "link": "https://www.music-news.com/news/UK/188206/Wireless-Festival-cancelled-after-Kanye-West-blocked-from-entering-U-K",
