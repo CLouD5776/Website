@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Family of one-punch attack victim fear \u00a3500k compensation could run out",
+      "link": "https://www.bbc.com/news/articles/cy91p4qzn24o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-07T21:53:41",
+      "description": "Craig Lewis-Williams needs specialist care for the rest of his life following the November 2021 attack.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f90/live/59686f00-3268-11f1-a291-032c2f0b6204.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-07T23:05:39.576718",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump condemned over threat that Iran's 'civilisation will die'",
+      "link": "https://www.bbc.com/news/articles/cwyk7xgkzvzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-07T21:56:02",
+      "description": "The UN's chief says he is \"deeply troubled\" by such statements, as the US president ramps up pressure on Iran to agree a deal to end the war.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7161/live/c03a24c0-32c8-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-07T23:05:39.576727",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'He stalked me, but I was the one arrested'",
+      "link": "https://www.bbc.com/news/articles/c1kgz7pnwd8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-07T23:03:27",
+      "description": "Jodie Morrow went to the police after being harassed, but later found herself in custody.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ed7/live/cf34f720-32aa-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-07T23:05:39.576729",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Is 'free' McIlroy ready to create more Masters history?",
       "link": "https://www.bbc.com/sport/golf/articles/cn89zp1e38no?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-07T21:05:12",
@@ -5466,42 +5499,121 @@
       "archived_at": "2026-03-31T19:33:34.052394",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Three charged with murder over death of girl, 16",
-      "link": "https://www.bbc.com/news/articles/cn0w50dwd2jo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T14:09:00",
-      "description": "Three people appear in court over the death of 16-year-old Chloe Watson Dransfield in Leeds.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030d/live/883fbd70-2cfe-11f1-b960-35ed0ba67153.jpg",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052395",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "BBC News app",
-      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2025-04-30T14:04:28",
-      "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052397",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Can the King bring Trump back on side?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0n9jld7?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T18:07:00",
-      "description": "King state visit to US to go ahead, despite more Trump criticism of UK.",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052398",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Trump declares two-week ceasefire with Iran and claims Strait of Hormuz will re-open as Tehran submits 10-point peace plan to end the war",
+      "link": "https://www.dailymail.co.uk/news/article-15713177/Trump-declares-two-week-ceasefire-Iran-claims-Strait-Hormuz-open-Tehran-submits-10-point-peace-plan-end-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T22:59:52",
+      "description": "Donald Trump has extended a doomsday deadline for Iran after high-stakes negotiations spearheaded by JD Vance.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/23/107722971-0-President_Donald_Trump_has_extended_the_deadline_for_Iran_and_th-a-53_1775601363516.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/23/107722971-0-President_Donald_Trump_has_extended_the_deadline_for_Iran_and_th-a-53_1775601363516.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T23:05:43.662041",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Reform vows to restart drilling for oil and gas in the North Sea to boost UK's energy security",
+      "link": "https://www.dailymail.co.uk/news/article-15714033/Reform-vows-drilling-oil-gas-North-Sea.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T22:44:49",
+      "description": "Nigel Farage's party pledged to use Britain's 'energy treasure' to create jobs, boost growth and cut bills by ending the ban on further exploration.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/23/107725457-0-image-m-23_1775601858076.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/23/107725457-0-image-m-23_1775601858076.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T23:05:43.662046",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Police officer who killed a pensioner while responding to 999 call is jailed - despite plea by victim's family",
+      "link": "https://www.dailymail.co.uk/news/article-15713983/Police-officer-killed-pensioner-responding-999-call.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T22:40:35",
+      "description": "PC Mark Roberts, 57, went through a red light and hit motorcyclist Ronald Pinkney and his wife Muriel in a marked police car.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/23/106102703-0-PC_Mark_Roberts_57_was_responding_to_reports_of_a_choking_baby_w-a-6_1775601605260.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/23/106102703-0-PC_Mark_Roberts_57_was_responding_to_reports_of_a_choking_baby_w-a-6_1775601605260.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T23:05:43.662048",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Interest rate cap on student loans 'is just tinkering round the edges'",
+      "link": "https://www.dailymail.co.uk/news/article-15714041/Interest-rate-cap-student-loans-just-tinkering-edges.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T22:40:16",
+      "description": "After months of increasing pressure, the Government has finally agreed to introduce a 6 per cent cap on the interest graduates pay on what are called Plan 2 and Plan 3 student loans from September.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/23/107725109-0-image-m-58_1775600576846.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/23/107725109-0-image-m-58_1775600576846.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T23:05:43.662050",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Why prosecutors may struggle to convict Ben Roberts-Smith - as lawyers for jailed whistleblower who triggered the probe into SAS hero celebrate his arrest",
+      "link": "https://www.dailymail.co.uk/news/article-15711603/Ben-Roberts-Smith-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T22:35:14",
+      "description": "The Victoria Cross recipient was taken into custody at Sydney Domestic Airport after arriving on a flight from Brisbane on Tuesday morning.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/07/107701759-0-image-m-107_1775541851498.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/07/107701759-0-image-m-107_1775541851498.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T23:05:43.662051",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I'm a world-renowned scientist who thought faith was childish... then I found the scientific proof God DOES exist",
+      "link": "https://www.dailymail.co.uk/news/article-15709697/scientist-faith-scientific-proof-God-exists-documentary.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T22:32:23",
+      "description": "Michael Guillen isn't happy just quietly practicing his faith: he is determined to try and use his beloved science to prove that God exists.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/23/107725243-0-image-a-28_1775601000126.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/23/107725243-0-image-a-28_1775601000126.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T23:05:43.662052",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Major update on Bruce Lehrmann rape trial can finally be revealed - as court-imposed gag order is lifted",
+      "link": "https://www.dailymail.co.uk/news/article-15711763/bruce-lehrmann-rape-trial-media-ban-lifted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T22:29:53",
+      "description": "Lehrmann - who used to work for former defence minister Linda Reynolds - was set to appear in Brisbane District Court for a pre-trial hearing on April 9 over allegations that he assaulted a woman.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/08/86181199-0-image-m-10_1775545232643.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/08/86181199-0-image-m-10_1775545232643.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T23:05:43.662053",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump's spy boss and top diplomat torpedoed Israel's audacious regime change plan in Iran as 'farcical' in secret briefing",
+      "link": "https://www.dailymail.co.uk/news/article-15713871/Trumps-spy-boss-torpedoed-Israel-change-plan-Iran-briefing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T22:04:37",
+      "description": "Weeks before Donald Trump ordered US strikes on Iran in late February his top deputies scoffed at a 'farcical' presentation from Israeli Prime Minister Benjamin Netanyahu.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/22/107677803-0-image-m-39_1775597899292.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/22/107677803-0-image-m-39_1775597899292.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T23:05:43.662056",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Gina Rinehart erupts over Ben Roberts-Smith arrest and asks major question: 'I don't understand how it can be justified'",
       "link": "https://www.dailymail.co.uk/news/article-15713813/Gina-Rinehart-ben-roberts-smith-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12389,121 +12501,23 @@
       "archived_at": "2026-04-05T11:51:55.280799",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Huge 'eyesore' \u00a310million mansion abandoned by the Iranian government in area popular with footballers",
-      "link": "https://www.dailymail.co.uk/news/article-15707585/eyesore-mansion-Iranian-government-footballers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T10:51:56",
-      "description": "The forgotten mock-Tudor style property, which overlooks the rolling fields of the Cheshire Plains, has sat decaying surrounded by multi-million-pound homes for nearly two decades.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/11/107667261-0-image-m-17_1775385141444.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/11/107667261-0-image-m-17_1775385141444.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T11:03:26.554774",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Bizarre rampage at Aussie airport involved passenger allegedly smashing cop car window with a rock before trying to flee on a shuttle bus",
-      "link": "https://www.dailymail.co.uk/news/article-15707537/Perth-Airport-police-car-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T10:17:41",
-      "description": "Airports can be stressful places, but one traveller has been accused of allowing their frustrations to boil over into vandalism.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/11/107667493-0-image-m-95_1775384005184.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/11/107667493-0-image-m-95_1775384005184.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T10:29:44.036499",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Revealed: Seaside village which banned new holiday homes is now split with two estates",
-      "link": "https://www.dailymail.co.uk/news/article-15707609/Seaside-village-banned-new-holiday-homes-split.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T10:13:15",
-      "description": "Locals living in Beadnell, Northumberland, say the divide shows how a crackdown on second homes has helped breathe new life back into parts of their community.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/10/107667035-0-image-m-25_1775381921133.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/10/107667035-0-image-m-25_1775381921133.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T10:29:44.036505",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Yobs clash with police in Milton Keynes as teenager disorder that began in Clapham spreads",
-      "link": "https://www.dailymail.co.uk/news/article-15707557/Yobs-clash-police-Milton-Keynes-teenager-disorder-began-Clapham-spreads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T09:29:15",
-      "description": "Footage posted on social media shows officers in a stand off with a group of youths in tracksuits outside Midsummer Place shopping centre in Milton Keynes yesterday evening.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/10/107666983-0-image-m-29_1775380630501.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/10/107666983-0-image-m-29_1775380630501.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T09:35:43.606834",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Finally some fuel relief as petrol prices fall - but is it too little, too late for Anthony Albanese?",
-      "link": "https://www.dailymail.co.uk/news/article-15692929/anthony-albanese-manly-locals-fuel-prices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T09:01:01",
-      "description": "When Daily Mail spoke to Aussies in Sydney's Northern Beaches earlier this week, locals had a lot to say about Anthony Albanese's handling of the fuel crisis.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/03/107600217-0-image-m-66_1775097639006.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/03/107600217-0-image-m-66_1775097639006.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T09:35:43.606841",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Inside the Islamic Revolutionary Guard Corp death cult: How henchmen brainwashed in 'violent and extremist' training camps oversee prison rapes and mass executions to maintain Iranian regime's stranglehold",
-      "link": "https://www.dailymail.co.uk/news/article-15700647/Inside-Islamic-Revolutionary-Guard-Corp-death-cult-henchmen-brainwashed-violent-extremist-training-camps-oversee-prison-rapes-mass-executions-maintain-Iranian-regimes-stranglehold.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T08:33:28",
-      "description": "In countless camps deep in rural Iran, gruff military men bark orders at trembling young boys.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/10/105576393-0-image-m-6_1775208872139.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/10/105576393-0-image-m-6_1775208872139.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T08:38:55.542271",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Wreckage of American planes blown up by US special forces during raid to rescue second missing F15 pilot is revealed",
-      "link": "https://www.dailymail.co.uk/news/article-15707527/US-airman-hunted-Iran-forces-American-rescue-shielded-moving-airborne-fleet-drones.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T08:26:02",
-      "description": "LIVE: The wreckage of American planes blown up by US special forces during a raid to rescue a second missing pilot has been revealed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/08/107666235-0-image-a-9_1775374734601.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/08/107666235-0-image-a-9_1775374734601.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T08:38:55.542276",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Meghan's \u00a31,400-per-person 'girls weekend' retreat overshadowed by growing security concerns after online troll reveals plans to attend and 'secretly record'",
-      "link": "https://www.dailymail.co.uk/news/article-15706963/Meghan-girls-weekend-retreat-overshadowed-growing-security-concerns-online-troll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T08:24:05",
-      "description": "The Duchess of Sussex (pictured) is set to headline a women-only three-day retreat in Sydney later this month organised by the Her Best Life podcast.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/00/107662697-0-image-m-17_1775346635925.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/00/107662697-0-image-m-17_1775346635925.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T08:38:55.542278",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Premier League secures FIFTH Champions League spot for next season after Arsenal beat Sporting Lisbon",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15713959/Premier-League-secures-FIFTH-Champions-League-spot-season-Arsenal-beat-Sporting-Lisbon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T22:23:40",
+      "description": "There will be at least five Premier League teams in the Champions League next season after Arsenal beat Sporting Lisbon on Tuesday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/23/107724797-0-image-a-12_1775599782043.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/23/107724797-0-image-a-12_1775599782043.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-07T23:05:45.108804",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Real Madrid 1-2 Bayern Munich: Thomas Tuchel watches the best and the worst of Trent Alexander-Arnold as Harry Kane gives Germans the edge in Champions League quarter-final",
       "link": "https://www.dailymail.co.uk/sport/football/article-15712099/Real-Madrid-1-2-Bayern-Munich-Champions-League-2025-26-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -17423,6 +17437,50 @@
     }
   ],
   "Unherd": [
+    {
+      "title": "Bibi has become the new King Herod",
+      "link": "https://unherd.com/2026/04/bib-has-become-the-new-king-herod/?edition=us",
+      "pubDate": "2026-04-07T23:03:11",
+      "description": "Imperial intrigues are a disaster for Jews",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-07T23:05:47.575357",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "Why I went to Moscow",
+      "link": "https://unherd.com/2026/04/why-i-went-to-moscow/?edition=us",
+      "pubDate": "2026-04-07T23:03:07",
+      "description": "Russians are ready to compromise",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-07T23:05:47.575363",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "What Playboy got right about men",
+      "link": "https://unherd.com/2026/04/what-playboy-got-right-about-men/?edition=us",
+      "pubDate": "2026-04-07T23:01:51",
+      "description": "Lust and literacy can coexist",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-07T23:05:47.575366",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "Will AI kill off populism?",
+      "link": "https://unherd.com/2026/04/how-ai-will-cure-populist-paranoia/?edition=us",
+      "pubDate": "2026-04-07T23:00:35",
+      "description": "Conspiracy theorists are in the firing line",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-07T23:05:47.575368",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
     {
       "title": "Why Orb\u0102\u0104n needs Ukraine",
       "link": "https://unherd.com/2026/04/why-orban-needs-ukraine/?edition=us",
