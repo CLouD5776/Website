@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "'Even if Iran war ends now, farmers' costs will have to be passed on'",
+      "link": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T23:03:53",
+      "description": "Despite a ceasefire, the Iran war will continue to affect farmers' costs and therefore food prices.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ff/live/3e1e7ec0-32a3-11f1-bcd7-95478cdf5125.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T23:34:57.940883",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Five of Queen Elizabeth II's most iconic outfits - from new royal exhibit",
+      "link": "https://www.bbc.com/news/articles/cd9ke9j445jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T23:04:50",
+      "description": "From fashion diplomacy in the US to a transparent raincoat, the late Queen's style was a powerful formula.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba16/live/947a5c20-da93-11f0-a8dc-93c15fe68710.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T23:34:57.940894",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
+      "link": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T22:46:58",
+      "description": "A legal order seeking the golfer's medications - including dosage and warnings about driving on pill bottles - will be issued later this month, court record shows.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee2/live/d6bfd250-33a2-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T23:34:57.940897",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Liverpool & Slot 'in survival mode' - but still just about alive",
+      "link": "https://www.bbc.com/sport/football/articles/c3expgqy2zxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T23:08:51",
+      "description": "Negative tactics and no shots on target - but somehow Liverpool's Champions League campaign is still just about alive after a 2-0 loss at PSG.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0de9/live/fa3e3630-3399-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T23:34:57.940899",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
       "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-08T22:08:33",
@@ -5455,53 +5499,121 @@
       "archived_at": "2026-04-01T14:48:34.516398",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Devastated Italians reckon with 'third apocalypse' of World Cup failure",
-      "link": "https://www.bbc.com/news/articles/cj943rmkkm4o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T12:05:34",
-      "description": "Azzurri fans and management alike are pondering what went wrong after Italy fail to qualify for third World Cup in a row.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f50/live/42a3e730-2dbe-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-01T13:14:14.220769",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Starmer holds off from emergency measures but warns storm is coming",
-      "link": "https://www.bbc.com/news/articles/cjr9nq94vrwo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T13:03:10",
-      "description": "The prime minister used a Downing Street news conference to make three big calls on the Iran war and cost of living pressures.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2a/live/11f772c0-2dc6-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-01T13:14:14.220778",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Bland or fan love letter? The Super Mario Galaxy Movie draws mixed reaction",
-      "link": "https://www.bbc.com/news/articles/cpvxky2jx79o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T11:43:32",
-      "description": "Reviews are in for the sequel to the mega-successful Super Mario Brothers Movie, but not everyone is convinced.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/969b/live/95fed750-2ce7-11f1-bdf5-ddbf94ae98c3.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-01T13:14:14.220780",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Three more arrests after Golders Green ambulance attack",
-      "link": "https://www.bbc.com/news/articles/cly9vgvddkxo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T12:27:27",
-      "description": "Two British men, aged 20 and 19, and a dual British-Pakistani national, 17, remain in custody.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d184/live/e970f4d0-2dc4-11f1-b372-019434fa5473.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-01T13:14:14.220782",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "A fairy-tale ending: The incredible recovery of 250 poodles left to die in their own filth (but Stevie and Sandy still need new homes)",
+      "link": "https://www.dailymail.co.uk/news/article-15715969/poodles-filth-rescued-transformation-pictures.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T23:31:27",
+      "description": "The animal welfare charity's photo of 250 matted, filthy canines living in a dilapidated home, with some hanging out of a woodburner, had led people to claim it was fake.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107742863-0-image-m-18_1775661762694.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107742863-0-image-m-18_1775661762694.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T23:35:00.322785",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tycoon's daughter died in gap year tragedy 30 years after cousin was killed on HIS gap year",
+      "link": "https://www.dailymail.co.uk/news/article-15716797/Tycoons-daughter-died-gap-year-tragedy-30-years-cousin-killed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T23:30:20",
+      "description": "Orla Wates, 19, was killed when she was hurled through the air before being run over by a lorry while travelling around southeast Asia.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/20/107750039-0-image-a-4_1775676748771.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/20/107750039-0-image-a-4_1775676748771.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T23:35:00.322791",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "JT thought he was buying a Coca-Cola from a sushi shop... but he was given a huge surprise when he tasted it",
+      "link": "https://www.dailymail.co.uk/news/article-15714677/JT-Coca-Cola-One-Sushi-Wellington-soy-sauce.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T23:29:41",
+      "description": "JT thought he was grabbing a fizzy drink from the fridge on Tuesday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/07/107733495-0-image-a-16_1775630563143.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/07/107733495-0-image-a-16_1775630563143.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T23:35:00.322793",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Former member of US Army's elite Delta Force unit arrested for leaking secrets to reporter",
+      "link": "https://www.dailymail.co.uk/news/article-15717217/Army-Delta-Force-arrested-leaking-secrets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T23:28:59",
+      "description": "Courtney Williams, 40, was arrested Wednesday in connection with her alleged transmission of classified national defense information to individuals not authorized to receive it, including a journalist.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753935-0-image-a-5_1775686922809.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753935-0-image-a-5_1775686922809.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T23:35:00.322794",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mark Rutte heaps praise on Trump after Trump scorched Earth on NATO allies",
+      "link": "https://www.dailymail.co.uk/news/article-15717329/Mark-Rutte-heaps-praise-Trump-Trump-scorched-Earth-NATO-allies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T23:26:08",
+      "description": "NATO Secretary General Mark Rutte heaped praise onto President Donald Trump for the ceasefire in Iran - despite the American president threatening to quit the treaty organization.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755299-0-image-m-9_1775690664389.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755299-0-image-m-9_1775690664389.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T23:35:00.322795",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Catastrophic photo op that threatens Meghan's frail empire. If this happens on the Australia 'tour', it's game over for Brand Sussex: CANDACE SUTTON",
+      "link": "https://www.dailymail.co.uk/news/article-15711275/Catastrophic-photo-op-threatens-Meghans-frail-empire-happens-Australia-tour-game-Brand-Sussex-CANDACE-SUTTON.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T23:02:17",
+      "description": "The prospect of Meghan smiling for a photograph alongside a woman who has propagated such vituperative claims represents a glaring reputational risk for the Duchess.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/02/107728367-0-image-a-12_1775610476085.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/02/107728367-0-image-a-12_1775610476085.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T23:35:00.322798",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Reluctant war backer JD Vance faces Republican crossfire as he's tapped to lead peace talks with Iran",
+      "link": "https://www.dailymail.co.uk/news/article-15716969/JD-Vance-Republican-crossfire-iran-war-negotiations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T23:02:03",
+      "description": "Vice President JD Vance is facing Republican crossfire as he's tapped by President Donald Trump to lead peace talks with Iran this weekend.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753923-0-image-a-38_1775687192301.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753923-0-image-a-38_1775687192301.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T23:35:00.322799",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The Morning Poll: Who is the biggest winner from the Iran War?",
+      "link": "https://www.dailymail.co.uk/news/article-15715845/The-Morning-Poll-biggest-winner-Iran-War.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T23:01:33",
+      "description": "The Morning Poll: Who is the biggest winner from the Iran War?",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107742107-0-image-a-4_1775656375847.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107742107-0-image-a-4_1775656375847.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T23:35:00.322800",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "UNMASKED: The true secret life of America's top thriller writer Freida McFadden",
       "link": "https://www.dailymail.co.uk/news/article-15716397/Freida-McFadden-unmasked-Boston-Housemaid-thriller.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12389,121 +12501,23 @@
       "archived_at": "2026-04-06T19:51:11.575825",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Little boy melts Trump's heart as president fires off brutal Biden dig at Easter Egg roll",
-      "link": "https://www.dailymail.co.uk/news/article-15710339/donald-trump-joe-biden-easter-egg-roll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T19:27:53",
-      "description": "President Donald Trump shared a cute moment with a little boy on Monday at the White House Easter Egg Roll, but moments later couldn't help mocking his\u00a0predecessor, former President Joe Biden.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/20/107691989-0-image-a-37_1775502168603.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/20/107691989-0-image-a-37_1775502168603.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T19:51:11.575826",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Urgent search for American woman who fell overboard during Bahamas boat ride with husband",
-      "link": "https://www.dailymail.co.uk/news/article-15709945/search-american-woman-overboard-bahamas-boat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T19:09:22",
-      "description": "The missing woman's husband told the Royal Bahamas Police Force that the couple left on the boat at around 7.30pm on an eight-foot dinghy. She is still unaccounted for.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/19/107693077-0-image-a-65_1775501779841.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/19/107693077-0-image-a-65_1775501779841.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T19:51:11.575828",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "CHARANDEEP SINGH: Scotland's in the grip of relentless squeeze ... but 15 minutes away across the Border the story is very different",
-      "link": "https://www.dailymail.co.uk/news/article-15710409/CHARANDEEP-SINGH-Scotlands-grip-relentless-squeeze-15-minutes-away-Border-story-different.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T18:49:23",
-      "description": "It takes just 15 minutes to drive from Eyemouth to Berwick-upon- Tweed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691759-0-image-a-6_1775496638687.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691759-0-image-a-6_1775496638687.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T18:53:51.665767",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Swinney has 'made political career' out of double standards and hushing up scandal, claims Sarwar",
-      "link": "https://www.dailymail.co.uk/news/article-15710381/Swinney-political-career-double-standards-hushing-scandal-claims-Sarwar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T18:48:21",
-      "description": "John Swinney has 'made a political a career' out of double standards and covering up SNP scandals, Anas Sarwar has claimed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691679-0-image-a-6_1775496272568.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691679-0-image-a-6_1775496272568.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T18:53:51.665772",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump details daring 155-aircraft rescue of downed bloodied airman while vowing to jail 'leaker' who almost blew up rescue plan: 'God was watching'",
-      "link": "https://www.dailymail.co.uk/news/article-15710345/Trump-reveals-155-aircraft-involved-daring-rescue-airman-scrambled-cliff-faces-treating-wounds-contacted-US-forces-special-beeper.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T18:47:00",
-      "description": "President Donald Trump revealed astonishing new details on Monday about the successful rescue mission to find the downed American airman who was left wounded in Iran for 48 hours.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691511-0-image-a-3_1775496064675.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691511-0-image-a-3_1775496064675.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T18:53:51.665773",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Schoolboy, 14, shot dead in London told 'broken' mother he was filming rap video with friends but 'never came home'",
-      "link": "https://www.dailymail.co.uk/news/article-15710517/Schoolboy-14-shot-dead-London-mother-rap-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T18:43:40",
-      "description": "Eghosa Ogbebor was shot dead near Woolwich Dockyard station on Thursday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/19/107692877-0-image-m-10_1775500065081.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/19/107692877-0-image-m-10_1775500065081.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T18:53:51.665775",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Horrific tragedy unfolds after girl, 18, sat on WINDOWSILL of car as it drove down Oklahoma interstate",
-      "link": "https://www.dailymail.co.uk/news/article-15709881/oklahoma-teen-lani-hicks-killed-car-accident.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T18:15:38",
-      "description": "Lani Hicks was with three other passengers and a driver when tragedy struck on the busy Oklahoma interstate. She was 18 years old.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/16/107688945-0-image-m-9_1775490244321.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/16/107688945-0-image-m-9_1775490244321.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T18:53:51.665776",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Inmates' toxic drug fumes put our health at risk... and the drug epidemic is only going to get worse, warn jail staff",
-      "link": "https://www.dailymail.co.uk/news/article-15710303/Inmates-toxic-drug-fumes-health-risk-drug-epidemic-going-worse-warn-jail-staff.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T18:10:25",
-      "description": "Three quarters of prison officers in Scotland fear repeated exposure to toxic drug fumes on the job is putting their health at risk.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691957-0-image-a-15_1775497238446.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691957-0-image-a-15_1775497238446.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T18:53:51.665777",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Leicester suffer major blow in Championship relegation battle as six-point deduction is upheld despite appeal",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15716495/Leicester-suffer-major-blow-Championship-relegation-battle-six-point-deduction-upheld-despite-appeal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T23:24:44",
+      "description": "Leicester City have lost their appeal against their six-point deduction for breaching English Football League financial rules.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753951-0-image-a-4_1775686808099.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753951-0-image-a-4_1775686808099.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T23:35:02.732417",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "PSG grabbed the seams of a fraying Liverpool team and ripped them apart... another Anfield miracle looks beyond this divided club, writes OLIVER HOLT",
       "link": "https://www.dailymail.co.uk/sport/football/article-15712343/PSG-grabbed-seams-fraying-Liverpool-team-ripped-apart-Anfield-miracle-looks-divided-club-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -17661,6 +17675,50 @@
     }
   ],
   "Unherd": [
+    {
+      "title": "Is it too late to reindustrialize?",
+      "link": "https://unherd.com/2026/04/is-it-too-late-to-reindustrialise/?edition=us",
+      "pubDate": "2026-04-08T23:02:12",
+      "description": "Britain faces painful tradeoffs",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-08T23:35:04.698083",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "Robert Trivers: the last wild man of academia",
+      "link": "https://unherd.com/2026/04/robert-trivers-the-last-wild-man-of-academia/?edition=us",
+      "pubDate": "2026-04-08T23:01:27",
+      "description": "He wouldn\u2019t stand a chance today",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-08T23:35:04.698090",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "Against the Mad King",
+      "link": "https://unherd.com/2026/04/against-the-mad-king/?edition=us",
+      "pubDate": "2026-04-08T23:00:27",
+      "description": "Trump makes technocracy look good",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-08T23:35:04.698092",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "Inside Charleston\u2019s craft renaissance",
+      "link": "https://unherd.com/2026/04/inside-charlestons-craft-renaissance/?edition=us",
+      "pubDate": "2026-04-08T23:00:21",
+      "description": "Young artisans are defying AI",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-08T23:35:04.698093",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
     {
       "title": "America will never recover its authority",
       "link": "https://unherd.com/2026/04/america-will-never-recover-its-authority/?edition=us",
