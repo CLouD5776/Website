@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Why ceasefire deal with US has unsettled Iran's hardliners",
+      "link": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T17:16:37",
+      "description": "The two-week truce opens up the prospect of direct talks with the US but has angered Iran's hardliners, writes BBC News Persian\u2019s Kasra Naji.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/265a/live/f3dd6ac0-335f-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T20:39:01.679078",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US-Iran Ceasefire Agreed (For Now)",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nbyvvy?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T18:42:00",
+      "description": "US & Iran agree a ceasefire but how long will it last?",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T20:39:01.679089",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled",
       "link": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-08T18:30:58",
@@ -5477,31 +5499,37 @@
       "archived_at": "2026-04-01T11:50:50.887397",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Brazil judge blocks Sugarloaf Mountain zipline",
-      "link": "https://www.bbc.com/news/articles/cx29e3wljj2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T11:17:18",
-      "description": "The project to build a zipline linking the popular Rio tourist spot to Morro da Urca proved controversial.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1777/live/c6537470-2db3-11f1-927b-f98ec5617a78.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-01T11:50:50.887403",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Divorced couples in Japan can now share custody of their children",
-      "link": "https://www.bbc.com/news/articles/c77m16n6dm0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T04:11:30",
-      "description": "Japan was, until recently, the only G7 country to not recognise the legal concept of joint custody.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31f7/live/c812a080-2d7a-11f1-9d25-a9b18345b04f.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-01T11:50:50.887406",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "From allegedly shooting a man with a prosthetic leg in the back, to kicking a shepherd off a cliff: Inside all of the FIVE 'war crime - murder' charges against Ben Roberts-Smith",
+      "link": "https://www.dailymail.co.uk/news/article-15714131/ben-roberts-smith-war-crime-five.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T20:23:29",
+      "description": "Among the allegations facing Ben Roberts-Smith is that he intentionally caused the death of two people in Afghanistan between 2009 and 2012, and aided in the deaths of three others.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/04/107728167-0-image-m-11_1775619138111.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/04/107728167-0-image-m-11_1775619138111.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T20:39:04.969018",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "RFK Jr.'s second wife Mary Kennedy handed off his private diaries with a friend 'as insurance' in weeks leading up to her death",
+      "link": "https://www.dailymail.co.uk/news/article-15715677/rfk-jr-second-wife-mary-kennedy-diaries-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T20:22:59",
+      "description": "RFK Jr.'s second wife Mary Kennedy passed on his private journals to a friend of hers 'as insurance' just weeks before she took her own life, according to a new report.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/20/107748313-0-image-m-9_1775675911883.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/20/107748313-0-image-m-9_1775675911883.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T20:39:04.969024",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Clarifications and corrections",
       "link": "https://www.dailymail.co.uk/home/article-15067765/Clarifications-corrections.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12471,34 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-06T15:42:29.245746",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Horror as beloved firefighter, 54, drops dead during his shift at Fort Lauderdale airport",
-      "link": "https://www.dailymail.co.uk/news/article-15709499/fort-lauderdale-florida-airport-firefighter-paramedic-dies-shift.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T15:03:55",
-      "description": "Broward Sheriff Fire Rescue firefighter and paramedic\u00a0Steven Lepselter, 54, died on Sunday morning while on duty at the\u00a0Fort Lauderdale-Hollywood International Airport.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/15/107685507-0-image-m-20_1775486558228.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/15/107685507-0-image-m-20_1775486558228.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T15:42:29.245747",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Catastrophic truth behind Trump's latest Iran threat revealed by experts: 'War crimes, Day Zero and millions dead'",
-      "link": "https://www.dailymail.co.uk/news/article-15704789/trump-iran-desalination-war-crimes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T14:57:50",
-      "description": "Donald Trump is trying to ramp up pressure on Iran but his latest chilling threat could have disastrous unintended consequences, experts warn.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/15/107686787-0-image-a-1_1775485732651.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/15/107686787-0-image-a-1_1775485732651.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T15:42:29.245749",
       "feed_category": "News",
       "feed_visibility": "both"
     }
