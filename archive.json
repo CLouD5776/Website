@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
+      "link": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T22:08:33",
+      "description": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bf/live/93db7c00-3393-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T22:35:38.408474",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+      "link": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T21:10:14",
+      "description": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, historians say.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9842/live/b3744770-336d-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T22:35:38.408485",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Negotiators face huge task to close gaps in rival Iran peace proposals",
       "link": "https://www.bbc.com/news/articles/cvgkv9y97n0o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-08T20:26:48",
@@ -5477,31 +5499,107 @@
       "archived_at": "2026-04-01T13:14:14.220782",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Chelsea make biggest pre-tax loss in Premier League history",
-      "link": "https://www.bbc.com/sport/football/articles/cm2k3jdylp1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T12:40:11",
-      "description": "Chelsea announce a Premier League\u2011record pre\u2011tax loss of \u00a3262m for the 2024\u201125 season, surpassing the previous record of \u00a3179.5m set by Manchester City in 2011.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6b7/live/ddee0490-2db5-11f1-b692-3b8b8cac9c96.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-01T13:14:14.220785",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Who were Scotland's winners and losers from international break?",
-      "link": "https://www.bbc.com/sport/football/articles/c6249z0zw4po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T11:39:16",
-      "description": "After a friendly defeats by Japan and Ivory Coast, which Scotland players are the winners and losers of the international break?",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7572/live/38f41670-2d45-11f1-9d06-9fd6b940097f.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-01T13:14:14.220786",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "UNMASKED: The true secret life of America's top thriller writer Freida McFadden",
+      "link": "https://www.dailymail.co.uk/news/article-15716397/Freida-McFadden-unmasked-Boston-Housemaid-thriller.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T22:29:05",
+      "description": "She tells her fans little about her real life and keeps her identity a secret, but in reality she is a Boston doctor and the daughter of a renowned psychiatrist",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/19/107749297-0-image-a-52_1775674710680.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/19/107749297-0-image-a-52_1775674710680.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T22:35:40.009746",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Urgent recall issued for expensive sunscreen sold in Australia: Stop using now",
+      "link": "https://www.dailymail.co.uk/news/article-15717159/Medik8-sunscreen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T22:24:28",
+      "description": "An urgent recall has been issued for three expensive sunscreens over concerns they may not meet their claimed SPF levels.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753599-0-image-a-5_1775685879948.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753599-0-image-a-5_1775685879948.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T22:35:40.009753",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aussie parents shattered after losing two young sons just six months apart: 'Devastated'",
+      "link": "https://www.dailymail.co.uk/news/article-15716989/leroy-cane-gold-coast-crash-ryan-cane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T22:06:01",
+      "description": "Leroy Cane, 23, was killed in a motorcycle crash just six months after his brother Ryan was electrocuted.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752593-0-image-m-11_1775683716913.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752593-0-image-m-11_1775683716913.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T22:35:40.009755",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Hello, Astro sister!'\u00a0Women explorers make historic spacecraft-to-spacecraft radio call",
+      "link": "https://www.dailymail.co.uk/news/article-15717173/Astro-sister-Women-explorers-historic-spacecraft-radio-call.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T21:57:29",
+      "description": "Thousands of miles apart, 'astro sisters' Christina Koch and Jessica Meir caught up on Wednesday during the first moonship-to-spaceship radio call.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753425-0-image-m-10_1775685288016.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753425-0-image-m-10_1775685288016.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T22:35:40.009756",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sickening moment drunk and high mother crashes and rolls van carrying five children just seconds after teen pleads for her to slow down",
+      "link": "https://www.dailymail.co.uk/news/article-15716809/drunk-high-mother-crashes-rolls-van-five-children.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T21:51:28",
+      "description": "Faye Dawson was under the influence of alcohol and cannabis when she decided to show off to the five youngsters\u00a0in her Vauxhall Corsa in March last year.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/12/107738281-0-image-m-14_1775647370102.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/12/107738281-0-image-m-14_1775647370102.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T22:35:40.009758",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Even Green Party voters oppose Zack Polanski's plans to reduce the speed limit on Britain's motorways to 55mph, poll shows",
+      "link": "https://www.dailymail.co.uk/news/article-15716569/Green-Party-voters-oppose-Zack-Polanski-motorway-55mph-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T21:47:32",
+      "description": "Almost 70 per cent of all voters are against Zack Polanski's party's controversial plans - with even 62 per cent of Green supporters either somewhat or strongly opposed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753163-0-image-m-25_1775684300815.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753163-0-image-m-25_1775684300815.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T22:35:40.009759",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Billionaire Reform donor moves back to the UK to help Nigel Farage build his war chest",
+      "link": "https://www.dailymail.co.uk/news/article-15717117/Billionaire-Reform-donor-moves-UK-help-Farage-build-war-chest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T21:42:38",
+      "description": "Ben Delo, one of Britain's youngest self-made billionaires, is coming home from Hong Kong to 'build a war chest' for Nigel Farage ahead of the next election.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753113-0-image-m-25_1775684422871.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753113-0-image-m-25_1775684422871.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T22:35:40.009761",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Urgent warning for Australians as a fast-spreading new flu strain strikes",
       "link": "https://www.dailymail.co.uk/news/article-15717111/vaccine-warning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12403,107 +12501,37 @@
       "archived_at": "2026-04-06T18:53:51.665777",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Facial recognition drones to be deployed in the Channel to catch migrant smugglers steering small boats",
-      "link": "https://www.dailymail.co.uk/news/article-15709899/Facial-recognition-drones-Channel-catch-migrant-smugglers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T18:07:16",
-      "description": "Facial recognition drones are to be deployed in the Channel to catch migrant smugglers driving the small boats.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/19/107577759-0-image-m-19_1775498706124.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/19/107577759-0-image-m-19_1775498706124.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T18:53:51.665779",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Beloved pageant queen who won Miss North Carolina dies aged just 22 from 'rare and aggressive' gastric cancer",
-      "link": "https://www.dailymail.co.uk/news/article-15709855/miss-north-carolina-carrie-everett-dead-cancer-hbcu.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T18:05:37",
-      "description": "The young woman was the first student of a Historically Black College or University to win the Miss North Carolina title. She died on Sunday after a courageous eight-month battle with cancer.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/17/107689393-0-image-m-20_1775493042175.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/17/107689393-0-image-m-20_1775493042175.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T18:53:51.665780",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hard labour for pinching slippers and stealing a violin: Rogues gallery of Victorian soldiers, sailors and workers who were locked up for minor offences",
-      "link": "https://www.dailymail.co.uk/news/article-15709891/Victorian-mugshots-faces-criminals-jailed-minor-offences.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T17:30:37",
-      "description": "The mugshots were revealed in Doctor Helen Rutherford's book, Newcastle Prison: A History 1828 - 1925, examining crime after the expansion of policing in the city.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690637-0-image-m-18_1775494200744.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690637-0-image-m-18_1775494200744.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T17:41:31.732911",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Newlywed fighting for his life after freak tractor accident just three weeks after he got married",
-      "link": "https://www.dailymail.co.uk/news/article-15709821/newlywed-tractor-accident-married-georgia-alabama.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T17:24:27",
-      "description": "Hilton Lane, 36, is fighting for his life just three weeks after marrying the 'love of his life' after a freak tractor accident in Georgia.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691071-0-image-m-52_1775494889280.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/18/107691071-0-image-m-52_1775494889280.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T17:41:31.732917",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Promising young dental student, 26, suffered dystopian death at Connecticut hospital that saw him treated and pronounced dead by doctor beamed in on TV screen, lawsuit alleges",
-      "link": "https://www.dailymail.co.uk/news/article-15709625/dental-student-conor-hylton-connecticut-hospital-virtual-doctor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T17:23:17",
-      "description": "Conor Hylton, 26, died after he was admitted to a hospital where the doctor responsible for his care only saw him virtually, a new lawsuit claims.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690661-0-image-m-12_1775492851421.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/17/107690661-0-image-m-12_1775492851421.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T17:41:31.732918",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Katie Price's husband's latest 'lies': Lee Andrews claimed Forbes AI-ed his image for front cover, said he knows 'most elite people on planet' including Tony Blair, boasted of speaking EVERY language and said his dad was dying",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15709215/Katie-Prices-husbands-latest-lies-Lee-Andrews-claimed-Forbes-AI-ed-image-cover-said-knows-elite-people-planet-including-Tony-Blair-boasted-speaking-language-said-dad-dying.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T16:22:05",
-      "description": "Katie Price's husband Lee Andrews's latest slew of alleged lies have been unveiled in messages exposed by his ex-fianc\u00e9e\u00a0Alana Percival.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/12/107683677-0-image-m-28_1775475011622.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/12/107683677-0-image-m-28_1775475011622.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T16:42:31.495036",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ronan Keating breaks down in tears sharing biggest regret about his brother's death, sobbing 'I grew up quickly and made a lot of sacrifices'",
-      "link": "https://www.dailymail.co.uk/tv/article-15709727/ronan-keating-tears-brothers-death-ciaran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T16:06:52",
-      "description": "Boyzone and The One Show star Ronan, 49, is fronting a BBC show titled Ronan Keating's Wild Atlantic Way.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/15/107686463-0-image-a-4_1775484854081.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/15/107686463-0-image-a-4_1775484854081.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-06T16:42:31.495042",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "PSG grabbed the seams of a fraying Liverpool team and ripped them apart... another Anfield miracle looks beyond this divided club, writes OLIVER HOLT",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15712343/PSG-grabbed-seams-fraying-Liverpool-team-ripped-apart-Anfield-miracle-looks-divided-club-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T21:46:34",
+      "description": "OLIVER HOLT AT THE PARC DES PRINCES: It was a picture that spoke a thousand words because this is a Liverpool divided.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753181-0-image-a-51_1775684424142.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753181-0-image-a-51_1775684424142.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T22:35:41.370057",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Diego Simeone's gnarled Atletico Madrid machine cash in on red card at Nou Camp - with Julian Alvarez's stunning free-kick lighting up 2-0 win over Barcelona, writes KIERAN GILL",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15712365/Diego-Simeones-gnarled-Atletico-Madrid-machine-cash-red-card-Nou-Camp-Julian-Alvarezs-stunning-free-kick-lighting-2-0-win-Barcelona-writes-KIERAN-GILL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T22:13:44",
+      "description": "Diego Simeone had his palms pressed together in the technical area as if he was saying his prayers. They were answered for Atletico Madrid's man in black and then some.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753933-0-image-a-25_1775686413554.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753933-0-image-a-25_1775686413554.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T22:35:41.370067",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Revealed: Official in key Man United clash is police officer facing allegations of inappropriate behaviour towards female colleague",
       "link": "https://www.dailymail.co.uk/sport/football/article-15716597/Official-key-Man-United-clash-police-officer-facing-allegations-inappropriate-behaviour-female-colleague.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
