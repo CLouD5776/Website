@@ -1,6 +1,94 @@
 {
   "BBC News": [
     {
+      "title": "Watch: Iranians gather in Tehran following ceasefire announcement",
+      "link": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T08:22:15",
+      "description": "Pro-government demonstrators poured onto the streets of the Iranian capital after the announcement of the two-week conditional ceasefire between the US and Iran.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0441/live/ccb45bc0-3323-11f1-a02b-974260fa1e16.png",
+      "enclosure": null,
+      "archived_at": "2026-04-08T08:40:52.675142",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "UK house prices fall as Iran war uncertainty dampens demand",
+      "link": "https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T07:34:23",
+      "description": "Mortgage rates have been rising and hundreds of the cheapest deals have disappeared over the last month.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e7/live/eb0573e0-331c-11f1-89be-ff1db6c3a1e6.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T08:40:52.675146",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Forecast for UK to peak at 26C before temperatures plunge",
+      "link": "https://www.bbc.com/weather/articles/c9d46yx0ndwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T06:17:11",
+      "description": "Temperatures could nudge as high as 26C (79F) in some places on Wednesday.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a034/live/d2954110-3316-11f1-a79a-77e93010d956.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T08:40:52.675152",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Books changed my life, says Queen's first reading hero",
+      "link": "https://www.bbc.com/news/articles/c2lwkwnzk7vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T05:54:41",
+      "description": "Selina Brown, from Birmingham, says she is delighted to be the UK's first National Reading Hero.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0df9/live/b05cbb30-3291-11f1-a06d-efde436183e6.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T08:40:52.675154",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Almost a third of ferry fleet out of action on Scotland's west coast",
+      "link": "https://www.bbc.com/news/articles/cg54174pqjmo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-07T17:04:38",
+      "description": "CalMac's chief executive says an \"unprecedented situation\" has worsened, with 10 vessels currently unable to sail.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/372c/live/e27a7bb0-2aae-11f1-a0a3-89526fc96a3b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T08:40:52.675157",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arrest as \u00a3200k stolen from scouts trip fund",
+      "link": "https://www.bbc.com/news/articles/ce3dxyl97eqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T05:11:46",
+      "description": "The money had been raised towards a scouts trip to Canada, leaving 100 children in the lurch.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55b0/live/429fbc60-58f2-11f0-852a-fb4f43c1b4cc.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T08:40:52.675158",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+      "link": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T02:33:45",
+      "description": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e52/live/dd7a72e0-32f2-11f1-99b6-23f4623af7b4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T08:40:52.675159",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Frank Gardner on why Iran-US ceasefire is 'not the whole story'",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nc4jzp?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T06:01:33",
+      "description": "Our security correspondent offers his analysis on the two-week ceasefire.",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0nc4k2d.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-08T08:40:52.675160",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Starmer to visit Middle East after US and Iran reach ceasefire deal",
       "link": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-08T07:09:22",
@@ -5411,97 +5499,177 @@
       "archived_at": "2026-03-31T19:33:34.052360",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Prince Harry's latest feud with the press is over (for now). Here are seven key takeaways",
-      "link": "https://www.bbc.com/news/articles/cde5dk2d9j8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T18:13:13",
-      "description": "As the case draws to a close, we look back at the toughest newspaper court battle yet.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ab/live/5f26ebc0-2d17-11f1-ba67-f7b8dbc6a466.jpg",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052365",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "UK and France extend talks over new small boats deal",
-      "link": "https://www.bbc.com/news/articles/c3exveglpe3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T16:17:07",
-      "description": "A three-year deal to pay for more French patrols to intercept smuggling gangs was due to expire at midnight.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04cc/live/ebceeea0-2ceb-11f1-bdf5-ddbf94ae98c3.jpg",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052367",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tottenham Supporters' Trust says it cannot support De Zerbi appointment",
-      "link": "https://www.bbc.com/sport/football/articles/c0mjrnr4ld3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T16:28:56",
-      "description": "Opposition to the appointment of new manager Roberto de Zerbi is growing among official Tottenham fans' groups, because of the Italian's controversial support of Mason Greenwood.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc80/live/3c7c2830-2cf7-11f1-b960-35ed0ba67153.jpg",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052368",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Oil nears highest price since start of Iran war",
-      "link": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T18:33:00",
-      "description": "The US-Israel Iran war has halted almost all traffic in a key waterway and the price Brent crude has surged.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29b0/live/d944dc30-2d23-11f1-a36a-2bc3523bb833.jpg",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052369",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hegseth calls on US allies to 'step up' over Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/cpwj7r5yxv1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T15:19:58",
-      "description": "The defence secretary's comments came after US President Donald Trump told other nations to \"go get your own oil\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cc/live/60f5a760-2d0e-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052371",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Iran using children in security roles in war, reports and witnesses say",
-      "link": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T12:56:45",
-      "description": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97c6/live/903a1ed0-2cef-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052372",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Inside the cockpit of RAF tanker during defensive mission against Iranian drones",
-      "link": "https://www.bbc.com/news/articles/cdrmg6x2rgxo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-30T23:10:44",
-      "description": "Defence correspondent Jonathan Beale flies onboard a Royal Air Force Voyager as it refuels jets in the Middle East.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cc3/live/38831e50-2c57-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052373",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-      "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T18:57:25",
-      "description": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb9/live/6074dc70-2cff-11f1-b960-35ed0ba67153.jpg",
-      "enclosure": null,
-      "archived_at": "2026-03-31T19:33:34.052374",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Moment fight that left man, 21, dead and another in hospital breaks out on Primrose Hill as 'crowds basked in the sunshine'",
+      "link": "https://www.dailymail.co.uk/news/article-15714865/Moment-fight-Primrose-Hill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T08:40:07",
+      "description": "Several young men appear to be scrapping with each other, while crowds basked in the yesterday's good weather nearby.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/07/107733591-0-image-m-21_1775631479471.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/07/107733591-0-image-m-21_1775631479471.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051210",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Stock markets surge following Iran ceasefire announcement, with world leaders welcoming 'very good' news: Live updates",
+      "link": "https://www.dailymail.co.uk/news/article-15714929/Iran-US-Israel-Middle-East-live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T08:39:10",
+      "description": "LIVE: Read the Daily Mail's coverage of the aftermath of the Middle East war, as stock markets surge following Donald Trump's 11th hour ceasefire announcement",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/08/107733877-0-image-a-4_1775632677116.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/08/107733877-0-image-a-4_1775632677116.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051215",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Inside Wireless Festival 'mayhem' as headliner Kanye West's shock UK ban forces event to CANCEL",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15714059/kanye-west-uk-banned-wireless-festival-canceled-mayhem.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T08:28:27",
+      "description": "The rapper, 48, sparked controversy late last month when it was announced that he would be headlining the three-day event in Finsbury Park despite his history of pro-Nazi outbursts.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/02/107728785-0-image-a-24_1775611745263.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/02/107728785-0-image-a-24_1775611745263.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051217",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Afghan migrant who attacked girl, 14, and her mother with a wine bottle is allowed to stay in Britain",
+      "link": "https://www.dailymail.co.uk/news/article-15714781/Afghan-migrant-attacked-girl-14-mother-wine-bottle-allowed-stay-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T08:20:31",
+      "description": "The migrant, who has been anonymised as AR, committed a number of offences, including threatening to kill his flatmate shortly after he arrived in the UK.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/09/104441007-0-The_Upper_Tribunal_of_the_Immigration_and_Asylum_Chamber_heard_t-a-5_1775635746477.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/09/104441007-0-The_Upper_Tribunal_of_the_Immigration_and_Asylum_Chamber_heard_t-a-5_1775635746477.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051218",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Rivals 'is set for a third series that will be raunchier than ever' ahead of the second season premiere",
+      "link": "https://www.dailymail.co.uk/tv/article-15714141/Rivals-set-series-raunchier-ahead-second-season-premiere.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T08:17:01",
+      "description": "The Disney+ series, based on Jilly Cooper's novel of the same name, became an instant hit when it debuted in 2024.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/00/107726055-0-image-a-14_1775603273575.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/00/107726055-0-image-a-14_1775603273575.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051220",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I'm A Celebrity viewers praise Ashley Roberts, 44, for refreshing conversation about children as Scarlett Moffatt reveals fertility struggles",
+      "link": "https://www.dailymail.co.uk/tv/article-15713861/Im-Celebrity-viewers-praise-Ashley-Roberts-refreshing-conversation-children-Scarlett-Moffatt-reveals-fertility-struggles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T07:32:15",
+      "description": "I'm A Celebrity viewers have praised Ashley Roberts for admitting having children 'isn't top of the list'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/22/107724095-0-image-a-19_1775597346266.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/22/107724095-0-image-a-19_1775597346266.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051221",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The late Queen came 'close to a nervous breakdown' and retreated to bed for over a week - it wasn't during the decade everyone would expect, royal biographer ROBERT HARDMAN claims",
+      "link": "https://www.dailymail.co.uk/news/royals/article-15712661/queen-elizabeth-nervous-breakdown-1969-investiture-prince-charles-robert-hardman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T06:30:01",
+      "description": "Hardman said Buckingham Palace announced Elizabeth II had come down with flu as cover for the fact she had cancelled all engagements and taken to bed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/15/107714031-0-image-a-6_1775572027504.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/15/107714031-0-image-a-6_1775572027504.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051223",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "My neighbour stole half a metre of my garden when he replaced his fence. What should I do? DEAN DUNHAM KC replies",
+      "link": "https://www.dailymail.co.uk/money/experts/article-15712979/My-neighbour-stole-half-metre-garden-replaced-fence-DEAN-DUNHAM-KC-replies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T02:34:38",
+      "description": "I agreed to pay half the \u00a32,200 cost of replacing a fence that I share with my next-door neighbour. However, it was installed in the wrong place.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721621-0-image-a-6_1775590797958.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721621-0-image-a-6_1775590797958.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051225",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "PATRICK MARMION reviews Inter Alia: Rosamund Pike's whirlwind turn as a judge in freefall will leave you breathless... if you can get a ticket",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15713891/PATRICK-MARMION-reviews-Inter-Alia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-08T01:57:13",
+      "description": "Rosamund Pike's one hour and 40 minute whirlwind of a performance ensures we don't get too much time for lateral thinking.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/23/107724759-0-image-m-40_1775599552907.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/23/107724759-0-image-m-40_1775599552907.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051226",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Inside the crowd-free seaside village named one of the 'UK's prettiest'",
+      "link": "https://www.dailymail.co.uk/travel/article-15709895/crowd-free-seaside-village-named-UK-prettiest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T23:58:02",
+      "description": "The UK is home to a wealth of beautiful seaside destinations. This gem is perfect for a coastal holiday without hordes of tourists.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/15/107687315-0-image-a-24_1775487181682.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/06/15/107687315-0-image-a-24_1775487181682.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051229",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "CHRISTOPHER STEVENS reviews Ligas:\u00a0Vain, sexist, politically incorrect... but this lothario lawyer is irresistible",
+      "link": "https://www.dailymail.co.uk/tv/article-15713795/CHRISTOPHER-STEVENS-reviews-Ligas-Vain-sexist-politically-incorrect-lawyer-irresistible.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T23:45:17",
+      "description": "Set in Milan and starring Luca Argentero as a dapper lawyer on the skids, Ligas is about as politically correct as a Carry On film and as woke as the Reform UK party conference.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/22/107724265-0-image-m-12_1775597415749.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/22/107724265-0-image-m-12_1775597415749.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051231",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "As UK is hit by hayfever bomb, diet tweaks that can help beat streaming eyes and bunged-up nose",
+      "link": "https://www.dailymail.co.uk/health/article-15712141/As-UK-hit-hayfever-bomb-diet-tweaks-help-beat-streaming-eyes-bunged-nose.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-07T15:34:58",
+      "description": "For Britain's 16 million hay fever sufferers, the start of the season promises weeks, if not months, of misery. But could simple dietary changes help reduce your suffering?",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/10/107706439-0-image-m-10_1775555345264.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/07/10/107706439-0-image-m-10_1775555345264.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:54.051235",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump celebrates 'big day for World Peace' as US makes 11th hour ceasefire deal to avert ultimate carnage and work toward lasting truce",
       "link": "https://www.dailymail.co.uk/news/article-15714497/Donald-Trump-Iran-deal-negotiations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12333,174 +12501,6 @@
       "archived_at": "2026-04-05T23:43:31.195929",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "How long Australia's fuel will last: Energy minister Chris Bowen drops major update as timeline suddenly shifts",
-      "link": "https://www.dailymail.co.uk/news/article-15708419/how-long-australia-fuel-last.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T23:40:28",
-      "description": "The Albanese government confirmed Australia would receive the 'normal supply' of fuel from Japan , South Korea and Singapore as the Iran conflict wreaks havoc on the global oil market.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/00/107675387-0-image-a-1_1775430419613.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/00/107675387-0-image-a-1_1775430419613.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T23:43:31.195935",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Working families' bills will rise to fund \u00a33.5billion 'benefits payday' as two-child cap is lifted, Tories warn",
-      "link": "https://www.dailymail.co.uk/news/article-15708513/working-families-bills-rise-benefits-payday-two-child-cap.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T23:36:33",
-      "description": "Hard-working families will see their bills rise thanks to today's 'benefits payday', when the two-child benefit cap is lifted, the Tories warned on Sunday night.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/23/106044633-0-image-a-89_1775429094853.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/23/106044633-0-image-a-89_1775429094853.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T23:43:31.195937",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Small plane makes emergency landing on interstate surrounded by confused car drivers",
-      "link": "https://www.dailymail.co.uk/news/article-15708013/small-plane-lands-pennsylvania-road-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T23:29:58",
-      "description": "The small aircraft took off from New Jersey on Saturday morning en route to Indiana when the pilot reported engine issues, forcing a seamless emergency landing.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/00/107674705-0-image-m-23_1775430744202.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/00/107674705-0-image-m-23_1775430744202.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T23:43:31.195938",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hollywood actress Kate Beckinsale claims her agent fired her for 'liking' social media post calling for ceasefire in Gaza",
-      "link": "https://www.dailymail.co.uk/news/article-15708527/Kate-Beckinsale-claims-fired-liking-social-media-Gaza.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T23:29:26",
-      "description": "In an industry of carefully-curated social media accounts, Kate Beckinsale has never shied away from telling her millions of followers what she really thinks.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/00/107675421-0-image-m-43_1775430497486.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/00/107675421-0-image-m-43_1775430497486.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T23:43:31.195939",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Straight-talker' Kemi is now most popular party leader, poll reveals as she surpasses Nigel Farage in approval ratings",
-      "link": "https://www.dailymail.co.uk/news/article-15708537/Straight-talker-Kemi-popular-party-leader-poll-reveals-surpasses-Nigel-Farage-approval-ratings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T23:27:25",
-      "description": "The Conservative leader has seen a significant boost to her popularity in recent months, surpassing Reform UK leader Nigel Farage in approval ratings.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/23/107660197-0-image-m-22_1775429507993.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/23/107660197-0-image-m-22_1775429507993.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T23:43:31.195940",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Qantas flight makes dramatic mid-air U-turn as passenger reveals what happened onboard",
-      "link": "https://www.dailymail.co.uk/news/article-15708439/Qantas-flight-makes-dramatic-mid-air-U-turn-passenger-reveals-happened-onboard.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T22:58:23",
-      "description": "A Qantas plane heading to the US was forced into a sudden turnaround after a passenger suffered a medical emergency.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/23/107675073-0-image-m-13_1775429407058.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/23/107675073-0-image-m-13_1775429407058.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T23:43:31.195943",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Teen girl left fighting for her life after being bitten by a venomous rattlesnake while on a bike ride",
-      "link": "https://www.dailymail.co.uk/news/article-15708329/Bailey-Vanden-Bossche-rattlesnake-bite-California.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T22:52:37",
-      "description": "Bailey Vanden Bossche, 14, was left fighting for her life after she was bitten by a venomous rattlesnake while enjoying a bike ride with her friend in the early evening of March 20.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/23/107674629-0-image-m-18_1775427778862.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/23/107674629-0-image-m-18_1775427778862.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T23:00:12.630736",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Executed at dawn: Iranian protesters who fought back against evil regime are hanged in prison",
-      "link": "https://www.dailymail.co.uk/news/article-15708437/Executed-dawn-Iranian-protesters-fought-against-evil-regime-hanged-prison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T22:52:10",
-      "description": "Mohammadamin Biglari, 19, and Shahin Vahedparast Kalour, 30, were executed at Ghezel Hesar Prison at dawn on Sunday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/23/107674861-0-image-m-11_1775427907659.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/23/107674861-0-image-m-11_1775427907659.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T23:00:12.630742",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tottenham refused to let Kanye West perform at their stadium before 'anti-semitic' rapper was unveiled as Wireless Festival headliner",
-      "link": "https://www.dailymail.co.uk/news/article-15708303/Tottenham-refused-Kanye-West-perform-stadium-Jewish-links.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T22:37:38",
-      "description": "Tottenham Hotspur refused to let Kanye West perform at its stadium in light of his record of racism and the club's historic Jewish links.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/23/107674617-0-image-m-9_1775428167378.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/23/107674617-0-image-m-9_1775428167378.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T23:00:12.630745",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Mumsnet sparks fury from parents over 'normalising' smartphones for children after using six-year-old in marketing campaign",
-      "link": "https://www.dailymail.co.uk/news/article-15708389/Mumsnet-sparks-fury-parents-normalising-smartphones-children-using-six-year-old-marketing-campaign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T22:21:02",
-      "description": "The parenting forum has launched a \u00a3279 phone designed to 'put child safety first and give parents peace of mind'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/22/107674403-0-image-m-10_1775425688846.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/22/107674403-0-image-m-10_1775425688846.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T22:27:22.447514",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The Morning Poll: Will you use the bank holiday to do some DIY?",
-      "link": "https://www.dailymail.co.uk/news/article-15707979/The-Morning-Poll-use-bank-holiday-DIY.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T22:20:46",
-      "description": "You've scoffed all the chocolate, and now you're realising that you only have one day left of your long Easter weekend to freshen up your home in time for spring.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/15/66366655-0-The_silicone_around_your_shower_and_sinks_will_deteriorate_over_-a-4_1775400783967.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/15/66366655-0-The_silicone_around_your_shower_and_sinks_will_deteriorate_over_-a-4_1775400783967.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T22:27:22.447521",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ministers side with Labour rebels to water down Shabana Mahmood's migrant crackdown",
-      "link": "https://www.dailymail.co.uk/news/article-15708465/ministers-Labour-rebel-Shabana-Mahmood-migrant-crackdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-05T22:19:40",
-      "description": "The Home Secretary unveiled changes last year that would make it harder for migrants to permanently settle in Britain in a bid to see off the electoral threat from Reform UK.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/05/23/107671991-0-Over_four_thousand_small_boat_migrants_have_come_to_Britain_in_s-a-69_1775427411487.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/05/23/107671991-0-Over_four_thousand_small_boat_migrants_have_come_to_Britain_in_s-a-69_1775427411487.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-05T22:27:22.447523",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
@@ -18339,6 +18339,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Sabrina Carpenter teases 'most ambitious show' to date for Coachella",
+      "link": "https://www.music-news.com/news/UK/188216/Sabrina-Carpenter-teases-most-ambitious-show-to-date-for-Coachella",
+      "pubDate": "2026-04-08T07:00:00",
+      "description": "Sabrina Carpenter is headlining Coachella this year and she's got big plpans.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188216.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188216.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:58.671503",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Wireless Festival boss Melvin Benn claims Pepsi approved Kanye West booking before boycott",
+      "link": "https://www.music-news.com/news/UK/188215/Wireless-Festival-boss-Melvin-Benn-claims-Pepsi-approved-Kanye-West-booking-before-boycott",
+      "pubDate": "2026-04-08T07:00:00",
+      "description": "Melvin Benn has claimed drinks company Pepsi actually \"signed off\" on the controversial headliner for Wireless.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188215.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188215.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-08T08:40:58.671507",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Human Nature's Andrew Tierney reveals alcohol problem",
       "link": "https://www.music-news.com/news/UK/188214/Human-Nature-s-Andrew-Tierney-reveals-alcohol-problem",
