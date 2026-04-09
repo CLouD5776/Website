@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
+      "link": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T17:04:50",
+      "description": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4825/live/fa97e0f0-3433-11f1-a18c-d7e9f5df98a8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T17:56:28.927426",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Robertson to leave Liverpool at the end of the season",
+      "link": "https://www.bbc.com/sport/football/articles/cp8d4jvj108o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T17:48:53",
+      "description": "Andy Robertson will leave Liverpool at the end of the season when his contract expires in the summer, the club has announced.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "enclosure": null,
+      "archived_at": "2026-04-09T17:56:28.927437",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Transgender women banned from women's PDC darts",
+      "link": "https://www.bbc.com/sport/darts/articles/c33lm6d154eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T17:21:57",
+      "description": "The Darts Regulation Authority bans transgender women from competing in its women's events with immediate effect.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8209/live/982f21a0-3436-11f1-a18c-d7e9f5df98a8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T17:56:28.927439",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
       "link": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-09T16:06:39",
@@ -5466,42 +5499,191 @@
       "archived_at": "2026-04-02T08:52:31.924764",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Blind marathon runner to be guided by smart glasses",
-      "link": "https://www.bbc.com/news/articles/cz6732p2vpjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T05:05:34",
-      "description": "Clarke Reynolds will tackle the Brighton marathon with the help of a network of virtual guides.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3665/live/3a49a2d0-2dde-11f1-ae65-97b179e2f0f5.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T07:46:35.361907",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Oil jumps and shares fall after US president address",
-      "link": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T07:22:41",
-      "description": "The US president says he will bring Iran \"back to the Stone Age\" but failed to say how the war will end.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5477/live/6014f3c0-2e60-11f1-9408-ab8675603e32.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T07:46:35.361913",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Anonymous letter-writer could help solve who killed doctor and five children, police say",
-      "link": "https://www.bbc.com/news/articles/c4g6r51jjglo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T04:41:47",
-      "description": "Police are keen to speak to the writer of an anonymous letter relating to the arson attack.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb33/live/dd83fb80-2dde-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T07:46:35.361915",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Trump orders Benjamin Netanyahu to 'CALM DOWN' as Israel threatens Iran ceasefire with brutal bombardment in Lebanon",
+      "link": "https://www.dailymail.co.uk/news/article-15719705/Trump-orders-Benjamin-Netanyahu-CALM-Israel-threatens-Iran-ceasefire-brutal-bombardment-Lebanon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:53:35",
+      "description": "Trump's request came as the US prepares to meet with Iranian leaders in Pakistan to negotiate an end to the war.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107413567-0-image-a-6_1775755207894.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107413567-0-image-a-6_1775755207894.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108487",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Met Police officer who abused girlfriends and bled them dry of thousands of pounds for his gambling habit is found guilty of fraud and coercive control",
+      "link": "https://www.dailymail.co.uk/news/article-15719549/Met-Police-officer-abused-girlfriends-guilty-fraud-coercive-control.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:51:01",
+      "description": "Lewis Rollins, 28, who was a police constable in the Met's Central West Command, used women he met on dating apps to fund his out-of-control betting habit.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775031-0-image-m-13_1775753829385.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775031-0-image-m-13_1775753829385.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108493",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Medical examiner who joked about Trump's 'big beautiful obituary' quickly placed on administrative leave",
+      "link": "https://www.dailymail.co.uk/news/article-15718991/medical-examiner-bob-pfalzgraf-trump-social-media-post.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:50:35",
+      "description": "After being contacted via multiple calls, messages and emails, Pfalzgraf told the Daily Mail on Thursday that he had 'no comment until the city speaks to me.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775719-0-image-m-52_1775753938453.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775719-0-image-m-52_1775753938453.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108494",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "DC still so rough stores are putting CANDY behind locked plexiglass barriers despite Trump's no-nonsense federal crime crackdown",
+      "link": "https://www.dailymail.co.uk/news/article-15718703/dc-cvs-stores-candy-locked-glass-theft-crime.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:50:08",
+      "description": "Stealing is by far the most common crime recorded in the city, and theft rates have been steadily climbing since the start of the year, despite the federal crackdown.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/15/107771347-0-image-m-4_1775744912467.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/15/107771347-0-image-m-4_1775744912467.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108496",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fury as American DJ who is under investigation in Australia over 'anti-Semitic' speech is set to perform at London and Birmingham gigs next month",
+      "link": "https://www.dailymail.co.uk/news/article-15719569/American-DJ-Australia-alleged-antisemitic-rhetoric-perform-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:49:43",
+      "description": "DJ Haram, whose real name is Zubeyda Muzeyyen, is lined up for gigs at Phonox in London and Supersonic Festival in May.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776089-0-image-m-6_1775754735972.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776089-0-image-m-6_1775754735972.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108497",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Flustered NATO chief squirms to explain why he called Trump 'Daddy' as he reveals closed-door plea to the President on staying in the alliance",
+      "link": "https://www.dailymail.co.uk/news/article-15719599/NATO-chief-Trump-Daddy-President-alliance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:49:15",
+      "description": "During a high-stakes encounter hours after a closed-door meeting with Donald Trump in the White House , the Daily Mail cornered NATO Secretary-General Mark Rutte with a blunt query.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107774877-0-image-m-22_1775754619885.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107774877-0-image-m-22_1775754619885.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108498",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Britain braced for 'bumper' summer of Channel small boat crossings after French President Emmanuel Macron says 'Non!' to Shabana Mahmood's plan to intercept and return Channel migrants to France",
+      "link": "https://www.dailymail.co.uk/news/article-15719639/Britain-braced-bumper-summer-Channel-small-boat-crossings-French-President-Emmanuel-Macron-says-Non-Shabana-Mahmoods-plan-intercept-return-Channel-migrants-France.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:46:42",
+      "description": "Talks over a new migrant patrol deal were plunged into chaos after Shabana Mahmood pushed for Border Force vessels to be able to intercept boats.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776081-0-image-a-7_1775754819391.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776081-0-image-a-7_1775754819391.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108500",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Historic \u00a337,000-a-year St Lawrence College closes leading to 170 people losing their jobs after government's VAT hit",
+      "link": "https://www.dailymail.co.uk/news/article-15719445/st-lawrence-college-closes-170-losing-jobs-governments-VAT-hit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:44:49",
+      "description": "A historic \u00a337,000-a-year private school has announced it is closing down after being overwhelmed by Labour's VAT raid.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776477-0-image-m-12_1775756035558.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776477-0-image-m-12_1775756035558.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108501",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How NOT to bet on the Grand National: Why picking a horse named after yourself or a relative is unlikely to pay off",
+      "link": "https://www.dailymail.co.uk/news/article-15718577/How-NOT-bet-Grand-National-picking-horse-named-relative-unlikely-pay-off.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:44:15",
+      "description": "Only three of the last 20 Grand National winners had human names - I Am Maximus, Nick Rockett and One For Arthur.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775293-0-image-a-24_1775753434916.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775293-0-image-a-24_1775753434916.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108502",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teen who vanished from home in freezing weather miraculously rescued by pilots who spotted him from the sky",
+      "link": "https://www.dailymail.co.uk/news/article-15719109/teen-rescue-new-jersey-pilots.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:44:14",
+      "description": "Joel Medina, a 17-year-old with autism, went missing on March 20 after he ran away from his home in Egg Harbor Township, New Jersey.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776381-0-image-a-8_1775755793474.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776381-0-image-a-8_1775755793474.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108503",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Beloved food truck worker, 22, who won hearts across the US is killed in horrific motorbike accident",
+      "link": "https://www.dailymail.co.uk/news/article-15718665/food-truck-worker-blaise-stewart-wichita-kansas-motorcycle-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:43:46",
+      "description": "Blaise Stewart, 22, died in a motorcycle crash in Wichita, Kansas, on Tuesday afternoon. He was a beloved employee for I Heart Cookies, a food truck that travels across the US.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107772881-0-image-m-10_1775749561828.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107772881-0-image-m-10_1775749561828.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108505",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Wife's haunting joke about marriage days before she vanished overboard while sailing Bahamas with husband... as cops arrest him over her disappearance",
+      "link": "https://www.dailymail.co.uk/news/article-15719237/lynette-hooker-brian-hooker-joke-bahamas-disappearance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:43:22",
+      "description": "In a short video posted to their YouTube channel on April 3, Lynette Hooker poked fun at suggestions that she and her husband Brian may 'get sick' of spending so much time together.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775033-0-image-m-57_1775752912897.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775033-0-image-m-57_1775752912897.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108506",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Horrific video shows huge parking garage partially collapse in Philadelphia killing at least one person",
+      "link": "https://www.dailymail.co.uk/news/article-15718805/Philadelphia-parking-garage-collapse-one-dead-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:42:51",
+      "description": "At least one person was killed, two were injured and two more are missing after all seven floors of the parking garage's stair tower collapsed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/17/107773819-0-image-m-5_1775750421670.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/17/107773819-0-image-m-5_1775750421670.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:31.108507",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "We're singin' in the rain! Glamorous Aintree revellers dodge the drops in skimpy skirts at the Grand National Festival - as Princess Anne brings a touch of elegance",
       "link": "https://www.dailymail.co.uk/lifestyle/article-15718549/Racegoers-including-Princess-Anne-brave-wind-rain-freezing-r-Aintree-day-Grand-National-festival.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12319,191 +12501,23 @@
       "archived_at": "2026-04-07T15:53:58.696274",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Love Island star Jack Fincham reveals new job as he appears in court for missing community service to go to rehab",
-      "link": "https://www.dailymail.co.uk/news/article-15712719/Love-Island-Jack-Fincham-court-missing-community-service-rehab.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T14:50:13",
-      "description": "Jack Fincham, 34, appeared at Medway Magistrates' Court after he failed to do three shifts of unpaid work. He has since been fined \u00a3435 by Medway Magistrates' Court.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/15/107713591-0-image-m-9_1775571508205.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/15/107713591-0-image-m-9_1775571508205.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696276",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "EVs hit record sales in reaction to surging fuel prices and availability of cheaper Chinese models",
-      "link": "https://www.dailymail.co.uk/money/cars/article-15712013/EVs-hit-record-sales-reaction-surging-fuel-prices-availability-cheaper-Chinese-models.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T14:41:30",
-      "description": "Some 86,120 new EVs were bought in March - the most ever in a single month. While this is largely driven by customers reacting to higher fuel prices, Chinese makers are gaining popularity.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/11/107707273-0-image-a-20_1775557859848.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/11/107707273-0-image-a-20_1775557859848.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696277",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Manchester turns into 'influencer hub' where content creators can get a luxury lifestyle for less than London - inspired by Molly-Mae Hague",
-      "link": "https://www.dailymail.co.uk/lifestyle/article-15709449/manchester-new-influencer-hub-luxe-lifestyle-london.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T14:39:08",
-      "description": "The city, known for Oasis and football, is a content creation 'ecosystem' that includes talent management agencies, studios, and Instagrammable bars and restaurants.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/12/107709567-0-image-a-4_1775561157791.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/12/107709567-0-image-a-4_1775561157791.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696279",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Beauty influencer reveals the biggest 'scams' in the industry: 'Don't waste your money'",
-      "link": "https://www.dailymail.co.uk/lifestyle/beauty/article-15709797/beauty-industry-biggest-scams-products-market.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T14:31:50",
-      "description": "Taylor Bosman Teague, who has over 500,000 followers on TikTok, took to the platform recently to share which products you shouldn't fall victim to purchasing.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693465-0-image-a-80_1775502933920.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/20/107693465-0-image-a-80_1775502933920.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696281",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Irregular bedtimes and sleeping less than 8 hours may double your risk of heart attack, study finds",
-      "link": "https://www.dailymail.co.uk/health/article-15712257/Irregular-bedtimes-sleeping-double-risk-heart-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T14:30:36",
-      "description": "Going to bed at different times each night and sleeping less than eight hours could double your risk of a heart attack, a new study has found.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/12/107709061-0-image-a-5_1775560196200.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/12/107709061-0-image-a-5_1775560196200.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696282",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Britain's 'worst hotel' is set on fire for second time in just a few days",
-      "link": "https://www.dailymail.co.uk/travel/article-15712083/britain-worst-hotel-set-fire-second-time.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T13:57:32",
-      "description": "The Sherwood Palm Hotel in Torquay - once dubbed 'Britain's worst' - is under investigation after two fires broke out at the site in just three days. The latest blaze occurred on Easter Sunday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/11/107708255-0-image-m-15_1775558870162.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/11/107708255-0-image-m-15_1775558870162.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696284",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Josie Gibson reveals the secrets to her slimmed-down figure: This Morning host spent \u00a37,000 on liposuction, hits the treadmill and sticks to a strict wellness regime amid her battle with 'abnormal fat build-up'",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15712591/Josie-Gibson-reveals-secrets-slimmed-figure-Morning-host-spent-7-000-liposuction-hits-treadmill-sticks-strict-wellness-regime-amid-battle-abnormal-fat-build-up.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T13:34:01",
-      "description": "Josie Gibson has revealed how she achieved her slimmed-down figure by undergoing liposuction surgery and sticking to wellness and fitness regime.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/14/107712547-0-image-a-5_1775568329134.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/14/107712547-0-image-a-5_1775568329134.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696286",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "TOBY WALNE puts Joybuy, Amazon and AliExpress to the ultimate test. You'll never guess the winner...",
-      "link": "https://www.dailymail.co.uk/money/mailplus/article-15712147/Chinese-Amazon-rival-sells-CHEAPER-faster-UK-TOBY-WALNE-Joybuy-AliExpress-test.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T12:24:12",
-      "description": "The promise of speedy delivery has been the key to success for retail behemoth Amazon, winning over nine in ten UK shoppers.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/12/107708843-0-image-a-4_1775559913758.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/12/107708843-0-image-a-4_1775559913758.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696289",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Pollen bomb' warning as levels soar across the UK: Week-long red alert issued by the Met Office - as hay fever sufferers flock to social media with their symptoms",
-      "link": "https://www.dailymail.co.uk/sciencetech/article-15712177/Pollen-bomb-warning-levels-hay-fever.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T12:15:22",
-      "description": "Forecasters have issued a 'pollen bomb' warning across the UK with 'very high' levels recorded in most regions.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/12/107709989-0-image-a-33_1775562334128.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/12/107709989-0-image-a-33_1775562334128.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696290",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Common, cheap drug taken by millions 'mimics intense exercise' - even in people who do nothing, study finds",
-      "link": "https://www.dailymail.co.uk/health/article-15709669/Common-cheap-drug-taken-millions-mimics-intense-exercise-people-study-finds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T12:03:54",
-      "description": "The drug is taken by nearly three million people to help control blood sugar levels in type 2 diabetes, costs as little as 2p per tablet and has previously been linked with reducing the risk of cancer.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/15/107685559-0-image-m-46_1775484424347.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/15/107685559-0-image-m-46_1775484424347.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696291",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I was in almost \u00a330,000 worth of debt and maxed out my \u00a32,000 overdraft every month. But these small, achievable steps transformed my weekly spending. Now I am debt free",
-      "link": "https://www.dailymail.co.uk/money/mailplus/article-15712229/debt-maxed-overdraft-month-small-achievable-steps-free.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T11:34:55",
-      "description": "Anyone meeting me today may assume my finances have always been in pretty tip-top shape. But just seven years ago - with two young children in tow - I was \u00a327,000 in debt.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/12/107708677-0-image-a-1_1775559711026.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/12/107708677-0-image-a-1_1775559711026.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696293",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The seven everyday household items that are silently damaging your health - and why alarm bells should ring when your new furnishing or appliance emits that 'new' smell",
-      "link": "https://www.dailymail.co.uk/health/article-15709747/toxic-chemicals-linked-cancer-risk-everyday-household-items.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T11:29:21",
-      "description": "Concerns are mounting that we may have sleepwalked into a household chemical exposure crisis - and now, the Government has finally moved to act.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/11/107705663-0-image-a-6_1775556419336.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/11/107705663-0-image-a-6_1775556419336.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696294",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The main options Trump will choose TONIGHT as experts warn that NUKES could be on the table - as he threatens Iran with annihilation",
-      "link": "https://www.dailymail.co.uk/news/article-15712767/options-Trump-TONIGHT-experts-warn-NUKES-Iran-annihilation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T15:47:37",
-      "description": "Donald Trump is threatening to end Iran's civilization tonight, but how he does it, whether its with nuclear bombs, limited strikes against infrastructure or ground troops, is still up in the air.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/16/107715201-0-image-a-10_1775574610715.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/16/107715201-0-image-a-10_1775574610715.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696301",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Liverpool confirm Andy Robertson will LEAVE at the end of the season: Star, 32, to depart Anfield following nine years with the club after rejecting January approach from Tottenham",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15719875/Liverpool-confirm-Andy-Robertson-LEAVE-end-season-Star-32-depart-Anfield-following-nine-years-club-rejecting-January-approach-Tottenham.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T17:51:20",
+      "description": "Andy Robertson will leave Liverpool at the end of the season, the club has confirmed - with the Scotland captain the latest talismanic figure to call time on their spell at Anfield in recent weeks.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776955-0-image-a-20_1775757077236.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776955-0-image-a-20_1775757077236.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:34.302340",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Revealed: Liverpool's Mohamed Salah succession plan - the players on shortlist including two Bundesliga stars and a former Arne Slot pupil, why Reds want a new type of winger and how much money there is to spend",
       "link": "https://www.dailymail.co.uk/sport/football/article-15718253/Liverpool-Mohamed-Salah-succession-plan-transfers-shortlist.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -18850,6 +18864,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Megan Moroney and Miranda Lambert lead 2026 ACM Awards nominations",
+      "link": "https://www.music-news.com/news/UK/188245/Megan-Moroney-and-Miranda-Lambert-lead-2026-ACM-Awards-nominations",
+      "pubDate": "2026-04-09T16:00:00",
+      "description": "Chris Stapleton is the most-nominated male artist with six nods.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188245.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188245.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:38.493980",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mick Fleetwood ties the knot for fifth time",
+      "link": "https://www.music-news.com/news/UK/188244/Mick-Fleetwood-ties-the-knot-for-fifth-time",
+      "pubDate": "2026-04-09T16:00:00",
+      "description": "Mick Fleetwood shares snaps from his honeymoon with Elizabeth.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188244.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188244.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T17:56:38.493984",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Don Was: \"They can not only hear your bass part, but they can taste it too\"",
       "link": "https://www.music-news.com/news/UK/188242/Don-Was-They-can-not-only-hear-your-bass-part-but-they-can-taste-it-too",
