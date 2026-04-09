@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Watch: Melania Trump's surprise Epstein statement in full",
+      "link": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T19:00:43",
+      "description": "She tells reporters at the White House that any claims linking the two \"need to end today\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/776d/live/a98b4650-3449-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T21:07:50.446584",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Child dies in dog attack, police say",
+      "link": "https://www.bbc.com/news/articles/ce35zkl9dg3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T21:05:32",
+      "description": "Police remain at the scene in Dormanstown, where one dog was destroyed earlier.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f9/live/564ff7c0-3452-11f1-b553-d957ca9ff4f0.png",
+      "enclosure": null,
+      "archived_at": "2026-04-09T21:07:50.446594",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "US has let in 4,499 refugees since October - all but three were South African",
       "link": "https://www.bbc.com/news/articles/c4g89kkvenqo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-09T19:31:52",
@@ -5477,31 +5499,65 @@
       "archived_at": "2026-04-02T09:58:29.515230",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Teenager Davies back for Wales as Clark misses out",
-      "link": "https://www.bbc.com/sport/football/articles/cx2elk0we3go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T09:00:00",
-      "description": "Mayzee Davies returns to the Wales squad for this month's World Cup qualifiers against Albania but there is no place for injured goalkeeper Olivia Clark.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edf6/live/d7d5d4a0-2e5c-11f1-9408-ab8675603e32.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T09:58:29.515232",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'You can feel the force of it':  See BBC science editor react to launch",
-      "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T08:40:55",
-      "description": "Nasa's Artemis II has blasted off and is now orbiting Earth, before continuing on to circle the Moon.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1f/live/0b2f8560-2e6e-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T08:52:31.924744",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Disturbing bodycam shows Miami woman's final moments after she charged at cop with knife",
+      "link": "https://www.dailymail.co.uk/news/article-15718763/miami-woman-charges-cop-knife-shot-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:00:38",
+      "description": "Karen Ivette Gomez, 52, was killed around 4.05pm on February 7 inside a Miami home after her daughter called 911.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/20/107778529-0-image-m-76_1775762464455.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/20/107778529-0-image-m-76_1775762464455.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T21:07:53.695059",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Child is mauled to death by dog at home",
+      "link": "https://www.dailymail.co.uk/news/article-15720301/Child-mauled-death-dog-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T20:51:47",
+      "description": "A child has been mauled to death by a dog inside a home in North Yorkshire, according to police.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/21/107780235-0-image-m-13_1775767832929.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/21/107780235-0-image-m-13_1775767832929.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T21:07:53.695065",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "No-nonsense Trump prosecutor vows Iryna Zarutska's alleged killer will still face justice after legal filing said he was incompetent to stand trial for train attack that shocked world",
+      "link": "https://www.dailymail.co.uk/news/article-15719901/Iryna-Zarutska-murder-trial-DeCarlos-brown-incompetent-case.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T20:43:22",
+      "description": "The Trump administration vowed to continue with the federal prosecution of Iryna Zarutska's alleged killer after his attorneys claimed he was incompetent to stand trial on state charges.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/20/107749773-0-image-m-56_1775761523365.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/20/107749773-0-image-m-56_1775761523365.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T21:07:53.695067",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Boy, 17, woke up at bottom of 40 foot deep river trapped INSIDE friend's car that crashed through railings - here's how he escaped",
+      "link": "https://www.dailymail.co.uk/news/article-15718761/portland-dj-buckner-trapped-bottom-river-escape.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T20:33:25",
+      "description": "The 17-year-old was the only survivor of a crash in Portland's Willamette River that left two of his friends dead and a third presumed dead. The driver of the car suddenly 'took off' after seeing a police car.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779043-0-image-m-21_1775765341605.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779043-0-image-m-21_1775765341605.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T21:07:53.695068",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Democrats seize on Melania Trump's shocking Epstein outburst as Republicans are caught in trap",
       "link": "https://www.dailymail.co.uk/news/article-15720131/Democrats-seize-Melania-Trumps-shocking-Epstein-outburst-Republicans-caught-trap.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12443,62 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-07T17:56:30.477311",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "British charity worker, 78, was killed by Kenyan President's 'excessively speeding' motorcade, inquest hears",
-      "link": "https://www.dailymail.co.uk/news/article-15713151/British-charity-worker-killed-Kenyan-Presidents-speeding-motorcade.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T17:37:17",
-      "description": "Edgar Riches, 78, had been in Nairobi, Kenya, raising money to sponsor the building of an African school when he was hit by the vehicle on a pedestrian crossing.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/18/107718337-0-image-a-5_1775581413024.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/18/107718337-0-image-a-5_1775581413024.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T17:56:30.477313",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment thug threatens to kill chicken shop worker with a fake gun after row broke out over garlic sauce",
-      "link": "https://www.dailymail.co.uk/news/article-15713163/thug-threatens-kill-chicken-shop-worker-fake-gun.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T17:31:24",
-      "description": "Marwan Khadir, 18, threatened to shoot and kill the chicken shop worker and assaulted him multiple times in a brutal armed attack lasting over two minutes on December 24, last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/18/107717881-0-image-a-12_1775582631080.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/18/107717881-0-image-a-12_1775582631080.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T17:56:30.477314",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Somalian runner 'sexually assaulted girl, 18, after waiting for her friends to leave her alone at bus stop', court hears",
-      "link": "https://www.dailymail.co.uk/news/article-15713117/Somalian-runner-sexually-assaulted-girl-18.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T17:27:51",
-      "description": "Abdinasir Elmi, 26, denies two counts of sexual assault relating to an incident at around 10:30pm in Bournemouth Gardens, Dorset, on April 22 last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/17/107718125-0-image-m-5_1775580311332.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/17/107718125-0-image-m-5_1775580311332.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T17:56:30.477316",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Shaven-headed woman smiles and makes VERY honest remark as she is jailed for murdering her father",
-      "link": "https://www.dailymail.co.uk/news/article-15712669/woman-smiles-murdering-father-jailed-sentence-washington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T17:27:28",
-      "description": "She had 'sat stoically, often smiling' during her trial, despite the grave charges against her. During her testimony, Bradburn told the court she 'enjoyed' the legal proceedings.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/17/107718077-0-image-m-14_1775580938785.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/17/107718077-0-image-m-14_1775580938785.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T17:56:30.477317",
       "feed_category": "News",
       "feed_visibility": "both"
     }
