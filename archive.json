@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "BBC tours Orion spacecraft model ahead of Artemis II return",
+      "link": "https://www.bbc.com/news/videos/cwydvv00r0wo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T21:25:50",
+      "description": "The Orion spacecraft is scheduled to bring the Artemis II crew back to Earth on 10 April.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/d6efa7c0-3459-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T22:04:03.700688",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "People walk along motorway towards Dublin Airport as fuel protests continue",
+      "link": "https://www.bbc.com/news/articles/cjr9j87j8n3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T21:44:45",
+      "description": "The Irish military will be deployed to move vehicles \"blocking critical infrastructure\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c344/live/d4b47d40-3437-11f1-a18c-d7e9f5df98a8.png",
+      "enclosure": null,
+      "archived_at": "2026-04-09T22:04:03.700695",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Watch: Melania Trump's surprise Epstein statement in full",
       "link": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-09T19:00:43",
@@ -5477,31 +5499,163 @@
       "archived_at": "2026-04-02T09:58:29.515222",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Brazil changes laws allowing separated couples joint custody over pets",
-      "link": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T09:38:08",
-      "description": "Lawmakers in the Brazilian Congress on Tuesday viewed the law change as a reflection on the importance people place on their pets.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e981/live/14bb9760-2e6c-11f1-9408-ab8675603e32.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T09:58:29.515228",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Officials correct not to give Amad penalty - panel",
-      "link": "https://www.bbc.com/sport/football/articles/cwykx5yzr7ko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T09:14:31",
-      "description": "The Premier League's KMI Panel says both referee and VAR were right not to give a penalty to Manchester United's Amad Diallo at Bournemouth.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e129/live/cdd3c2c0-2e73-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T09:58:29.515230",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Trump turns on his closest allies in furious tirade on Iran as loyalists bail on president... as he declares Brigitte Macron is a WOMAN",
+      "link": "https://www.dailymail.co.uk/news/article-15720357/Trump-turns-closest-allies-furious-tirade-Iran-loyalists-bail-president-declares-Brigitte-Macron-WOMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:57:07",
+      "description": "Donald Trump issued a nearly 500-word rant ripping into his most influential advocates in conservative media over their opposition to his war with Iran .",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/22/107779721-0-image-m-13_1775768457812.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/22/107779721-0-image-m-13_1775768457812.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:06.139645",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Queensland MP Jimmy Sullivan found dead in his unit in Stafford, Brisbane",
+      "link": "https://www.dailymail.co.uk/news/article-15720431/Jimmy-Sullivan-Stafford-Brisbane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:55:41",
+      "description": "Police are investigating whether the 44-year-old suffered a fall at his Brisbane home.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/22/107781267-0-image-m-37_1775770704449.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/22/107781267-0-image-m-37_1775770704449.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:06.139650",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump makes astonishing claim he was BLINDSIDED by Melania's Epstein bombshell",
+      "link": "https://www.dailymail.co.uk/news/article-15720381/trump-melania-epstein-blindsided.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:55:04",
+      "description": "Donald Trump has claimed that he was blindsided by Melania's shocking statement blasting 'smears' linking her to Jeffrey Epstein.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/22/107780567-0-image-m-13_1775768955718.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/22/107780567-0-image-m-13_1775768955718.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:06.139651",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mysterious Melania Trump note that's buried in the Epstein files... and every time she's mentioned in them",
+      "link": "https://www.dailymail.co.uk/news/article-15720095/Melania-Trump-Epstein-files-letter-Donald-met.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:47:51",
+      "description": "The First Lady's speech on Thursday followed years of unsubstantiated rumors about her past with Epstein, including allegations he was the one who introduced her to President Trump.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779395-0-image-m-75_1775766777987.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779395-0-image-m-75_1775766777987.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:06.139653",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "FedEx driver who murdered Athena Strand reveals final awful words he said to seven-year-old",
+      "link": "https://www.dailymail.co.uk/news/article-15719987/FedEx-driver-tanner-horner-trial-athena-strand-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:35:41",
+      "description": "The 34-year-old is facing aggravated kidnapping and capital murder charges in connection with the abduction of Strand from her Paradise, Texas home on November 20, 2022.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/22/107780513-0-image-m-7_1775770526459.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/22/107780513-0-image-m-7_1775770526459.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:06.139655",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Anthony Albanese faces major fuel supply test as he touches down in Singapore amid troubled ceasefire",
+      "link": "https://www.dailymail.co.uk/news/article-15720355/Anthony-Albanese-fuel-supply-Singapore.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:25:55",
+      "description": "Anthony Albanese has touched down in Singapore for high-stakes talks to shore up Australia's fuel supply amid global uncertainty.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/22/107780641-0-image-m-24_1775769717065.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/22/107780641-0-image-m-24_1775769717065.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:06.139656",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hunter Biden has quietly bolted from the US and is 'living overseas'...as he claims he is $17 million in debt and can't pay his lawyers",
+      "link": "https://www.dailymail.co.uk/news/article-15719919/hunter-biden-abandons-US-debt-south-africa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:21:39",
+      "description": "News of Hunter's big move was revealed in a new legal filing  that bluntly states 'Mr Biden lives abroad.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/20/107777787-0-image-a-26_1775763000073.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/20/107777787-0-image-a-26_1775763000073.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:06.139657",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Widow sues after husband was killed when he wore chain in hospital room where she was having MRI scan",
+      "link": "https://www.dailymail.co.uk/news/article-15719231/new-york-man-sucked-mri-machine-wife-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:20:35",
+      "description": "Adrienne Jones-McAllister, the widow of Keith McAllister, filed a lawsuit against Nassau Open MRI on Tuesday after her husband was sucked into an MRI machine by his 20lb chain on July 16.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779069-0-image-m-11_1775767017530.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779069-0-image-m-11_1775767017530.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:06.139659",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "BEAT THE SQUEEZE: As we enter peak summer holiday-booking season amidst travel chaos, there's still time to snap up super family vacation BARGAINS. Here are 7 deals you can book right NOW - but you'll have to move fast before they're gone!",
+      "link": "https://www.dailymail.co.uk/news/article-15718581/BEAT-SQUEEZE-enter-peak-summer-holiday-booking-season-amidst-travel-chaos-theres-time-snap-super-family-vacation-BARGAINS-7-deals-you-book-right-youll-fast-theyre-gone.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:15:45",
+      "description": "There is still strong seat availability across many routes, and airlines remain focused on filling capacity rather than increasing fares significantly.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769309-0-image-m-29_1775739876942.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769309-0-image-m-29_1775739876942.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:06.139660",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'His dedication to helping others is remarkable' says shocking character reference written by Senator for conman cousin who she used to babysit - and what she says about the extent of his US crimes will outrage his victims",
+      "link": "https://www.dailymail.co.uk/news/article-15719011/His-dedication-helping-remarkable-says-shocking-character-reference-written-Senator-conman-cousin-used-babysit-says-extent-US-crimes-outrage-victims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:14:05",
+      "description": "Eileen Flynn, the first Traveller ever elected to the Oireachtas, said she 'didn't regret' writing the letter and his mother, her aunt, asked her to write the letter.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776183-0-image-a-9_1775756311672.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776183-0-image-a-9_1775756311672.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:06.139662",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Promising Texas cheerleader, 17, suddenly dropped dead after consuming popular energy drink, lawsuit claims",
+      "link": "https://www.dailymail.co.uk/news/article-15719217/texas-cheerleader-alani-nu-energy-drink-lawsuit-Larissa-Rodriguez.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:04:11",
+      "description": "A wrongful death lawsuit was filed on Wednesday by attorneys on behalf of the Rodriguez family, who lost their 17-year-old daughter, Larissa, in October.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779743-0-image-m-7_1775766653622.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779743-0-image-m-7_1775766653622.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:06.139663",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Disturbing bodycam shows Miami woman's final moments after she charged at cop with knife",
       "link": "https://www.dailymail.co.uk/news/article-15718763/miami-woman-charges-cop-knife-shot-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12347,163 +12501,65 @@
       "archived_at": "2026-04-07T20:05:27.899518",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Housing development that was rejected three times by a council and thrown out by the High Court gets the green light after being pushed over the line by the Government",
-      "link": "https://www.dailymail.co.uk/news/article-15692559/Housing-development-rejected-green-light-pushed-line-Government.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T19:30:33",
-      "description": "The 'patently green belt' land in Radlett will now see 195 homes built using Labour's grey belt rules, which the party previously said would apply only to 'poor quality' and 'ugly' areas.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/20/107535269-0-image-m-15_1774899812660.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/20/107535269-0-image-m-15_1774899812660.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T20:05:27.899519",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tributes to father-of-two, 41, who died after 'attack outside cocktail bar': Murder probe sees five arrested",
-      "link": "https://www.dailymail.co.uk/news/article-15713485/Tributes-father-died-attack-outside-cocktail-bar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T19:19:41",
-      "description": "The incident, which took place outside MyBar in Bournemouth on Monday at around 3am, saw 41-year-old James Blanch killed in a brutal attack.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107720389-0-image-m-28_1775589469758.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107720389-0-image-m-28_1775589469758.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T20:05:27.899520",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hunt launched after woman 'is sexually assaulted by stranger in broad daylight'",
-      "link": "https://www.dailymail.co.uk/news/article-15713493/Hunt-launched-woman-sexually-assaulted-stranger.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T19:14:19",
-      "description": "The woman had been walking along Dean Lane, in Bedminster, Bristol, when she was inappropriately touched by an unknown man on March 15.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107720979-0-image-a-13_1775588959234.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107720979-0-image-a-13_1775588959234.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T20:05:27.899522",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ukrainian woman, 40, is named final victim of Hawaii helicopter crash that also killed Massachusetts couple",
-      "link": "https://www.dailymail.co.uk/news/article-15712665/ukrainian-oksana-pihol-dead-hawaii-helicopter-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T18:50:51",
-      "description": "Oksana Pihol, 40, was announced as the final victim on Monday. She, alongside Patrick Haskell, 59, and Margaret Rimmler, 65, died after their helicopter crashed at Kalalau Beach.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/19/107720333-0-image-m-166_1775586852207.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/19/107720333-0-image-m-166_1775586852207.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T19:03:32.758984",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Harrowing goodbye messages leak from inside Iran as citizens are ordered 'to bring children to the streets' ahead of Trump's doomsday ultimatum",
-      "link": "https://www.dailymail.co.uk/news/article-15713089/Iranians-children-streets-human-shields-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T18:45:46",
-      "description": "Now, facing an ultimatum of total annihilation, terrified civilians tell the Daily Mail they are frantically evacuating major cities and saying goodbye to loved ones.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/17/107716723-0-Iranians_gathered_at_infrastructure_sites_including_bridges_and_-a-9_1775578843445.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/17/107716723-0-Iranians_gathered_at_infrastructure_sites_including_bridges_and_-a-9_1775578843445.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T19:03:32.758990",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Mother weeps as she recalls cops' face falling when they told her 16-year-old daughter had been killed in ATV crash",
-      "link": "https://www.dailymail.co.uk/news/article-15712465/daughter-killed-atv-crash-kentucky-Emilynn-Clark.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T18:00:16",
-      "description": "Emilynn was a passenger on an ATV with three others on the night of February 28 in Kentucky when it went off-road and over an embankment, killing her.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/17/107714087-0-image-m-9_1775579862337.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/17/107714087-0-image-m-9_1775579862337.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T19:03:32.758993",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Fitness trainer, 72, reveals how he escaped enormous crocodile's death roll after predator pounced on him during open water swimming session in Mexico",
-      "link": "https://www.dailymail.co.uk/news/article-15712973/fitness-trainer-crocodile-attack-mexico-washington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T17:51:15",
-      "description": "Eric Greager, of Richland, Washington, has recalled the moment he narrowly avoided the jaws of death last week during what was supposed to be a dream vacation with his wife in Cozumel, Mexico.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/17/107715457-0-image-m-8_1775579804942.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/17/107715457-0-image-m-8_1775579804942.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T17:56:30.477301",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Embarrassing' moment Trump sends JD Vance to voicemail mid-speech amid high-stakes Iran peace talks",
-      "link": "https://www.dailymail.co.uk/news/article-15712869/trump-jd-vance-voicemail-iran-hungary.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T17:42:11",
-      "description": "JD Vance suffered an embarrassing moment at a live rally when he attempted to call Donald Trump , only for the President to send him straight to voicemail.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/17/107718403-0-image-a-7_1775581188554.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/17/107718403-0-image-a-7_1775581188554.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T17:56:30.477307",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Quoting the Bible could be classified as hate speech under proposed Canada bill, lawmaker warns",
-      "link": "https://www.dailymail.co.uk/news/article-15712639/quoting-bible-hate-speech-canada-bill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T17:40:22",
-      "description": "The bill could open up Christians and others to hate speech charges if they quote particular sections of their religious texts, according to Andrew Lawton, a Conservative member of Parliament.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/18/107718991-0-image-a-10_1775582405122.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/18/107718991-0-image-a-10_1775582405122.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T17:56:30.477309",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Latin Grammy winner-turned-politician who performed with PEDOPHILE for years is seen on camera admitting he knows his bandmate is a 'bad man'",
-      "link": "https://www.dailymail.co.uk/news/article-15710465/Texas-Congress-Bobby-Pulido-Frankie-Caballero-pedophile-bad-man-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T17:40:05",
-      "description": "Bobby Pulido has raised eyebrows once again after video emerged of the congressional hopeful referring to sex offender Frankie Caballero as a 'bad man' during a set.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/16/107671059-0-image-m-47_1775577314211.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/16/107671059-0-image-m-47_1775577314211.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T17:56:30.477310",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tragedy after Midwest girl, 3, played 'game' that saw her run alongside truck being driven by her mom's 'alcoholic' fianc\u00e9",
-      "link": "https://www.dailymail.co.uk/news/article-15712991/cedar-springs-michigan-girl-game-truck-dead-mom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T17:39:45",
-      "description": "Estella Johnson, three, was playing a 'racing game' with her mother's fianc\u00e9, Daniel Bryant, 33. Her mother, Ashley Johnson, was at work when it unfolded.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/17/107716819-0-image-m-13_1775578010190.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/17/107716819-0-image-m-13_1775578010190.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T17:56:30.477311",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Bologna 1-3 Aston Villa: Ollie Watkins' brace sparks statement-of-intent win in Italy ahead of run of games that will define the Villans' season, writes TOM COLLOMOSSE",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15712383/Bologna-1-3-Aston-Villa-Ollie-Watkins-brace-sparks-statement-intent-win-Italy-ahead-run-games-define-Villans-season-writes-TOM-COLLOMOSSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:46:44",
+      "description": "TOM COLLOMOSSE AT STADIO RENATO DALL'ARA: This victory began a run of six matches that could define Villa 's season and Unai Emery seems determined to go full throttle.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/21/107780249-0-image-a-63_1775767858503.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/21/107780249-0-image-a-63_1775767858503.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:08.304284",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Crystal Palace finally live up to Conference League favourites tag as Jean-Philippe Mateta silences boo-boys in 3-0 thumping of Fiorentina, writes WILL PICKWORTH",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15712419/Crystal-Palace-finally-live-Conference-League-favourites-tag-Jean-Philippe-Mateta-silences-boo-boys-3-0-thumping-Fiorentina-writes-PICKWORTH.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:42:29",
+      "description": "WILL PICKWORTH AT SELHURST PARK: But on the most important night of Palace's season, they finally lived up to that tag by producing a superb display to beat Fiorentina 3-0.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/22/107781111-0-image-a-3_1775770343111.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/22/107781111-0-image-a-3_1775770343111.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:08.304290",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Is this the worst own goal EVER? Nottingham Forest enjoy gift from Porto star as shocking error keeps Europa League campaign alive",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15712379/nottingham-forest-porto-europa-league-result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:38:32",
+      "description": "While Forest heads were still spinning down 1-0, Martim Fernandes, under absolutely no pressure, attempted a pass back to his goalkeeper, only to drill it way beyond him and into the back of the net.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/22/107780879-0-image-a-11_1775769618507.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/22/107780879-0-image-a-11_1775769618507.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:08.304292",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Harry Maguire sends transfer message to Man United chiefs after falling 'adrift' of challenging for major honours this season",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15720339/Harry-Maguire-sends-transfer-message-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T21:13:49",
+      "description": "CHRIS WHEELER: Maguire signed a new one-year contract at Old Trafford earlier this week with an option for United to extend it by another 12 months.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/22/107780691-0-image-a-2_1775769167389.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/22/107780691-0-image-a-2_1775769167389.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T22:04:08.304293",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Virgil van Dijk hits out at Liverpool's 'UNACCEPTABLE' season after Paris Saint-Germain defeat as Reds captain gives hint on his future at the club",
       "link": "https://www.dailymail.co.uk/sport/football/article-15719683/Virgil-van-Dijk-Liverpool-UNACCEPTABLE-season-PSG-defeat-Reds-plan-overturn-Champions-League-deficit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
