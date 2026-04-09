@@ -1,6 +1,61 @@
 {
   "BBC News": [
     {
+      "title": "UK says Russia ran submarine operation over cables and pipelines",
+      "link": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T13:07:54",
+      "description": "Defence Secretary John Healey says there is \"no evidence\" of any damage to UK infrastructure in the Atlantic.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8200/live/9a0ba670-340d-11f1-8be7-8b0656c72753.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T13:19:09.614176",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
+      "link": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T12:12:06",
+      "description": "Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0a/live/36f35b50-3412-11f1-a058-4f0eff2075b9.png",
+      "enclosure": null,
+      "archived_at": "2026-04-09T13:19:09.614187",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'I want my heart attack story to inspire people to live life'",
+      "link": "https://www.bbc.com/news/articles/cgmej4yz0gzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T05:35:16",
+      "description": "Faith Harrison survived a seven-hour heart attack at the age of 22.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c3/live/e73c1e30-2dea-11f1-bdc6-c5114fc788c9.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T13:19:09.614189",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Greens launch local election campaign with focus on housing",
+      "link": "https://www.bbc.com/news/articles/cj0v1qdd45no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T12:58:43",
+      "description": "Party leader Zack Polanski accuses Labour of failing to build enough social and affordable homes.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23d4/live/14d9ff50-3413-11f1-a058-4f0eff2075b9.png",
+      "enclosure": null,
+      "archived_at": "2026-04-09T13:19:09.614191",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "GB's Stojsavljevic, 17, set for Billie Jean King Cup debut",
+      "link": "https://www.bbc.com/sport/tennis/articles/cwydvj293rvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T11:13:07",
+      "description": "17-year-old Mika Stojsavljevic will make her Billie Jean King Cup debut for Great Britain this week in a qualifying tie against Australia.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70c/live/b9d95b30-3400-11f1-a358-4371c0159520.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T13:19:09.614194",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Hundreds of dogs found crammed in living room 'doing really well', says RSPCA",
       "link": "https://www.bbc.com/news/articles/c625l7qen3jo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-09T11:42:32",
@@ -5444,64 +5499,135 @@
       "archived_at": "2026-04-02T01:59:26.292279",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'Spectacular!' - BBC journalist's emotional reaction to Artemis II launch",
-      "link": "https://www.bbc.com/news/videos/c8r4e7jpkz6o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T23:36:55",
-      "description": "Science editor Rebecca Morelle watched from just three miles away as the most powerful rocket ever built blasted off from Florida.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b5b/live/2229bdd0-2e23-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T01:59:26.292281",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'We look at life differently' - the over-70s making their comedy debut",
-      "link": "https://www.bbc.com/news/articles/c4gdkjvj05jo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T21:56:00",
-      "description": "A group of would-be performers have been learning the ropes of stand-up from a professional comedian.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1724/live/86b59f20-2dbb-11f1-b692-3b8b8cac9c96.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T01:59:26.292282",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Carol Kirkwood: Why the time is right for me to retire - and what's next",
-      "link": "https://www.bbc.com/news/articles/cn53yrl4y9vo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T00:42:46",
-      "description": "The weather forecast stalwart tells BBC News she's experienced loss in her life recently, but she's looking forward to what's to come.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6254/live/d33ba590-2db8-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T01:59:26.292284",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'We entered Race Across the World to honour dying wish'",
-      "link": "https://www.bbc.com/news/articles/c15dvelwd7qo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T23:08:39",
-      "description": "Margo Oakley and her brother-in-law Mark Blythen bonded when their sister and wife Julia was terminally ill.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e792/live/00026880-2cfa-11f1-b960-35ed0ba67153.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T01:59:26.292285",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The Papers: 'Trump goes to war on Nato' and 'Scott breaks silence'",
-      "link": "https://www.bbc.com/news/articles/c78l70g124jo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T23:53:47",
-      "description": "The US president's comments on considering withdrawing the US from Nato dominates Thursday's papers.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b32/live/c052fef0-2e1d-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T01:59:26.292286",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Autistic girl, seven, found dead in golf course pond had 'escaped childminder through gap in park fence', inquest told",
+      "link": "https://www.dailymail.co.uk/news/article-15718997/Autistic-girl-seven-dead-golf-course-pond-escaped-childminder-gap-park-fence-inquest-told.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T13:14:46",
+      "description": "Nyla May Bradshaw was found in a pond at Owston Hall golf course, in Doncaster, last month.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769393-0-image-m-12_1775739671380.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769393-0-image-m-12_1775739671380.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T13:19:11.222681",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Distraught Ivanka Trump breaks down over mom's tragic death as she reveals mental health battle",
+      "link": "https://www.dailymail.co.uk/news/article-15718825/ivanka-trump-mother-death-mental-health.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T13:14:30",
+      "description": "Ivanka, 44, broke down in tears as she revealed her grief that her three children never got to know their grandmother.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768709-0-image-m-13_1775738498020.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768709-0-image-m-13_1775738498020.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T13:19:11.222688",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Callous father who threw his four-year-old daughter to her death off a bridge to get back at his ex-wife is bashed in prison",
+      "link": "https://www.dailymail.co.uk/news/article-15717915/Arthur-Darcey-Freeman-jail-hospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T13:10:58",
+      "description": "Arthur Freeman was taken to hospital on Wednesday after an attack at the Western Plains Correctional Centre.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/11/107764843-0-image-m-30_1775728840364.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/11/107764843-0-image-m-30_1775728840364.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T13:19:11.222689",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Scouts ordered to improve safety training after carbon monoxide death of leader, 21, who use camping stove in his tent",
+      "link": "https://www.dailymail.co.uk/news/article-15718275/Scouts-ordered-improve-safety-training-carbon-monoxide-death-leader-21-use-camping-stove-tent.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T13:05:22",
+      "description": "Jack Saunders, 21, from Solihull, died of carbon monoxide poisoning after using the stove inside his tent - a practice he'd seen at other camps but had received no training about the dangers of.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/12/107766951-0-image-m-18_1775733902873.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/12/107766951-0-image-m-18_1775733902873.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T13:19:11.222691",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "BBC producer accused of downloading thousands of indecent images of children 'frequently' looked at 'adult pornography', court hears",
+      "link": "https://www.dailymail.co.uk/news/article-15718795/BBC-producer-accused-downloading-thousands-indecent-images-children-frequently-looked-adult-pornography-court-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T12:57:26",
+      "description": "Dylan Dawes, 50, said he made radio shows for stars including comedian Rhod Gilbert and Final Score host Jason Mohammad at the time of the allegations, working from BBC HQ in Cardiff.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/13/107737057-0-image-m-9_1775738124250.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/13/107737057-0-image-m-9_1775738124250.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T13:19:11.222692",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Female support worker, 28, is banned after sharing bed with teenage boy and sending him intimate photos",
+      "link": "https://www.dailymail.co.uk/news/article-15718799/Female-support-worker-28-banned-sharing-bed-teenage-boy-sending-intimate-photos.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T12:51:52",
+      "description": "Chloe Short, 28, recorded a 'sexual kiss' on camera with the 15-year-old boy while she was employed to help his family, a fitness to practice panel heard.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768339-0-image-m-21_1775737408732.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768339-0-image-m-21_1775737408732.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T13:19:11.222694",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Miraculous moment miner is rescued from flooded cave 14 days after tunnel collapsed",
+      "link": "https://www.dailymail.co.uk/news/article-15718707/Miraculous-moment-miner-rescued-flooded-cave-14-days-tunnel-collapsed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T12:40:51",
+      "description": "Francisco Zapata N\u00e1jera, 42, had been buried some 985ft underground when disaster struck at a gold mine in the northern state of Sinaloa.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768559-0-image-m-24_1775737034105.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768559-0-image-m-24_1775737034105.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T13:19:11.222695",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Families in Welsh seaside town raise \u00a36,000 to mount legal challenge stop 30 affordable homes being built amid fears 'people from Birmingham' could move in",
+      "link": "https://www.dailymail.co.uk/news/article-15718497/Families-Welsh-seaside-town-mount-legal-challenge-stop-30-affordable-homes-built-amid-fear-Birmingham.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T12:34:03",
+      "description": "New Quay, a small town of just over 1,000 people in Wales, has been named Britain's top seaside town but locals are concerned a new housing development could destroy the character of the area.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/12/107767299-0-image-m-12_1775734765714.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/12/107767299-0-image-m-12_1775734765714.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T13:19:11.222697",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "American commentator trashes Australia's treatment of 'war hero' after dramatic arrest of Ben Roberts-Smith as citizens say he should be offered asylum in the US",
+      "link": "https://www.dailymail.co.uk/news/article-15717497/Americans-Ben-Roberts-Smith-arrest-soldier.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T12:24:03",
+      "description": "Since retired elite SAS soldier Ben Roberts-Smith was arrested this week, there has been an outpouring of fury from the American public.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/13/107760991-0-image-m-40_1775736071588.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/13/107760991-0-image-m-40_1775736071588.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T13:19:11.222698",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Moment Algerian thief at Soho pub steals handbag with \u00a32million Faberg\u00e9 egg inside after whisky executive left it on the floor",
       "link": "https://www.dailymail.co.uk/news/article-15718309/Algerian-thief-stole-Faberg-egg-watch-2-MILLION-handbag-grab-whisky-boss-West-End-sentenced.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12375,135 +12501,37 @@
       "archived_at": "2026-04-07T11:29:00.356917",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Nicola Peltz steals Cruz Beckham's girlfriend Jackie Apostel's racy style in identical lingerie snap - after 'hitting back' at estranged in-laws' Easter festivities",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15711755/Nicola-Peltz-steals-Cruz-Beckhams-girlfriend-racy-style-identical-lingerie-hitting-Beckhams.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T08:40:48",
-      "description": "Nicola Peltz seemed to steal Cruz Beckham's girlfriend Jackie Apostel's racy style as she posed up a storm in identical lingerie on Instagram on Monday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/08/107703263-0-image-a-1_1775548237913.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/08/107703263-0-image-a-1_1775548237913.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T11:29:00.356918",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why you should never dismiss painful breasts as just another menopausal hormone side-effect, especially if it happens at night - DR MARTIN SCURR",
-      "link": "https://www.dailymail.co.uk/health/article-15710011/Why-you-never-dismiss-painful-breasts-just-menopausal-hormone-effect-especially-happens-night-DR-MARTIN-SCURR.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T08:34:04",
-      "description": "I am a 67-year-old woman and have been suffering with breast pain for several years. At times it is excruciatingly painful, particularly at night. Tests have found no obvious cause.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/18/107688843-0-image-a-32_1775496383797.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/18/107688843-0-image-a-32_1775496383797.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T11:29:00.356920",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Robbie Williams says his 'talented' daughter Teddy is set to follow in his footsteps as he praises her 'wonderful voice' - but he's not bringing her on stage just yet",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15710605/Robbie-Williams-says-talented-daughter-Teddy-set-follow-footsteps-praises-wonderful-voice-hes-not-bringing-stage-just-yet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-06T22:00:01",
-      "description": "Robbie Williams has revealed his 'talented' daughter Teddy is set to follow in his footsteps. But the Angels hitmaker admitted he does not plan to bring her on stage with him just yet.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/21/107694003-0-image-a-6_1775506935752.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/21/107694003-0-image-a-6_1775506935752.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T11:29:00.356926",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The humiliating shoplifting videos of a crimewave blighting London and making a mockery of Sadiq Khan and the police - after Waitrose sacked worker who tried to intervene",
-      "link": "https://www.dailymail.co.uk/news/article-15712167/shoplifting-crimewave-blighting-London-Sadiq-Khan-police-Waitrose-sacked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T11:25:40",
-      "description": "Despite London Mayor Sir Sadiq Khan's frequent claims the capital is a safe city, many of its stores are plagued by repeat thieves, shoplifting gangs and thugs who attack store staff when challenged.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/12/102425883-0-In_one_clip_Hutchinson_sporting_a_black_hoodie_places_products_i-a-11_1775560378794.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/12/102425883-0-In_one_clip_Hutchinson_sporting_a_black_hoodie_places_products_i-a-11_1775560378794.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T11:29:00.356928",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "British woman, 21, goes missing after meeting a man during solo trip to California",
-      "link": "https://www.dailymail.co.uk/news/article-15712225/British-woman-21-goes-missing-meeting-man-solo-trip-California.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T11:24:51",
-      "description": "Katherine Esther Gamboa Kerwood disappeared after travelling alone from London for a week-long sightseeing trip.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/11/107708455-0-image-a-10_1775559235362.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/11/107708455-0-image-a-10_1775559235362.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T11:29:00.356929",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Villagers' fury over travellers' late night 'land grab': Residents accuse group who paved over field of 'riding roughshod' over planning laws and warn police 'this could get ugly'",
-      "link": "https://www.dailymail.co.uk/news/article-15712175/travellers-kent-field-paved-fury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T11:19:33",
-      "description": "Around 30 lorries arrived in Sundridge, in Kent's stockbroker belt, over the Easter weekend and dumped piles of rubble on a grassed area.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/12/107708063-0-image-m-38_1775560040652.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/12/107708063-0-image-m-38_1775560040652.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T11:29:00.356931",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Travellers' annual meet-up at Harrods erupts in violence as boy is stabbed during chaotic scenes",
-      "link": "https://www.dailymail.co.uk/news/article-15711855/travellers-annual-meet-Harrods-erupts-violence-boy-stabbed-chaotic-scenes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T11:19:00",
-      "description": "The Traveller community flocked to Knightsbridge on April 4 for one of their annual gatherings in the city which has become a way for the community to connect.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/11/107704501-0-image-m-12_1775559598491.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/11/107704501-0-image-m-12_1775559598491.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T11:29:00.356932",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Property developer's plans to cut down two protected yew trees at his \u00a31.4million home sparks fury from neighbours",
-      "link": "https://www.dailymail.co.uk/news/article-15712071/Property-developer-plans-protected-trees-neighbours.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T11:14:43",
-      "description": "Peter Sykes is looking to chop down the two 30-foot-high trees to make space for a new building and parking bays at the front of his home in Winchester,\u00a0Hampshire.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/10/107705585-0-image-a-10_1775554519147.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/10/107705585-0-image-a-10_1775554519147.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T11:29:00.356933",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment knifeman with huge blade lunges at victim in broad daylight on quiet residential London street",
-      "link": "https://www.dailymail.co.uk/news/article-15712005/Moment-knifeman-lunges-victim-quiet-residential-London-street.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T11:04:41",
-      "description": "In another episode of crime in Lawless London, CCTV captured the dreadful attack play out in the quiet road.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/11/107706765-0-image-m-20_1775557080047.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/11/107706765-0-image-m-20_1775557080047.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T11:29:00.356935",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Non-league chairman tells football fan 'go f*** yourself' in awkward email gaffe over moving a match for Man United's offshoot club",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15718775/Non-league-chairman-tells-football-fan-f-email-gaffe-Man-United-offshoot-club.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T13:07:18",
+      "description": "Duckfield had written to Harris to express his outrage after the league decided that FC United's crunch home match with Stockton Town should be played at a neutral venue.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/13/107769307-0-image-a-56_1775739479815.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/13/107769307-0-image-a-56_1775739479815.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T13:19:14.616289",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Shay Given called out for one of the 'strangest and easiest to disprove lies' about Wayne Rooney - after former Newcastle goalkeeper recalls penalty story against Man United striker",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15718591/Shay-Given-Overlap-Wayne-Rooney-lie.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T12:36:36",
+      "description": "Former goalkeeper Shay Given has been called out for incorrectly claiming that former Newcastle boss Bobby Robson told him to dive the wrong way for a Wayne Rooney penalty.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768323-0-image-a-5_1775736448862.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768323-0-image-a-5_1775736448862.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T13:19:14.616297",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Wife of ex-Man United academy starlet Joe Thompson, who died aged 36, is pregnant with his child from frozen embryo - a year on from his death",
       "link": "https://www.dailymail.co.uk/sport/football/article-15718455/Man-United-academy-player-Joe-Thompson-widow-pregnant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
