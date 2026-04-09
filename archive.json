@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Melania Trump says rumours linking her to Epstein 'need to stop'",
+      "link": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T18:59:44",
+      "description": "The first lady has denied any connection to Jeffrey Epstein in a surprise statement, and called on Congress to hear from victims.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75aa/live/de099100-3446-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T19:07:07.512000",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'My daughter, 14, was groomed after meeting man on gaming platform Roblox'",
+      "link": "https://www.bbc.com/news/articles/c78l92e9192o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T14:25:29",
+      "description": "The victim's mother was \"shocked, bewildered and angry\" after finding messages from Carlo Tritta.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b4/live/9e22eb10-325a-11f1-bdf9-bf5479a63eec.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T19:07:07.512006",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Watson's call for lifetime bans shows PGA Tour-LIV scars still run deep",
+      "link": "https://www.bbc.com/sport/golf/articles/c9957gp7yp5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T18:54:08",
+      "description": "Golf icon Tom Watson says LIV defectors like Brooks Koepka and Patrick Reed should not have been allowed back on the PGA Tour and banned for life.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa9/live/b24e03f0-343e-11f1-b9ad-1b2c6d3e9278.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T19:07:07.512015",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
       "link": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-09T17:04:50",
@@ -5466,42 +5499,93 @@
       "archived_at": "2026-04-02T08:52:31.924756",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "London Pride boss sacked after allegedly spending donations on perfume",
-      "link": "https://www.bbc.com/news/articles/c4g0xl3enyjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T08:00:27",
-      "description": "The organisation has been in a protracted legal battle with its former chief executive.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b84/live/b99521e0-07f0-11f1-ae1d-4b44781c986e.png",
-      "enclosure": null,
-      "archived_at": "2026-04-02T08:52:31.924759",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Isak to return to training this week - Slot",
-      "link": "https://www.bbc.com/sport/football/articles/c0e7qy0rz3eo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T08:29:25",
-      "description": "British record signing Alexander Isak will return to Liverpool training on Thursday, head coach Arne Slot confirms.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e5/live/fc9987c0-2e69-11f1-9408-ab8675603e32.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T08:52:31.924762",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "What were the biggest moves of NFL free agency?",
-      "link": "https://www.bbc.com/sport/american-football/articles/c895pqjnx88o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T07:56:14",
-      "description": "NFL teams splashed out billions in free agency, but what were the biggest moves and who were the biggest spenders? BBC Sport takes a look.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f1/live/bbb18f90-2e0b-11f1-934f-036468834728.png",
-      "enclosure": null,
-      "archived_at": "2026-04-02T08:52:31.924764",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "After years of SNP's 'broken promises' Scottish Tories are geared up to end nation's roads HELL",
+      "link": "https://www.dailymail.co.uk/news/article-15719955/After-years-SNPs-broken-promises-Scottish-Tories-geared-end-nations-roads-HELL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T19:04:05",
+      "description": "The upgrade of a series of key roads across Scotland must be fast-tracked after the Holyrood election, according to the Scottish Conservatives.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777485-0-image-a-106_1775758701776.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777485-0-image-a-106_1775758701776.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T19:07:08.955461",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Melania Trump makes shock statement saying 'lies' linking her to Jeffrey Epstein 'must stop'",
+      "link": "https://www.dailymail.co.uk/news/article-15720049/Melania-Trump-makes-shock-statement-saying-lies-linking-Jeffrey-Epstein-stop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T19:03:21",
+      "description": "First Lady Melania Trump is pushing back on claims she was linked to the disgraced financier and sex offender Jeffrey Esptein.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777809-0-image-m-72_1775760648060.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777809-0-image-m-72_1775760648060.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T19:07:08.955466",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teenage boy is rushed to hospital after being shot while walking near library: Police hunting 'two men in balaclavas'",
+      "link": "https://www.dailymail.co.uk/news/article-15719843/Teenage-boy-hospital-shot-near-library-Police-hunting-two-men-balaclavas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T19:01:31",
+      "description": "Police were called to reports of a teenager with a serious leg injury outside Fartown Library in Huddersfield just after 9pm last night.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777535-0-image-m-12_1775758911094.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777535-0-image-m-12_1775758911094.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T19:07:08.955467",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tributes to nun, 87, who died after being hit by car in Wales",
+      "link": "https://www.dailymail.co.uk/news/article-15719769/Tributes-nun-87-died-hit-car-Wales.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T19:00:05",
+      "description": "Sister Genevieve, previously called Anne Clanchy, died after being hit by a car on Stow Park Avenue on February 24.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776965-0-image-m-14_1775757293880.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776965-0-image-m-14_1775757293880.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T19:07:08.955469",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Transgender women dart players to be banned from female tournaments, says sport's regulator, in a blow for six-time champion\u00a0Noa-Lynn van Leuven",
+      "link": "https://www.dailymail.co.uk/news/article-15719973/Transgender-women-dart-players-banned-female-tournaments-says-sports-regulator-blow-six-time-champion-Noa-Lynn-van-Leuven.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T18:13:32",
+      "description": "The Darts Regulation Authority (DRA), the sort's governing body for the professional game, said it had reviewed its policies after last year's landmark Supreme Court gender ruling.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777223-0-image-a-7_1775758372905.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777223-0-image-a-7_1775758372905.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T19:07:08.955471",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Another village falls victim to traveller 'land grab': More than a dozen caravans arrive in Surrey countryside after transforming field into 17 plot community over Easter weekend",
+      "link": "https://www.dailymail.co.uk/news/article-15719523/village-victim-traveller-land-grab-caravans-Surrey-countryside-community-Easter-weekend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T18:00:03",
+      "description": "'All hell' descended on the sleepy home county village of Alford last Thursday, when travellers transformed a rural field into a 17 plot 'gated community'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107775827-0-image-m-24_1775757454614.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107775827-0-image-m-24_1775757454614.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T19:07:08.955472",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump orders Benjamin Netanyahu to 'CALM DOWN' as Israel threatens Iran ceasefire with brutal bombardment in Lebanon",
       "link": "https://www.dailymail.co.uk/news/article-15719705/Trump-orders-Benjamin-Netanyahu-CALM-Israel-threatens-Iran-ceasefire-brutal-bombardment-Lebanon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12417,93 +12501,37 @@
       "archived_at": "2026-04-07T15:53:58.696264",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "I thought I was tired all the time because I was middle-aged and stressed. Then I was diagnosed with bowel cancer. These were all the signs I missed. It could save you",
-      "link": "https://www.dailymail.co.uk/health/article-15711915/tired-middle-aged-stressed-bowel-cancer-delayed-diagnosis-symptoms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T15:37:12",
-      "description": "Like many women approaching 50, Kerry Hatrill blamed her growing list of symptoms on perimenopause.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/12/107708681-0-image-a-7_1775559778220.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/12/107708681-0-image-a-7_1775559778220.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696266",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Katie Price says she looks 'distorted' and is now struggling to speak after her latest cosmetic work",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15711819/Katie-Price-says-looks-distorted-struggling-speak-latest-cosmetic-work.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T15:31:00",
-      "description": "Katie Price has admitted she is having difficulty speaking after her latest bout of cosmetic work left her face 'distorted'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/12/107709377-0-image-a-1_1775561001979.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/12/107709377-0-image-a-1_1775561001979.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696267",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "LIZ JONES: Sarah Ferguson isn't evil, she's reckless and stupid. That's why I feel sorry for her. And when you hear the awful thing Andrew said about her, perhaps you will too...",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15712283/LIZ-JONES-Hear-feel-Sarah-Ferguson-Theres-one-woman-blame-way-life-panned-know-disgusting-Andrew-called-help-moved.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T15:26:30",
-      "description": "After reading the Mail on Sunday's revelation that Sarah Ferguson is on a sofa-surfing grand tour of Europe I felt unease that, yet again, a woman is being hounded and blamed",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/11/107707915-0-image-a-22_1775557777344.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/11/107707915-0-image-a-22_1775557777344.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696269",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scott Mills quietly removed from Boyzone gig at Arsenal's stadium\u00a0after star was sacked by BBC",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15712001/Scott-Mills-removed-Boyzone-gig-Arsenal-stadium-star-sacked-BBC.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T15:21:32",
-      "description": "In February the club announced that Mills, who was sent packing by the broadcaster two weeks ago following a probe into his personal conduct, was to support the Irish act over two nights.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/15/107621171-0-Mills_did_not_deny_the_allegations_made_against_him_in_his_state-a-58_1775573627457.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/15/107621171-0-Mills_did_not_deny_the_allegations_made_against_him_in_his_state-a-58_1775573627457.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696271",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "NASA releases the first photos from the Artemis II mission: Stunning shot shows the moon eclipsing the SUN - while 'Earthset' is a nod to Apollo's famous 'Earthrise' image",
-      "link": "https://www.dailymail.co.uk/sciencetech/article-15712679/NASA-photos-Artemis-II-moon-mission.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T15:09:28",
-      "description": "NASA has released the first set of photos taken by the Artemis II moon mission. The first image was taken from the far side of the moon, and shows Earth dipping beyond the lunar horizon.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/13/107711895-0-image-a-13_1775566734116.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/13/107711895-0-image-a-13_1775566734116.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696272",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The most eligible royal British bachelors you've never heard of: From a DJ with a 'bad boy reputation' to 'super private' Prince Harry lookalike",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15712051/british-royal-bachelor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T14:59:46",
-      "description": "The most eligible royal British bachelors you've never heard of include a DJ with a 'bad boy reputation' and a 'super private' Prince Harry lookalike.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/12/107709055-0-image-m-24_1775561138093.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/12/107709055-0-image-m-24_1775561138093.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T15:53:58.696274",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Enzo Fernandez holds clear-the-air talks with Chelsea after flirting with Real Madrid - as rebel star serves two-game ban handed out by Liam Rosenior",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15719949/Enzo-Fernandez-holds-clear-air-talks-Chelsea-flirting-Real-Madrid-rebel-star-serves-two-game-ban-handed-Liam-Rosenior.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T18:31:47",
+      "description": "KIERAN GILL: Enzo Fernandez's agent says they have held clear-the-air talks with Chelsea, and that he has apologised for the interviews he conducted over the international break.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777687-0-image-a-42_1775759452255.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777687-0-image-a-42_1775759452255.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T19:07:10.548824",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Celtic supporters group puts protests on hold and urges fans to back team until the end of the season",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15719789/Celtic-supporters-group-puts-protests-hold-urges-fans-team-end-season.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T18:08:55",
+      "description": "A prominent Celtic supporters' group have agreed to call off any further protests and disruption until the end of the season.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777207-0-image-a-96_1775758119882.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777207-0-image-a-96_1775758119882.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T19:07:10.548830",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Liverpool confirm Andy Robertson will LEAVE at the end of the season: Star, 32, to depart Anfield following nine years with the club after rejecting January approach from Tottenham",
       "link": "https://www.dailymail.co.uk/sport/football/article-15719875/Liverpool-confirm-Andy-Robertson-LEAVE-end-season-Star-32-depart-Anfield-following-nine-years-club-rejecting-January-approach-Tottenham.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
