@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "'We should not be at the mercy of events abroad' - Starmer",
+      "link": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T22:51:51",
+      "description": "The prime minister says \"shocks\" like the conflict in Iran are becoming more frequent.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3e9/live/01e72c10-3463-11f1-9998-694d81feb854.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T23:07:17.599554",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Hungry' Watkins is man on mission but will Tuchel take notice?",
+      "link": "https://www.bbc.com/sport/football/articles/cx2rdd3pv7eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T22:53:12",
+      "description": "Ollie Watkins' response to being dropped by England has been nothing short of emphatic, with two strikes in Bologna adding to his goal against West Ham before the international break.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fb/live/da8200d0-345a-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T23:07:17.599567",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Clayton wins in Brighton to go top of Premier League",
+      "link": "https://www.bbc.com/sport/darts/articles/cm25vyg61vpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T22:30:24",
+      "description": "Jonny Clayton comes back from 5-2 down to beat Michael van Gerwen 6-5 and claim his third nightly win to move top of the Premier League.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da74/live/84b1efe0-345e-11f1-bc4b-397e08bede59.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T23:07:17.599570",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "BBC tours Orion spacecraft model ahead of Artemis II return",
       "link": "https://www.bbc.com/news/videos/cwydvv00r0wo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-09T21:25:50",
@@ -5466,42 +5499,163 @@
       "archived_at": "2026-04-02T10:57:06.497483",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "How wee collected at festivals could help with a project to grow a new forest",
-      "link": "https://www.bbc.com/news/articles/cvgk5k7lkv0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T07:31:57",
-      "description": "Scientists behind a project to turn human wee into plant fertiliser hope to grow their first forest.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/242c/live/e40e9ad0-2e80-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T10:57:06.497490",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Reform spokesperson sacked after Grenfell comments",
-      "link": "https://www.bbc.com/news/articles/c0mj8v4lk2ko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T10:37:12",
-      "description": "A group representing the bereaved of Grenfell call Simon Dudley's comments  \"ignorant and callous\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f45/live/b7e56850-5823-11f0-931b-77dc92982b8b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T10:57:06.497492",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Dozens more people tell BBC of 'alarming' safety breaches at Travelodge hotels",
-      "link": "https://www.bbc.com/news/articles/c5ywq35q94vo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T05:02:38",
-      "description": "Dozens of people tell their stories to the BBC after a woman was attacked in her hotel bed in 2022.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f2e/live/f9a45550-2df5-11f1-84b6-e98f87f2e88b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T09:58:29.515222",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Blair is at odds with Miliband as former PM's think tank urges UK to back new oil and gas fields",
+      "link": "https://www.dailymail.co.uk/news/article-15719701/Blair-odds-Miliband-former-PMs-think-tank-urges-UK-new-oil-gas-fields.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:01:49",
+      "description": "Ministers should have taken steps to protect the country from the volatility of energy prices caused by the Iran war, it says in a new report.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/17/107156533-0-Energy_Secretary_Ed_Miliband_is_under_mounting_pressure_to_issue-a-6_1775753715954.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/17/107156533-0-Energy_Secretary_Ed_Miliband_is_under_mounting_pressure_to_issue-a-6_1775753715954.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:19.109108",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Epstein survivors claim Melania Trump is 'diverting attention' and protecting 'those in power' after First Lady makes bombshell statement",
+      "link": "https://www.dailymail.co.uk/news/article-15720535/Epstein-survivors-message-Melania-Trump-statement.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:00:08",
+      "description": "Victims of pedophile financier Jeffrey Epstein have responded to First Lady Melania Trump's bombshell statement that she is not one of them.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/23/107781035-0-image-a-2_1775773346677.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/23/107781035-0-image-a-2_1775773346677.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:19.109114",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump denies he 'declared premature victory' in Iran and warns Tehran 'better not be' charging takers a toll at Strait of Hormuz",
+      "link": "https://www.dailymail.co.uk/news/article-15720483/Trump-denies-declared-premature-victory-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T22:58:03",
+      "description": "Donald Trump shot back at the Wall Street Journal Thursday after the paper's editorial board claimed he 'declared premature victory in Iran.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/23/107775719-0-image-m-13_1775772387713.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/23/107775719-0-image-m-13_1775772387713.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:19.109115",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Revealed: The nation's biggest TV watching sins from shoes on the sofa to phones on loud",
+      "link": "https://www.dailymail.co.uk/news/article-15720503/The-nations-biggest-TV-watching-sins.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T22:56:11",
+      "description": "Settling down in front of the television is an evening ritual in homes across Britain. And a poll has found that strict rules are laid down by many families as they wind down together.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/23/107782283-0-image-m-35_1775775124442.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/23/107782283-0-image-m-35_1775775124442.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:19.109117",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Melania and Donald Trump's matchmaker speaks out after her stunning speech denouncing Epstein ties... and is willing to testify under OATH about how they met",
+      "link": "https://www.dailymail.co.uk/news/article-15720367/melania-donald-trump-matchmaker-paolo-zampolli-epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T22:54:29",
+      "description": "Ambassador\u00a0Paolo Zampolli said Thursday that he's ready to testify before Congress to prove that he was the individual who introduced President Donald Trump and First Lady Melania Trump.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/23/107781597-0-image-m-3_1775773039153.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/23/107781597-0-image-m-3_1775773039153.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:19.109118",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Daughters of woman found dead by a roadside spent hours waiting for an airport reunion that never came",
+      "link": "https://www.dailymail.co.uk/news/article-15720281/eva-lasrini-bali-melbourne-mum.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T22:53:50",
+      "description": "The daughters of a woman allegedly killed by her ex\u2011husband say they were waiting in an airport while her body lay by a freeway thousands of miles away.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/23/107782225-0-image-m-68_1775774823090.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/23/107782225-0-image-m-68_1775774823090.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:19.109120",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Nigel Farage calls on Starmer to quit if Labour is decimated in upcoming local elections",
+      "link": "https://www.dailymail.co.uk/news/article-15719725/Nigel-Farage-WORST-prime-minister-Keir-Starmer-quit-Labour-elections.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T22:35:48",
+      "description": "The Reform UK leader slammed Sir Keir as the 'worst-ever UK prime minister' and said that the longer he clings to power 'things are only going to get worse' for Britain.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107773907-0-image-m-13_1775757557752.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107773907-0-image-m-13_1775757557752.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:19.109122",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Inside the 'toxic' DHS 'dumpster fire': Firing list revealed as top comms chief makes desperate pitch to Karoline Leavitt",
+      "link": "https://www.dailymail.co.uk/news/article-15716237/dhs-firing-list-power-struggle-communications-chief.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T22:31:28",
+      "description": "The Department of Homeland Security's communications department has devolved into what insiders describe as a 'dumpster fire' of internal sabotage.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/23/107689417-0-image-m-13_1775772194195.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/23/107689417-0-image-m-13_1775772194195.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:19.109123",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trade unions can access workplaces every WEEK under Angela Rayner's workers' rights revolution in move that business claim will cause them unnecessary disruption",
+      "link": "https://www.dailymail.co.uk/news/article-15719707/Trade-unions-access-workplaces-WEEK-Angela-Rayners-workers-rights-revolution-business-claim-cause-unnecessary-disruption.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T22:07:34",
+      "description": "Firms\u00a0will suffer unnecessary disruption from trade unions being given the right to visit workplaces every week, ministers have been warned.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775783-0-image-a-6_1775753926218.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775783-0-image-a-6_1775753926218.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:19.109125",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Keir Starmer denies Iranian claims that its civilians are being killed in attacks launched from RAF bases - as he blames Donald Trump for sending Britons' energy bills sky-high",
+      "link": "https://www.dailymail.co.uk/news/article-15719971/Keir-Starmer-denies-Iranian-claims-civilians-killed-attacks-launched-RAF-bases-blames-Donald-Trump-sending-Britons-energy-bills-sky-high.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T22:03:33",
+      "description": "The Prime Minister insisted he has only given US bombers permission to take off from British airbases for 'collective self-defence'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777253-0-image-a-5_1775758431494.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777253-0-image-a-5_1775758431494.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:19.109127",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fat jab users vulnerable to nutritional deficiencies and muscle loss as they skip meals and slash protein intake, first real-world study shows",
+      "link": "https://www.dailymail.co.uk/news/article-15719675/fat-jab-users-vulnerable-nutritional-deficiencies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T22:02:33",
+      "description": "The change in eating habits reduces opportunities for adequate protein intake, with 88 per cent now failing to consume enough, researchers warn.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775479-0-image-a-11_1775753155041.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775479-0-image-a-11_1775753155041.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:19.109128",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump turns on his closest allies in furious tirade on Iran as loyalists bail on president... as he declares Brigitte Macron is a WOMAN",
       "link": "https://www.dailymail.co.uk/news/article-15720357/Trump-turns-closest-allies-furious-tirade-Iran-loyalists-bail-president-declares-Brigitte-Macron-WOMAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12347,163 +12501,37 @@
       "archived_at": "2026-04-07T21:09:50.936893",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Mystery as Portland hospital boss is ousted from $1.4m job just four months in 'after raising concerns about equity and inclusion'",
-      "link": "https://www.dailymail.co.uk/news/article-15712451/portland-hospital-ceo-fired-unknown-reason.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:33:49",
-      "description": "Tarek Salaway was fired as the CEO of Oregon Health & Science University's hospital and clinic program after being brought on in December 2025. He was officially let go last Friday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721385-0-image-m-49_1775590555789.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721385-0-image-m-49_1775590555789.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936894",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The Great Pictish Empire...\u2028based on a tiny Scots hilltop",
-      "link": "https://www.dailymail.co.uk/news/article-15713705/The-Great-Pictish-Empire-based-tiny-Scots-hilltop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:26:11",
-      "description": "Archaeologists have confirmed Rhynie was once a Pictish royal power centre with international connections.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721715-0-image-m-71_1775591323602.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721715-0-image-m-71_1775591323602.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936895",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Skier banned from international competition after pleading guilty to St Andrews student sex assault",
-      "link": "https://www.dailymail.co.uk/news/article-15713707/Skier-banned-international-competition-pleading-guilty-St-Andrews-student-sex-assault.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:25:54",
-      "description": "A professional skier has been banned from international competition after sexually assaulting a St Andrews University student in the street.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721625-0-image-m-23_1775591176369.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721625-0-image-m-23_1775591176369.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936896",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Red-faced John Swinney forced into U-turn after backing Kanye West despite anti-Semitism storm",
-      "link": "https://www.dailymail.co.uk/news/article-15713671/Red-faced-John-Swinney-forced-U-turn-backing-Kanye-West-despite-anti-Semitism-storm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:25:06",
-      "description": "John Swinney has been forced into a humiliating U-turn after backing an American rapper who glorified Hitler.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721609-0-image-a-58_1775590714232.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721609-0-image-a-58_1775590714232.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936897",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "EUAN McCOLM: Offord has succeeded in taking Reform to a 'new level'. But how much further can this chaotic party fall before May 7",
-      "link": "https://www.dailymail.co.uk/news/article-15713689/EUAN-McCOLM-Offord-succeeded-taking-Reform-new-level-chaotic-party-fall-7.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:02:08",
-      "description": "Lord Malcolm Offord was supposed to shake up Scottish politics. He was to be the great disruptor, a radical force who'd dramatically change the landscape.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721423-0-image-a-4_1775590308756.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721423-0-image-a-4_1775590308756.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T20:05:27.899504",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "We'll hand back \u00a3500 to our OAPs, say Scottish Conservatives as they also pledge to cut tax and take control of the benefit bill",
-      "link": "https://www.dailymail.co.uk/news/article-15713621/Well-hand-500-OAPs-say-Scottish-Conservatives-pledge-cut-tax-control-benefit-bill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T19:58:47",
-      "description": "Russell Findlay has promised a \u00a3500 tax cut for pensioners and urged voters to stop the 'living nightmare' of an SNP majority and an independence referendum.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107720965-0-image-m-10_1775588617246.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107720965-0-image-m-10_1775588617246.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T20:05:27.899509",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Locked up, woman who conned aunt, 89, out of \u00a3300,000 to build gym",
-      "link": "https://www.dailymail.co.uk/news/article-15713699/Locked-woman-conned-aunt-89-300-000-build-gym.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T19:58:46",
-      "description": "A crook who conned her elderly aunt out of more than \u00a3300,000 to help build a state of the art gym has been jailed for two-and-a-half years.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721733-0-image-m-25_1775591163229.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721733-0-image-m-25_1775591163229.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T20:05:27.899511",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tax cuts, reductions to benefits spending AND wielding the axe to Scotland's bloated public sector... the Tories' plan to get Scotland working",
-      "link": "https://www.dailymail.co.uk/news/article-15713669/Tax-cuts-reductions-benefits-spending-wielding-axe-Scotlands-bloated-public-sector-Tories-plan-Scotland-working.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T19:56:58",
-      "description": "Extra support for hard-working Scots, cuts to Scotland's benefits spending and wielding the axe on the bloated public sector are at the heart of the Scottish Conservative blueprint to 'Get Scotland Working'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721219-0-image-m-50_1775589868619.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721219-0-image-m-50_1775589868619.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T20:05:27.899513",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "STEPHEN DAISLEY: Happy warrior Findlay's got the energy and patter... now he needs your votes",
-      "link": "https://www.dailymail.co.uk/news/article-15713643/STEPHEN-DAISLEY-Happy-warrior-Findlays-got-energy-patter-needs-votes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T19:56:08",
-      "description": "Russell Findlay was a cheery wee soul at his party's manifesto launch. Scotland would become, he warned in a bloodcurdling tone, a 'living nightmare' if John Swinney won a majority.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107720939-0-image-a-3_1775588447124.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107720939-0-image-a-3_1775588447124.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T20:05:27.899514",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Inside the lives of those 'who are trapped in Dubai' while explosions ring out... and influencers moan",
-      "link": "https://www.dailymail.co.uk/news/article-15676441/Inside-lives-trapped-Dubai-explosions-ring-influencers-moan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T19:50:21",
-      "description": "For thousands of sun-seekers and an army of influencers, the Dubai dream appears to be over. But there are many who are stuck... and have no way of fleeing.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/23/107696113-0-image-a-6_1775515600988.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/23/107696113-0-image-a-6_1775515600988.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T20:05:27.899516",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woke NYC mayor announces plan to introduce 2020-style 'equity' measures including giving preferential treatment to minority-owned businesses",
-      "link": "https://www.dailymail.co.uk/news/article-15713203/new-york-city-mayor-zohran-mamdani-equity-plan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T19:31:44",
-      "description": "Mayor Zohran Mamdani announced the massive 375-page plan at a Brooklyn college alongside city leaders on Monday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/19/107720599-0-image-m-39_1775587729481.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/19/107720599-0-image-m-39_1775587729481.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T20:05:27.899518",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Five former Premier League stars among seven footballers drawn into 'probe over smuggled Rolex and Patek Philippe watches from Andorra' after they 'purchased' the expensive items",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15716149/Five-former-Premier-League-stars-seven-footballers-drawn-probe-smuggled-Rolex-Patek-Philippe-watches-Andorra-purchased-expensive-items.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T22:03:20",
+      "description": "Seven high profile footballers have reportedly been drawn into a watch smuggling case in Andorra.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/18/107747493-0-image-a-14_1775668907143.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/18/107747493-0-image-a-14_1775668907143.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:21.499528",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Premier League big guns step up chase for \u00a380m-rated England star Morgan Rogers as Aston Villas face having to comply with financial rules",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15720321/Premier-League-big-guns-step-chase-80m-rated-England-star-Morgan-Rogers-Aston-Villas-face-having-comply-financial-rules.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T22:54:02",
+      "description": "Morgan Rogers is expected to be at the centre of an \u00a380million transfer tug-of-war this summer, with\u00a0Arsenal, Manchester United and Chelsea all renewing their interest in the 23-year-old.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/23/107782263-0-image-a-41_1775774982164.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/23/107782263-0-image-a-41_1775774982164.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:07:21.499537",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Bologna 1-3 Aston Villa: Ollie Watkins' brace sparks statement-of-intent win in Italy ahead of run of games that will define the Villans' season, writes TOM COLLOMOSSE",
       "link": "https://www.dailymail.co.uk/sport/football/article-15712383/Bologna-1-3-Aston-Villa-Ollie-Watkins-brace-sparks-statement-intent-win-Italy-ahead-run-games-define-Villans-season-writes-TOM-COLLOMOSSE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -18033,6 +18061,39 @@
     }
   ],
   "Unherd": [
+    {
+      "title": "Does Kanye deserve our forgiveness?",
+      "link": "https://unherd.com/2026/04/does-kanye-deserve-our-forgiveness/?edition=us",
+      "pubDate": "2026-04-09T23:04:01",
+      "description": "Shame is a vanishing emotion",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-09T23:07:24.102647",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "The world has got uranium poisoning",
+      "link": "https://unherd.com/2026/04/the-world-has-got-uranium-poisoning/?edition=us",
+      "pubDate": "2026-04-09T23:02:59",
+      "description": "Nuclear power is no panacea",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-09T23:07:24.102653",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "How censorship seized America",
+      "link": "https://unherd.com/2026/04/how-censorship-seized-america/?edition=us",
+      "pubDate": "2026-04-09T23:01:28",
+      "description": "Big Tech did the government\u2019s bidding",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-09T23:07:24.102655",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
     {
       "title": "Is it too late to reindustrialize?",
       "link": "https://unherd.com/2026/04/is-it-too-late-to-reindustrialise/?edition=us",
