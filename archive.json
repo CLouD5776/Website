@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+      "link": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T23:01:47",
+      "description": "Both sides have reason to end the war but share no common ground.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/f4717b10-3428-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T23:59:49.093399",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Weekly quiz: What might have made Paddington panic about his marmalade?",
+      "link": "https://www.bbc.com/news/articles/c4gvkm3j23do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T19:10:51",
+      "description": "How much attention did you pay to what happened in the world over the past seven days?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/cf628f50-3435-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-09T23:59:49.093410",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'We should not be at the mercy of events abroad' - Starmer",
       "link": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-09T22:51:51",
@@ -5477,31 +5499,163 @@
       "archived_at": "2026-04-02T11:47:04.273387",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Funeral director admits preventing 30 burials and theft",
-      "link": "https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T10:53:15",
-      "description": "Robert Bush pleads guilty to charges relating to Legacy Independent Funeral Directors in Hull.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e549/live/5acf86f0-2e74-11f1-be87-e9586b88cb42.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T10:57:06.497478",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "King and Queen give away money in ancient Easter tradition",
-      "link": "https://www.bbc.com/news/articles/cvgke0qjn1yo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T10:34:15",
-      "description": "It is only the second time the service has been held in Wales in its 800-year history.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a3/live/798d0230-2e7d-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T10:57:06.497483",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Teacher, 34, who was banned after calling pupil a 'very special person' and sent her more than 100 texts in one day played Buddy the Elf in school video",
+      "link": "https://www.dailymail.co.uk/news/article-15720221/Teacher-banned-pupil-special-person-texts-Buddy-Elf-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:55:39",
+      "description": "Stephen White was a teacher at St Wilfrid's Catholic School in Crawley when he 'engaged in an inappropriate relationship' with Pupil A, between March 2020 and March 2023.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/20/107707459-0-Stephen_White_34_pictured_in_St_Wilfred_Catholic_School_s_versio-a-4_1775764551807.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/20/107707459-0-Stephen_White_34_pictured_in_St_Wilfred_Catholic_School_s_versio-a-4_1775764551807.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:51.673921",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Explosive marriage secrets of wife who vanished from Bahamas love boat... as bombshell court papers come to light",
+      "link": "https://www.dailymail.co.uk/news/article-15720017/lynette-brian-hooker-bahamas-disappearance-marriage-secrets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:54:34",
+      "description": "Lynette and Brian have been married\u00a0for more than two decades and spent the past four years as boat-life vloggers living on\u00a0their yacht Soulmate.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779467-0-image-a-75_1775765740073.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779467-0-image-a-75_1775765740073.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:51.673927",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ed Miliband's 'mad dash' to Net Zero is blamed for OpenAI shelving a multi- billion-pound investment into Britain",
+      "link": "https://www.dailymail.co.uk/news/article-15720487/Ed-Milibands-Net-Zero-blamed-OpenAI-multi-billion-pound-investment-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:53:17",
+      "description": "OpenAI, the company behind ChatGPT, said soaring energy prices as well as red tape were behind the decision to pause its Stargate UK project.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/00/107783029-0-image-a-4_1775777856262.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/00/107783029-0-image-a-4_1775777856262.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:51.673929",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Navy scrambles to stop Putin spy submarines, as Ministers are told to crank up spending NOW",
+      "link": "https://www.dailymail.co.uk/news/article-15720567/Navy-scrambles-stop-Putin-spy-submarines.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:51:48",
+      "description": "It emerged yesterday that the Kremlin had sent one attack sub and two spy submarines into the North Sea where they were able to observe vital undersea cables and pipelines serving the UK.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/23/107782201-0-image-m-23_1775775051688.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/23/107782201-0-image-m-23_1775775051688.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:51.673930",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "End of an era! Victorian favourite Gentleman's Relish axed after 177 years as makers admit it's 'no longer commercially viable'",
+      "link": "https://www.dailymail.co.uk/news/article-15720605/victorian-favourite-Gentlemans-Relish-axed-177-years-commercially-viable.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:48:52",
+      "description": "As eccentrically Victorian as monocles, pith helmets and puttees, Gentleman's Relish has been a staple of traditional pantries since 1849.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/00/107783115-0-image-m-14_1775778311474.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/00/107783115-0-image-m-14_1775778311474.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:51.673932",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Carnival cruise line sued by siblings after attack by passengers that left autistic brother, 19, with brain injury",
+      "link": "https://www.dailymail.co.uk/news/article-15718859/Carnival-Cruise-Line-sued-Aiden-Chambers-siblings-attacked-Jubilee.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:48:51",
+      "description": "Aiden Chambers, 19, and his 12-year-old sister are suing Carnival Cruise Line after they were attacked by unruly passengers last year, leaving the autistic older brother with a brain injury.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/00/107781633-0-image-a-8_1775777407689.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/00/107781633-0-image-a-8_1775777407689.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:51.673933",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "College student, 23, plummets to his death in front of horrified sister on hiking trail",
+      "link": "https://www.dailymail.co.uk/news/article-15719385/william-gatch-death-hiking-connecticut-georgia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:40:42",
+      "description": "Georgia college student William Gatch was hiking in Connecticut when he took the fatal fall. He had plans to graduate in May with his degree in Agriculture Education.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/23/107781859-0-image-m-12_1775774427299.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/23/107781859-0-image-m-12_1775774427299.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:51.673935",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Even Melania Trump's closest White House allies are stunned... and all now asking the same question: Searing inside account of shock Epstein speech that left furious First Lady shaking",
+      "link": "https://www.dailymail.co.uk/news/article-15720411/melania-trump-epstein-white-house-allies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:40:14",
+      "description": "Melania Trump walked briskly across the Grand Foyer of the White House. Her gait glacial, her face like thunder.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/00/107782123-0-image-a-32_1775777978182.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/00/107782123-0-image-a-32_1775777978182.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:51.673936",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Israel and Lebanon agree to historic peace talks after IDF launched heaviest strikes against Hezbollah this year",
+      "link": "https://www.dailymail.co.uk/news/article-15720569/Israel-Lebanon-historic-peace-talks-IDF-strikes-Hezbollah.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:37:14",
+      "description": "Prime minister Nawaf Salam ordered his army to disarm the Iranian proxy group in the Lebanese capital Beirut and begin negotiations with Jerusalem.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/00/107782911-0-image-m-12_1775777798286.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/00/107782911-0-image-m-12_1775777798286.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:51.673937",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ex-wife with expensive taste allegedly stole upscale wine and pricey artwork from her former husband's home",
+      "link": "https://www.dailymail.co.uk/news/article-15719245/ex-wife-steals-wine-artwork-tennessee.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:24:44",
+      "description": "Caley Spotts, 42, was arrested and charged with property theft from her ex-husband Joshua Spotts' home, where she allegedly swiped more than $30,000 in wine and artwork.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/23/107781745-0-image-m-14_1775774659931.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/23/107781745-0-image-m-14_1775774659931.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:51.673939",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Russell Findlay's warning over the Green Party extremists who would legalise drugs and abolish prisons",
+      "link": "https://www.dailymail.co.uk/news/article-15719941/Russell-Findlays-warning-Green-Party-extremists-legalise-drugs-abolish-prisons.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:13:41",
+      "description": "THE Scottish Greens were yesterday branded extremists who want to abolish prisons and legalise class-A drugs.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777937-0-image-a-9_1775760427741.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777937-0-image-a-9_1775760427741.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:51.673940",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Blair is at odds with Miliband as former PM's think tank urges UK to back new oil and gas fields",
       "link": "https://www.dailymail.co.uk/news/article-15719701/Blair-odds-Miliband-former-PMs-think-tank-urges-UK-new-oil-gas-fields.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12347,163 +12501,23 @@
       "archived_at": "2026-04-07T21:09:50.936873",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Patients of suspended dentist say they've been left with no functioning TEETH, as they beg for help",
-      "link": "https://www.dailymail.co.uk/news/article-15712399/georgia-dentist-justin-scott-license-suspended.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T21:03:30",
-      "description": "Dr Justin Scott, 44, based in Atlanta, Georgia, had his permit to practice rescinded on Friday after almost a dozen patients told horror stories about his clinic.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/21/107617469-0-image-m-10_1775593334968.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/21/107617469-0-image-m-10_1775593334968.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936879",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tories vow to stop public sector staff enjoying four-day working week for five days' pay if they are re-elected",
-      "link": "https://www.dailymail.co.uk/news/article-15713371/stop-public-sector-staff-enjoying-four-day-working-week.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T21:01:11",
-      "description": "Public\u00a0sector staff including town hall officials would be banned from enjoying a four-day week on full pay under a future Tory government.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/18/107718901-0-image-m-29_1775581785655.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/18/107718901-0-image-m-29_1775581785655.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936881",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man, 21, is dead and another is rushed to hospital after fight at London's Primrose Hill 'as crowds basked in the sunshine': Murder probe and manhunt is launched",
-      "link": "https://www.dailymail.co.uk/news/article-15713847/Man-dead-hospital-fight-Londons-Primrose-Hill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:55:12",
-      "description": "Officers and ambulance crews were called at around 6.40pm to reports of a fight at the view point in Primrose Hill.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/21/107723141-0-image-m-60_1775594954304.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/21/107723141-0-image-m-60_1775594954304.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936882",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Terrifying video shows young Chicago boys clad in masks and nitrile gloves flashing their GUNS in broad daylight",
-      "link": "https://www.dailymail.co.uk/news/article-15712421/chicago-guns-boys-gang-video-west-side.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:55:08",
-      "description": "FBI Director Kash Patel said last fall that 'the Chicago city streets have 110,000 gang members' after he visited the city.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/21/107722517-0-image-m-35_1775594502751.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/21/107722517-0-image-m-35_1775594502751.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936883",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "School from hell where TWO female teachers have been fired over claims they attacked children",
-      "link": "https://www.dailymail.co.uk/news/article-15712459/elgin-public-schools-teachers-attack-children-allegations-oklahoma.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:54:24",
-      "description": "Elizabeth Kay Sutton, 38, and Ottoria McClung, 37, both of Elgin, received misdemeanor charges for hitting children. Both were later terminated from their jobs.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/21/107721725-0-image-m-21_1775595184752.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/21/107721725-0-image-m-21_1775595184752.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936885",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "It was the most ordinary of trips with my 12-year-old son in the car. But I'll never forget what happened next. I thought I was going to die. I thought I was going to kill us both. Writer Karen Fitzgibbon on the terrifying experience that changed her life",
-      "link": "https://www.dailymail.co.uk/news/article-15713501/It-ordinary-trips-12-year-old-son-car-Ill-never-forget-happened-thought-going-die-thought-going-kill-Writer-Karen-Fitzgibbon-terrifying-experience-changed-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:53:36",
-      "description": "My heart started to pound in my chest, my palms became sweaty, I was unable to grip the steering wheel. My limbs felt as if they had turned to jelly.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/18/107719557-0-image-m-9_1775584269917.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/18/107719557-0-image-m-9_1775584269917.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936886",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Outrage as Holocaust survivor, 86, priced out of NYC says Mamdani SKIPPED scheduled housing meeting",
-      "link": "https://www.dailymail.co.uk/news/article-15712781/mamdani-nyc-affordable-housing-sami-steigmann.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:52:58",
-      "description": "Holocaust survivor and IDF veteran Sami Steigmann said he is struggling to find affordable and safe housing in New York City.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721231-0-image-m-14_1775589953037.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721231-0-image-m-14_1775589953037.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936887",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Avoidable disaster after Maine's woke Democrat governor let biological male transgender double-murderer move into women's prison",
-      "link": "https://www.dailymail.co.uk/news/article-15712405/maine-governor-andrea-balcer-womens-prison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:52:13",
-      "description": "Andrea Balcer, 27, formerly known as Andrew, is incarcerated at the the Maine Correctional Women's Center in Windham for murdering his parents in 2016.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/21/107720145-0-image-a-6_1775593782568.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/21/107720145-0-image-a-6_1775593782568.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936888",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Master of disguise' fugitive who appears to have had extreme plastic surgery is brought before San Diego court",
-      "link": "https://www.dailymail.co.uk/news/article-15712559/San-diego-Tyler-Adams-Master-Disguise-Court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:47:37",
-      "description": "Tyler Adams, 54, appeared in court for identity theft charges related to escaping state prison in Hawaii and the murder of his girlfriend in Mexico.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/64778117-0-image-m-14_1775591479333.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/64778117-0-image-m-14_1775591479333.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936890",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Live facial recognition cameras will target knife crime hotspots under new plans to slash rates by a third",
-      "link": "https://www.dailymail.co.uk/news/article-15713167/Live-facial-recognition-cameras-target-knife-crime.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:39:33",
-      "description": "Live facial recognition cameras are to be introduced. New national mapping technology is being shared with police which is capable of identifying the worst hotspots.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/21/107722593-0-image-m-24_1775594010696.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/21/107722593-0-image-m-24_1775594010696.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936891",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Daughter of woman who fell overboard during Caribbean trip with husband suggests mom's disappearance may NOT have been an accident",
-      "link": "https://www.dailymail.co.uk/news/article-15712585/lynette-hooker-missing-daughter-husband-accident-search.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T20:35:44",
-      "description": "Lynette Hooker, 55, of Michigan, went overboard in the waters around the Abaco Islands in the Bahamas while boating with her husband.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107720643-0-image-m-109_1775591322780.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107720643-0-image-m-109_1775591322780.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-07T21:09:50.936893",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Glamorous golf star retracts accusation against ex-boyfriend Christian Pulisic after receiving 'false info'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15720561/alexa-melton-christian-pulisic-accusation-retracted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-09T23:29:45",
+      "description": "Alexa Melton, the former girlfriend of United States and AC Milan soccer star Christian Pulisic, has retracted comments she made about his alleged infidelity.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/00/107782747-0-image-a-141_1775776924874.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/00/107782747-0-image-a-141_1775776924874.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-09T23:59:52.965601",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Five former Premier League stars among seven footballers drawn into 'probe over smuggled Rolex and Patek Philippe watches from Andorra' after they 'purchased' the expensive items",
       "link": "https://www.dailymail.co.uk/sport/football/article-15716149/Five-former-Premier-League-stars-seven-footballers-drawn-probe-smuggled-Rolex-Patek-Philippe-watches-Andorra-purchased-expensive-items.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
