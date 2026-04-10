@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Met PC caught making 'appalling' remarks sacked",
+      "link": "https://www.bbc.com/news/articles/c937w3zj742o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T17:21:34",
+      "description": "Charlie Cano was filmed during an undercover Panorama investigation at Charing Cross police station.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1afe/live/ca00f470-34f8-11f1-83d0-87d8f45acd6d.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T18:46:10.897191",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Prince Harry sued for defamation by charity Sentebale he co-founded",
       "link": "https://www.bbc.com/news/articles/cr517n2v7myo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-10T17:07:46",
@@ -5488,20 +5499,107 @@
       "archived_at": "2026-04-03T07:43:08.086686",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'We fell off the face of the earth': Dad and daughter raced across world but had to keep it secret",
-      "link": "https://www.bbc.com/news/articles/c9951jrr18no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T05:19:07",
-      "description": "Molly Clifford and her father are part of this year's line up for the BBC's Race Across the World.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb22/live/0bdf4fa0-2db9-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T07:43:08.086692",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Grandmother, 73, died while paramedics filled out paperwork in car park, inquest hears",
+      "link": "https://www.dailymail.co.uk/news/article-15722673/Grandmother-died-paramedics-filled-paperwork-car-park-inquest-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T18:45:07",
+      "description": "Janet Noon passed away after both a GP and paramedics agreed it was in her 'best interests' to keep an eye on her instead of transferring her to hospital.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/19/107804133-0-image-m-20_1775845673346.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/19/107804133-0-image-m-20_1775845673346.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T18:46:14.369933",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment hero passers-by smash their way into burning food shop to rescue man trapped inside as they break windows and prize open security shutter",
+      "link": "https://www.dailymail.co.uk/news/article-15722773/Moment-passers-burning-shop-rescue-man-trapped.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T18:44:47",
+      "description": "The heroic group could be seen smashing their way through the window as they attempted to prize open the security shutter with batons.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/19/107802577-0-image-m-6_1775845434678.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/19/107802577-0-image-m-6_1775845434678.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T18:46:14.369939",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Boy, 16, is charged with murder after schoolboy, 14, was shot dead in London 'while out filming music video'",
+      "link": "https://www.dailymail.co.uk/news/article-15723117/Boy-16-charged-murder-schoolboy-14-shot-dead-London-filming-music-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T18:42:30",
+      "description": "A 16-year-old boy has been charged with the murder of Eghosa Ogbebor, 14, who was shot dead in Woolwich, south-east London, last week.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/19/107692877-0-Eghosa_Ogbebor_pictured_was_shot_dead_near_Woolwich_Dockyard_sta-a-12_1775846536578.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/19/107692877-0-Eghosa_Ogbebor_pictured_was_shot_dead_near_Woolwich_Dockyard_sta-a-12_1775846536578.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T18:46:14.369941",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aintree ladies look worse for wear as they slump in car park after downing drinks on raucous day at Grand National",
+      "link": "https://www.dailymail.co.uk/news/article-15722903/Aintree-ladies-car-park-drinks-Grand-National.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T18:36:43",
+      "description": "Glamorous racegoers have been seen slumped on the ground in the car park dressed in fashionable outfits after a raucous Ladies Day at Aintree.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/19/107803963-0-image-m-3_1775844301569.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/19/107803963-0-image-m-3_1775844301569.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T18:46:14.369942",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Transgender woman who stabbed her murderer boyfriend to death after meeting him in men's prison is jailed for life",
+      "link": "https://www.dailymail.co.uk/news/article-15722727/Transgender-woman-stabbed-murderer-boyfriend-death-mens-prison-jailed-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T18:30:22",
+      "description": "Aurin Makepeace, 43, from North Wales, fatally stabbed convicted murderer Steven Rothwell, 41, in his flat in August last year.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107413233-0-image-m-12_1775839690197.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107413233-0-image-m-12_1775839690197.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T18:46:14.369944",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Democrat candidate's husband exposed as sex offender by records revealing the victim is RELATED to wife",
+      "link": "https://www.dailymail.co.uk/news/article-15722259/democrat-christina-montes-husband-sex-offender-texas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T18:19:31",
+      "description": "Christina Montes, 44, is a Democratic candidate running for judge of County Court at Law No. 2 in El Paso.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/18/107803643-0-image-m-33_1775843321407.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/18/107803643-0-image-m-33_1775843321407.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T18:46:14.369945",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "White House privately warned staff against insider trading after mystery billion-dollar oil bet during Iran war",
+      "link": "https://www.dailymail.co.uk/news/article-15722579/White-House-privately-warned-staff-against-insider-trading-mystery-billion-dollar-oil-bet-Iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T18:10:58",
+      "description": "White House staff were warned last month that they should not wager on financial markets using non-public information, a White House official told the Daily Mail.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/18/107802949-0-image-a-7_1775841174020.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/18/107802949-0-image-a-7_1775841174020.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T18:46:14.369947",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Rival Turkish barber shop workers who swung scissors and spanners in huge 'turf war' brawl over plans to open up new shop in the town are spared jail",
       "link": "https://www.dailymail.co.uk/news/article-15722391/Rival-Turkish-barbers-scissors-spanners-brawl-spared-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12403,107 +12501,37 @@
       "archived_at": "2026-04-08T15:54:41.122936",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Tragedy after Minnesota father, 26, left his baby son to sleep under weighted blanket for five hours",
-      "link": "https://www.dailymail.co.uk/news/article-15715611/minnesota-father-dead-son-weighted-blanket-mankato.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:32:03",
-      "description": "The father allegedly told police that he had been 'working on Discord and talking to friends,' claiming that he had headphones on but could still hear everything.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/15/107741947-0-image-m-24_1775660330439.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/15/107741947-0-image-m-24_1775660330439.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122938",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Husband of woman who fell overboard in Bahamas breaks silence amid claims he failed to tell her daughter of tragedy for 24 hours",
-      "link": "https://www.dailymail.co.uk/news/article-15715701/Brian-Lynette-Hooker-overboard-Bahamasl-daughter-inform.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:26:49",
-      "description": "Brian Hooker, 58, said he is heartbroken by his wife's disappearance after she fell overboard while taking a dinghy back to their sailboat near Elbow Cay",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107743471-0-image-m-23_1775660531895.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107743471-0-image-m-23_1775660531895.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122939",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Arizona teen vanished at 13... now we've found her at 45: Astonishing story of her secret life revealed for the first time",
-      "link": "https://www.dailymail.co.uk/news/article-15712615/christina-plante-missing-new-life-arizona.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:25:53",
-      "description": "She was just 13 when she vanished on her way to see her horse 32 years ago in Arizona. Now the Daily Mail has tracked her down to her new home and uncovered her secret new life.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721451-0-image-a-22_1775591473614.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721451-0-image-a-22_1775591473614.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122940",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Distraught woman shares nightmarish experience she says unfolded after she unwittingly booked massage with illegal immigrant",
-      "link": "https://www.dailymail.co.uk/news/article-15715535/Woman-massage-Georgia-Melanie-Avalon-illegal-migrant-sexual-assault.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:24:04",
-      "description": "Melanie Avalon, a podcaster and wellness influencer, alleged she was assaulted by suspect Iben Franklin Hernandez Bartolon during a Valentine's Day massage in 2022.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/15/107741833-0-image-m-32_1775660040895.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/15/107741833-0-image-m-32_1775660040895.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122941",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Stricken daughter of woman who vanished off her 'Soulmate' boat in Bahamas said stepdad previously threatened to throw her overboard and shares voice note he sent her in wake of disappearance",
-      "link": "https://www.dailymail.co.uk/news/article-15715489/lynette-hooker-missing-bahamas-daughter-husband-threatened-overboard.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:14:58",
-      "description": "Lynette Hooker, 55,\u00a0went missing in the Bahamas after falling overboard during a boat ride with her husband.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741641-0-image-m-16_1775655001018.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741641-0-image-m-16_1775655001018.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122942",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woke California lawmaker who backs transgender treatments for children squirms as brave young gay man shares how being railroaded into puberty blockers destroyed his life",
-      "link": "https://www.dailymail.co.uk/news/article-15715513/california-lawmaker-testimony-gay-man-puberty-blockers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:03:25",
-      "description": "State Senator Scott Wiener was forced to listen as Jonni Skinner, 23, told him that puberty blockers and estrogen treatment ruined his physical development.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/15/107743201-0-image-m-16_1775658956189.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/15/107743201-0-image-m-16_1775658956189.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122944",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Democrat lawmaker convicted of fraud insists he's still entitled to his $800k taxpayer-funded pension as he sues to have it reinstated",
-      "link": "https://www.dailymail.co.uk/news/article-15715573/democrat-lawmaker-fraud-pension-david-nangle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T14:57:15",
-      "description": "The former state representative was convicted of stealing from his campaign account to fund a gambling addiction, but he has said that losing his pension would leave him 'destitute.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/15/107742121-0-image-m-15_1775657007041.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/15/107742121-0-image-m-15_1775657007041.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122945",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Premier League cult hero names reasons why Mikel Arteta is 'LUCKY' to still be Arsenal's manager, claims Gunners should be even further ahead and says the team 'lack flair' under Spaniard",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15722881/Premier-League-Mikel-Arteta-Arsenal-manager.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T17:47:28",
+      "description": "Arteta has been in charge of the club since 2019, but has won just the one FA Cup and two Community Shields as boss - three times coming close to winning the Premier League.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/18/107803275-0-image-a-56_1775842496990.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/18/107803275-0-image-a-56_1775842496990.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T18:46:16.738640",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "SFA pick man they want to lead 'independent' review into the crowd violence and disorder that marred Old Firm cup clash",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15722895/Experienced-FIFA-official-given-lead-role-Rangers-Celtic-SFA-police-start-review-Ibrox-crowd-trouble.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T18:15:15",
+      "description": "The Scottish FA have appointed experienced FIFA match commissioner Mark Blackbourne to oversee their review of crowd disorder at last month's Scottish Cup semi-final at Ibrox",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/19/107804059-0-image-a-14_1775844736768.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/19/107804059-0-image-a-14_1775844736768.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T18:46:16.738649",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Real Madrid wonderboy Endrick, 19, and his 23-year-old wife announce they are having a baby less than two years into their bizarre 'relationship contract'",
       "link": "https://www.dailymail.co.uk/sport/football/article-15722395/Real-Madrid-Endrick-wife-announce-having-baby-two-years-bizarre-relationship-contract.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19241,6 +19269,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Dermot Kennedy becomes first Irish solo artist to score three consecutive Number 1 albums",
+      "link": "https://www.music-news.com/news/UK/188267/Dermot-Kennedy-becomes-first-Irish-solo-artist-to-score-three-consecutive-Number-1-albums",
+      "pubDate": "2026-04-10T16:55:00",
+      "description": "",
+      "thumbnail": "https://www.music-news.com/images/news/Dermot-Kennedy3.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Dermot-Kennedy3.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T18:46:21.044110",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Dominic Fike scores Top 10 hat-trick as \u2018Rein Me In\u2019 reigns supreme",
+      "link": "https://www.music-news.com/news/UK/188268/Dominic-Fike-scores-Top-10-hat-trick-as-Rein-Me-In-reigns-supreme",
+      "pubDate": "2026-04-10T16:54:00",
+      "description": "The UK Official Singles Chart remains under the iron grip of Sam Fender and Olivia Dean, whose BRIT Award-winning collaboration \"Rein Me In\"",
+      "thumbnail": "https://www.music-news.com/images/news/Dominic-Fike.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Dominic-Fike.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T18:46:21.044114",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Violet Grohl: 'I don't care if people call me a nepo baby'",
       "link": "https://www.music-news.com/news/UK/188270/Violet-Grohl-I-don-t-care-if-people-call-me-a-nepo-baby",
