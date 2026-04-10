@@ -1,6 +1,83 @@
 {
   "BBC News": [
     {
+      "title": "This coat cost $248 in illegal tariffs. Will he ever get the money back?",
+      "link": "https://www.bbc.com/news/articles/ckgr67kgvdko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T06:41:40",
+      "description": "Importers are in line for tariff refunds. But whether everyone who paid the for the tariffs will get money back is a trickier question.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42b6/live/a74f1a50-343b-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T07:23:15.224936",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Can stats help you find the Grand National winner?",
+      "link": "https://www.bbc.com/sport/horse-racing/articles/c1kr07ryg92o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T06:16:47",
+      "description": "How might data help you pick the winner from the 34 horses racing in Saturday's Grand National? BBC Sport delves into the facts and figures in search of an answer.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d450/live/39e6a670-326c-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T07:23:15.224942",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'I was in a slump - now my art is in Billie Eilish's house'",
+      "link": "https://www.bbc.com/news/articles/c93en41k6e1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T05:05:48",
+      "description": "Sylvie Baker says she can look for studio space after the US star's purchase gave her more exposure.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cab1/live/a9fbb5d0-3411-11f1-a058-4f0eff2075b9.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T07:23:15.224944",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'The road to our home must be the worst in the UK'",
+      "link": "https://www.bbc.com/news/articles/c5ywd2nd7z2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T05:27:53",
+      "description": "The Byatt family say parts of the Upper Coquet valley road are falling into the river.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985f/live/a6abbbf0-341b-11f1-9d5c-8ba507d7dbde.png",
+      "enclosure": null,
+      "archived_at": "2026-04-10T07:23:15.224946",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "GB's Stojsavljevic, 17, stuns Gibson on BJK Cup debut",
+      "link": "https://www.bbc.com/sport/tennis/articles/c0q952k73xyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T06:01:34",
+      "description": "Teenager Mika Stojsavljevic stuns Talia Gibson, ranked more than 200 places above her, in straight sets to give Great Britain a 1-0 lead over Australia in the Billie Jean King Cup in Melbourne",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/431f/live/9cfd0220-349e-11f1-ac58-6937fff2ecfb.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T07:23:15.224948",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Six big questions for Fury's fifth return from retirement",
+      "link": "https://www.bbc.com/sport/boxing/articles/c705637gzjko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T06:33:59",
+      "description": "Key voices from boxing weigh in on the big questions surrounding heavyweight Tyson Fury's latest comeback.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a3/live/def95a20-2cf1-11f1-9bc3-5f09adb18cec.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T07:23:15.224949",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bronny James sets up father LeBron in Lakers win",
+      "link": "https://www.bbc.com/sport/basketball/articles/cn431d7ee11o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T06:48:55",
+      "description": "Bronny James passes to parent LeBron for the first son-to-father assist in NBA history as the Los Angeles Lakers beat the Golden State Warriors.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08f6/live/f6933740-34a4-11f1-b260-d5e483232ace.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T07:23:15.224950",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "How the Artemis crew will splash down on Earth",
       "link": "https://www.bbc.com/news/videos/cn431g7v52qo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-10T04:27:25",
@@ -5422,86 +5499,93 @@
       "archived_at": "2026-04-02T15:58:05.187366",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Investigation into IVF clinics in northern Cyprus after UK families given wrong sperm",
-      "link": "https://www.bbc.com/news/articles/ce9mx2ggdg3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T15:02:13",
-      "description": "Most of the families the BBC has spoken to have completed commercial DNA tests which have confirmed their fears.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/36bef6c0-278e-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T15:58:05.187370",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Lecturer who called Israel a terrorist state to remain Plaid Cymru candidate",
-      "link": "https://www.bbc.com/news/articles/cwywvr2z76zo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T14:51:33",
-      "description": "Plaid Cymru says that a university lecturer who called Israel a \"terrorist state\" will remain a candidate.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38ca/live/56fd9360-2ea0-11f1-bf13-db49faadbe93.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T15:58:05.187371",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Emma Stone and Ryan Gosling star in an award-winning musical",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m000309g?at_mid=96Mn1Kj3a2&at_campaign=La_La_Land&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000309g&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=La_La_Land&at_bbc_team=BBC",
-      "pubDate": "2026-03-31T05:00:00",
-      "description": "Exploring the joy and pain of pursuing your dreams",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643b/live/899b1140-2d0a-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T15:58:05.187373",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Italian FA head and Buffon quit over World Cup failure",
-      "link": "https://www.bbc.com/sport/football/articles/ckgr620w5eyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T15:44:34",
-      "description": "Gabriele Gravina resigns as head of Italy's football federation after they fail to qualify for a third World Cup in a row, while ex-goalkeeper Gianluigi Buffon quits his role with the national team.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3da/live/5ac2b1b0-2ea0-11f1-bf13-db49faadbe93.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T15:58:05.187375",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Fifa is charging up to $10,990 for World Cup final tickets in first open sale",
-      "link": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T13:10:43",
-      "description": "The first open sale of tickets for the 2026 World Cup showed Fifa is charging up to  $10,990 (\u00a38,333) to be at the final.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2345/live/462d3e80-2e8e-11f1-bf7c-65962cff9746.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T14:38:09.450315",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Watch: Macron calls Trump's remarks on his marriage 'inelegant'",
-      "link": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T12:33:03",
-      "description": "French President Emmanuel Macron has said Donald Trump's comments about his marriage were \"neither elegant nor up to standard\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4141/live/ac0f5800-2e89-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T14:38:09.450321",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Baby shot dead in pram in New York City, police say",
-      "link": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T13:43:35",
-      "description": "The seven-month-old child is the unintended victim of a suspected gang-related shooting, officials say.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6a/live/9de60ed0-2e99-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T14:38:09.450327",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Aussie taxpayers to fund some of Harry and Meghan's tour - despite insistence it will be 'privately-funded'",
+      "link": "https://www.dailymail.co.uk/news/article-15721245/Harry-Meghan-Australia-trip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T07:19:12",
+      "description": "A spokesman for the couple has previously insisted the trip would be privately funded.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/07/107787713-0-image-m-16_1775803354499.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/07/107787713-0-image-m-16_1775803354499.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T07:23:18.396622",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Starmer's new digital ID cards won't reveal if you are a man or woman",
+      "link": "https://www.dailymail.co.uk/news/article-15721181/Starmers-new-digital-ID-cards-wont-reveal-you-man-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T07:18:37",
+      "description": "Instead, it would use 'biometric authentication' instead of recording information about users' sex or gender , but critics have said the revelation amounts to a 'farce'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/07/107787307-0-image-a-10_1775801209056.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/07/107787307-0-image-a-10_1775801209056.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T07:23:18.396627",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump tells JD Vance to find a way out of Iran war as vice president prepares to fly to Pakistan for peace talks: Live updates",
+      "link": "https://www.dailymail.co.uk/news/article-15721267/US-Iran-Israel-Lebanon-Hezbollah-Pakistan-Trump-Live-Updates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T07:17:20",
+      "description": "LIVE: Read the Daily Mail's coverage of the crisis in the Middle East as Donald Trump tells JD Vance to find a way out of the war against Iran, ahead of the vice president's trip to Pakistan",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/07/107787719-0-image-a-133_1775803399962.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/07/107787719-0-image-a-133_1775803399962.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T07:23:18.396629",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Shock new details emerge about second midwife charged with manslaughter after baby boy dies",
+      "link": "https://www.dailymail.co.uk/news/article-15720815/Shock-new-details-emerge-second-midwife-charged-manslaughter-baby-boy-dies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T07:06:06",
+      "description": "Jordan Holland, 28, was charged with manslaughter on Friday after a newborn baby died following a botched home birth.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/06/107786687-0-image-m-136_1775797260111.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/06/107786687-0-image-m-136_1775797260111.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T07:23:18.396630",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Grim new details about the Aussie found hanging from a bedsheet on his Bali hotel balcony are revealed - as his heartbroken family break their silence about the tragedy",
+      "link": "https://www.dailymail.co.uk/news/article-15721211/Aussie-tourist-dies-Bali-named.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T07:04:47",
+      "description": "Jamie Cusack, 30, was found on a hotel balcony in Bali on Wednesday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/06/107787193-0-image-a-66_1775800239343.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/06/107787193-0-image-a-66_1775800239343.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T07:23:18.396632",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Manager of Scotland's first alcohol free bar crashed his car while more than four times the drink-drive limit",
+      "link": "https://www.dailymail.co.uk/news/article-15721203/Manager-alcohol-free-bar-crashed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T06:38:17",
+      "description": "Hayden Geraghty is the boss of Sobr in Aberdeen but got behind the wheel after drinking alcohol with friends after a shift last month.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/07/107787381-0-image-m-11_1775801433594.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/07/107787381-0-image-m-11_1775801433594.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T07:23:18.396633",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "King Charles is set to address the nation 'to celebrate the late Queen's 100th birthday'",
       "link": "https://www.dailymail.co.uk/news/royals/article-15720657/King-Charles-address-nation-late-Queens-100th-birthday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12417,93 +12501,37 @@
       "archived_at": "2026-04-08T05:45:14.403963",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Aussies urged to check for rare coins that could be worth more than $50,000",
-      "link": "https://www.dailymail.co.uk/news/article-15714185/Aussies-coin-worth-thousands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T04:23:30",
-      "description": "A variety of Sydney Mint gold sovereigns and half sovereigns could make their owner $40,000 richer.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/05/107731285-0-image-m-40_1775621801013.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/05/107731285-0-image-m-40_1775621801013.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T05:45:14.403964",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "PETER VAN ONSELEN: How the Ben Roberts-Smith case will tear Australia apart: 'A decorated soldier cast aside by timid elites and agenda-driven journalists'",
-      "link": "https://www.dailymail.co.uk/news/article-15714305/PVO-ben-roberts-smith-alleged-war-crimes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T03:53:03",
-      "description": "The arrest of Ben Roberts-Smith has become a political, cultural and institutional test, and the speed with which public figures rushed into their preferred camps highlights this, according to PVO.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/01/107727715-0-image-m-42_1775609800395.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/01/107727715-0-image-m-42_1775609800395.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T05:45:14.403966",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why Perth mining executive may now DIE in jail after the gullible grandad's huge mistake saw him caught in an $11million scam",
-      "link": "https://www.dailymail.co.uk/news/article-15700243/mining-executive-heroin-smuggling-camping-bed-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T03:31:44",
-      "description": "Barry Calverley - who has a wife of 31 years, three daughters and once owned a country estate in Western Australia - has been locked up in NSW prisons since his arrest.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601147-0-image-a-61_1775104410085.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/05/107601147-0-image-a-61_1775104410085.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T03:38:20.352584",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Wild moment Chris Bowen's press conference is HIJACKED by rogue journalist: 'Sit down'",
-      "link": "https://www.dailymail.co.uk/news/article-15714391/chris-bowen-liam-bartlett.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T03:31:11",
-      "description": "Energy Minister Chris Bowen lashed out at a journalist in a fiery press conference, telling him to 'sit down' as he was grilled over the government's renewable energy policy.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/03/107729707-0-image-m-11_1775615028897.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/03/107729707-0-image-m-11_1775615028897.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T03:38:20.352590",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Toyota recalls more than 13,000 of its most popular utes over technical issue that could cause DEATH",
-      "link": "https://www.dailymail.co.uk/news/article-15714373/Toyota-recalls-13-000-popular-utes-technical-issue-cause-DEATH.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T03:23:33",
-      "description": "Toyota has recalled more than 10,000 of one of its most popular makes.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/03/107729347-0-image-m-67_1775614434273.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/03/107729347-0-image-m-67_1775614434273.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T03:38:20.352592",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Anthony Albanese's stern response after Donald Trump threatened to destroy 'whole civilisation' in Iran",
-      "link": "https://www.dailymail.co.uk/news/article-15714367/Anthony-Albaneses-Donald-Trump-civilisation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T03:17:50",
-      "description": "Trump threatened deadly strikes on all of Iran's plants and bridges if the country failed to meet his deadline to restore shipping traffic through the Strait of Hormuz.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/02/107728997-0-image-a-14_1775612679112.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/02/107728997-0-image-a-14_1775612679112.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T03:38:20.352593",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Nuno Espirito Santo was spurned by Nottingham Forest and Tottenham, but his West Ham side could see him serve up Premier League relegation revenge, writes IAN HERBERT",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15719137/Nuno-Espirito-Santo-Nottingham-Forest-Tottenham-West-Ham-Premier-League-relegation-revenge-IAN-HERBERT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T07:02:44",
+      "description": "IAN HERBERT: West Ham's uptick serves as a cautionary tale for Wolves, Nottingham Forest and perhaps even Tottenham, who were all too quick to discard Nuno and have suffered since.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107774343-0-image-a-19_1775750162852.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107774343-0-image-a-19_1775750162852.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T07:23:20.535457",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Predictor picks: Find out who our expert is backing this weekend... and play the game with \u00a31,000 up for grabs",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15710125/Predictor-picks-matchweek-32.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T06:00:56",
+      "description": "The Premier League is back - and so is Daily Mail's popular predictor game for gameweek 32.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770299-0-image-a-15_1775742301631.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770299-0-image-a-15_1775742301631.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T07:23:20.535463",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "MLS team eyes sensational Neymar transfer one year after his return to Brazil",
       "link": "https://www.dailymail.co.uk/sport/football/article-15720763/mls-cincinnati-neymar-transfer-santos.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19052,6 +19080,48 @@
   "Tucker Carlson": [],
   "Music News": [
     {
+      "title": "Offset wanted paternity test for Cardi B's baby with Stefon Diggs - report",
+      "link": "https://www.music-news.com/news/UK/188250/Offset-wanted-paternity-test-for-Cardi-B-s-baby-with-Stefon-Diggs-report",
+      "pubDate": "2026-04-10T05:00:00",
+      "description": "Offset and estranged wife Cardi B share three young children.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188250.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188250.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T07:23:24.702754",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Lady Gaga and Doechii record single for The Devil Wears Prada 2 soundtrack",
+      "link": "https://www.music-news.com/news/UK/188249/Lady-Gaga-and-Doechii-record-single-for-The-Devil-Wears-Prada-2-soundtrack",
+      "pubDate": "2026-04-10T05:00:00",
+      "description": "The Devil Wears Prada 2 is set to open in theatres on 1 May.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188249.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188249.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T07:23:24.702759",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hip-hop pioneer Afrika Bambaataa dead at 67",
+      "link": "https://www.music-news.com/news/UK/188248/Hip-hop-pioneer-Afrika-Bambaataa-dead-at-67",
+      "pubDate": "2026-04-10T05:00:00",
+      "description": "Hip-hop pioneer Afrika Bambaataa has died aged 67.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188248.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188248.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T07:23:24.702761",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Pink to host 2026 Tony Awards",
       "link": "https://www.music-news.com/news/UK/188247/Pink-to-host-2026-Tony-Awards",
       "pubDate": "2026-04-10T03:00:00",
@@ -21545,6 +21615,17 @@
     }
   ],
   "Crev": [
+    {
+      "title": "Much Ado About New Chinese Ediacaran Fossils",
+      "link": "https://crev.info/2026/04/new-chinese-ediacaran-fossils/?utm_source=rss&utm_medium=rss&utm_campaign=new-chinese-ediacaran-fossils",
+      "pubDate": "2026-04-10T06:39:50",
+      "description": "Vague impressions: is that how we came to be? Or has evolutionary passion come to a point of desperation?",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-10T07:23:30.196485",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "More Evidence of an Epidemic of Fraud in\u00a0Scientific Research",
       "link": "https://crev.info/2026/04/jb-fraud-research-epidemic/?utm_source=rss&utm_medium=rss&utm_campaign=jb-fraud-research-epidemic",
