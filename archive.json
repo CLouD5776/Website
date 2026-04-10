@@ -1,6 +1,94 @@
 {
   "BBC News": [
     {
+      "title": "Men behind 'Tripadvisor for people smugglers' jailed for 19 years",
+      "link": "https://www.bbc.com/news/articles/cj947jwgk12o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T10:16:24",
+      "description": "Dilshad Shamo and Ali Khdir ran the \"sophisticated and successful\" operation from a car wash business.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a9a/live/85fcfcc0-a8f8-11ef-8ab9-9192db313061.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T11:25:38.371501",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Extra \u00a35m pledged for patrolling places of worship",
+      "link": "https://www.bbc.com/news/articles/cg73vm4mxllo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T09:46:11",
+      "description": "The extra funding is for police in London and Manchester to protect religious sites from hate crime.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10fb/live/074f78d0-34c0-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T11:25:38.371508",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Labrinth not involved in Euphoria's third season",
+      "link": "https://www.bbc.com/news/articles/cj94yxlnx09o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T10:19:03",
+      "description": "The London singer shaped the music for the first two series but has since said he is \"done\" with it.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f78d/live/407eb250-34c6-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T11:25:38.371511",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Lava soars into air as Hawaii's Kilauea volcano erupts again",
+      "link": "https://www.bbc.com/news/videos/c30rj5p2gzyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T09:53:53",
+      "description": "One of the world's most active volcanoes has been erupting on and off since December 2024.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/289d/live/effed810-34bf-11f1-8bf0-3fa0c850deba.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T11:25:38.371512",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Is Defence Secretary Pete Hegseth waging a holy war against Iran?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lyx?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T09:47:00",
+      "description": "And his purge of top generals at the Pentagon",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T11:25:38.371514",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "What version of Tyson Fury will turn up this weekend?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nc9hjc?at_mid=fBIwhGYtSU&at_campaign=5_Live_Boxing_with_Steve_Bunce&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p04v5n4p&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=5_Live_Boxing_with_Steve_Bunce&at_bbc_team=BBC",
+      "pubDate": "2026-04-08T19:17:00",
+      "description": "Buncey sits down with Tyson Fury to talk Joshua, Makhmudov and returning to the ring",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0mhqycn.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T11:25:38.371516",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How young men's lives are influenced by the manosphere",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002m7j5/men-of-the-manosphere?at_mid=5f7Y7hmZf6&at_campaign=Men_of_the_Manosphere&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002m7j5&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Men_of_the_Manosphere&at_bbc_team=BBC",
+      "pubDate": "2025-11-12T06:00:00",
+      "description": "James Blake enters the manosphere, joining men seeking status, wealth and relationships.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0dd/live/7cbff570-26e4-11f1-b297-95b0a0a8331e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T11:25:38.371517",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Unpack all the latest drama from Race Across the World",
+      "link": "https://www.bbc.co.uk/sounds/play/m002vdcz?at_mid=7hBjnISdNu&at_campaign=Race_Across_the_World_The_Detour_9Apr&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=m002tp5n&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Race_Across_the_World_The_Detour_9Apr&at_bbc_team=BBC",
+      "pubDate": "2026-04-09T19:55:00",
+      "description": "Celebrity superfans and travel expert Alfie Watts join Tyler West to discuss the episode!",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0nb6ckj.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T11:25:38.371518",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Man jailed for killing abused wife who jumped from bridge",
       "link": "https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-10T09:52:42",
@@ -5411,97 +5499,121 @@
       "archived_at": "2026-04-02T18:52:41.656394",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Ros Atkins on\u2026the cost of the Iran war",
-      "link": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T18:29:14",
-      "description": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e85/live/f195a230-2ec0-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T18:52:41.656405",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Watch: Trump's shifting deadlines for ending Iran war",
-      "link": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T17:13:00",
-      "description": "The BBC's chief international correspondent analyses the US President's latest White House address.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/881b/live/10429d50-2eb7-11f1-a1dd-1bb91a29c2db.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T18:52:41.656407",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Unbelievable!': Backshall overjoyed at rare sighting of orcas",
-      "link": "https://www.bbc.com/news/videos/c5y80gl0rd1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T16:21:11",
-      "description": "Steve Backshall spotted two of the UK's last surviving orcas which he described as one of his \"greatest British wildlife moments\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f520/live/91945d10-2eaf-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T18:52:41.656409",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Firm handed 'record' illegal tree felling fine",
-      "link": "https://www.bbc.com/news/articles/c80mp532jrgo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T13:14:16",
-      "description": "Landowner Motor Fuel Ltd was ordered to pay fines and costs totalling \u00a3268,751.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b965/live/a795f720-2e84-11f1-98e7-6b639170d418.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T18:52:41.656412",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tiger Woods crash bodycam footage released by police",
-      "link": "https://www.bbc.com/sport/golf/articles/c393zx19xemo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T17:32:09",
-      "description": "Body camera footage showing Tiger Woods straight after he clipped a truck and rolled his car in Florida last month is released by police.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33f2/live/58553cb0-2eb7-11f1-a79a-77e93010d956.png",
-      "enclosure": null,
-      "archived_at": "2026-04-02T17:54:45.251193",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "NASA Returns To The Moon (And Beyond)",
-      "link": "https://www.bbc.co.uk/sounds/play/p0n9jlp4?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T16:12:00",
-      "description": "Nasa launch first crewed mission around the moon in 50 years.",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T17:54:45.251205",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "De Zerbi apologises to fans for Greenwood comments",
-      "link": "https://www.bbc.com/sport/football/articles/cwyvq3gqwpyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T17:26:32",
-      "description": "New Tottenham boss Roberto De Zerbi apologises to fans over comments he made about Mason Greenwood.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f2f/live/9f76d740-2eb5-11f1-a1dd-1bb91a29c2db.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T17:54:45.251208",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "McCullum & Key call county coaches amid unrest",
-      "link": "https://www.bbc.com/sport/cricket/articles/c705r69plwyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T17:35:41",
-      "description": "England coach Brendon McCullum holds a call with his counterparts and directors from county cricket amid unrest between the domestic and international game.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f075/live/69981230-2eb8-11f1-a1dd-1bb91a29c2db.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-02T17:54:45.251210",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Boy, 12, dies after getting sucked into hot tub filter during family holiday in Italy",
+      "link": "https://www.dailymail.co.uk/news/article-15721733/Boy-12-dies-getting-sucked-hot-tub-filter-family-holiday-Italy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T11:19:34",
+      "description": "The tragic incident occurred in the spa of\u00a0the Duca di Montefeltro Hotel in Pennabilli, near Rimini.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/12/107792415-0-image-m-13_1775819426909.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/12/107792415-0-image-m-13_1775819426909.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:41.646586",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Overworked real estate manager wins \u00a3400k payout after racking up staggering 827 unpaid holiday days over 25 years",
+      "link": "https://www.dailymail.co.uk/news/article-15721671/Overworked-real-estate-manager-wins-400k-payout-racking-staggering-827-unpaid-holiday-days-25-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T11:13:07",
+      "description": "Mohamed Ageli's requests for holiday were repeatedly refused 'due to pressure of work', at property management firm Sabtina Limited, a tribunal heard, so he agreed to be paid them instead.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791881-0-image-a-6_1775817961373.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791881-0-image-a-6_1775817961373.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:41.646593",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Russell Brand sells his country pub for nearly \u00a31million after locals blocked plans to turn it into a recording studio",
+      "link": "https://www.dailymail.co.uk/news/article-15721595/Russell-Brand-sells-country-pub-locals-blocked-plans-recording-studio.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T11:07:07",
+      "description": "The controversial comedian - who is set to stand trial in October for allegedly raping and sexually assaulting six women - bought the Crown Inn in Pishill, Oxfordshire, six years ago.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791747-0-image-m-13_1775818489749.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791747-0-image-m-13_1775818489749.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:41.646595",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Holidaymaker born and raised in England is stranded abroad as she's refused entry to the UK over little-known 'dual nationals' immigration rule",
+      "link": "https://www.dailymail.co.uk/news/article-15721527/holidaymaker-stranded-dual-national.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T11:02:50",
+      "description": "North London based Natasha Cochrane De La Rosa, 26, was coming home from a weekend trip to Amsterdam when denied entry to the UK, thanks to a new rule that came about in February.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107789715-0-image-m-9_1775816653316.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107789715-0-image-m-9_1775816653316.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:41.646596",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Schoolgirl, 16, knifed to death in 'row over boy' was killed by single stab wound to her chest, inquest hears - as three teens charged with murder",
+      "link": "https://www.dailymail.co.uk/news/article-15721745/Schoolgirl-knifed-killed-single-stab-wound-chest-inquest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T11:01:45",
+      "description": "Chloe Watson Dransfield, 16, was pronounced dead less than an hour after being found unresponsive on the pavement at Kennerleigh Avenue, Leeds, despite the best attempts of neighbours.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791885-0-image-m-16_1775818051915.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791885-0-image-m-16_1775818051915.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:41.646598",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mother, 33, died after driving into path of HGV after becoming distracted by her phone, inquest hears",
+      "link": "https://www.dailymail.co.uk/news/article-15721603/mother-33-died-driving-HGV-distracted-phone-inquest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T10:57:49",
+      "description": "Chloe Lightfoot had been travelling home to Spennymoor in Durham on the morning of August 26 when her self-converted Citroen Berlingo campervan collided with a lorry on the A66.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107790215-0-image-m-12_1775818172909.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107790215-0-image-m-12_1775818172909.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:41.646599",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Afghan refugee who 'killed dogwalker and injured landlord after row over being evicted' fit to stand trial for murder, court told",
+      "link": "https://www.dailymail.co.uk/news/article-15721625/Afghan-refugee-killed-dogwalker-injured-landlord-row-evicted-fit-stand-trial-murder-court-told.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T10:47:26",
+      "description": "Safi Dawood, pictured at a previous hearing, has been deemed fit enough to stand trial for murder. The Afghan refugee is accused of a stabbing a man to death in London last year, and injuring two others.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/10/103444581-0-image-m-11_1775813495226.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/10/103444581-0-image-m-11_1775813495226.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:41.646601",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Student, 20, 'faces hate crime charges' over 'tea towel' joke about Pro-Palestine's activist's headscarf",
+      "link": "https://www.dailymail.co.uk/news/article-15721377/Student-hate-crime-charges-joke-Palestine-headscarf.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T10:19:15",
+      "description": "Self-professed 'non-Jewish Zionist' Brodie Mitchell, 20, was temporarily suspended by Royal Holloway, University of London , over the incident in September.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/09/107328471-0-image-m-11_1775809435839.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/09/107328471-0-image-m-11_1775809435839.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:41.646603",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Man, 20, is facing jail for raping two primary school girls when he was 11 years old",
       "link": "https://www.dailymail.co.uk/news/article-15721561/Man-20-facing-jail-raping-two-girls-11-years-old.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12389,121 +12501,23 @@
       "archived_at": "2026-04-08T08:40:54.051215",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Inside Wireless Festival 'mayhem' as headliner Kanye West's shock UK ban forces event to CANCEL",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15714059/kanye-west-uk-banned-wireless-festival-canceled-mayhem.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T08:28:27",
-      "description": "The rapper, 48, sparked controversy late last month when it was announced that he would be headlining the three-day event in Finsbury Park despite his history of pro-Nazi outbursts.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/02/107728785-0-image-a-24_1775611745263.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/02/107728785-0-image-a-24_1775611745263.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T08:40:54.051217",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Afghan migrant who attacked girl, 14, and her mother with a wine bottle is allowed to stay in Britain",
-      "link": "https://www.dailymail.co.uk/news/article-15714781/Afghan-migrant-attacked-girl-14-mother-wine-bottle-allowed-stay-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T08:20:31",
-      "description": "The migrant, who has been anonymised as AR, committed a number of offences, including threatening to kill his flatmate shortly after he arrived in the UK.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/09/104441007-0-The_Upper_Tribunal_of_the_Immigration_and_Asylum_Chamber_heard_t-a-5_1775635746477.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/09/104441007-0-The_Upper_Tribunal_of_the_Immigration_and_Asylum_Chamber_heard_t-a-5_1775635746477.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T08:40:54.051218",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Rivals 'is set for a third series that will be raunchier than ever' ahead of the second season premiere",
-      "link": "https://www.dailymail.co.uk/tv/article-15714141/Rivals-set-series-raunchier-ahead-second-season-premiere.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T08:17:01",
-      "description": "The Disney+ series, based on Jilly Cooper's novel of the same name, became an instant hit when it debuted in 2024.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/00/107726055-0-image-a-14_1775603273575.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/00/107726055-0-image-a-14_1775603273575.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T08:40:54.051220",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I'm A Celebrity viewers praise Ashley Roberts, 44, for refreshing conversation about children as Scarlett Moffatt reveals fertility struggles",
-      "link": "https://www.dailymail.co.uk/tv/article-15713861/Im-Celebrity-viewers-praise-Ashley-Roberts-refreshing-conversation-children-Scarlett-Moffatt-reveals-fertility-struggles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T07:32:15",
-      "description": "I'm A Celebrity viewers have praised Ashley Roberts for admitting having children 'isn't top of the list'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/22/107724095-0-image-a-19_1775597346266.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/22/107724095-0-image-a-19_1775597346266.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T08:40:54.051221",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The late Queen came 'close to a nervous breakdown' and retreated to bed for over a week - it wasn't during the decade everyone would expect, royal biographer ROBERT HARDMAN claims",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15712661/queen-elizabeth-nervous-breakdown-1969-investiture-prince-charles-robert-hardman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T06:30:01",
-      "description": "Hardman said Buckingham Palace announced Elizabeth II had come down with flu as cover for the fact she had cancelled all engagements and taken to bed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/15/107714031-0-image-a-6_1775572027504.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/15/107714031-0-image-a-6_1775572027504.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T08:40:54.051223",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "My neighbour stole half a metre of my garden when he replaced his fence. What should I do? DEAN DUNHAM KC replies",
-      "link": "https://www.dailymail.co.uk/money/experts/article-15712979/My-neighbour-stole-half-metre-garden-replaced-fence-DEAN-DUNHAM-KC-replies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T02:34:38",
-      "description": "I agreed to pay half the \u00a32,200 cost of replacing a fence that I share with my next-door neighbour. However, it was installed in the wrong place.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721621-0-image-a-6_1775590797958.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/20/107721621-0-image-a-6_1775590797958.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T08:40:54.051225",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "PATRICK MARMION reviews Inter Alia: Rosamund Pike's whirlwind turn as a judge in freefall will leave you breathless... if you can get a ticket",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15713891/PATRICK-MARMION-reviews-Inter-Alia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T01:57:13",
-      "description": "Rosamund Pike's one hour and 40 minute whirlwind of a performance ensures we don't get too much time for lateral thinking.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/23/107724759-0-image-m-40_1775599552907.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/23/107724759-0-image-m-40_1775599552907.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T08:40:54.051226",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Inside the crowd-free seaside village named one of the 'UK's prettiest'",
-      "link": "https://www.dailymail.co.uk/travel/article-15709895/crowd-free-seaside-village-named-UK-prettiest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-07T23:58:02",
-      "description": "The UK is home to a wealth of beautiful seaside destinations. This gem is perfect for a coastal holiday without hordes of tourists.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/06/15/107687315-0-image-a-24_1775487181682.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/06/15/107687315-0-image-a-24_1775487181682.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T08:40:54.051229",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Is this the death of the much-loved Champions League starred ball?",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15719547/Death-loved-Champions-League-starred-ball.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T10:12:56",
+      "description": "adidas have served as the provider since taking over the contract from Nike back in 2000. The German manufacturer then introduced the starred design, which mirrors the Champions League's logo.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/10/107790187-0-image-a-2_1775813276426.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/10/107790187-0-image-a-2_1775813276426.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:42.984215",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Arne Slot reveals the moment in Paris he knew Liverpool supporters still back him, Eddie Howe responds to doubts surrounding his future: PREMIER LEAGUE LIVE",
       "link": "https://www.dailymail.co.uk/sport/football/article-15721341/Premier-League-press-conferences-live-Arne-Slot-Liverpool.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -17883,6 +17897,17 @@
   ],
   "BBC Sport": [
     {
+      "title": "Howe '100% committed' to Newcastle but 'I just need support'",
+      "link": "https://www.bbc.com/sport/football/articles/ckgwdjjggy9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T10:49:57",
+      "description": "Head coach Eddie Howe says he is \"100% committed\" to Newcastle United, but it is \"very difficult\" to look too far beyond the end of the season.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94da/live/4d72ea40-342f-11f1-a207-8b959fccb503.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T11:25:43.285066",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Back Haaland and Semenyo to shine at Chelsea - FPL team of the week",
       "link": "https://www.bbc.com/sport/football/articles/ce35yk45v12o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-09T08:01:51",
@@ -19132,6 +19157,62 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "BTS leave fans in tears as emotional I Need U moment steals the show",
+      "link": "https://www.music-news.com/news/UK/188262/BTS-leave-fans-in-tears-as-emotional-I-Need-U-moment-steals-the-show",
+      "pubDate": "2026-04-10T10:00:00",
+      "description": "BTS delivered an emotional opening night of their ARIRANG world tour, with a surprise performance of I Need U sending fans into one of the loudest eruptions of the night.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188262.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188262.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:46.405444",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "NSYNC \u2018not ready\u2019 for reunion as Joey Fatone says some members are holding back",
+      "link": "https://www.music-news.com/news/UK/188261/NSYNC-not-ready-for-reunion-as-Joey-Fatone-says-some-members-are-holding-back",
+      "pubDate": "2026-04-10T10:00:00",
+      "description": "Joey Fatone says he\u2019s keen for an NSYNC reunion \u2014 but admits not all members are on board.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188261.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188261.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:46.405450",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hilary Duff re-records Come Clean for Laguna Beach reunion special",
+      "link": "https://www.music-news.com/news/UK/188259/Hilary-Duff-re-records-Come-Clean-for-Laguna-Beach-reunion-special",
+      "pubDate": "2026-04-10T10:00:00",
+      "description": "A special edition will also be available in time for Record Store Day on 18 April.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188259.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188259.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:46.405452",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Labrinth not involved with Euphoria season three",
+      "link": "https://www.music-news.com/news/UK/188258/Labrinth-not-involved-with-Euphoria-season-three",
+      "pubDate": "2026-04-10T10:00:00",
+      "description": "Hans Zimmer served as the sole composer of the season, according to reports.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188258.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188258.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T11:25:46.405453",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Cruz Beckham shares new single and music video for Waste Your Pain",
       "link": "https://www.music-news.com/news/UK/188256/Cruz-Beckham-shares-new-single-and-music-video-for-Waste-Your-Pain",
