@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "One dead after bus carrying British tourists crashes in Canary Islands, officials say",
+      "link": "https://www.bbc.com/news/articles/c75kv5vz66yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T16:25:28",
+      "description": "The vehicle fell from a height of 10m near the San Sebasti\u00e1n de La Gomera,  according to Spanish news outlet El Mundo.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c23b/live/5240ed00-34f3-11f1-955f-add91a6f90f4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T16:46:28.210699",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mandelson faces \u00a3300 fine for urinating in street",
+      "link": "https://www.bbc.com/news/articles/czd7gd5m024o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T16:04:27",
+      "description": "Lord Peter Mandelson is set to be fined for public urination but the council cannot find an address.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8139/live/a28637a0-34eb-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T16:46:28.210709",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
+      "link": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T15:44:12",
+      "description": "The Facebook owner recently lost a landmark social media addiction trial in California",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8906/live/b0f9e660-34d2-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T16:46:28.210712",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Will this be the biggest Women's Six Nations so far?",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cgldgy1rg70o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T16:12:24",
+      "description": "Rugby union was the second most-watched women's sport in 2025 after England's home Rugby World Cup win, so with momentum at an all-time high, will this year's Six Nations be the biggest yet?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/728d/live/84f85840-341d-11f1-aa50-fd39c44a0779.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T16:46:28.210717",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "EU airline industry fears fuel shortages if Strait of Hormuz stays closed",
       "link": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-10T15:12:57",
@@ -5455,53 +5499,163 @@
       "archived_at": "2026-04-03T06:10:35.691990",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "The thorny issues facing F1 over racing, qualifying and safety",
-      "link": "https://www.bbc.com/sport/formula1/articles/c4gv75ndl1xo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T05:15:49",
-      "description": "Andrew Benson analyses what we have learned during the first month of the new F1 rules, and the problems that need to be addressed.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b2/live/6390fd50-2e6f-11f1-97bf-db9f3eb092dc.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T06:10:35.692001",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Only Lauren can match her' - Price in talks to fight Shields",
-      "link": "https://www.bbc.com/sport/boxing/articles/c4gld344v4lo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T05:11:54",
-      "description": "Welterweight champion Lauren Price is in discussions to fight undisputed heavyweight champion Claressa Shields at middleweight.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b21/live/093f16b0-2ed4-11f1-b297-95b0a0a8331e.png",
-      "enclosure": null,
-      "archived_at": "2026-04-03T06:10:35.692004",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Sutton's FA Cup predictions v boxer Richard Riakporhe",
-      "link": "https://www.bbc.com/sport/football/articles/ce3dvdryr4zo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T18:16:10",
-      "description": "Chris Sutton takes on boxer Richard Riakporhe plus the BBC readers and AI with his predictions for this weekend's FA Cup quarter-finals.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ec/live/12ceec60-2dd9-11f1-934f-036468834728.png",
-      "enclosure": null,
-      "archived_at": "2026-04-03T06:10:35.692005",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Artemis II blasts ever closer to the far side of the Moon",
-      "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T03:35:28",
-      "description": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T04:41:24.738523",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Summer holiday chaos fears as European airports face jet fuel shortage in three weeks due to Hormuz closure",
+      "link": "https://www.dailymail.co.uk/travel/article-15721795/Summer-holiday-chaos-European-airports-face-jet-fuel-shortage-three-weeks-Hormuz-closure.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T16:17:24",
+      "description": "Jet fuel reserves are already running low and airports will be gripped by 'systemic' shortages of jet fuel if the passageway is not fully reopened by the end of the month, airports have warned.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/12/107793051-0-image-m-34_1775820653702.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/12/107793051-0-image-m-34_1775820653702.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T16:46:31.527701",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Inside Queen Elizabeth: Her Life in Style at Buckingham Palace: REBEKAH ABSALOM explores the wedding dress, 185-year-old christening gown and royal treasures never seen before",
+      "link": "https://www.dailymail.co.uk/news/royals/article-15719481/inside-queen-elizabeth-life-style-buckingham-palace-wedding-dress-christening-gown-royal-treasures.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T15:07:48",
+      "description": "Queen Elizabeth: Her Life in Style at\u00a0The King's Gallery, Buckingham Palace, brings together more than 300 pieces from the late monarch's wardrobe.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/12/107792099-0-image-a-25_1775820201701.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/12/107792099-0-image-a-25_1775820201701.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T16:46:31.527709",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I swapped my full face of expensive make-up for this budget beauty brand - this was the surprising result, the three-digit figure I saved and the must-have foundation that beats a \u00a340 favourite",
+      "link": "https://www.dailymail.co.uk/lifestyle/beauty/article-15718389/I-swapped-face-expensive-make-budget-beauty-brand-surprising-result-three-digit-figure-saved-foundation-beats-40-favourite.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T11:43:04",
+      "description": "I've always been the type of girl who splashes out on make-up.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107792103-0-image-a-31_1775818181522.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107792103-0-image-a-31_1775818181522.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T16:46:31.527713",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The UK's best-rated hotel for 2026 revealed - and it's only \u00a3200 a night",
+      "link": "https://www.dailymail.co.uk/travel/article-15721825/UKs-best-rated-five-star-hotel-revealed-Which.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T11:34:07",
+      "description": "Independent consumer champion Which? Travel went undercover at this luxury lakeside retreat and said the service, the views and the price make it the UK's 'best-value stay in the country'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/12/107792749-0-image-a-7_1775819809097.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/12/107792749-0-image-a-7_1775819809097.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T16:46:31.527715",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Boris in the kill zone: The ex-PM's extraordinarily vivid dispatch from Ukraine's frontline - compiled as he dodged Russian drones - shames the West's failure to give Kyiv the tools it needs to defend freedom",
+      "link": "https://www.dailymail.co.uk/debate/article-15722491/Boris-Johnson-kill-zone-PM-dispatch-Ukraine-frontline-Russian-drones-West-failure-Kyiv-defend-freedom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T16:44:36",
+      "description": "It's time to go, says Makar, the deputy commander of the 65th battalion, coming back into the shop. We need to hurry, says the 30ish-year-old Ukrainian soldier, and I am not disposed to argue.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107798885-0-Boris_Johnson_seen_with_the_Daily_Mail_s_Richard_Pendlebury_near-a-30_1775836799872.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107798885-0-Boris_Johnson_seen_with_the_Daily_Mail_s_Richard_Pendlebury_near-a-30_1775836799872.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T16:46:31.527722",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump issues chilling new ultimatum for Iran to make a peace deal as talks on brink of collapse",
+      "link": "https://www.dailymail.co.uk/news/article-15722705/Trump-issues-chilling-new-ultimatum-Iran-make-peace-deal-talks-brink-collapse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T16:44:23",
+      "description": "Trump is warning Iran that they better strike a deal within 24 hours or he'll unleash new waves of strikes on the nation.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/16/107798371-0-image-a-12_1775836045339.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/16/107798371-0-image-a-12_1775836045339.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T16:46:31.527724",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Female executives at war over VERY ugly comments one of them allegedly made about other's firing",
+      "link": "https://www.dailymail.co.uk/news/article-15721877/female-executives-santa-fe-new-mexico-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T16:41:04",
+      "description": "Christine Robertson, the former executive director for the Santa Fe Railyard Community Corporation in New Mexico has filed suit against Rosemary Romero, the current board president.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107801325-0-image-a-41_1775838980575.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107801325-0-image-a-41_1775838980575.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T16:46:31.527725",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Asylum seeker 'told friend \"you are an animal\" after watching him spit in woman's face after raping her on Brighton beach', court hears",
+      "link": "https://www.dailymail.co.uk/news/article-15722545/Asylum-seeker-friend-animal-rape-Brighton-beach.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T16:37:52",
+      "description": "Iranian-born Abdulla Ahmadi, 26, said he was 'disgusted' after watching Egyptian Karin Al-Danasurt (pictured), 20, grab hold the the woman's face and spit in her mouth.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107745521-0-image-m-13_1775838514010.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107745521-0-image-m-13_1775838514010.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T16:46:31.527726",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ex-police inspector fell to death from motorway after misconduct probe into 'sexist and objectifying' messages about a female officer",
+      "link": "https://www.dailymail.co.uk/news/article-15722461/Ex-police-inspector-fell-death-motorway-misconduct-probe-sexist-objectifying-messages-female-officer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T16:17:20",
+      "description": "A FORMER police inspector fell from a motorway bridge months after quitting his force amid claims he sent 'sexist' WhatsApp messages 'objectifying' a female officer.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/16/107800685-0-image-a-1_1775835744042.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/16/107800685-0-image-a-1_1775835744042.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T16:46:31.527728",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Abandoned malls, whispers of nuclear war and young foreigners detained. This is what's REALLY going on in Dubai... and the chilling warning one taxi driver gave to the Mail's IAN BIRRELL",
+      "link": "https://www.dailymail.co.uk/news/article-15722537/abandoned-malls-foreigners-detained-nuclear-war-Dubai-warning-IAN-BIRRELL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T16:14:52",
+      "description": "The Burj Al Arab hotel, built on a man-made island jutting into the Persian Gulf, is famous for being designed like a billowing sail on one of the traditional local dhow boats.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107798981-0-Empty_sun_loungers_line_a_beach_at_Jumeirah_Beach_Residence_form-a-3_1775837672223.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107798981-0-Empty_sun_loungers_line_a_beach_at_Jumeirah_Beach_Residence_form-a-3_1775837672223.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T16:46:31.527729",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Quaint Colorado town on verge of being ABANDONED because its creaking water system is teetering on edge of disaster",
+      "link": "https://www.dailymail.co.uk/news/article-15722263/colorado-town-hartman-abandoned-water-failure.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T16:11:43",
+      "description": "Hartman, Colorado, which is home to approximately 30 residents, could be declared abandoned because its water system is on the brink of failure.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/16/107800977-0-image-a-7_1775835905903.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/16/107800977-0-image-a-7_1775835905903.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T16:46:31.527731",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "People smugglers behind 'Tripadvisor' service that trafficked 100 illegal immigrants a week from car wash are jailed",
       "link": "https://www.dailymail.co.uk/crime-desk/article-15722223/People-smugglers-jailed-trafficking-100-illegal-immigrants-week-TripAdvisor-travel-service-run-roadside-car-wash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12345,160 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-08T14:08:18.822222",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Life's a beach! Sun-starved Britons flock to the seaside as temperatures reach 26C on hottest day of the year so far",
-      "link": "https://www.dailymail.co.uk/news/article-15715653/Sun-starved-Britons-flock-seaside-temperatures-reach-26C-hottest-day-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T14:04:14",
-      "description": "People throughout the country, from Bournemouth, to London, Weymouth and Maidenhead, have headed outside to soak up some much-needed rays (pictured).",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107740735-0-image-a-33_1775654185495.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107740735-0-image-a-33_1775654185495.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822224",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Reform's deputy leader vows a Nigel Farage-led government will get 'every last drop' out of the North Sea and allow fracking for shale gas to give Brits 'cheap energy once again'",
-      "link": "https://www.dailymail.co.uk/news/article-15715633/Reforms-deputy-leader-vows-Nigel-Farage-led-government-drop-North-Sea-allow-fracking-shale-gas-Brits-cheap-energy-again.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T13:58:25",
-      "description": "Richard Tice used a press conference in Aberdeen to unveil Reform's four-point plan to cut Brits' household bills and ensure the UK 'can have cheap energy once again'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107740949-0-image-a-25_1775653367442.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107740949-0-image-a-25_1775653367442.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822226",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Pete Hegseth takes a swipe at Britain and Europe as he details 'victory' in Iran: 'Our so-called allies saw what real capability looks like - they should take some notes'",
-      "link": "https://www.dailymail.co.uk/news/article-15715669/Pete-Hegseth-takes-swipe-Britain-Europe-details-victory-Iran-called-allies-saw-real-capability-looks-like-notes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T13:54:16",
-      "description": "Hegseth was speaking at a Pentagon press briefing following the announcement of a two-week ceasefire between the US and Iran.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741267-0-image-a-6_1775654198439.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741267-0-image-a-6_1775654198439.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822227",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Russian hackers using home and office Wifi routers as spying devices to harvest personal data, GCHQ warns",
-      "link": "https://www.dailymail.co.uk/news/article-15715519/Russian-hackers-Wifi-routers-spying-GCHQ.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T13:53:36",
-      "description": "Hackers linked to the Russian state are turning wifi routers in British homes and offices into spying devices, GCHQ has warned.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741965-0-image-m-12_1775656125255.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741965-0-image-m-12_1775656125255.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822228",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Pictured: Man, 21, stabbed to death after fight broke out on Primrose Hill 'as crowds enjoyed the sunshine'",
-      "link": "https://www.dailymail.co.uk/news/article-15715897/Pictured-Man-21-stabbed-death-fight.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T13:50:32",
-      "description": "Finbar Sullivan, 21, died following the altercation that took place while crowds enjoyed the sunshine in the London park yesterday evening.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741713-0-image-m-17_1775655089525.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741713-0-image-m-17_1775655089525.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822230",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Pete Hegseth declares 'victory' over Iran with 'a capital V' as he thanks war fighters and claims 'Iran begged for this ceasefire'",
-      "link": "https://www.dailymail.co.uk/news/article-15715557/Pete-Hegseth-declares-victory-Iran-capital-V-thanks-war-fighters-claims-Iran-begged-ceasefire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T13:47:17",
-      "description": "Hegseth claimed during his Wednesday morning that the US had accomplished a 'decisive military victory' against Iran.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/13/107739919-0-image-m-13_1775652335081.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/13/107739919-0-image-m-13_1775652335081.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822231",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Renowned sculptress, 63, who killed Falklands SAS veteran with her Land Rover is spared jail",
-      "link": "https://www.dailymail.co.uk/news/article-15715859/sculptress-killed-Falklands-SAS-veteran-Land-Rover-spared-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T13:46:09",
-      "description": "Christine Baxter, 63, of Tregare, near Usk, Monmouthshire, collided with motorcyclist Darren Gough (pictured), 63, on April 29, 2025.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107174905-0-Falklands_War_veteran_Darren_Gough_63_was_killed_when_he_was_hit-a-9_1775655788536.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107174905-0-Falklands_War_veteran_Darren_Gough_63_was_killed_when_he_was_hit-a-9_1775655788536.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822232",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump declares Strait of Hormuz 'joint venture' with Iran as Tehran's tollbooth is set to rake in $1million per ship: 'It's a beautiful thing'",
-      "link": "https://www.dailymail.co.uk/news/article-15715645/trump-iran-strait-hormuz-tollbooth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T13:45:08",
-      "description": "Donald Trump has claimed that the US and Iran are launching a 'joint venture' in the Strait of Hormuz as Tehran prepares to rake in $1 million per vessel.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/13/107740677-0-image-m-10_1775652893241.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/13/107740677-0-image-m-10_1775652893241.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822233",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "NAB's cruellest cuts: Fired after a stroke. A pregnant woman sacked for bathroom breaks. Insiders leak the dystopian reality of bank's edict to 'just get rid of people' - as CEO gains a savage company nickname",
-      "link": "https://www.dailymail.co.uk/news/article-15711161/NABs-cruellest-cuts-Fired-stroke-pregnant-woman-sacked-bathroom-breaks-Insiders-leak-dystopian-reality-banks-edict-just-rid-people-CEO-gains-savage-company-nickname.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T13:32:58",
-      "description": "Former staffers at NAB have lifted the lid on the CEO's nickname, the way a stroke victim was treated, and how pregnancy bathroom breaks had to be logged as 'personal time'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/01/107727355-0-image-a-5_1775607331583.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/01/107727355-0-image-a-5_1775607331583.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822235",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Prince Edward visited Andrew over Easter because he was worried about his mental state after Epstein files arrest",
-      "link": "https://www.dailymail.co.uk/news/article-15715521/prince-edward-visited-andrew-mountbatten-windsor-easter-fears-mental-state-epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T13:31:32",
-      "description": "As the police inquiry into Andrew's links with Jeffrey Epstein gathers pace, Edward has become increasingly concerned about the wellbeing of the older sibling with whom he once shared a close bond.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/13/107652463-0-image-m-20_1775650610317.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/13/107652463-0-image-m-20_1775650610317.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822236",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Dark arts of crisis PR queen behind Catalano, Sayers and the worst blokes you know... Plus, Dan Andrews' wildly petty act after disabling 'episode' - and Peta Credlin's fake photo furore: INSIDE MAIL",
-      "link": "https://www.dailymail.co.uk/news/article-15714325/Dark-arts-crisis-PR-queen-Catalano-Sayers-worst-blokes-you-know-Plus-Dan-Andrews-wildly-petty-act-disabling-episode-Peta-Credlins-fake-photo-furore-INSIDE-MAIL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T13:30:29",
-      "description": "We reveal the three rules of Melbourne's queen of managing the worst of reputations... And jaws hit the floor as Dan Andrews manages to stir the pot even after a medical crisis took away his speech.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/07/107733665-0-image-a-58_1775631483350.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/07/107733665-0-image-a-58_1775631483350.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822237",
       "feed_category": "News",
       "feed_visibility": "both"
     }
