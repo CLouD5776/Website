@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Is the Trump-Starmer bromance over?",
+      "link": "https://www.bbc.com/news/articles/c070xervlydo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T18:51:30",
+      "description": "The disintegration of the pair's friendship has benefits - and the PM is getting steadily more comfortable at taking advantage.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e99c/live/34b733d0-350b-11f1-ba51-4930b617bc5b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T19:41:10.069170",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Met PC caught making 'appalling' remarks sacked",
       "link": "https://www.bbc.com/news/articles/c937w3zj742o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-10T17:21:34",
@@ -5488,20 +5499,149 @@
       "archived_at": "2026-04-03T08:49:02.924315",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
-      "link": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T07:07:48",
-      "description": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee93/live/962c62b0-2f26-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T07:43:08.086686",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Two teens, 16 and 17, arrested on suspicion of murder after 'punching pensioner in his 70s in the face'",
+      "link": "https://www.dailymail.co.uk/news/article-15722913/teens-arrested-murder-pensioner-70s-punch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T19:37:41",
+      "description": "The man in his 70s died after confronting two males who had thrown a large branch off the Millennium Bridge in Cheltenham at a cyclist travelling on the road below.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/20/107805065-0-image-m-9_1775848458128.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/20/107805065-0-image-m-9_1775848458128.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:11.438619",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump plots to deploy secret weapon who built his 2024 victory to run midterm war room amid fears of ballot bloodbath",
+      "link": "https://www.dailymail.co.uk/news/article-15723131/trump-james-blair-midterm-war-room.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T19:36:17",
+      "description": "Donald Trump has deployed one of the architects of his 2024 victory to run the midterm war room.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/20/107805069-0-image-m-8_1775849304871.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/20/107805069-0-image-m-8_1775849304871.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:11.438624",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "JD Vance faces the biggest test of his career as he leads Trump's talks with Iran... but experts warn 'strategic error' could blow up entire peace mission",
+      "link": "https://www.dailymail.co.uk/news/article-15721849/ceasefire-hanging-thread-JD-Vance-Steve-Witkoff-Jared-Kushner-touch-Islamabad-highest-level-Iran-talks-40-years-diplomats-warn-strategic-error.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T19:36:12",
+      "description": "The world stands at a terrifying geopolitical crossroads as American and Iranian officials prepare to sit across from one another for the highest-level direct negotiations.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/18/107801727-0-image-a-5_1775841800445.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/18/107801727-0-image-a-5_1775841800445.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:11.438626",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Daughter of American woman missing in the Bahamas fears her stepdad will NEVER be charged, boyfriend claims",
+      "link": "https://www.dailymail.co.uk/news/article-15722235/bahamas-lynette-brian-hooker-disappearance-daughter-charges.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T19:34:30",
+      "description": "Lynette Hooker is still missing after vanishing while out in the Caribbean with her husband, Brian Hooker. Her family fears he will not be charged if there is a lack of evidence.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/20/107779449-0-image-m-9_1775848573468.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/20/107779449-0-image-m-9_1775848573468.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:11.438627",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chess player who took selfie with World No.1 before he snitched on her for using phone THANKS him and insists she has 'no hard feelings'",
+      "link": "https://www.dailymail.co.uk/news/article-15722957/Chess-selfie-World-No-1-THANKS-no-hard-feelings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T19:32:53",
+      "description": "Kazakh chess prodigy Alua Nurman, 18, asked five-time world champion Carlsen for a selfie before the two went head to head at a major chess tournament in Germany.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/20/107803889-0-image-m-16_1775848771223.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/20/107803889-0-image-m-16_1775848771223.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:11.438629",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Independent Scotland would pay REPARATIONS for 'colonialism', says Green candidate (who also wants to abolish prisons)",
+      "link": "https://www.dailymail.co.uk/news/article-15723097/Independent-Scotland-pay-REPARATIONS-colonialism-says-Green-candidate-wants-abolish-prisons.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T19:13:16",
+      "description": "A prominent Green candidate who wants to abolish prisons has said independence would see Scotland pay 'reparations' to countries 'damaged through colonialism'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/20/107805015-0-image-m-36_1775847903828.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/20/107805015-0-image-m-36_1775847903828.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:11.438630",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fights, camera, action! Hollywood blockbuster casts a cloud over Skye as filming set to close tourist car parks",
+      "link": "https://www.dailymail.co.uk/news/article-15723103/Fights-camera-action-Hollywood-blockbuster-casts-cloud-Skye-filming-set-close-tourist-car-parks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T19:09:18",
+      "description": "They are normally welcomed by star-struck locals as the cream of Hollywood descend on Scots locations to shoot the latest blockbuster.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/19/107805001-0-image-a-18_1775847589440.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/19/107805001-0-image-a-18_1775847589440.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:11.438632",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "SNP squandered \u00a36.2 BILLION on botched schemes and benefit fraud during the last parliament, say Tories",
+      "link": "https://www.dailymail.co.uk/news/article-15723091/SNP-squandered-6-2-BILLION-botched-schemes-benefit-fraud-parliament-say-Tories.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T19:07:40",
+      "description": "The SNP squandered \u00a36.2 billion in the last parliament - \u00a33.4 million every day for five years - the Scottish Tories have revealed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/19/107804643-0-image-m-7_1775846625326.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/19/107804643-0-image-m-7_1775846625326.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:11.438633",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ireland's first ever influencer RICH LIST! From income and investors to, most importantly, the clout - who are the top 50 online earners? And have you ever heard of our very unlikely No.1?",
+      "link": "https://www.dailymail.co.uk/news/article-15722837/Irelands-influencer-RICH-LIST-income-investors-importantly-clout-50-online-earners-you-heard-unlikely-No-1.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T19:00:17",
+      "description": "Ireland's first ever influencer RICH LIST! From income and investors to, most importantly, the clout - who are the top 50 online earners? And have you ever heard of our No.1?",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107802421-0-image-m-11_1775839303969.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107802421-0-image-m-11_1775839303969.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:11.438634",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "BRENDA POWER: We should be pulling together to deal with this fuel crisis. Instead we're being BULLIED by welfare-addicted layabouts who have nothing better to do...",
+      "link": "https://www.dailymail.co.uk/news/article-15722641/BRENDA-POWER-fuel-crisis-BULLIED-welfare-addicted-layabouts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T18:58:17",
+      "description": "The fuel blockades crippling the country have ceased to be legitimate protests about energy prices and have tipped over into anarchy and sabotage.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/19/107801025-0-image-m-4_1775847432195.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/19/107801025-0-image-m-4_1775847432195.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:11.438635",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Grandmother, 73, died while paramedics filled out paperwork in car park, inquest hears",
       "link": "https://www.dailymail.co.uk/news/article-15722673/Grandmother-died-paramedics-filled-paperwork-car-park-inquest-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12361,149 +12501,37 @@
       "archived_at": "2026-04-08T16:58:08.598774",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Musclebound man has THREE wives at same time, as he shrugs off scandal and claims it was 'woman's job' to check that he was single before getting hitched to him",
-      "link": "https://www.dailymail.co.uk/news/article-15715587/canadian-women-wives-marriage-man.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:57:57",
-      "description": "Jason Washington, 46, is married to three Canadian women at the same time, but he said it was their 'job' to figure that out for themselves before they decided to tie the knot with him.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744275-0-image-m-22_1775661917849.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744275-0-image-m-22_1775661917849.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T16:58:08.598775",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Angela Rayner's 'jobs police' get powers to arrest people, use 'reasonable force' and search buildings to enforce Labour's new workers' rights rules",
-      "link": "https://www.dailymail.co.uk/news/article-15715773/Angela-Rayners-jobs-police-powers-arrest-people-use-reasonable-force-search-buildings-enforce-Labours-new-workers-rights-rules.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:06:38",
-      "description": "The Fair Work Agency (FWA) is being established as part of Labour's overhaul of workers' rights via the Employment Rights Act.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744255-0-image-m-4_1775660598814.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744255-0-image-m-4_1775660598814.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122909",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Katie Price's fourth husband Lee Andrews now claims he's buying Chelsea football club just four years after current owner bought it for\u00a0\u00a34.25billion and insists 'the money is there - watch this space'",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15715743/Katie-Prices-fourth-husband-Lee-Andrews-claims-hes-buying-Chelsea-football-club-just-four-years-current-owner-bought-4-25billion-insists-money-watch-space.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:03:35",
-      "description": "Dubai-based businessman Lee Andrews wants to forge ahead with a 'crazy and ambitious' plan to buy into the current World Club Cup holders.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741781-0-image-a-60_1775655361362.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741781-0-image-a-60_1775655361362.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122915",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "My frozen shoulder was actually early menopause. Here's the exact treatment that cured me in just three weeks... it's a travesty more women don't know about this: JILLIAN MICHAELS",
-      "link": "https://www.dailymail.co.uk/debate/article-15713459/menopause-cure-treatment-megyn-kelly-JILLIAN-MICHAELS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T11:59:14",
-      "description": "Podcaster Megyn Kelly ignited a firestorm online after breaching a taboo topic in women's health this week.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/19/107720171-0-image-a-1_1775585803239.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/19/107720171-0-image-a-1_1775585803239.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122919",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Iran HALTS ships in Strait of Hormuz and issues new demand as Trump's crumbling ceasefire faces furious Republican backlash",
-      "link": "https://www.dailymail.co.uk/news/article-15716193/iran-halts-tankers-hormuz-trump-ceasefire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:48:46",
-      "description": "Iran has halted oil tankers transiting the Strait of Hormuz and demanded that Israel cease its attacks on Lebanon as Donald Trump's crumbling truce faced backlash.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744795-0-image-a-7_1775661682615.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744795-0-image-a-7_1775661682615.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122928",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "From the 'Wicklow Viking' with a huge tax bill to the stunning settled Traveller with attitude, these are the Irish OnlyFans creators whose content - sometimes created in their parents BOXROOM - is making them a small fortune... but at what cost?",
-      "link": "https://www.dailymail.co.uk/news/article-15713233/From-Wicklow-Viking-huge-tax-bill-stunning-settled-Traveller-attitude-Irish-OnlyFans-creators-content-created-parents-BOXROOM-making-small-fortune-cost.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:47:57",
-      "description": "Whether they are buying villas in Turkey, settling six-figure tax bills in Wicklow, or facing down their own communities in Dublin, one thing is for sure: these are no longer bedroom hobbies.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107745529-0-image-m-25_1775663001908.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107745529-0-image-m-25_1775663001908.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122931",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Adorable baby boy is rushed from Georgia to Boston for lifesaving surgery",
-      "link": "https://www.dailymail.co.uk/news/article-15715505/baby-heart-surgery-georgia-boston-Tripp-Coker.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:46:47",
-      "description": "Eight-month-old Tripp Coker, who lives with a serious heart condition, boarded a flight with his mother on Tuesday from Millen to Boston Children's Hospital.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107745041-0-image-a-9_1775662191651.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107745041-0-image-a-9_1775662191651.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122932",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man guilty of murdering top London chef who studied at Prue Leith school",
-      "link": "https://www.dailymail.co.uk/news/article-15716139/Man-guilty-murdering-London-chef-studied-Prue-Leith-school.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:41:41",
-      "description": "Alexis De Naray, 45, from Shrewsbury, trained at the Prue Leith Cooking School and worked in several high-end kitchens in the capital, jurors were told.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/15/107383639-0-image-m-11_1775660060038.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/15/107383639-0-image-m-11_1775660060038.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122934",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Female pastor charged with gross negligence manslaughter after man drowned during baptism",
-      "link": "https://www.dailymail.co.uk/news/article-15716197/Female-pastor-charged-gross-negligence-manslaughter-man-drowned-baptism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:40:30",
-      "description": "Robert Smith, 61, died during the Christian ceremony held in the back garden of a private address in Erdington, Birmingham , on October 8, 2023.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/76673251-0-image-m-33_1775661902924.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/76673251-0-image-m-33_1775661902924.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122935",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Eric Swalwell furiously denies allegations he's been 'inappropriate' with female staffers blaming 'MAGA conspiracy'",
-      "link": "https://www.dailymail.co.uk/news/article-15715943/Eric-Swalwell-furiously-denies-allegations-hes-inappropriate-female-staffers-blaming-MAGA-conspiracy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:33:16",
-      "description": "Swalwell, a Democratic lawmaker running in California as gubernatorial candidate, was accused of harassing young female staffers.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/15/107743835-0-Swalwell_is_furiously_denying_online_sexual_misconduct_claims_wi-a-7_1775660068655.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/15/107743835-0-Swalwell_is_furiously_denying_online_sexual_misconduct_claims_wi-a-7_1775660068655.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122936",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Rangers boss Danny Rohl reveals that\u00a0 'serious' injury could rule striker Ryan Naderi out of title run-in",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15722931/Rangers-boss-Danny-Rohl-reveals-injury-rule-striker-Ryan-Naderi-title-run-in.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T19:20:55",
+      "description": "Rangers striker Ryan Naderi has picked up a 'serious' injury that could rule him out of the club's Premiership title run-in.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/20/107805249-0-image-a-49_1775848819751.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/20/107805249-0-image-a-49_1775848819751.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:13.690837",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The World Cup ticket rip-off: Seats for England's opener against Croatia being resold for 38 TIMES their initial price amid fury from fans at being 'fleeced' by FIFA",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15722967/World-Cup-ticket-England-Croatia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T19:12:02",
+      "description": "FIFA's official World Cup resale site is seeing tickets for England vs Croatia in Dallas sold at 38 times more than their face value. The tickets are rated as Category 4 games - one of the few priced that low.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/20/107804625-0-image-a-77_1775847772317.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/20/107804625-0-image-a-77_1775847772317.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T19:41:13.690843",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Premier League cult hero names reasons why Mikel Arteta is 'LUCKY' to still be Arsenal's manager, claims Gunners should be even further ahead and says the team 'lack flair' under Spaniard",
       "link": "https://www.dailymail.co.uk/sport/football/article-15722881/Premier-League-Mikel-Arteta-Arsenal-manager.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
