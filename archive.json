@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Prince Harry sued for defamation by charity Sentebale he co-founded",
+      "link": "https://www.bbc.com/news/articles/cr517n2v7myo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T17:07:46",
+      "description": "Prince Harry left the charity last year in an acrimonious dispute over how Sentebale was being managed.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea2/live/fe0f4930-71fb-11f0-88cf-791e5d4bcee3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T17:43:58.290585",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Epstein survivors' calls to meet King and Queen harder to ignore as US visit approaches",
+      "link": "https://www.bbc.com/news/articles/cly6xjy3ddeo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T15:59:09",
+      "description": "The King and Queen's state visit to the US faces more questions about sex offender Jeffrey Epstein.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/124d/live/5df1d6a0-34f8-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T17:43:58.290595",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chimpanzees in Uganda locked in vicious 'civil war', say researchers",
+      "link": "https://www.bbc.com/news/articles/cr71lkzv49po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T16:52:55",
+      "description": "The once close-knit community of Ngogo chimpanzees have been at loggerheads for the last eight years.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a41/live/068357f0-34fc-11f1-9d5c-8ba507d7dbde.png",
+      "enclosure": null,
+      "archived_at": "2026-04-10T17:43:58.290598",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
+      "link": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T17:08:27",
+      "description": "The killing came as ex-security chiefs warned \"government sponsored Jewish terrorism\" was out of control.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6768/live/109f3bf0-34fc-11f1-83d0-87d8f45acd6d.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T17:43:58.290600",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "One dead after bus carrying British tourists crashes in Canary Islands, officials say",
       "link": "https://www.bbc.com/news/articles/c75kv5vz66yo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-10T16:25:28",
@@ -5455,53 +5499,107 @@
       "archived_at": "2026-04-03T07:43:08.086692",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Who is Christopher LaNeve, set to lead the US army?",
-      "link": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T07:11:07",
-      "description": "He will replace Randy George, who was asked to step down from his post by Defence Secretary Pete Hegseth.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ecc/live/bf8dad10-2f23-11f1-a425-47721dfc6207.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T07:43:08.086694",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "What De Zerbi needs to do to turn Tottenham around",
-      "link": "https://www.bbc.com/sport/football/articles/cj402p5ezylo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T06:15:17",
-      "description": "Tony Pulis explores why Tottenham are in such a mess and what their new manager Roberto de Zerbi might do to change things as they seek to stay in the Premier League.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T07:43:08.086697",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Football quiz: Name every club in the Premier League and EFL",
-      "link": "https://www.bbc.com/sport/football/articles/ckge70rellxo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T07:25:41",
-      "description": "Can you tackle our mega-quiz and name all 92 teams in England's top four divisions? There is no time limit. Good luck!",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76d5/live/1951ba70-2d31-11f1-8c7a-d7713554a96a.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T07:43:08.086698",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "M&S boss calls for more action on crime and abuse of staff",
-      "link": "https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T05:40:00",
-      "description": "Thinus Keeve's comments come days after an M&amp;S store was targeted during disorder in south London.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db04/live/86ffeb10-2f1a-11f1-a70a-0d0fc2b74d5f.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T06:10:35.691990",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Rival Turkish barber shop workers who swung scissors and spanners in huge 'turf war' brawl over plans to open up new shop in the town are spared jail",
+      "link": "https://www.dailymail.co.uk/news/article-15722391/Rival-Turkish-barbers-scissors-spanners-brawl-spared-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T17:42:28",
+      "description": "Rival Turkish barber shop workers who swung scissors and spanners in a huge 'turf war' brawl on a busy high street in Wales have been spared jail.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107802221-0-image-m-9_1775839328171.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107802221-0-image-m-9_1775839328171.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T17:44:01.941119",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Florida mayor's extreme age gap ex kills himself on his birthday after he was charged with attacking the lawmaker",
+      "link": "https://www.dailymail.co.uk/news/article-15721917/Florida-mayor-Dean-Trantalis-Danny-Curran-dead-suicide-apartment.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T17:35:49",
+      "description": "Danny Curran, the\u00a0former partner of Fort Lauderdale Mayor Dean Trantalis, killed himself on his birthday after facing criminal charges for attacking the lawmaker, police said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/18/107795263-0-image-m-39_1775841241761.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/18/107795263-0-image-m-39_1775841241761.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T17:44:01.941124",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Strand livestream goes dark as horrific audio of seven-year-old Athena being murdered by FedEx driver is played to jurors, with disturbing new photo of straps found in his van shared in court",
+      "link": "https://www.dailymail.co.uk/news/article-15722663/Athena-Strand-trial-Tanner-Horner-audio-evidence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T17:32:19",
+      "description": "The stream was paused as jurors were played nightmarish audio from inside Horner's FedEx truck that he used to abduct the seven-year-old from outside her home in Texas in November 2022.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/18/107719051-0-image-m-61_1775840737032.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/18/107719051-0-image-m-61_1775840737032.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T17:44:01.941126",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Has Ukraine created a 'wonder weapon'? RICHARD PENDLEBURY spends days deep underground on the Kharkiv frontline to witness the unjammable killer drone that could decide the war",
+      "link": "https://www.dailymail.co.uk/news/article-15719167/ukraine-wonder-weapon-fibre-optic-drone-richard-pendlebury-charter-brigade-kharkiv.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T17:26:23",
+      "description": "Pendlebury spent days underground with three drone pilots, known only by their military call signs, Puma, the team leader, Kush and Umbrella.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/15/107771733-0-image-m-14_1775745903954.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/15/107771733-0-image-m-14_1775745903954.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T17:44:01.941128",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Prominent businessman and wife named as victims of Arizona plane crash that saw aircraft slide off runway in fireball",
+      "link": "https://www.dailymail.co.uk/news/article-15721891/arizona-plane-crash-chris-sheafe-wife-victims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T17:21:22",
+      "description": "The fatal crash marked the second deadly incident at the small Arizona airport in just over a year after a midair collision killed two people last February.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107801951-0-image-a-28_1775838401253.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107801951-0-image-a-28_1775838401253.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T17:44:01.941129",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Prince Harry's Sentebale charity which he co-founded in honour of his mother Princess Diana is suing him for libel at High Court",
+      "link": "https://www.dailymail.co.uk/news/article-15722801/Prince-Harrys-Sentebale-charity-founded-honour-mother-Princess-Diana-suing-libel-High-Court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T17:19:24",
+      "description": "Sentebale, which helps young people with HIV and AIDS in Lesotho and Botswana, has launched a High Court lawsuit for libel and slander against Harry and former royal equerry Mark Dyer.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107802563-0-image-m-12_1775839873857.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107802563-0-image-m-12_1775839873857.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T17:44:01.941130",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump adds a brand-new golden detail to the Oval Office",
+      "link": "https://www.dailymail.co.uk/news/article-15722351/Trump-adds-brand-new-golden-Oval-Office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T17:14:16",
+      "description": "President Donald Trump has apparently leaned into the design theory that you can never have too much gold.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/18/107800949-0-image-m-11_1775841251209.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/18/107800949-0-image-m-11_1775841251209.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T17:44:01.941132",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Summer holiday chaos fears as European airports face jet fuel shortage in three weeks due to Hormuz closure",
       "link": "https://www.dailymail.co.uk/travel/article-15721795/Summer-holiday-chaos-European-airports-face-jet-fuel-shortage-three-weeks-Hormuz-closure.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12403,104 +12501,6 @@
       "archived_at": "2026-04-08T15:54:41.122945",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "The simple change Opposition leader Angus Taylor is demanding - with Aussies expected to feel effects of the Iran war for months despite ceasefire",
-      "link": "https://www.dailymail.co.uk/news/article-15714785/fuel-price-australia-monitoring.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T14:52:44",
-      "description": "Although a ceasefire in the Middle East has paused fighting, it has also underscored just how exposed Australia is to shocks in global fuel markets.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/15/107743447-0-image-m-114_1775659171295.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/15/107743447-0-image-m-114_1775659171295.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122946",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Inside the hidden meaning of Ben Roberts-Smith's controversial 'CRUSADER' tattoos - and why he secretly had surgery to REMOVE one forever",
-      "link": "https://www.dailymail.co.uk/news/article-15714399/ben-roberts-smith-tattoos-afp-arrest-photos.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T14:37:07",
-      "description": "The heavily inked Special Air Services soldier - a Victoria Cross recipient - has quietly removed one of his myriad tattoos that cover his chiselled upper torso.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/05/107731537-0-image-m-21_1775622554755.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/05/107731537-0-image-m-21_1775622554755.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122948",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Keir Starmer should do more to stop radical Islamists coming to Britain rather than banning celebrities like Kanye West, ex-Tory minister says",
-      "link": "https://www.dailymail.co.uk/news/article-15715723/Keir-Starmer-stop-radical-Islamists-coming-Britain-banning-celebrities-like-Kanye-West-ex-Tory-minister-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T14:35:27",
-      "description": "Shabana Mahmood blocked West from entering Britain to perform at Wireless Festival because his presence would 'not be conducive to the public good'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/15/95490213-0-image-m-14_1775657585708.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/15/95490213-0-image-m-14_1775657585708.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122949",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "When cops broke down the door to glamour couple's $27million mansion, it was the talk of Sydney's rich and famous. Now there's been a dramatic twist",
-      "link": "https://www.dailymail.co.uk/news/article-15699895/bellevue-hill-mansion-drug-raid-marios-alexandridis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T14:33:02",
-      "description": "Heavily armed officers broke down the door of former television journalist Stephanie Jandegian and her entrepreneur husband Garrett Jandegian's Bellevue Hill home on February 6 last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/06/98998129-0-image-m-26_1775108516216.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/06/98998129-0-image-m-26_1775108516216.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122950",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Haul of illegal bushmeat including rat and antelope is seized in Peckham as man is arrested",
-      "link": "https://www.dailymail.co.uk/news/article-15715635/illegal-bushmeat-rat-antelope-seized-Peckham-man-arrested.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T14:27:31",
-      "description": "The morbid discovery was made at an address in Peckham, south east London , in a joint investigation by the Met Police and the Food Standards Agency (FSA).",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/15/107741725-0-image-m-20_1775657215780.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/15/107741725-0-image-m-20_1775657215780.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T15:54:41.122952",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Happy ending for stunning black leopard called Onyx who was forced to live in roadside animal enclosure",
-      "link": "https://www.dailymail.co.uk/news/article-15715555/black-leopard-onyx-rescue-california.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T14:06:09",
-      "description": "Onyx was rescued by Lions, Tigers & Bears, a 142-acre big cat and animal rescue sanctuary in Alpine, California which is dedicated to abused and abandoned exotic animals.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107742049-0-image-a-8_1775656301523.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107742049-0-image-a-8_1775656301523.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822217",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hegseth unleashes at 'nasty' female reporter questioning the effectiveness of ceasefire as Iran STILL firing missiles",
-      "link": "https://www.dailymail.co.uk/news/article-15715769/Hegseth-nasty-female-Iran-ceasefire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T14:04:42",
-      "description": "Secretary of War Pete Hegseth snapped at a\u00a0 reporter during a Wednesday morning press conference after being pressed on Donald Trump and Iran's ceasefire deal.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741031-0-image-m-32_1775655631183.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107741031-0-image-m-32_1775655631183.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T14:08:18.822222",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
@@ -19241,6 +19241,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Violet Grohl: 'I don't care if people call me a nepo baby'",
+      "link": "https://www.music-news.com/news/UK/188270/Violet-Grohl-I-don-t-care-if-people-call-me-a-nepo-baby",
+      "pubDate": "2026-04-10T16:00:00",
+      "description": "The emerging singer-songwriter has insisted sceptics will change their minds once they see her perform live.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188270.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188270.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T17:44:08.760523",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Harry Styles dominates 2026 charts with \"Kiss All The Time\"",
       "link": "https://www.music-news.com/news/UK/188265/Harry-Styles-dominates-2026-charts-with-Kiss-All-The-Time",
