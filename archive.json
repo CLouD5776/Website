@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Trump's blunt attack on former allies exposes splintered MAGA coalition",
+      "link": "https://www.bbc.com/news/articles/cz0ep709pr2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T20:36:35",
+      "description": "His criticism of four conservative commentators who have spoken out against the Iran war highlights the tension in his base.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab8/live/aab32bd0-350a-11f1-ba51-4930b617bc5b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T21:33:38.556203",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "The five big sticking points in US-Iran talks",
       "link": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-10T18:13:25",
@@ -5488,20 +5499,93 @@
       "archived_at": "2026-04-03T10:39:39.181873",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "How does the NHS in Scotland compare with the rest of the UK?",
-      "link": "https://www.bbc.com/news/articles/c4g87rlmrnyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T05:21:27",
-      "description": "BBC Verify looks at key measures to see what progress is being made and whether Scotland can be compared with other nations.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8e/live/d4d31050-1e13-11f1-b048-c9424b2cf5fd.png",
-      "enclosure": null,
-      "archived_at": "2026-04-03T10:39:39.181876",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Chagos Islands deal on the brink as Keir Starmer is forced to delay handover plan after Trump withdrew his support and branded it an 'act of great stupidity'",
+      "link": "https://www.dailymail.co.uk/news/article-15723437/Chagos-Islands-deal-Keir-Starmer-delay-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T21:26:54",
+      "description": "The US President had initially supported the move, but changed his stance in January after warning it was an 'act of great stupidity'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/22/107807309-0-image-a-22_1775854982707.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/22/107807309-0-image-a-22_1775854982707.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T21:33:40.991115",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Russian cyberattacks on the UK increased by 1,586 per cent in a year after Britain backed Ukraine in war",
+      "link": "https://www.dailymail.co.uk/news/article-15722937/Russian-cyberattacks-UK-increased-backed-Ukraine-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T21:26:30",
+      "description": "Moscow escalated its covert cyberwar against Britain and its NATO allies in the wake of their support for Kyiv, a defence think tank found.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/18/107490039-0-An_Iranian_hacking_group_has_ramped_up_its_threats_to_launch_cyb-a-5_1775842610659.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/18/107490039-0-An_Iranian_hacking_group_has_ramped_up_its_threats_to_launch_cyb-a-5_1775842610659.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T21:33:40.991121",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Greens win seat from Reform UK in Farage's 'flagship' council after by-election sparked because incumbent was jailed",
+      "link": "https://www.dailymail.co.uk/news/article-15723311/Greens-win-seat-Reform-UK-Farages-council-election-jailed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T21:25:26",
+      "description": "The hard-left party took the Cliftonville ward on Thanet council, previously branded Nigel Farage's 'flagship' council, with a swing of 17 points.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/21/107806589-0-image-m-15_1775852735072.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/21/107806589-0-image-m-15_1775852735072.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T21:33:40.991123",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'You have no cards to play': White House turns up the heat on Tehran as Trump warns Iran that US is 'loading up the ships with the best ammunition' in case peace talks fail",
+      "link": "https://www.dailymail.co.uk/news/article-15723367/White-House-turns-heat-Tehran-Trump-warns-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T21:25:17",
+      "description": "The US President's threatening rhetoric came shortly after Vice President JD Vance jetted off from Washington for in-person negotiations with Iranian officials in Pakistan.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/21/107806993-0-image-m-46_1775854037000.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/21/107806993-0-image-m-46_1775854037000.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T21:33:40.991124",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "San Francisco man arrested after allegedly hurling Molotov cocktail at OpenAI boss Sam Altman's mansion",
+      "link": "https://www.dailymail.co.uk/news/article-15722951/sam-altman-mansion-molotov-cocktail-attack-man-arrested.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T21:03:53",
+      "description": "Altman owns a $27 million Lombard Street mansion in the Russian Hill neighborhood that includes a wellness center, infinity pool and a subterranean garage with a car turntable.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/21/107806159-0-image-m-69_1775853188629.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/21/107806159-0-image-m-69_1775853188629.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T21:33:40.991126",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teacher sister of Baywatch star Noah Beck breaks cover after being accused of sexual misconduct with student",
+      "link": "https://www.dailymail.co.uk/news/article-15723253/haley-noah-beck-tj-maxx-visit-sexual-misconduct-arizona.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T20:54:00",
+      "description": "Haley Beck, who has been accused of grooming a student before he turned 18, was spotted on Thursday at a TJ Maxx in Arizona. Charges have not been filed against her.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/21/107805889-0-image-m-8_1775853747313.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/21/107805889-0-image-m-8_1775853747313.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T21:33:40.991128",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "'We were drunk...I should've known better': Husband's haunting words to security guard after his wife fell and vanished in shark-infested waters during night boat trip",
       "link": "https://www.dailymail.co.uk/news/article-15722067/brian-hooker-wife-vanish-bahamas-shark-waters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12417,93 +12501,37 @@
       "archived_at": "2026-04-08T16:58:08.598751",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Stephen Fry reveals reality of living with bipolar disorder as he reflects on 'agonising' suicide attempt and 'terrible' mental health struggles on The Assembly",
-      "link": "https://www.dailymail.co.uk/tv/article-15715063/stephen-fry-bipolar-disorder-suicide-attempt-assembly.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T11:50:22",
-      "description": "Stephen Fry opened up on the realities of living with bipolar disorder and reflected on his 'agonising' suicide attempt as he was asked about his mental health struggles.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/10/107736753-0-image-m-71_1775641420522.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/10/107736753-0-image-m-71_1775641420522.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T16:58:08.598753",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "How Dragons' Den's biggest flop lost an eye-watering \u00a3200k within three years in costly disaster for Theo Paphitis",
-      "link": "https://www.dailymail.co.uk/tv/article-15715097/dragons-den-biggest-flop-200k-loss-three-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T11:41:35",
-      "description": "Since the show's debut in 2005, there has been a revolving door of entrepreneurs and investors alike.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/11/107738009-0-image-a-4_1775645594266.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/11/107738009-0-image-a-4_1775645594266.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T16:58:08.598754",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "John struggled for seven years with embarrassing accidents and pain when peeing. All the tests came back clear... before doctors discovered he had this very common problem that's so often ignored in men",
-      "link": "https://www.dailymail.co.uk/health/article-15715341/pain-peeing-common-cause-ignored-men.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T11:24:37",
-      "description": "When John Isaacs catches a train these days, he settles comfortably back into his seat to enjoy the journey - something he was completely unable to do until just over a month ago.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/11/107737413-0-image-m-13_1775645358016.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/11/107737413-0-image-m-13_1775645358016.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T16:58:08.598756",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I locked eyes with a killer after he admitted one Britain's most depraved murders... what he did next chilled me to my bones, writes MARTIN FRICKER",
-      "link": "https://www.dailymail.co.uk/crime-desk/article-15700657/I-locked-eyes-killer-admitted-one-Britains-depraved-murders-did-chilled-bones-writes-MARTIN-FRICKER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T10:43:33",
-      "description": "Jamie Reynolds stood in dock after admitting one of the most depraved killings in British history and for a moment it felt like I was looking directly at the devil, writes MARTIN FRICKER.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/17/107717415-0-image-a-31_1775577712361.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/17/107717415-0-image-a-31_1775577712361.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T16:58:08.598758",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The UK's 9 best camping sites revealed starting from just \u00a318 - with a Yorkshire spot crowned the winner",
-      "link": "https://www.dailymail.co.uk/travel/article-15715087/UK-best-camping-sites-revealed-Yorkshire-crowned-winner.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T10:38:13",
-      "description": "Camping is perfect at this time of year - and now, the best places to go have been revealed, from Yorkshire havens to Devon delights.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/11/107736987-0-image-m-15_1775644093735.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/11/107736987-0-image-m-15_1775644093735.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T16:58:08.598759",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I thought I had cancer but my recurring, agonising UTIs were caused by a far more common problem that affects all women... and this is the simple fix doctors rarely offer",
-      "link": "https://www.dailymail.co.uk/health/article-15426627/Cancer-agonising-UTIs-common-problem-women-simple-fix.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-01-07T12:41:35",
-      "description": "It was in November, when I developed my ninth UTI n four months, that I began to wonder if I had some awful disease. Could I have kidney disease - or even bladder cancer?",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/01/01/11/105153677-0-image-a-11_1767266629614.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/01/01/11/105153677-0-image-a-11_1767266629614.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T16:58:08.598765",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Alejandro Garnacho opens up on Man United exit: Chelsea star reveals what went wrong at Old Trafford, the 'bad' things that led to his downfall and why his departure 'hurt'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15722907/Alejandro-Garnacho-Man-United-exit-Chelsea.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T20:57:08",
+      "description": "The Argentine left Old Trafford in the summer for \u00a340million, having fallen out with former manager Ruben Amorim amid a clash between the two in front of the Red Devils squad.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/21/107806671-0-image-a-30_1775852669801.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/21/107806671-0-image-a-30_1775852669801.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T21:33:42.300306",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "West Ham 4-0 Wolves: Hammers turn on the style to send Tottenham into the Premier League relegation zone with seven games left",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15723509/West-Ham-4-0-Wolves-Premier-League-2025-26-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T21:26:41",
+      "description": "JAMEs SHARPE AT THE LONDON STADIUM: Genuine belief is spreading around the London Stadium that the Great Escape is on. There's a unity, too, one thought lost for good.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/22/107807611-0-image-a-50_1775855774290.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/22/107807611-0-image-a-50_1775855774290.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T21:33:42.300316",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Rangers boss Danny Rohl reveals that\u00a0 'serious' injury could rule striker Ryan Naderi out of title run-in",
       "link": "https://www.dailymail.co.uk/sport/football/article-15722931/Rangers-boss-Danny-Rohl-reveals-injury-rule-striker-Ryan-Naderi-title-run-in.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -22015,6 +22043,17 @@
     }
   ],
   "Crev": [
+    {
+      "title": "Barf the Dogma: How Universities Ensure Conformity",
+      "link": "https://crev.info/2026/04/barf-the-dogma-how-universities-ensure-conformity/?utm_source=rss&utm_medium=rss&utm_campaign=barf-the-dogma-how-universities-ensure-conformity",
+      "pubDate": "2026-04-10T21:26:57",
+      "description": "An undergraduate class project, later published in a journal, ends up reinforcing evolutionary dogma, even while candidly admitting that \u2018no one knows, from a scientific perspective, how life could have been formed from an early Earth that had no life.\u2019",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-10T21:33:48.154767",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Much Ado About New Chinese Ediacaran Fossils",
       "link": "https://crev.info/2026/04/new-chinese-ediacaran-fossils/?utm_source=rss&utm_medium=rss&utm_campaign=new-chinese-ediacaran-fossils",
