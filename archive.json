@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "OpenAI boss Sam Altman's home targeted with Molotov cocktail",
+      "link": "https://www.bbc.com/news/articles/czx91rdxpyeo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T21:01:18",
+      "description": "San Francisco police have arrested a 20-year-old suspect.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e01/live/6a868a60-351a-11f1-80c8-2fd40df6e72e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T23:32:00.588716",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "West Ham have fresh hope - but Spurs now in uncharted territory",
+      "link": "https://www.bbc.com/sport/football/articles/cr71jvrpp5ro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T23:23:27",
+      "description": "West Ham's thumping win over Wolves not only boosts their own Premier League survival hopes, but plunges Tottenham into the drop zone - and to new depths.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/febe/live/d1fde4b0-3527-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-10T23:32:00.588723",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "UK shelves Chagos deal after Trump opposition",
       "link": "https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-10T22:17:49",
@@ -5477,31 +5499,93 @@
       "archived_at": "2026-04-03T11:35:35.578493",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "No positive drug tests during Winter Olympics, for first time in 28 years",
-      "link": "https://www.bbc.com/sport/articles/ce8jzpj6nyko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T10:18:59",
-      "description": "For the first time in 28 years, no athlete has been found to have taken a banned substance at an Olympics - so far.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed60/live/be72ae10-2f4d-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T11:35:35.578516",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
-      "link": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T10:35:55",
-      "description": "President Trump has warned Iran of strikes on bridges and electric power plants if its leaders do not agree to his terms to end the war.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f9/live/5b149340-2f45-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T11:35:35.578523",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Queue jumpers, loud chewers and cups of tea going cold... researchers reveal the things Britons love to hate",
+      "link": "https://www.dailymail.co.uk/news/article-15723737/Researchers-reveal-things-Britons-love-hate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T23:23:58",
+      "description": "A poll of 2,000 adults has revealed the small yet infuriating moments that can sour the nation's mood, from not being able to open a jar to the sharp pain of stubbing a toe or chipping a nail.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/00/107809017-0-image-m-20_1775862525530.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/00/107809017-0-image-m-20_1775862525530.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T23:32:02.987938",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Keir Starmer's digital ID scheme mocked as 'ridiculous' after minister confirms it will be optional - and will not include a person's biological sex",
+      "link": "https://www.dailymail.co.uk/news/article-15723751/Keir-Starmers-digital-ID-scheme-minister-biological.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T23:17:22",
+      "description": "Darren Jones said the legislation for the ID cards will not be passed until at least the middle of next year, and the programme will not be available to the public until 2029.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/00/107809023-0-image-m-10_1775862670494.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/00/107809023-0-image-m-10_1775862670494.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T23:32:02.987943",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Carolyn Bessette has now been exposed as an unhinged coke addict who castrated JFK Jr. But one despicable Kennedy family lie endures... it's what REALLY killed her: MAUREEN CALLAHAN",
+      "link": "https://www.dailymail.co.uk/news/article-15722613/carolyn-bessette-cocaine-addict-jfk-jr-castrated-MAUREEN-CA.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T23:06:06",
+      "description": "Nostalgia is perfectly packaged by Ryan Murphy in his glossy, global-hit series Love Story: A heady brew of 1990s New York City, that last pre-9/11, pre-Internet moment...",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/22/107805829-0-image-a-32_1775856143405.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/22/107805829-0-image-a-32_1775856143405.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T23:32:02.987945",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Senior health officials discuss banning doctors from going on strike in bid to stop long-running dispute",
+      "link": "https://www.dailymail.co.uk/news/article-15721775/Senior-health-officials-discuss-banning-doctors-going-strike-bid-stop-long-running-dispute.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T23:01:49",
+      "description": "The revelation comes after Kemi Badenoch used an article in the Daily Mail to say she would subject the medics to the same restrictions as the army and police.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/18/107711755-0-image-a-6_1775843914073.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/18/107711755-0-image-a-6_1775843914073.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T23:32:02.987946",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Starmer calls NATO 'the single most effective military alliance the world has ever known' after Trump's threatens to quit the bloc - but admits Europe must do more",
+      "link": "https://www.dailymail.co.uk/news/article-15723685/Starmer-NATO-Trump-threatens-quit-bloc.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T22:55:31",
+      "description": "The Prime Minister's comments come after the US President stepped up his threats to quit the bloc as tensions continued to grow over the Iran war.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/23/107808671-0-image-a-6_1775861121395.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/23/107808671-0-image-a-6_1775861121395.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T23:32:02.987947",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The day good ran into evil: Finbar Sullivan's murder sums up lawless London. Now a friend reveals his chilling final call as attack unfolded",
+      "link": "https://www.dailymail.co.uk/news/article-15723119/The-day-good-ran-evil-Finbar-Sullivans-murder-sums-lawless-London-friend-reveals-chilling-final-call-attack-unfolded.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-10T22:33:56",
+      "description": "The young film student, who had just turned 21,  headed out into the sunshine of London's Primrose Hill, not far from from his home.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/21/107806125-0-image-m-13_1775851285181.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/21/107806125-0-image-m-13_1775851285181.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-10T23:32:02.987949",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "'It's a smart move': What a source close to the Trumps told me about why Melania dropped Epstein bombshell: CAROLINE GRAHAM",
       "link": "https://www.dailymail.co.uk/news/article-15723415/Trumps-Melania-Epstein-bombshell-CAROLINE-GRAHAM.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12417,90 +12501,6 @@
       "archived_at": "2026-04-08T18:09:29.875185",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Woman 'gang-raped on Brighton Beach by migrants' was left with marks on her neck as accused tells court he saw 'how girls behaved in clubs' before alleged attack",
-      "link": "https://www.dailymail.co.uk/news/article-15715945/Woman-gang-raped-Brighton-Beach-migrants-marks-neck-accused-tells-court-girls-behaved-clubs-alleged-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T17:11:49",
-      "description": "Egyptian national Ibrahim Alshafe, 25, and his co-defendants allegedly approached the woman during a night out in Brighton on October 4 last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107745519-0-image-m-31_1775663544573.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107745519-0-image-m-31_1775663544573.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T18:09:29.875186",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Weight loss jabs ineffective? It could be in your genes, new study suggest",
-      "link": "https://www.dailymail.co.uk/news/article-15716475/Weight-loss-jabs-ineffective-genes-new-study-suggest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T17:09:59",
-      "description": "Researchers found variants in a specific gene could also predict whether users are more likely to suffer side effects.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/18/107747131-0-image-a-30_1775668015666.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/18/107747131-0-image-a-30_1775668015666.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T18:09:29.875187",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "What's really in your supermarket meat? Butcher reveals the burger patties are 'full of water' and beef mince isn't even fit for 'my dog'",
-      "link": "https://www.dailymail.co.uk/lifestyle/article-15715153/butcher-reveals-truth-supermarket-meat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T16:06:51",
-      "description": "Phil, from Briggs Quality Butchers in Ashton-Under-Lyne, is now a familiar face on TikTok and Instagram where he reacts to the quality of meat sold at UK supermarkets.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/13/107740579-0-image-a-15_1775652648951.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/13/107740579-0-image-a-15_1775652648951.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T16:58:08.598726",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Gemma Collins reveals plan to marry her partner FOUR TIMES to stunned I'm A Celebrity campmates because there's 'no other way to make it work'",
-      "link": "https://www.dailymail.co.uk/tv/article-15715543/Gemma-Collins-plan-marry-partner-FOUR-TIMES-stunned-Im-Celebrity-campmates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:51:43",
-      "description": "The former TOWIE star, 45, and soap legend Craig Charles, 61 - who originally took part in I'm A Celeb in 2014 - entered the jungle during Tuesday's instalment.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/15/107743711-0-image-a-10_1775659563800.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/15/107743711-0-image-a-10_1775659563800.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T16:58:08.598732",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Will Britons see mortgage rates fall as a result of the ceasefire in Iran?",
-      "link": "https://www.dailymail.co.uk/money/mortgageshome/article-15715383/Will-Britons-mortgage-rates-fall-result-ceasefire-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:44:43",
-      "description": "Mortgage rates have gone from 3.5% to 4.75% since the conflict started. Will that trend now start to reverse?",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/12/107739149-0-image-m-7_1775647434146.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/12/107739149-0-image-m-7_1775647434146.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T16:58:08.598733",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "You'll now get MORE daily compensation if something goes wrong with your phone or broadband",
-      "link": "https://www.dailymail.co.uk/money/bills/article-15715735/daily-compensation-goes-wrong-broadband.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T15:28:41",
-      "description": "Customers of major firms such as BT, Sky and TalkTalk will be able to get more money when things go wrong, without even having to ask for it under the Ofcom scheme.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744265-0-image-a-14_1775660674735.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744265-0-image-a-14_1775660674735.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T16:58:08.598735",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
@@ -18395,6 +18395,50 @@
   ],
   "Unherd": [
     {
+      "title": "Is this the end of Viktor Orb\u0102\u0104n?",
+      "link": "https://unherd.com/2026/04/is-this-the-end-of-viktor-orban/?edition=us",
+      "pubDate": "2026-04-10T23:10:14",
+      "description": "His politics will outlast him",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-10T23:32:08.475142",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "Why America is still winning",
+      "link": "https://unherd.com/2026/04/why-america-is-still-winning/?edition=us",
+      "pubDate": "2026-04-10T23:08:14",
+      "description": "It is building a new Suez in the stars",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-10T23:32:08.475147",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "How to defy dictatorship",
+      "link": "https://unherd.com/2026/04/how-to-defy-dictatorship/?edition=us",
+      "pubDate": "2026-04-10T23:05:38",
+      "description": "Anatoly Marienhof saw through Soviet communism",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-10T23:32:08.475148",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "Stop worshiping Singapore",
+      "link": "https://unherd.com/2026/04/stop-worshipping-singapore/?edition=us",
+      "pubDate": "2026-04-10T23:00:32",
+      "description": "The Right is wrong about Lee Kuan Yew",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-10T23:32:08.475150",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
       "title": "On astonishment and angels",
       "link": "https://unherd.com/2026/04/on-astonishment-and-angels/?edition=us",
       "pubDate": "2026-04-09T23:00:34",
@@ -22329,6 +22373,17 @@
     }
   ],
   "ENV": [
+    {
+      "title": "The Story of Everything: Why This Documentary Matters",
+      "link": "https://scienceandculture.com/2026/04/the-story-of-everything-why-this-documentary-matters/",
+      "pubDate": "2026-04-10T22:38:19",
+      "description": "It is a moment when the evidence has accumulated to the point where the materialist story is no longer the path of least resistance.\n<p><a href=\"https://scienceandculture.com/2026/04/the-story-of-everything-why-this-documentary-matters/\" rel=\"nofollow\">Source</a></p>",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-10T23:32:15.504946",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "What\u2019s So Hard About Scientific Controversy? Addressing Bad Theories of Truth",
       "link": "https://scienceandculture.com/2026/04/whats-so-hard-about-scientific-controversy-addressing-bad-theories-of-truth/",
