@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Artemis crew home safely after completing historic mission to the Moon",
+      "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T07:53:46",
+      "description": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8295/live/86e6de50-357c-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T08:39:08.268078",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "NHS to offer second MenB vaccine after deadly Kent outbreak",
+      "link": "https://www.bbc.com/news/articles/cqxlyepd09no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T08:35:32",
+      "description": "Vaccines were offered to thousands of people who may have been exposed, including university students and school pupils in the area.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a62/live/bd7f7e80-356e-11f1-8695-1dc4ba7083b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T08:39:08.268090",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hundreds of Irish forecourts run out of fuel as protests continue",
+      "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T08:30:42",
+      "description": "Hundreds of forecourts have run out of petrol and diesel due to the protests involving slow-moving convoys",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48c5/live/a67f8d70-357c-11f1-8c7e-43c32073e8a3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T08:39:08.268092",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Is Defence Secretary Pete Hegseth waging a holy war against Iran?",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T09:47:00",
+      "description": "And his purge of top generals at the Pentagon",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T08:39:08.268095",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Is a 'Super El Ni\u00f1o' on the way and how will it affect the UK?",
       "link": "https://www.bbc.com/weather/articles/cj94nzj33m0o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-10T13:46:02",
@@ -5455,53 +5499,65 @@
       "archived_at": "2026-04-04T01:53:32.237481",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'Iran shoots down US jet' and 'race to find pilot'",
-      "link": "https://www.bbc.com/news/articles/cz903wjlejyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T00:51:23",
-      "description": "The downing of a US fighter jet in Iran and the search for its pilot dominates Saturday's papers.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69eb/live/0faa3ac0-2fb0-11f1-934f-036468834728.png",
-      "enclosure": null,
-      "archived_at": "2026-04-04T01:53:32.237483",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "After 16 years in power, can Viktor Orban finally be unseated?",
-      "link": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T23:04:24",
-      "description": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6409/live/d4812350-2d07-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T23:30:21.376843",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
-      "link": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T23:14:04",
-      "description": "As war drives up gas and fuel prices, Europeans turn again to the issue of energy independence.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c62b/live/2537b0e0-2f72-11f1-8612-f1cd1152f88c.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T23:30:21.376849",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Three charged over Jewish charity ambulance fires",
-      "link": "https://www.bbc.com/news/articles/cz0ey7z2jx3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T22:35:16",
-      "description": "Four Hatzola ambulances were set alight in the car park of a synagogue in Golders Green in the early hours of 23 March.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4099/live/2bd06e80-2fa7-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T22:44:31.874028",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Widow of British pensioner, 77, killed in Canary Islands bus crash was among the 27 passengers sent to hospital after suspected brake failure sent it plunging down ravine",
+      "link": "https://www.dailymail.co.uk/news/article-15724259/Widow-British-pensioner-77-killed-Canary-Islands-bus-crash-27-passengers-sent-hospital-suspected-brake-failure-sent-plunging-ravine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T08:36:42",
+      "description": "Regional health chiefs said late yesterday the unnamed woman remained at its state hospital.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814007-0-image-a-7_1775894709606.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814007-0-image-a-7_1775894709606.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T08:39:11.731954",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "A judge was told it 'WASN'T NECESSARY' for Julian to show his face in court. Then he murdered a mum, her unborn baby, friend and her aunt in a crime that appalled Australia",
+      "link": "https://www.dailymail.co.uk/news/article-15696919/Lake-Cargelligo-Julian-Ingram-domestic-violence-Sophie-Quinn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T08:26:13",
+      "description": "Julian Ingram, 37, appeared in Lake Cargelligo court on over allegations he stalked and assaulted his ex-girlfriend Sophie Quinn. Seven weeks later, she was dead.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/06/105819275-0-image-m-15_1775022289646.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/01/06/105819275-0-image-m-15_1775022289646.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T08:39:11.731959",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman died when she slipped from Good Samaritan's grip as he tried to save her from bridge fall after boyfriend row",
+      "link": "https://www.dailymail.co.uk/news/article-15724251/Woman-died-Good-Samaritans-grip-bridge-boyfriend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T08:15:29",
+      "description": "Emma Bundy had been at a Christmas party at the Sandy Park conference venue in Exeter when she had a drunken argument with her boyfriend over something a work colleague had said to her.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/08/107813953-0-image-m-27_1775893408350.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/08/107813953-0-image-m-27_1775893408350.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T08:39:11.731960",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bus surfing idiots risk their lives by clinging onto back of the Number 114 to avoid paying \u00a31.75 fare",
+      "link": "https://www.dailymail.co.uk/news/article-15724221/Bus-surfing-idiots-risk-lives-clinging-Number-114-avoid-paying-1-75-fare.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T08:01:10",
+      "description": "The pair were filmed clinging to the red double-decker as it reached speeds of 30mph, only detaching themselves when the Number 114 was forced to halt in traffic.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/08/107813787-0-image-m-10_1775892384862.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/08/107813787-0-image-m-10_1775892384862.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T08:39:11.731962",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "JD Vance arrives in Pakistan after Trump wishes him luck for 'make or break' peace talks that could end Iran war",
       "link": "https://www.dailymail.co.uk/news/article-15723845/JD-Vance-lands-Pakistan-peace-talks-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12445,65 +12501,37 @@
       "archived_at": "2026-04-08T22:35:40.009759",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Billionaire Reform donor moves back to the UK to help Nigel Farage build his war chest",
-      "link": "https://www.dailymail.co.uk/news/article-15717117/Billionaire-Reform-donor-moves-UK-help-Farage-build-war-chest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T21:42:38",
-      "description": "Ben Delo, one of Britain's youngest self-made billionaires, is coming home from Hong Kong to 'build a war chest' for Nigel Farage ahead of the next election.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753113-0-image-m-25_1775684422871.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753113-0-image-m-25_1775684422871.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T22:35:40.009761",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Urgent warning for Australians as a fast-spreading new flu strain strikes",
-      "link": "https://www.dailymail.co.uk/news/article-15717111/vaccine-warning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T21:26:06",
-      "description": "Slumping vaccination rates have left Australia unprepared for another significant flu season that's being worsened by a new fast-spreading strain.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752471-0-image-a-30_1775682649610.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752471-0-image-a-30_1775682649610.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351524",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "ONS staff win right to work from home all the time",
-      "link": "https://www.dailymail.co.uk/news/article-15717103/ONS-staff-win-right-work-home-time.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T21:19:48",
-      "description": "Staff at the quango threatened to go on strike after bosses told them they had to come in the office for two days a week.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752505-0-image-a-29_1775682641889.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752505-0-image-a-29_1775682641889.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351531",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Don't tell chatbots what you think as they will only agree with you, says PM's AI tsar",
-      "link": "https://www.dailymail.co.uk/news/article-15716403/Dont-tell-chatbots-you-think-agree-you-says-PMs-AI-tsar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T21:16:11",
-      "description": "Researchers have found that AI bots are more likely to echo a person's view if they state it, Jade Leung said.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/17/106237655-0-AI_is_unable_to_give_humans_better_health_advice_than_they_can_f-a-5_1775665106224.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/17/106237655-0-AI_is_unable_to_give_humans_better_health_advice_than_they_can_f-a-5_1775665106224.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351532",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Paul Pogba ends four-month injury absence with 20-minute cameo in Monaco's 4-1 defeat by Paris FC - as ex-Man United star makes fitness vow to club bosses",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15724253/Paul-Pogba-four-month-injury-absence-cameo-Monaco-ex-Man-United-fitness-vow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T08:16:15",
+      "description": "Speaking post-match, Pogba sought to offer reassurances that his niggling run of injuries are behind him and vowed to contribute as much as possible before the end of the season.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814081-0-image-a-22_1775895372149.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814081-0-image-a-22_1775895372149.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T08:39:13.367406",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Revealed: Joey Barton has 'lost weight' and joined the prison football team as podcast co-host lifts lid on ex-footballer's life behind bars while he awaits trial following alleged golf course attack",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15724211/Joey-Barton-lost-weight-prison-football-team-podcast-lifts-life-bars-awaits-trial-alleged-golf-course-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T08:20:52",
+      "description": "The 43-year-old has been in custody since March 10 when he appeared at Liverpool Magistrates' Court charged with assault occasioning grievous bodily harm.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/08/107009125-0-image-a-6_1775891930768.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/08/107009125-0-image-a-6_1775891930768.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T08:39:13.367416",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "What Roberto De Zerbi changed in his first 10 days at Tottenham: The new way of playing, why he's brought in longer training sessions and the six Spurs stars he's 'purring' over",
       "link": "https://www.dailymail.co.uk/sport/football/article-15721453/Roberto-Zerbi-Tottenham-changes-stars-purring.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
