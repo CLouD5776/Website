@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "More than 200 arrests at Palestine Action protest",
+      "link": "https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T17:48:44",
+      "description": "Event organisers said it would show the \"resistance\" to the ban on the group was \"stronger than ever\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f80e/live/312fbcb0-35b9-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T17:59:02.445368",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'Big punch in the face' - could Arsenal really blow title from here?",
       "link": "https://www.bbc.com/sport/football/articles/c4g5v6552l2o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T16:50:05",
@@ -5488,20 +5499,23 @@
       "archived_at": "2026-04-04T08:37:16.957348",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Five Met Police officers taken off duty after bag of weapons is left in the street",
-      "link": "https://www.bbc.com/news/articles/cjd8y33ze08o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T06:46:54",
-      "description": "A member of the public found the bag containing guns and a Taser on a south London street.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7511/live/2393de20-2dc0-11f1-b45a-13c2fd78bbe1.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T07:48:48.316161",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Did Trump win the Iran war? Voters reveal what they REALLY think of Operation Epic Fury as its sheer scope and eye-popping cost laid bare",
+      "link": "https://www.dailymail.co.uk/news/article-15719151/Did-Trump-win-Iran-war-Voters-reveal-REALLY-think-Operation-Epic-Fury-sheer-scope-eye-popping-cost-laid-bare.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T17:36:14",
+      "description": "Though Americans believe that the US has won its war against Iran , most say it was not worth starting at all.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/19/107803341-0-image-a-20_1775844386447.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/19/107803341-0-image-a-20_1775844386447.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T17:59:06.170331",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Mauritius vows to reclaim Chagos Islands after Starmer deal to hand them over collapsed due to Trump's opposition",
       "link": "https://www.dailymail.co.uk/news/article-15724959/Mauritius-reclaim-Chagos-Islands-Starmer-deal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12487,23 +12501,23 @@
       "archived_at": "2026-04-09T04:34:38.435718",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "NASA warns there is 'no plan B' as Artemis II crew faces most dangerous phase of the Moon mission",
-      "link": "https://www.dailymail.co.uk/sciencetech/article-15716547/nasa-artemis-ii-moon-mission-warning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T02:57:12",
-      "description": "NASA officials have warned there is effectively 'no plan B' if something goes wrong during the most dangerous phase of the Artemis II mission.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/18/107747655-0-image-a-8_1775670622756.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/18/107747655-0-image-a-8_1775670622756.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435720",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Shankland and Braga prove to be the perfect partners as Hearts leave it late to seal dramatic win over Motherwell",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15725037/Shankland-Braga-prove-perfect-partners-Hearts-leave-late-seal-dramatic-win-Motherwell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T17:55:47",
+      "description": "Hearts manager Derek McInnes should spend the next fortnight doing absolutely everything in his power to keep Lawrence Shankland and Claudio Braga as happy as possible.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107821415-0-image-a-37_1775929850212.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107821415-0-image-a-37_1775929850212.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T17:59:09.430913",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Arsenal star Viktor Gyokeres gives bizarre excuse about their own stadium for his huge miss in surprise defeat that may cost them in the Premier League title race",
       "link": "https://www.dailymail.co.uk/sport/football/article-15724875/Arsenal-Viktor-Gyokeres-Bournemouth-miss-Premier-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
