@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Is a 'Super El Ni\u00f1o' on the way and how will it affect the UK?",
+      "link": "https://www.bbc.com/weather/articles/cj94nzj33m0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T13:46:02",
+      "description": "El Ni\u00f1o is expected to develop later this year, but how strong will it be and what will this mean for the weather in the UK and around the world?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ac8/live/32d02b40-26dc-11f1-934f-036468834728.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T07:50:36.297518",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump administration unveils 250-foot 'Triumphal Arch' design",
+      "link": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T01:49:47",
+      "description": "The new arch, if approved, would be taller than the US Capitol building and the Lincoln Memorial.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72ec/live/6f2f3c30-356d-11f1-a6a2-19218019c16f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T07:50:36.297524",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Concerns after satellite provider restricts Iran images following US pressure",
       "link": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T05:40:51",
@@ -5477,31 +5499,23 @@
       "archived_at": "2026-04-03T22:44:31.874028",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Starmer's cost-of-living adviser calls for fuel duty cut extension",
-      "link": "https://www.bbc.com/news/articles/cy81g8ypz6do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T21:31:46",
-      "description": "Lord Walker suggests the government should keep the 5p cut in place due to increased costs caused by war in the Middle East.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c48/live/8b6ae1b0-2f9b-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T22:00:12.355883",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Saints pass stern Castres test to reach last eight",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/c070d4vk8g9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T21:32:40",
-      "description": "Northampton are given a stern examination of their Champions Cup credentials by impressive Castres but win an engrossing contest to reach the quarter-finals.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db6/live/0c5e6190-2fa4-11f1-a84d-a70cf943ddbd.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T22:00:12.355896",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "JD Vance arrives in Pakistan after Trump wishes him luck for 'make or break' peace talks that could end Iran war",
+      "link": "https://www.dailymail.co.uk/news/article-15723845/JD-Vance-lands-Pakistan-peace-talks-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T07:35:29",
+      "description": "Vance, special envoy Steve Witkoff and Jared Kushner are the 'good team' Donald Trump said he sent to Islamabad.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/08/107813749-0-image-a-4_1775891109318.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/08/107813749-0-image-a-4_1775891109318.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T07:50:39.852760",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Coroner accused of stealing valuables from the dead pleads no contest",
       "link": "https://www.dailymail.co.uk/news/article-15723899/coroner-stealing-dead-plea-los-angeles-california.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12485,20 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-08T21:38:21.351532",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Kemi Badenoch brands Keir Starmer 'all mouth and no trousers' on defence as he jets to the Gulf despite failing to produce vital plan for Britain's military",
-      "link": "https://www.dailymail.co.uk/news/article-15716651/Kemi-Badenoch-brands-Keir-Starmer-mouth-no-trousers-defence-jets-Gulf-despite-failing-produce-vital-plan-Britains-military.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T21:15:00",
-      "description": "Kemi\u00a0Badenoch has accused Sir Keir Starmer of posturing on the world stage over the Middle East war while failing to rearm Britain.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/18/107748021-0-image-a-5_1775670905824.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/18/107748021-0-image-a-5_1775670905824.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351534",
       "feed_category": "News",
       "feed_visibility": "both"
     }
