@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Woman, 19, killed in dog attack at house",
+      "link": "https://www.bbc.com/news/articles/cew78nrdykqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T12:34:37",
+      "description": "A man, 37, is arrested in relation to the incident and remains in custody, police say.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f33b/live/2c26d9f0-359c-11f1-9820-ed71f1e70be5.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T12:50:48.309049",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Record-breaking McIlroy plans to keep foot on the gas",
+      "link": "https://www.bbc.com/sport/golf/articles/cje419nwl8jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T00:51:52",
+      "description": "Defending champion Rory McIlroy says he plans to keep \"my foot on the gas\" after building a record six-shot halfway lead with a devastating second-round 65 at the Masters.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/969c/live/948ed870-353e-11f1-af9c-5fc2eeea5c0e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T12:50:48.309064",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Eamonn Holmes recovering in hospital after stroke",
       "link": "https://www.bbc.com/news/articles/c8r4mvyrdl3o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T11:23:25",
@@ -5477,31 +5499,65 @@
       "archived_at": "2026-04-04T05:38:58.030806",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'Shell of a fighter' - Chisora v Wilder predictions",
-      "link": "https://www.bbc.com/sport/boxing/articles/cy81n4p4jlpo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T05:13:29",
-      "description": "Figures from the boxing world give their predictions for Saturday's heavyweight battle between Derek Chisora and Deontay Wilder.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ffd/live/1bc28470-2f83-11f1-a6f5-1188a52986a4.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T05:38:58.030812",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Fake tan disasters & living two lives - inside the camp of a world champ",
-      "link": "https://www.bbc.com/sport/boxing/videos/c3ex5x75p7do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T05:20:28",
-      "description": "World boxing champion Lauren Price says the structure in her life gives her the \"confidence\" to win.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6888/live/d4a4b400-2dcf-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T05:38:58.030814",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Iran peace talks now underway as Trump says America is about to be 'loaded up with oil'... and mentions 'alternatives' to blockaded Strait of Hormuz",
+      "link": "https://www.dailymail.co.uk/news/article-15724531/Iran-peace-talks-underway-Trump-says-America-loaded-oil-mentions-alternatives-blockaded-Strait-Hormuz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T12:44:13",
+      "description": "President Donald Trump has declared that ships across the globe are heading to the United States to 'load up with oil', while revealing that official talks with Iran have commenced.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/13/107815795-0-image-a-5_1775910818259.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/13/107815795-0-image-a-5_1775910818259.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T12:50:51.609297",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman, 19, dies after dog attack as man, 37, is arrested for being in charge of out-of-control animal",
+      "link": "https://www.dailymail.co.uk/news/article-15724529/Woman-19-dies-dog-attack-man-37-arrested-charge-control-animal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T12:35:16",
+      "description": "Police were called to an address in the village near Great Dunmow at around 10.45pm on Friday, where they found the teenager with serious injuries.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/13/107816487-0-image-m-10_1775910297079.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/13/107816487-0-image-m-10_1775910297079.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T12:50:51.609306",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Keir Starmer is prioritising benefits over bullets and it is a national scandal he still hasn't published defence plans, Kemi Badenoch says",
+      "link": "https://www.dailymail.co.uk/news/article-15724453/Keir-Starmer-prioritising-benefits-bullets-national-scandal-published-defence-plans-Kemi-Badenoch-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T12:29:18",
+      "description": "he Conservative leader said that the government was 'woefully unprepared' to defend the UK and had 'no plan' to defend Britain.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/13/107816273-0-image-m-14_1775909976032.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/13/107816273-0-image-m-14_1775909976032.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T12:50:51.609309",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Dramatic moment Strike Force Raptor cops takedown a suspect on the side of a busy highway after chaotic car chase",
+      "link": "https://www.dailymail.co.uk/news/article-15724269/car-chase-Wentworthville-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T12:07:56",
+      "description": "Three men have been arrested following a high-speed car chase on Saturday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/12/107814443-0-image-m-5_1775908578943.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/12/107814443-0-image-m-5_1775908578943.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T12:50:51.609312",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Racegoers show some Grand style as they get dressed up ahead of the National at Aintree in horse racing's biggest event of the year",
       "link": "https://www.dailymail.co.uk/news/article-15724395/Racegoers-Grand-style-dressed-National-Aintree-horse-racing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12443,62 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-09T01:56:38.638586",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Penny Wong issues urgent warning to Israel as devastating Lebanon attacks trigger new oil crisis fears",
-      "link": "https://www.dailymail.co.uk/news/article-15717381/penny-wong-israel-lebanon-ceasefire-iran-oil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T00:39:33",
-      "description": "Israel says it has carried out its largest wave of strikes against Lebanon since the start of the war, leaving at least 250 people dead, according to local authorities.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755345-0-image-a-40_1775691102712.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755345-0-image-a-40_1775691102712.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T01:56:38.638588",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why this popular Sydney bar was forced to close its doors on one of its busiest nights",
-      "link": "https://www.dailymail.co.uk/news/article-15717311/sydney-bar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T00:21:51",
-      "description": "The owner of a popular Sydney bar has blasted developers for their 'contempt and disregard' after the bar\u00a0was forced to close its doors.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755905-0-image-a-30_1775692197514.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755905-0-image-a-30_1775692197514.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T01:56:38.638589",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Spring Break horror as three high school students killed with one fighting for life after fiery crash",
-      "link": "https://www.dailymail.co.uk/news/article-15717143/Spring-Break-car-crash-students-killed-Georgia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T00:16:45",
-      "description": "Jackson Mobley, 18, Jaylyn Fehr, 17, and Charlotte Martin, 16, lost their lives on Monday while en route to St George Island. The teens were students at Horizon Christian Academy.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/00/107754093-0-image-m-20_1775691008961.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/00/107754093-0-image-m-20_1775691008961.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T01:56:38.638591",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "First person charged under Queensland's new hate speech laws faces court: What he said that got him in big trouble",
-      "link": "https://www.dailymail.co.uk/news/article-15717273/Liam-Parry-charged-Queensland-hate-speech-laws.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T00:12:46",
-      "description": "Liam Parry is the first person charged under Queensland's new hate speech laws.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/00/107754801-0-image-a-6_1775690916266.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/00/107754801-0-image-a-6_1775690916266.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T01:56:38.638592",
       "feed_category": "News",
       "feed_visibility": "both"
     }
