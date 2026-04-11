@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Watch: Beirut residents deal with aftermath of deadly Israeli attacks",
+      "link": "https://www.bbc.com/news/videos/c0rx4ve0klyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T10:10:05",
+      "description": "BBC Middle East Correspondent Hugo Bachega hears from people affected by this week's attacks.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66e/live/c056c720-357e-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T10:30:35.432311",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man charged over deaths of four people who drowned crossing Channel",
+      "link": "https://www.bbc.com/news/articles/cy519pv15lyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T10:28:23",
+      "description": "A man is charged over the deaths of two men and two women who drowned trying to cross the Channel on Thursday.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a760/live/374b5220-358d-11f1-a435-63ce6dcfbc51.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T10:30:35.432316",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Artemis crew home safely after completing historic mission to the Moon",
       "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T07:53:46",
@@ -5477,31 +5499,51 @@
       "archived_at": "2026-04-04T01:53:32.237477",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Power-washing, pool-cleaning and mowing: Why millions are playing games about mundane jobs",
-      "link": "https://www.bbc.com/news/articles/cj60r2kdnw1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T00:03:41",
-      "description": "PowerWash Simulator 2 has been nominated for two Bafta Games Awards - but why have mundane job games become so popular?",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c0/live/dc9b1bc0-2dd6-11f1-a79a-77e93010d956.png",
-      "enclosure": null,
-      "archived_at": "2026-04-04T01:53:32.237479",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "What not to say to a friend who is struggling to conceive",
-      "link": "https://www.bbc.com/news/articles/cvgk8yxxkvpo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T00:06:50",
-      "description": "People struggling to conceive say friends and family often make well-meaning but insensitive comments about their infertility.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6633/live/f03b1b40-2c4f-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T01:53:32.237481",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "TV gardening hunk Henry Agg reveals how he turned to the soil to become best-selling author after five friends killed themselves and he suffered emotional breakdown",
+      "link": "https://www.dailymail.co.uk/news/article-15724301/Henry-Agg-author-five-friends-suicide-emotional-breakdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T10:21:34",
+      "description": "The former recruiter, who left his job as part of an 'emotional breakdown' which saw him turn to gardening, said the first of his friends to die by suicide did so when Agg was in his twenties.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/11/107815131-0-image-m-11_1775902387699.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/11/107815131-0-image-m-11_1775902387699.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T10:30:38.788424",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chilling 'Merino Mafia' theory emerges after a sheep farmer Richard Wills was found in a shallow grave two days after kissing his wife goodbye before work",
+      "link": "https://www.dailymail.co.uk/news/article-15724215/Ouyen-Merino-Mafia-theory-Richard-Wills-dead.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T10:12:12",
+      "description": "The remains of 65-year-old Richard Wills were found on his farm on Tuesday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814245-0-image-m-39_1775897042320.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814245-0-image-m-39_1775897042320.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T10:30:38.788429",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Qantas flight bound for Perth is forced to make a dramatic landing after passengers and crew notice a strange smell",
+      "link": "https://www.dailymail.co.uk/news/article-15724327/Qantas-plane-landing-strange-smell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T10:08:58",
+      "description": "Qantas flight QF857 was forced to make a priority landing in Adelaide after a strong smell was detected on board.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/11/107814907-0-image-a-10_1775901922191.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/11/107814907-0-image-a-10_1775901922191.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T10:30:38.788431",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Mystery over how teens drove off M1 bridge in crash that killed the pair as images show how minibus was struck by car in thousand-to-one twist of fate",
       "link": "https://www.dailymail.co.uk/news/article-15724307/Two-teenagers-die-car-plunges-bridge-minibus-motorway-Easter-holiday-pile-closed-motorway.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12459,51 +12501,37 @@
       "archived_at": "2026-04-08T23:35:00.322795",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Catastrophic photo op that threatens Meghan's frail empire. If this happens on the Australia 'tour', it's game over for Brand Sussex: CANDACE SUTTON",
-      "link": "https://www.dailymail.co.uk/news/article-15711275/Catastrophic-photo-op-threatens-Meghans-frail-empire-happens-Australia-tour-game-Brand-Sussex-CANDACE-SUTTON.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T23:02:17",
-      "description": "The prospect of Meghan smiling for a photograph alongside a woman who has propagated such vituperative claims represents a glaring reputational risk for the Duchess.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/02/107728367-0-image-a-12_1775610476085.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/02/107728367-0-image-a-12_1775610476085.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T23:35:00.322798",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Reluctant war backer JD Vance faces Republican crossfire as he's tapped to lead peace talks with Iran",
-      "link": "https://www.dailymail.co.uk/news/article-15716969/JD-Vance-Republican-crossfire-iran-war-negotiations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T23:02:03",
-      "description": "Vice President JD Vance is facing Republican crossfire as he's tapped by President Donald Trump to lead peace talks with Iran this weekend.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753923-0-image-a-38_1775687192301.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/23/107753923-0-image-a-38_1775687192301.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T23:35:00.322799",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The Morning Poll: Who is the biggest winner from the Iran War?",
-      "link": "https://www.dailymail.co.uk/news/article-15715845/The-Morning-Poll-biggest-winner-Iran-War.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T23:01:33",
-      "description": "The Morning Poll: Who is the biggest winner from the Iran War?",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/14/107742107-0-image-a-4_1775656375847.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/14/107742107-0-image-a-4_1775656375847.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T23:35:00.322800",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Real Madrid fume as Kylian Mbappe is left bloodied after being struck during dire draw with Girona - but NO penalty is given as Alvaro Arbeloa's struggles continue",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15724279/Real-Madrid-fume-Kylian-Mbappe-bloodied-draw-Girona-NO-penalty-Alvaro-Arbeloa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T09:42:33",
+      "description": "Mbappe had been left bloodied in the face by the collision, with the Real Madrid star requiring treatment above his right eye after being hit by Reis' elbow.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814237-0-image-a-24_1775896307456.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814237-0-image-a-24_1775896307456.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T10:30:40.055703",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arsenal vs Bournemouth - Premier League LIVE: Latest score, team news and updates as Gunners refocus on title charge as they host the Cherries at the Emirates",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15709439/Arsenal-vs-Bournemouth-2025-25-Premier-League-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T10:28:14",
+      "description": "Follow Daily Mail Sport's live blog for the latest score, team news and updates as Arsenal host Bournemouth at the Emirates in the Premier League.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/10/107789571-0-image-a-17_1775811853794.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/10/107789571-0-image-a-17_1775811853794.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T10:30:40.055712",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Paul Pogba ends four-month injury absence with 20-minute cameo in Monaco's 4-1 defeat by Paris FC - as ex-Man United star makes fitness vow to club bosses",
       "link": "https://www.dailymail.co.uk/sport/football/article-15724253/Paul-Pogba-four-month-injury-absence-cameo-Monaco-ex-Man-United-fitness-vow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19481,6 +19509,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Odessa A'zion stars in The Rolling Stones' new music video",
+      "link": "https://www.music-news.com/news/UK/188279/Odessa-A-zion-stars-in-The-Rolling-Stones-new-music-video",
+      "pubDate": "2026-04-11T09:00:00",
+      "description": "The Rolling Stones have hired Odessa A'zion to appear in their new music video.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188279.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188279.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T10:30:43.837086",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Violet Grohl isn't bothered by 'nepo baby' label",
+      "link": "https://www.music-news.com/news/UK/188278/Violet-Grohl-isn-t-bothered-by-nepo-baby-label",
+      "pubDate": "2026-04-11T09:00:00",
+      "description": "Violet Grohl insists she's not concerned by the nepo baby tag.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188278.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188278.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T10:30:43.837091",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Halle Bailey intends to make music with sister 'until the end of time'",
       "link": "https://www.music-news.com/news/UK/188275/Halle-Bailey-intends-to-make-music-with-sister-until-the-end-of-time",
