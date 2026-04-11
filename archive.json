@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Coachella kicks off with Sabrina Carpenter and surprise guests",
+      "link": "https://www.bbc.com/news/articles/cpwjnvrpn8eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T15:45:05",
+      "description": "The festival in California was also forced to cancel a set by DJ Anyma on Friday because of strong winds.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8a/live/54b67970-35ba-11f1-abb0-49ba9f510e0d.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T15:59:17.049068",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "England beat Ireland in front of record Women's Six Nations crowd",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cpqx48gwgrxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T15:24:01",
+      "description": "England open title defence with comfortable win over Ireland in front of a record Women's Six Nations crowd of 77,120 at Allianz Stadium.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44f/live/63d21410-35b9-11f1-abb0-49ba9f510e0d.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T15:59:17.049077",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Two teenagers die in M1 crash as 'car leaves bridge'",
       "link": "https://www.bbc.com/news/articles/cdrme3j88k7o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T13:37:42",
@@ -5477,31 +5499,93 @@
       "archived_at": "2026-04-04T07:48:48.316176",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'I started running at 70 after daughter's death'",
-      "link": "https://www.bbc.com/news/articles/c0mjrzer81do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-02T05:22:36",
-      "description": "A 74-year-old grandfather is set to run three marathons in 14 days in memory of his daughter.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6681/live/b59c95d0-2db3-11f1-927b-f98ec5617a78.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T07:48:48.316178",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Highland cows moved over viral TikTok visitor surge",
-      "link": "https://www.bbc.com/news/articles/cjw8vz1jze0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T05:12:18",
-      "description": "The cows have been moved from Hothfield Heathland after unheeded warnings, Kent Wildlife Trust says.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80fe/live/3e218bd0-1c85-11f1-a7bf-efb6e72f87e6.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T07:48:48.316179",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Council will take down Union and St George's flags citing safety fears - and say they will pursue the people who put them up for costs of their removal",
+      "link": "https://www.dailymail.co.uk/news/article-15724763/Council-Union-St-Georges-flags-citing-safety-fears-pursue-people-costs-removal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:56:03",
+      "description": "Shropshire Council said that it supports and 'does not prohibit' residents from expressing their British patriotism and added that it recognises the flag as a 'national emblem'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/16/107819203-0-image-a-80_1775922660300.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/16/107819203-0-image-a-80_1775922660300.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:59:20.478284",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Son and daughter-in-law of Iran's notorious propaganda boss who were caught living luxury life in Los Angeles are ARRESTED",
+      "link": "https://www.dailymail.co.uk/news/article-15724695/Irans-notorious-propaganda-boss-luxury-life-Los-Angeles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:53:49",
+      "description": "In a major blow to the Iranian regime's elite, federal agents have arrested three Iranian nationals in Los Angeles.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/16/107818257-0-Iranian_vice_president_for_women_s_and_family_affairs_Masoumeh_E-a-19_1775920399554.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/16/107818257-0-Iranian_vice_president_for_women_s_and_family_affairs_Masoumeh_E-a-19_1775920399554.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:59:20.478291",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Robber looking to steal tracksuits is arrested after security tag on stolen outfit he was already wearing trips alarm",
+      "link": "https://www.dailymail.co.uk/news/article-15724743/Robber-arrested-security-tag-stolen-outfit-alarm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:46:49",
+      "description": "Bradley Carney, 28, walked into a Middlesbrough branch of JD Sports in an attempt to steal clothing but was wearing stolen Hugo Boss items with a security tag attached.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/16/107818419-0-image-m-9_1775920025236.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/16/107818419-0-image-m-9_1775920025236.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:59:20.478294",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Behind the smiles, the very grim truth about Savannah Guthrie's Today show return: Tears, co-host tensions... and NBC's three secret code words that could upend her life",
+      "link": "https://www.dailymail.co.uk/news/article-15716933/savannah-guthrie-today-nbc-code-words.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:45:54",
+      "description": "'It's good to be back home.' Those are the words that Savannah Guthrie shared in her first moments back co-hosting NBC's The Today Show on Monday, after spending nearly two months off air.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/20/107778455-0-image-a-36_1775762097654.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/20/107778455-0-image-a-36_1775762097654.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:59:20.478296",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Terrified small-town residents say they're a sitting duck for a TSUNAMI... as they beg for protection 'before it's too late'",
+      "link": "https://www.dailymail.co.uk/news/article-15724473/ocean-shores-washington-tsunami-tower-risks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:45:05",
+      "description": "A small retiree town in Washington is under threat of being devastated by a potential tsunami, but they don't have the funds to build the protections they desperately need.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/14/107817285-0-image-m-33_1775915297463.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/14/107817285-0-image-m-33_1775915297463.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:59:20.478297",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Dark marriage secrets of Democrat rising star found murdered in ritzy Florida home\u2026 and her husband's truly disturbing behavior after her death",
+      "link": "https://www.dailymail.co.uk/news/article-15704457/democrat-vice-mayor-murdered-florida-coral-springs-nancy-metayer-bowen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:35:13",
+      "description": "The murder of a Democrat politician has rocked the upscale gated community in Florida where she lived with her radiologist husband. Now, the Daily Mail can share new unsettling new details...",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/15/107743189-0-image-a-6_1775658527170.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/15/107743189-0-image-a-6_1775658527170.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:59:20.478298",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Alleged arsonist who 'filmed himself setting FIRE to warehouse full of people' causing $500m in damage says he was inspired by Luigi Mangione",
       "link": "https://www.dailymail.co.uk/news/article-15724465/alleged-arsonist-fire-warehouse-luigi-mangione-comparison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12417,93 +12501,37 @@
       "archived_at": "2026-04-09T04:34:38.435733",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "EDEN CONFIDENTIAL: Pop Paloma's very non-PC ruse after her royal faux pas",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15716875/EDEN-CONFIDENTIAL-Pop-Palomas-non-PC-ruse-royal-faux-pas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T23:42:20",
-      "description": "Pop star Paloma Faith has revealed that her conversation with the Princess of Wales went so horrifically wrong that she used a disabled friend as an excuse to escape.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/20/107749719-0-image-m-31_1775676026943.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/20/107749719-0-image-m-31_1775676026943.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435735",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "ANDREW NEIL: Why Iran was personal for Trump... and why his 'little excursion' has the hallmarks of being the disastrous defining act of his presidency - one that will haunt him for the rest of his life",
-      "link": "https://www.dailymail.co.uk/debate/article-15716945/ANDREW-NEIL-Iran-personal-Trump-little-excursion-hallmarks-disastrous-defining-act-presidency-one-haunt-rest-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T23:41:28",
-      "description": "I'm a genius,' President Trump claimed early in his first term - adding for good measure, as if to reassure us, 'a very stable genius'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/20/107750623-0-image-m-64_1775678045413.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/20/107750623-0-image-m-64_1775678045413.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435736",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Heartbreaking new details about Catherine O'Hara's final days revealed by her brother",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15717015/catherine-ohara-final-days-los-angeles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T23:07:17",
-      "description": "Hollywood was in a state of mourning after Catherine died on January 30 at the age of 71 from a pulmonary embolism with rectal cancer being the underlying cause.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753371-0-image-m-38_1775684781578.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107753371-0-image-m-38_1775684781578.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435737",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Angela Rippon, 81, says she has been the victim of two muggings in London which saw her 'kicked in the head' and 'threatened with broken fingers' if she didn't hand over jewellery",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15716931/Angela-Rippon-victim-two-muggings-London-kicked-head.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T21:38:19",
-      "description": "The broadcaster, 81, who was robbed twice between 2000 and 2001, said she feared being attacked if she failed to hand over her items.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/21/107752031-0-image-a-25_1775681583879.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/21/107752031-0-image-a-25_1775681583879.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435738",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Theatre and TV star Michael Patrick, 35, dies after battle with motor neurone disease",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15716951/Game-Thrones-Blue-Lights-actor-Michael-Patrick-35-dies-battle-motor-neurone-disease.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T21:36:45",
-      "description": "The actor, from Belfast, was diagnosed with the illness in February 2023 and died on Tuesday at Northern Ireland Hospice where he had been admitted ten days earlier.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752411-0-image-a-15_1775682580789.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752411-0-image-a-15_1775682580789.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435739",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Richard Osman criticises Noughties TV producers for defending their disturbing reality shows and insists they 'knew what right and wrong was' as he reveals which hugely popular series he devised",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15716549/Richard-Osman-criticises-Noughties-producers-disturbing-reality-shows.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T20:16:42",
-      "description": "The broadcaster discussed his own work in the industry following the release of Netflix's three-part docuseries which shined new light on America's Next Top Model.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/19/107748439-0-image-a-1_1775672023032.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/19/107748439-0-image-a-1_1775672023032.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435741",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "'A punch in the face': Mikel Arteta admits his 'strange' Arsenal team suffered major blow to their title hopes after disappointing defeat against Bournemouth",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15724783/A-punch-face-Mikel-Arteta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:29:56",
+      "description": "The Gunners remain nine points clear at the top, but have played two more games than Manchester City, who face Chelsea on Sunday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/16/107818587-0-image-a-58_1775920563704.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/16/107818587-0-image-a-58_1775920563704.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:59:22.832804",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Liverpool vs Fulham - Premier League LIVE: Latest score, team news and updates as Arne Slot makes Mohamed Salah decision as Reds look to return to winning ways",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15709445/Liverpool-vs-Fulham-Premier-League-2025-26-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:52:13",
+      "description": "Follow Daily Mail Sport's live blog for the latest score, team news and updates as Liverpool welcome Fulham to Anfield in the Premier League, with Lewis Steele reporting from the grounds.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/10/107790355-0-image-a-6_1775813981858.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/10/107790355-0-image-a-6_1775813981858.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:59:22.832815",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Arsenal Fan TV in MELTDOWN after title slip up: Gooner says Mikel Arteta 'is in final weeks' of his reign as nervous team are BOOED by their own supporters following third defeat in four games",
       "link": "https://www.dailymail.co.uk/sport/football/article-15724679/Arsenal-fans-meltdown-Premier-League-title-charge-slip-AFTV-Mikel-Arteta-final-weeks-reign-BOOED-supporters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
