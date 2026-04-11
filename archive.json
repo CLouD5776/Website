@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "'The older I get, the more I enjoy it' - Mullins etches name in Aintree folklore",
+      "link": "https://www.bbc.com/sport/horse-racing/articles/cj40llvykz2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T18:28:55",
+      "description": "It is a Grand National to savour for Irish trainer Willie Mullins as he celebrates his third consecutive victory in the race at Aintree - equalling the record set by legendary trainer Vincent O'Brien.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d404/live/6bc16400-35cd-11f1-aa65-43b95e4e356e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T18:56:29.291585",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "England far from perfect but Red Roses machine marches on",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cn8d1ejd727o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T18:12:25",
+      "description": "England star Ellie Kildunne says a record Women's Six Nations crowd of 77,120 at Allianz Stadium against Ireland is now becoming \"the norm\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e77/live/33ccf040-35ce-11f1-aa65-43b95e4e356e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T18:56:29.291590",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "More than 200 arrests at Palestine Action protest",
       "link": "https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T17:48:44",
@@ -5477,31 +5499,121 @@
       "archived_at": "2026-04-04T10:29:36.440214",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Ex-England defender Trippier to leave Newcastle",
-      "link": "https://www.bbc.com/sport/football/articles/cgj0y8zvl21o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T10:00:55",
-      "description": "Kieran Trippier is to leave Newcastle United when the defender's contract expires this summer.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e4c/live/d94f0730-3009-11f1-8972-b3708b7027f3.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T10:29:36.440216",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "How former Liverpool prospect found love for football again",
-      "link": "https://www.bbc.com/sport/football/articles/cd7j8wn59pno?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T07:07:25",
-      "description": "After 18 years at Liverpool, Tyler Morton tells BBC Sport how moving to Lyon in the summer has helped him fall back in love with football.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d5e/live/f8cb0ad0-2f3e-11f1-91cb-cd1f5e51ebfd.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T08:37:16.957348",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "It's an idyllic, private island fit for a king and even comes with its own helicopter hangar... but to call Eilean Righ home it'll cost at least \u00a310 million",
+      "link": "https://www.dailymail.co.uk/news/article-15724997/Its-idyllic-private-island-fit-king-comes-helicopter-hangar-call-Eilean-Righ-home-itll-cost-10-million.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T18:38:44",
+      "description": "It's an idyllic, private island fit for a king and even comes with its own helicopter hangar and shooting range.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107819819-0-image-m-32_1775927543604.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107819819-0-image-m-32_1775927543604.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T18:56:32.744222",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I need time to rebuild my life and freezing eggs lets me do that... ex-A Place in the Sun presenter Danni Menzies reflects on new life in US",
+      "link": "https://www.dailymail.co.uk/news/article-15724941/I-need-time-rebuild-life-freezing-eggs-lets-ex-Place-Sun-presenter-Danni-Menzies-reflects-new-life-US.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T18:37:44",
+      "description": "Scots TV star Danni Menzies has revealed she will freeze her eggs one more time before turning forty as she celebrated relocating to the States during New York's Dressed to Kilt event.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107819803-0-image-m-12_1775927055462.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107819803-0-image-m-12_1775927055462.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T18:56:32.744227",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Russia 'violates Putin-declared ceasefire' with wave of drone strikes on Ukraine - despite Moscow and Kyiv both signalling end of war is near",
+      "link": "https://www.dailymail.co.uk/news/article-15725051/Russia-violates-Putin-ceasefire-wave-drone-strikes-Ukraine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T18:37:38",
+      "description": "Russia has violated a Kremlin-declared Easter ceasefire after it attacked Ukrainian positions with drones today.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107821361-0-image-m-15_1775930003818.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107821361-0-image-m-15_1775930003818.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T18:56:32.744229",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'White privilege' doesn't exist for working class boys, says Scottish Labour leader Anas Sarwar",
+      "link": "https://www.dailymail.co.uk/news/article-15724867/White-privilege-working-class-boys-Anas-Sarwar-Labour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T18:36:35",
+      "description": "Scottish Labour leader Anas Sarwar said young males living in deprived areas such as Glasgow  do not enjoy any more advantages in life because of the colour of their skin.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107821333-0-image-m-13_1775930097108.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107821333-0-image-m-13_1775930097108.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T18:56:32.744230",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Staggering 3000 mould and water faults reported in just TWO YEARS at Scotland's scandal-hit \u00a31billion superhospital",
+      "link": "https://www.dailymail.co.uk/news/article-15725031/Staggering-3000-mould-water-faults-reported-just-TWO-YEARS-Scotlands-scandal-hit-1billion-superhospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T18:18:16",
+      "description": "More than 3,000 faults linked to mould and water leaks have been reported at Scotland's scandal-hit \u00a31 billion superhospital in the past two years, The Mail on Sunday can reveal.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107821051-0-image-a-51_1775928447950.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107821051-0-image-a-51_1775928447950.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T18:56:32.744232",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "McBlob! Taxpayers footing bill as Scotland's bloated army of civil servants swells to 28,000",
+      "link": "https://www.dailymail.co.uk/news/article-15725079/McBlob-Taxpayers-footing-bill-Scotlands-bloated-army-civil-servants-swells-28-000.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T18:13:35",
+      "description": "Taxpayers are funding a 'bloated' civil service that now employs a staggering 28,000 people, the Mail on Sunday can reveal.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107821253-0-image-a-76_1775929135226.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107821253-0-image-a-76_1775929135226.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T18:56:32.744233",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Councillor who defended SNP sex predator Jordan Linden to be probed by college bosses",
+      "link": "https://www.dailymail.co.uk/news/article-15724991/Councillor-defended-SNP-sex-predator-Jordan-Linden-probed-college-bosses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T18:11:20",
+      "description": "A college is probing two complaints against a councillor who claimed the only thing SNP sex predator Jordan Linden was guilty of was 'being a young person'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107820843-0-image-a-41_1775928067224.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107820843-0-image-a-41_1775928067224.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T18:56:32.744234",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Grieving daughters of woman 'infected by pigeon droppings' call for urgent safety upgrades at \u00a31bn hospital",
+      "link": "https://www.dailymail.co.uk/news/article-15725047/Grieving-daughters-woman-infected-pigeon-droppings-call-urgent-safety-upgrades-1bn-hospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T18:09:05",
+      "description": "The grieving daughters of a woman who died after contracting a bug linked to pigeon droppings have urged the NHS to come clean on the safety of Glasgow 's superhospital.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107820327-0-image-a-60_1775928799920.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107820327-0-image-a-60_1775928799920.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T18:56:32.744236",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Did Trump win the Iran war? Voters reveal what they REALLY think of Operation Epic Fury as its sheer scope and eye-popping cost laid bare",
       "link": "https://www.dailymail.co.uk/news/article-15719151/Did-Trump-win-Iran-war-Voters-reveal-REALLY-think-Operation-Epic-Fury-sheer-scope-eye-popping-cost-laid-bare.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12389,121 +12501,51 @@
       "archived_at": "2026-04-09T06:19:45.839640",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Trump eyes ultimate revenge on NATO allies who failed to support Iran war as concern grows amid tenuous peace plan",
-      "link": "https://www.dailymail.co.uk/news/article-15717695/Trump-plans-ultimate-revenge-NATO-countries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T05:38:02",
-      "description": "Donald Trump is considering a potential revenge scheme against NATO allies that refused to support the war against Iran that would see troops moved to nations that backed the strikes.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/05/107759853-0-image-m-36_1775710092888.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/05/107759853-0-image-m-36_1775710092888.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T06:19:45.839642",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussie is forced into humiliating act every day after his NDIS is suddenly CANCELLED - as he desperately launches a fundraiser to find the money himself",
-      "link": "https://www.dailymail.co.uk/news/article-15717711/Jolly-Duong-humiliating-NDIS-cancelled-funding.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T05:33:03",
-      "description": "An Aussie who was left unable to walk again after an accident has suddenly had his NDIS funding cancelled.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/05/107759423-0-image-m-88_1775710714748.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/05/107759423-0-image-m-88_1775710714748.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T06:19:45.839643",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Andrew Hastie breaks silence on Ben Roberts-Smith - revealing he may be called to TESTIFY against him",
-      "link": "https://www.dailymail.co.uk/news/article-15717729/Andrew-Hastie-Ben-Roberts-Smith-trial.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T05:27:57",
-      "description": "A senior Liberal MP has dropped a bombshell, revealing he could be called to the witness stand in the looming criminal trial of Ben Roberts\u2011Smith.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/05/107759245-0-image-a-4_1775707852679.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/05/107759245-0-image-a-4_1775707852679.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T06:19:45.839644",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I can't believe I'm saying this about Anthony Albanese - but he finally got something right: PETER VAN ONSELEN",
-      "link": "https://www.dailymail.co.uk/news/article-15717721/anthony-albanese.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T05:18:41",
-      "description": "Anthony Albanese hasn't suddenly become a great prime minister - but he has done something right, writes Peter Van Onselen",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/05/107759697-0-image-a-9_1775709347060.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/05/107759697-0-image-a-9_1775709347060.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T06:19:45.839645",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Urgent manhunt launched after convicted rapist escapes custody in western Sydney",
-      "link": "https://www.dailymail.co.uk/news/article-15717807/Michael-Angok-manhunt-Sydney.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T05:14:47",
-      "description": "Michael Angok was sentenced to prison for sexual assault in 2014.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/05/107759905-0-image-m-12_1775710328246.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/05/107759905-0-image-m-12_1775710328246.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T06:19:45.839647",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Police offer up a major reward for notorious cold case murder that's haunted a quiet seaside town for decades",
-      "link": "https://www.dailymail.co.uk/news/article-15717511/police-reward-harmony-bryant-murder-bonny-hills.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T04:51:21",
-      "description": "Police have not given up hope on finding out what happened to Harmony Bryant, 26, who was found in bushland near Bonny Hills on the NSW Mid North Coast in 2003.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/04/107756681-0-image-m-72_1775704412843.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/04/107756681-0-image-m-72_1775704412843.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T06:19:45.839648",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woman jumps into ocean to save drowning man only to later learn he's wanted for double murder",
-      "link": "https://www.dailymail.co.uk/news/article-15717125/Woman-jumps-ocean-save-drowning-man-later-learn-hes-wanted-double-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T04:09:24",
-      "description": "A woman was walking along a beach in Florida when she heard a man yelling for help. He was later identified as Jesse Scott Ellis, who allegedly killed his wife and her lover.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/02/107755133-0-Jesse_Ellis_64_allegedly_shot_and_killed_his_wife_of_13_years_an-a-16_1775698222877.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/02/107755133-0-Jesse_Ellis_64_allegedly_shot_and_killed_his_wife_of_13_years_an-a-16_1775698222877.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435713",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Shannen Doherty's ex-husband Ashley Hamilton hospitalized after 'apparent overdose'",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15717283/shannen-doherty-ex-husband-ashley-hamilton-hospitalized-apparent-overdose.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T03:37:05",
-      "description": "Hamilton, 51, whose parents are actor George Hamilton and model Alana Stewart, is said to be in the process of recovery and is in stable condition at the hospital.",
-      "thumbnail": "https://i.dailymail.co.uk/1/2026/04/09/00/107755519-0-image-a-11_1775690916483.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1/2026/04/09/00/107755519-0-image-a-11_1775690916483.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435718",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Liverpool 2-0 Fulham: Rio Ngumoha, 17, shows Reds fans a tantalising glimpse of the future - as Mohamed Salah recalls former glories to fire up his farewell tour, writes LEWIS STEELE",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15713141/Liverpool-Fulham-Rio-Ngumoha-Mo-Salah-Premier-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T18:44:26",
+      "description": "LEWIS STEELE AT ANFIELD: Liverpool eased pressure on boss Arne Slot with a first league win in six weeks thanks to a goal from a departing king and another from a prince with eyes on the throne.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/19/107822153-0-image-a-14_1775932752669.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/19/107822153-0-image-a-14_1775932752669.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T18:56:34.122877",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fulham eye move for \u00a330m Harry Wilson replacement - as THREE Premier League rivals target exiting free agent",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15725213/Fulham-Harry-Wilson-replacement-Malik-Tillman-Bayer-Leverkusen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T18:22:25",
+      "description": "SIMON JONES: The Cottagers are looking for options as Harry Wilson is poised to leave at the end of the season as a free agent.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821895-0-image-a-15_1775931493781.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821895-0-image-a-15_1775931493781.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T18:56:34.122884",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Oxlade-Chamberlain provides the star quality as Celtic grind out win over St Mirren to keep their title hopes alive",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15725179/Oxlade-Chamberlain-provides-star-quality-Celtic-grind-win-St-Mirren-title-hopes-alive.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T18:06:06",
+      "description": "On a day when anything less than all three points was simply unthinkable from a Celtic perspective, Martin O'Neill's players scrambled their way to a victory which keeps their title defence alive.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821509-0-image-a-49_1775930527539.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821509-0-image-a-49_1775930527539.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T18:56:34.122885",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Shankland and Braga prove to be the perfect partners as Hearts leave it late to seal dramatic win over Motherwell",
       "link": "https://www.dailymail.co.uk/sport/football/article-15725037/Shankland-Braga-prove-perfect-partners-Hearts-leave-late-seal-dramatic-win-Motherwell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
