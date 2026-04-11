@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "'Big punch in the face' - could Arsenal really blow title from here?",
+      "link": "https://www.bbc.com/sport/football/articles/c4g5v6552l2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T16:50:05",
+      "description": "Nine points clear with six games to play - could Arsenal still really blow the Premier League title from that position?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ed8/live/19b83300-35b9-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T17:28:18.736999",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "US-Iran Peace Talks + Artemis II Returns",
       "link": "https://www.bbc.co.uk/sounds/play/p0nbywhc?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T15:56:00",
@@ -5488,20 +5499,65 @@
       "archived_at": "2026-04-04T07:48:48.316161",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Five-hour rescue saves cat missing for 4 years",
-      "link": "https://www.bbc.com/news/articles/cn53yrk9p4yo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T05:23:25",
-      "description": "RSPCA, vets and firefighters free cat from tight space to discover Alfie had been  missing in 2022.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ce/live/5ae8db70-2cec-11f1-934f-036468834728.png",
-      "enclosure": null,
-      "archived_at": "2026-04-04T07:48:48.316174",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Mauritius vows to reclaim Chagos Islands after Starmer deal to hand them over collapsed due to Trump's opposition",
+      "link": "https://www.dailymail.co.uk/news/article-15724959/Mauritius-reclaim-Chagos-Islands-Starmer-deal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T17:20:32",
+      "description": "Mauritius vowed to 'spare no effort' to reclaim\u00a0its control over the Chagos Islands after Keir Starmer's deal to hand them over collapsed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107820557-0-image-m-12_1775927794664.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107820557-0-image-m-12_1775927794664.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T17:28:22.088081",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Democrat who apologized to his wife after being accused of sexual assault faces being KICKED OUT of Congress",
+      "link": "https://www.dailymail.co.uk/news/article-15724861/Democrat-apologized-wife-accused-sexual-assault.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T17:17:05",
+      "description": "He posted a video to social media as more women came out to make accusations of misconduct and more Democrats demanded he step aside.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107813187-0-image-m-53_1775927512983.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107813187-0-image-m-53_1775927512983.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T17:28:22.088086",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sleek \u00a3334million superyacht turns heads on Britain's south coast on its way to secretive new Chinese billionaire owner",
+      "link": "https://www.dailymail.co.uk/news/article-15724841/334million-superyacht-Britains-south-coast-secretive-Chinese-billionaire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T17:16:45",
+      "description": "German-built Deep Blue is a 439ft, 9000 tonne, five-deck superyacht equipped with a helipad and two swimming pools.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/17/107820223-0-image-m-11_1775926033997.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/17/107820223-0-image-m-11_1775926033997.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T17:28:22.088088",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pictured: Woman, 19, killed in dog attack after being attacked by 'family pet that slept on her bed'",
+      "link": "https://www.dailymail.co.uk/news/article-15725019/woman-19-victim-dog-attack-victim-family-pet-slept-bed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T17:09:02",
+      "description": "Jamie-Lea Biscoe was left seriously injured after the incident at a property in the village of Leaden Roding at around 10.45pm on Friday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/17/107820107-0-image-m-8_1775926360087.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/17/107820107-0-image-m-8_1775926360087.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T17:28:22.088089",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Government to revive WW1-era manual helping British people to prepare for the next war",
       "link": "https://www.dailymail.co.uk/news/article-15724895/Government-WW1-era-manual-British-people-prepare-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12445,65 +12501,37 @@
       "archived_at": "2026-04-09T04:34:38.435720",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Perez Hilton gets emotional as he reveals he can 'finally walk again' after emergency surgery and near-fatal sepsis battle",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15717495/Perez-Hilton-walks-emergency-surgery-near-fatal-sepsis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T02:48:06",
-      "description": "In a new video shared to his Instagram page, Hilton was back on his feet with the help of a walker after weeks of being bedridden, writing, 'I can finally walk again!!'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/02/107757185-0-image-m-34_1775697615672.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/02/107757185-0-image-m-34_1775697615672.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435722",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Matthew Perry's 'Ketamine Queen' drug dealer sentenced to 15 years in jail for selling fatal dose to Friends icon",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15716829/Matthew-Perrys-Ketamine-Queen-sentenced.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T02:32:44",
-      "description": "The woman who admitted to selling the ketamine that led to Matthew Perry's death has been sentenced to 15 years in prison, along with three years of supervised release.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/19/107749233-0-image-a-47_1775674606299.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/19/107749233-0-image-a-47_1775674606299.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435723",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Anna Wintour offers scathing review of Melania Trump's fashion after First Lady accused her magazine of being 'biased'",
-      "link": "https://www.dailymail.co.uk/lifestyle/fashion/article-15715985/anna-wintour-melania-trump-fashion-outfits-vogue.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T02:29:48",
-      "description": "Wintour, 76, couldn't stop gushing over Michelle Obama and Rama Duwaji's fashion choices - but when she brought up Melania's sense of style, but was noticeably less complimentary.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744793-0-image-a-41_1775661332952.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744793-0-image-a-41_1775661332952.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435725",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Joe Rogan set to infuriate Trump with VERY pointed theory on why president bombed Iran",
-      "link": "https://www.dailymail.co.uk/media/article-15717097/Joe-Rogan-Trump-Epstein-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T02:03:40",
-      "description": "The comedian, who has previously criticized the war, was speaking to comic Arsenio Hall, who called 'misdirection' efforts by leaders 'the story of American politics.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/02/107753019-0-image-a-4_1775696499035.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/02/107753019-0-image-a-4_1775696499035.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435727",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Arsenal star Viktor Gyokeres gives bizarre excuse about their own stadium for his huge miss in surprise defeat that may cost them in the Premier League title race",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15724875/Arsenal-Viktor-Gyokeres-Bournemouth-miss-Premier-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T17:23:26",
+      "description": "Gyokeres fired over the bar from close range after the ball fell to him around the 80th minute, before missing two more gilt-edged chances in stoppage time on Saturday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107820711-0-image-a-19_1775927881653.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107820711-0-image-a-19_1775927881653.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T17:28:23.367087",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Igor Thiago runs riot to overtake Bryan Mbeumo and Ivan Toney to Brentford record\u2026 but here's why Everton proved they belong in the European mix, writes GETHIN HICKS",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15713121/Igor-Thiago-runs-riot-overtake-Bryan-Mbeumo-Ivan-Toney.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T17:18:35",
+      "description": "GETHIN HICKS AT THE GTECH: It was Kiernan Dewsbury-Hall to the rescue again in west London on Saturday for Everton as the Englishman salvaged a late point at Brentford.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/17/107820283-0-image-a-6_1775926149803.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/17/107820283-0-image-a-6_1775926149803.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T17:28:23.367093",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Arsenal are suffocating and there is nowhere to hide - but here's how they can save their title bid... including pulling a liability out of the team, writes ISAAN KHAN",
       "link": "https://www.dailymail.co.uk/sport/football/article-15713091/Arsenal-Bournemouth-Premier-League-Emirates-pressure-cooker.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -22367,6 +22395,17 @@
     }
   ],
   "Crev": [
+    {
+      "title": "Artemis II: Engineering Triumphs Over Storytelling",
+      "link": "https://crev.info/2026/04/artemis-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=artemis-engineering",
+      "pubDate": "2026-04-11T16:50:46",
+      "description": "The mission showed that testable science and trust in God complement each other.",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-11T17:28:28.163195",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Barf the Dogma: How Universities Ensure Conformity",
       "link": "https://crev.info/2026/04/sbr-how-universities-ensure-conformity/?utm_source=rss&utm_medium=rss&utm_campaign=sbr-how-universities-ensure-conformity",
