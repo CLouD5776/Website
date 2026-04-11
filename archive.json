@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Two teenagers die in M1 crash as 'car leaves bridge'",
+      "link": "https://www.bbc.com/news/articles/cdrme3j88k7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T13:37:42",
+      "description": "Four people in a minibus were also taken to hospital, Leicestershire Police say.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f446/live/571e7690-35ab-11f1-879d-1b2f5c3919b8.png",
+      "enclosure": null,
+      "archived_at": "2026-04-11T15:30:08.469030",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Wind and showers return this weekend as temperatures tumble",
+      "link": "https://www.bbc.com/weather/articles/cgqkzw8plzpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T09:12:18",
+      "description": "After a brief spell of unusually warm weather this week, the weekend brings an April weather reset with a return to lower temperatures and showers in the forecast.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b03/live/813e4810-357e-11f1-8c7e-43c32073e8a3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T15:30:08.469037",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Artemis II: Return to the Moon",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002vdtj?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T05:00:00",
+      "description": "Four astronauts. One historic mission. Venturing further from Earth than ever before.",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0ncmzcf.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T15:30:08.469040",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I Am Maximus wins Grand National for trainer Mullins",
+      "link": "https://www.bbc.com/sport/horse-racing/articles/cgme42z1gjro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T15:16:09",
+      "description": "I Am Maximus wins the Grand National for the second time for trainer Wille Mullins at Aintree.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec6/live/551b2eb0-35ba-11f1-aa65-43b95e4e356e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T15:30:08.469042",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Woman, 19, killed in dog attack at house",
       "link": "https://www.bbc.com/news/articles/cew78nrdykqo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T12:34:37",
@@ -5455,53 +5499,107 @@
       "archived_at": "2026-04-04T07:48:48.316179",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Trump sweeps Robertson aside to reach Tour Championship final",
-      "link": "https://www.bbc.com/sport/snooker/articles/cgqkn2kzxqjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T21:49:26",
-      "description": "Judd Trump sweeps to a commanding 10-4 victory over Neil Robertson as he reaches the final of the Tour Championship in Manchester.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaf6/live/d62316e0-2fa1-11f1-a84d-a70cf943ddbd.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T07:48:48.316182",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Football rally in Peru leaves one dead and dozens injured",
-      "link": "https://www.bbc.com/news/articles/ckgxyn3ljgjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T06:34:56",
-      "description": "Hundreds of Alianza Lima fans had gathered for a pregame rally ahead of a match against local rivals Universitario de Deportes.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c761/live/64486520-2fdd-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T06:56:33.863578",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "After more than 14 years at Atletico Madrid, what next for Simeone?",
-      "link": "https://www.bbc.com/sport/football/articles/cp9v2pz803ro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T06:33:33",
-      "description": "BBC Sport asks if Atletico Madrid could really part ways with manager Diego Simeone at the end of the season?",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b410/live/ca6fa910-2dd7-11f1-a186-bdbec3fa8607.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T06:56:33.863584",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Not fit for purpose' - the secret history of a deadly phrase",
-      "link": "https://www.bbc.com/news/articles/c3dl18ndvydo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T05:01:25",
-      "description": "The four word phrase - first uttered by Labour Home Secretary John Reid - has become a by-word for incompetence.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fa1/live/789cc790-2fb6-11f1-8b44-bd28747f874b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T05:38:58.030806",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Alleged arsonist who 'filmed himself setting FIRE to warehouse full of people' causing $500m in damage says he was inspired by Luigi Mangione",
+      "link": "https://www.dailymail.co.uk/news/article-15724465/alleged-arsonist-fire-warehouse-luigi-mangione-comparison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:23:33",
+      "description": "Abdulkarim allegedly said his motivation for starting the blaze was 'f***ing eight hours, six days \u2026 stuck paying rent on a bulls*** a** apartment that I can't afford to f***ing live.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/15/107816365-0-image-m-17_1775916109565.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/15/107816365-0-image-m-17_1775916109565.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:30:10.610433",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chaos at Grand Central Terminal in New York as machete-wielding man is shot by cops after he stabbed two people",
+      "link": "https://www.dailymail.co.uk/news/article-15724721/grand-central-new-york-city-stabbing-shooting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:21:39",
+      "description": "At least two were injured in a shooting and stabbing spree inside a tourist-heavy subway station in Midtown Manhattan, just weeks after Mayor Zohran Mamdani said the city had a gun problem.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/15/107817933-0-image-a-3_1775917971619.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/15/107817933-0-image-a-3_1775917971619.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:30:10.610440",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Michelin chefs demand Gentleman's Relish be saved after maker announced 'national treasure' was being discontinued - or release the secret recipe",
+      "link": "https://www.dailymail.co.uk/news/article-15724499/Michelin-chefs-demand-Gentlemans-Relish-saved.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:15:36",
+      "description": "The anchovy spread, officially known as Patum Peperium, was discontinued earlier this year in a decision revealed this week.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/15/107817667-0-image-m-12_1775917769420.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/15/107817667-0-image-m-12_1775917769420.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:30:10.610443",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Manchester airport engineer 'is seriously injured as he falls from back of Jet2 plane due to fly to Tenerife'",
+      "link": "https://www.dailymail.co.uk/news/article-15724781/Manchester-airport-engineer-injured-Jet2-fall-plane.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:12:16",
+      "description": "Paramedics from North West Ambulance Service rushed to the scene at Manchester Airport at 8am this morning.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/16/107818327-0-image-m-34_1775920186898.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/16/107818327-0-image-m-34_1775920186898.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:30:10.610444",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Acclaimed chef whose food was loved by Hollywood A-listers dies in horror crash",
+      "link": "https://www.dailymail.co.uk/news/article-15724439/rainer-schwarz-laguna-beach-chef-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:12:01",
+      "description": "The Orange County restaurateur was pronounced dead at the scene at around 4.50pm, authorities said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/14/107816707-0-image-m-6_1775914159877.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/14/107816707-0-image-m-6_1775914159877.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:30:10.610445",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The King's bank Coutts turns its back on millionaires: Minimum amount clients need to open an account rises from \u00a31m to \u00a33m",
+      "link": "https://www.dailymail.co.uk/news/article-15724683/The-Kings-bank-Coutts-turns-millionaires-Minimum-clients-need-open-account-rises-1m-3m.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:06:21",
+      "description": "This unprecedented hike marks the largest wealth-test increase in the bank's history, signalling a strategic pivot toward 'ultra-high-net-worth' clientele.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/15/107817835-0-image-a-1_1775917095092.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/15/107817835-0-image-a-1_1775917095092.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:30:10.610447",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Disgraced police detective who delayed her drunk son's arrest by his own father after head-on crash with ambulance is jailed",
+      "link": "https://www.dailymail.co.uk/news/article-15724615/police-detective-drunk-son-arrest-crash-ambulance-jailed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T14:48:51",
+      "description": "Police had effectively launched a manhunt for Macauley Sanna, then 18, after the crash in Paddock Wood, Kent, but his police detective mother and sister worked together in a bid to delay his arrest.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/15/107817687-0-image-m-8_1775917619485.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/15/107817687-0-image-m-8_1775917619485.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:30:10.610449",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Man, 78, is arrested after James Bulger's grave is vandalised for second time in six weeks",
       "link": "https://www.dailymail.co.uk/news/article-15724637/Man-arrested-James-Bulgers-grave-vandalised-second-time.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12403,107 +12501,23 @@
       "archived_at": "2026-04-09T04:34:38.435741",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "PETER HITCHENS: Donald Trump says Keir Starmer is 'just another Neville Chamberlain'. If ONLY. This is why I wish we had a modern leader like him...",
-      "link": "https://www.dailymail.co.uk/debate/article-15716115/PETER-HITCHENS-Donald-Trump-Keir-Starmer-Neville-Chamberlain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T17:18:13",
-      "description": "The more people go on about the awfulness of Neville Chamberlain, the less I trust their judgment. They generally know nothing about him and use him as a cheap and easy codeword for weakness.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744749-0-image-a-4_1775661261931.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744749-0-image-a-4_1775661261931.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435742",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I know the real - and vile - reason Kanye was booked to play Wireless. It reveals an insidious new truth about British society",
-      "link": "https://www.dailymail.co.uk/lifestyle/article-15716199/I-know-real-vile-reason-Kanye-booked-play-Wireless-reveals-insidious-new-truth-British-society.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T16:04:37",
-      "description": "Sitting at my computer late one night, I furtively indulged in the ultimate guilty pleasure - Googling myself. I'd never done it before.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107745923-0-image-a-14_1775663981217.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107745923-0-image-a-14_1775663981217.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435743",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Inside the day that made Ben Roberts-Smith a hero - before his dramatic arrest years later in front of his daughters",
-      "link": "https://www.dailymail.co.uk/news/article-15714143/ben-roberts-smith.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T04:27:56",
-      "description": "Long before his arrest, Roberts-Smith was hailed as a national hero.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/01/107727141-0-image-m-17_1775607605141.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/01/107727141-0-image-m-17_1775607605141.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435746",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Bruce Lehrmann suffers devastating FINAL blow in his legal battle over Brittany Higgins rape saga",
-      "link": "https://www.dailymail.co.uk/news/article-15717731/Bruce-Lehrmann-high-court-appeal-loss-rape-brittany-higgins.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T04:23:22",
-      "description": "The High Court on Thursday dismissed Lehrmann's bid to challenge the outcome from a defamation case that ruled, on a balance of probabilities, that he raped Brittany Higgins in 2019.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/05/86902191-0-Bruce_Lehrmann_fronted_Toowoomba_Magistrates_Court_in_June_for_t-a-4_1775707645181.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/05/86902191-0-Bruce_Lehrmann_fronted_Toowoomba_Magistrates_Court_in_June_for_t-a-4_1775707645181.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435747",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussie couple are forced to move their house after spending $300,000 on a block of land and making shock discovery",
-      "link": "https://www.dailymail.co.uk/news/article-15717277/Camperdown-house-wrong-block-house.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T04:17:26",
-      "description": "A lengthy saga is finally over for a couple in south-west Victoria.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755531-0-image-m-38_1775691141582.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755531-0-image-m-38_1775691141582.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435748",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why Australia could face fuel rationing within DAYS - and the 'bidding war' threatening to explode",
-      "link": "https://www.dailymail.co.uk/news/article-15714097/Why-Australia-face-fuel-rationing-DAYS-bidding-war-threatening-explode.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T04:15:29",
-      "description": "A global bidding war is closing in, threatening to shred Australia's fuel supply guarantees.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/00/107725725-0-image-m-17_1775603049993.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/00/107725725-0-image-m-17_1775603049993.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435749",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why this tiny island is VITAL to saving Australia from running out of fuel: Albo jets out on emergency mission to lock down petrol and diesel supply",
-      "link": "https://www.dailymail.co.uk/news/article-15717513/anthony-albanese-fuel-prices-australia-singapore.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T04:01:38",
-      "description": "Prime Minister Anthony Albanese has made an urgent dash overseas for a high\u2011stakes summit to shore up Australia's fuel security.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/02/107757681-0-image-m-59_1775699836992.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/02/107757681-0-image-m-59_1775699836992.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T04:34:38.435750",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Arsenal Fan TV in MELTDOWN after title slip up: Gooner says Mikel Arteta 'is in final weeks' of his reign as nervous team are BOOED by their own supporters following third defeat in four games",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15724679/Arsenal-fans-meltdown-Premier-League-title-charge-slip-AFTV-Mikel-Arteta-final-weeks-reign-BOOED-supporters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T15:22:31",
+      "description": "Despite still being in a strong position, well-known Arsenal fans have raged following the setback as fear grows that they could finish as runners-up for a fourth straight season.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/15/107818165-0-image-a-105_1775919164707.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/15/107818165-0-image-a-105_1775919164707.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T15:30:11.809421",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Michael Carrick reveals defender is set for Man United return after TWO MONTHS out - and provides update on Matthijs De Ligt",
       "link": "https://www.dailymail.co.uk/sport/football/article-15724705/Man-United-head-coach-Michael-Carrick-issues-update-Lisandro-Martinez-defender-missed-two-months-injury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -22555,6 +22569,17 @@
     }
   ],
   "ENV": [
+    {
+      "title": "Why Darwinian Theory Threatens the Declaration of Independence",
+      "link": "https://scienceandculture.com/2026/04/why-darwinian-theory-threatens-the-declaration-of-independence/",
+      "pubDate": "2026-04-11T14:20:00",
+      "description": "Dr. John West highlights how modern scientific discoveries in biology, physics, and cosmology are now reinforcing the core claims of the Declaration. \n<p><a href=\"https://scienceandculture.com/2026/04/why-darwinian-theory-threatens-the-declaration-of-independence/\" rel=\"nofollow\">Source</a></p>",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-11T15:30:19.667769",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "The Science Behind the Declaration of Independence",
       "link": "https://scienceandculture.com/2026/04/the-science-behind-the-declaration-of-independence/",
