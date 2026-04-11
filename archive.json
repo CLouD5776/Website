@@ -1,6 +1,83 @@
 {
   "BBC News": [
     {
+      "title": "Concerns after satellite provider restricts Iran images following US pressure",
+      "link": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T05:40:51",
+      "description": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab0/live/319b5a60-34f6-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T06:57:09.112524",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Six-year-old who called 999 to save mum hailed a hero",
+      "link": "https://www.bbc.com/news/articles/c624vz993lro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T05:01:08",
+      "description": "Pearl's mother Carole suffered a bleed on the brain at their home in Croydon last summer.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd7b/live/c1708390-3415-11f1-a058-4f0eff2075b9.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T06:57:09.112531",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Repair Shop restores Britain's first black ballerina's shoes",
+      "link": "https://www.bbc.com/news/articles/cp3lxp1ex61o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-08T14:49:19",
+      "description": "Julie Felix has now had her shoes repaired 40 years after her first professional solo performance.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5235/live/1ffd74e0-333a-11f1-bf11-9546df991775.png",
+      "enclosure": null,
+      "archived_at": "2026-04-11T06:57:09.112533",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bored retiree creates supersized household objects",
+      "link": "https://www.bbc.com/news/articles/cn78e1vzk5vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-09T05:17:13",
+      "description": "He lives in his home among huge objects including a giant pencil, clothes peg and a 13-amp plug.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b20/live/293fc0c0-3345-11f1-9f60-37eac42daa69.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T06:57:09.112534",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Miracle' as lost cat returned home after five years",
+      "link": "https://www.bbc.com/news/articles/c208rznp60do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-07T05:19:26",
+      "description": "Danielle Arme says she \"burst into tears\" when she heard the news that Bodhi was safe and well.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4321/live/9696fae0-2ea3-11f1-aa0c-dd9a23733a84.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T06:57:09.112536",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Could Guardiola's best and Arteta's worst month decide title?",
+      "link": "https://www.bbc.com/sport/football/articles/cy81j3dd7m5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T06:01:12",
+      "description": "As the Premier League season approaches its finale, April could be the defining month for leaders Arsenal and closest challengers Manchester City. BBC Sport looks at the stats to explain why.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/113d/live/180bfcd0-33fc-11f1-a4ee-f9cebb92412a.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T06:57:09.112538",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Dart and Burrage send GB to BJK Cup finals",
+      "link": "https://www.bbc.com/sport/tennis/articles/cge0zgrz0ezo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T06:15:58",
+      "description": "Harriet Dart and Jodie Burrage win the decisive doubles match in straight-sets to send Great Britain through to September's Billie Jean King Cup finals with an impressive 3-0 win against Australia.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b2/live/df3ed070-3569-11f1-bb09-df6eda711785.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T06:57:09.112540",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "A tough season, playing angry, and messaging Michael Owen",
       "link": "https://www.bbc.com/sport/football/articles/c87w429w3j5o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T05:06:33",
@@ -5422,86 +5499,23 @@
       "archived_at": "2026-04-03T22:00:12.355896",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Guardiola wants Rodri to stay but says unhappy stars can go",
-      "link": "https://www.bbc.com/sport/football/articles/c5yvl42y4xeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T21:30:31",
-      "description": "Manchester City manager Pep Guardiola says unhappy players can leave the club, but he hopes midfielder Rodri will stay.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5931/live/55f752d0-2fa4-11f1-a84d-a70cf943ddbd.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T22:00:12.355898",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
-      "link": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T20:43:33",
-      "description": "Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeaf/live/25e129c0-2f92-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T21:29:55.719615",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Unanswered questions remain after death of Australia's most wanted fugitive",
-      "link": "https://www.bbc.com/news/articles/cg7358zzz0no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T19:19:02",
-      "description": "Double-murderer Dezi Freeman evaded capture for seven months in the bush but police believe he had help.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc8/live/9c3419e0-2e69-11f1-a79a-77e93010d956.png",
-      "enclosure": null,
-      "archived_at": "2026-04-03T21:29:55.719624",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "How elite US teams tackle combat rescue missions",
-      "link": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T20:42:56",
-      "description": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T21:29:55.719627",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Marshmallows fall from the sky at annual Michigan Easter event",
-      "link": "https://www.bbc.com/news/videos/cvglpewvx15o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T20:12:55",
-      "description": "At the annual 'Great Marshmallow Drop', more than 15,000 fluffy treats fell from a helicopter as kids raced to collect them.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1492/live/74921060-2f98-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T21:29:55.719630",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Leeds beat Bradford to go top of Super League",
-      "link": "https://www.bbc.com/sport/rugby-league/articles/c5yx89ekr8go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T21:02:58",
-      "description": "Leeds Rhinos move to the top of Super League as they earn a derby victory over Bradford Bulls at Odsal.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa22/live/75958460-2f9d-11f1-82aa-e78815ba31b1.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T21:29:55.719632",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Foakes leads superb Surrey recovery at Edgbaston",
-      "link": "https://www.bbc.com/sport/cricket/articles/c6262ly5p47o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T17:43:27",
-      "description": "Ben Foakes and Tom Lawes help rescue Surrey from 65-6 to post 328 all out on day one of their County Championship game against Warwickshire.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaec/live/dd8e2e60-2f83-11f1-a6f5-1188a52986a4.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T19:36:07.988888",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Coroner accused of stealing valuables from the dead pleads no contest",
+      "link": "https://www.dailymail.co.uk/news/article-15723899/coroner-stealing-dead-plea-los-angeles-california.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T05:53:47",
+      "description": "Adrian Mu\u00f1oz, 36, was charged with one felony count of grand theft and one misdemeanor count of petty theft by the Los Angeles County District Attorney's Office.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/06/107812637-0-image-m-8_1775884554088.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/06/107812637-0-image-m-8_1775884554088.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T06:57:12.667376",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Old interview comes back to haunt Albo as the fuel crisis continues to hit Aussies hard",
       "link": "https://www.dailymail.co.uk/news/article-15724129/Old-interview-Anthony-Albanese-fuel-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12487,20 +12501,6 @@
       "archived_at": "2026-04-08T21:38:21.351534",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Nightmarish moment motorcycle explodes, setting its driver on fire",
-      "link": "https://www.dailymail.co.uk/news/article-15716731/san-antonio-texas-motorcycle-fire-driver-children-explosion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T21:08:58",
-      "description": "A motorcycle and its driver went up flames on Thursday afternoon after the rider lost control of the bike on a residential road in San Antonio, Texas.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752189-0-image-m-10_1775682025293.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752189-0-image-m-10_1775682025293.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351535",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
@@ -19453,6 +19453,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Halle Bailey intends to make music with sister 'until the end of time'",
+      "link": "https://www.music-news.com/news/UK/188275/Halle-Bailey-intends-to-make-music-with-sister-until-the-end-of-time",
+      "pubDate": "2026-04-11T05:00:00",
+      "description": "Halle Bailey started her career as one-half of the sibling duo Chloe x Halle.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188275.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188275.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T06:57:20.630809",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Olivia Dean reflects on first Grammy win",
       "link": "https://www.music-news.com/news/UK/188274/Olivia-Dean-reflects-on-first-Grammy-win",
