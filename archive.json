@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "A tough season, playing angry, and messaging Michael Owen",
+      "link": "https://www.bbc.com/sport/football/articles/c87w429w3j5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T05:06:33",
+      "description": "Ollie Watkins speaks to Kelly Somers about Aston Villa, England and his World Cup dream.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8185/live/0c8a03f0-335e-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T05:44:01.502090",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "MacIntyre could face more Masters wrath after gnome picture",
       "link": "https://www.bbc.com/sport/golf/articles/crl1e35r3xyo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-10T23:45:06",
@@ -5488,20 +5499,65 @@
       "archived_at": "2026-04-03T19:36:07.988888",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Arteta defends Arsenal's international withdrawals",
-      "link": "https://www.bbc.com/sport/football/articles/czjwkz3nwvxo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T13:54:39",
-      "description": "Mikel Arteta says Arsenal have '\"a very good relationship\" with most national teams, despite 11 of his players withdrawing from international duty.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57e4/live/fb5faa80-2f61-11f1-9c03-f3e4d4e9190c.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T19:36:07.988893",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Old interview comes back to haunt Albo as the fuel crisis continues to hit Aussies hard",
+      "link": "https://www.dailymail.co.uk/news/article-15724129/Old-interview-Anthony-Albanese-fuel-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T05:36:14",
+      "description": "An old TV interview has come back to bite Anthony Albanese as the fuel crisis shows no signs of ending.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/06/107812695-0-image-m-72_1775883906293.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/06/107812695-0-image-m-72_1775883906293.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T05:44:02.859169",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aspiring California Governor Eric Swalwell apologizes to wife in video denying sexual assault claims as calls for him to quit mount",
+      "link": "https://www.dailymail.co.uk/news/article-15724071/Eric-Swalwell-video-denial-allegations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T05:33:08",
+      "description": "Eric Swalwell continued to deny sexual assault claims against him as his campaign for governor of California hangs in the balance.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/06/107812331-0-image-m-7_1775884225828.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/06/107812331-0-image-m-7_1775884225828.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T05:44:02.859175",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How trusting my late mum's financial adviser turned out to be the most catastrophic money decision I've ever made",
+      "link": "https://www.dailymail.co.uk/news/article-15711531/How-trusting-late-mums-financial-adviser-turned-catastrophic-money-decision-Ive-made.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T05:31:10",
+      "description": "How my dream investment portfolio suddenly turned into a nightmare.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/06/107731001-0-image-m-8_1775885387452.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/06/107731001-0-image-m-8_1775885387452.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T05:44:02.859176",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "New renderings show details of 250-foot tall 'Arc de Trump' set to tower over DC as president confirms he has officially submitted plans",
+      "link": "https://www.dailymail.co.uk/news/article-15723933/arc-trump-renderings-details-washington-dc.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T05:13:49",
+      "description": "Trump shared new images of the proposed structure on Frida which will overlook the nation's capital. The designs feature several gold statues as well as white stone.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/05/107812347-0-image-m-14_1775882161152.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/05/107812347-0-image-m-14_1775882161152.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T05:44:02.859177",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Clarifications and corrections",
       "link": "https://www.dailymail.co.uk/home/article-15067765/Clarifications-corrections.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12443,62 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-08T21:38:21.351535",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woke California university bans MEN from using a certain area in gym after female students complain they were made 'uncomfortable' - but women and non-binary students are welcome",
-      "link": "https://www.dailymail.co.uk/news/article-15716593/usc-bans-men-campus-gym-women-non-binary-only.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T21:06:06",
-      "description": "The University of Southern California will ban men from an area of the campus gym for one hour, two days a week. It came about after female and non-binary students said they were uncomfortable.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/21/107750841-0-image-a-66_1775680575189.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/21/107750841-0-image-a-66_1775680575189.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351536",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Karoline Leavitt's ice-cold response to the plight of terrified Iranian civilians as they fear more US bombs",
-      "link": "https://www.dailymail.co.uk/news/article-15716695/Karoline-Leavitt-response-terrified-Iranian-bombs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T21:02:15",
-      "description": "White House Press Secretary Karoline Leavitt offered a chilly response when confronted directly with the harrowing reality facing innocent civilians trapped in Iran.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/19/107748471-0-image-a-5_1775674063879.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/19/107748471-0-image-a-5_1775674063879.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351537",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Body is found in search for teenager who vanished in lake near castle in Wales",
-      "link": "https://www.dailymail.co.uk/news/article-15717085/Body-search-teenager-vanished-lake-castle-Wales.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T20:59:32",
-      "description": "Specialist search and rescue teams carried out extensive searches in the lake after reports that a 17-year-old had entered the water yesterday afternoon.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/21/107752145-0-image-a-20_1775681766830.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/21/107752145-0-image-a-20_1775681766830.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351539",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Paradise Georgia island rocked by feral 'teen takeover' that saw shots fired on its famous pier",
-      "link": "https://www.dailymail.co.uk/news/article-15716165/georgia-tybee-island-shooting-pier.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T20:58:08",
-      "description": "Tybee Island has long been known as a spring break destination in Georgia and the southern US, hosting the HBCU spring break gathering formerly known as Orange Crush.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/21/107750695-0-image-m-89_1775680218448.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/21/107750695-0-image-m-89_1775680218448.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351540",
       "feed_category": "News",
       "feed_visibility": "both"
     }
