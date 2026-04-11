@@ -1,6 +1,138 @@
 {
   "BBC News": [
     {
+      "title": "Faisal Islam: Why the government is relaxed about Chinese car imports",
+      "link": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T23:12:58",
+      "description": "The UK government believes the rise of China's car industry could be good for UK consumers and industry.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2801/live/f5b10fd0-3500-11f1-b057-1d9fee7490d8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991426",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
+      "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T23:13:23",
+      "description": "\"Slopaganda\" is too weak a term to capture how powerful this \"highly sophisticated\" content is, one expert says.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991431",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
+      "link": "https://www.bbc.com/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T23:17:07",
+      "description": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1adb/live/db819500-35a3-11f1-bfb7-dfacb91b9fa4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991433",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Balamory is back - Miss Hoolie and PC Plum lift the lid on what to expect",
+      "link": "https://www.bbc.com/news/articles/cjenek89l97o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T23:15:54",
+      "description": "The cast of the Balamory reboot coming soon to our screens say it's a 'love letter to the original' children's TV hit.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c294/live/d10662d0-340a-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991438",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I've been a sex educator for six years. Why did I start doubting my contraception choices?",
+      "link": "https://www.bbc.com/news/articles/cwyvw9pgjveo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T23:15:17",
+      "description": "Misinformation about contraception has been spreading on social media, alongside the \"very real frustrations\" of women complaining about side effects.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36c5/live/6e6dbf30-34e4-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991440",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The prophet and the mysterious death of Charmain Speirs",
+      "link": "https://www.bbc.com/news/articles/cevk1jrg4g8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T23:14:11",
+      "description": "A BBC Disclosure investigation has uncovered significant questions about what happened at the hotel where Charmain died.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8c/live/aa743190-329a-11f1-8cba-9df81803c83c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991442",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The Papers: 'Le Humiliation' and 'US and Iran start historic peace talks'",
+      "link": "https://www.bbc.com/news/articles/cn0wywl5dx2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T22:54:01",
+      "description": "Some of the UK papers today follow Sir Keir Starmer shelving his Chagos Islands deal, and the historic Iran-US peace talks in Pakistan.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94a/live/9e017a80-35f6-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991443",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Messy and unpredictable: What I learned from election tour of the UK",
+      "link": "https://www.bbc.com/news/articles/c4gxw5dw8vwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T23:19:57",
+      "description": "BBC Radio 5 Live's Matt Chorley talks to voters in England, Scotland and Wales to get the real story on May's elections.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6272/live/2bcc4af0-3338-11f1-bf11-9546df991775.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991444",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Golden eagles' return to English skies gets government backing",
+      "link": "https://www.bbc.com/news/articles/cje4zlxqkqdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T23:19:46",
+      "description": "The birds could be reintroduced as early as next year following a \u00a31m injection from the government.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a56/live/93b50d30-3420-11f1-aa50-fd39c44a0779.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991446",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Scottish election 2026: How tax and welfare are shaping the vote",
+      "link": "https://www.bbc.com/news/articles/c8ej9nj9773o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T23:19:34",
+      "description": "In recent years Scotland has struck out on a different path to the rest of the UK when it comes to income tax and social security.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3df/live/62c40c10-34e0-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991447",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "What will the Southport Inquiry tell us and what are next steps?",
+      "link": "https://www.bbc.com/news/articles/cp86e615j68o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T23:19:13",
+      "description": "The public inquiry was set up following a knife attack which led to the deaths of three young girls.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac9/live/4e438860-bb28-11f0-b296-27a0423599e8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991448",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Are these the 30 minutes that saved Hearts' title bid?",
+      "link": "https://www.bbc.com/sport/football/articles/cx2ew8q0g7go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T20:40:21",
+      "description": "As Heart of Midlothian fight back to beat Motherwell, it could prove to be the 30 minutes that saved their Scottish title chances.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbe6/live/63a3ad10-35e5-11f1-9d5c-8ba507d7dbde.png",
+      "enclosure": null,
+      "archived_at": "2026-04-11T23:30:03.991451",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Fury dominates Makhmudov and calls out Joshua next",
       "link": "https://www.bbc.com/sport/boxing/articles/cwy3ww0rkylo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T22:22:57",
@@ -5367,141 +5499,65 @@
       "archived_at": "2026-04-04T18:42:13.762315",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "What we know so far about the US fighter jet shot down over Iran",
-      "link": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T17:04:46",
-      "description": "The pilot of the downed jet has been safely rescued, but a search and rescue operation is still under way for the jet's second crew member, US media reports.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/47b79c30-3048-11f1-bcfc-dda6bbc21b25.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T17:56:32.710944",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Haaland's 'old-school' lesson for Liverpool as FA Cup record falls",
-      "link": "https://www.bbc.com/sport/football/articles/c145g7z4xm0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T16:21:50",
-      "description": "Manchester City have beaten Arsenal and taken apart Liverpool in their past two games and Erling Haaland's return to goalscoring form has laid down the gauntlet for the run-in.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6013/live/210c8da0-304a-11f1-bcfc-dda6bbc21b25.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T17:56:32.710955",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Bath hold off brave Saracens to reach last eight",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/c0q9lll4e8do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T16:09:02",
-      "description": "Bath hold off a brave effort from out-of-form Saracens to book their place in the Champions Cup quarter-finals.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cef/live/25fb9180-3040-11f1-b7b6-d109e91ca282.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T17:26:53.545050",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
-      "link": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T16:19:25",
-      "description": "The International Atomic Energy Agency urges restraint to avoid a nuclear accident at Iran's Bushehr plant.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abc/live/1e9f9c60-3036-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T16:33:13.752033",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "US arrests relatives of deceased Iranian \u200bgeneral Qasem \u200bSoleimani",
-      "link": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T16:12:15",
-      "description": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/435a/live/11fc7470-303a-11f1-b7b6-d109e91ca282.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T16:33:13.752038",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Two arrested after boy killed and two hurt in crash",
-      "link": "https://www.bbc.com/news/articles/c86e04l4yneo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T15:20:58",
-      "description": "Police say a vehicle collided with three teenagers, two riding a bike and another on a scooter.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c420/live/b32a54f0-3032-11f1-b297-95b0a0a8331e.png",
-      "enclosure": null,
-      "archived_at": "2026-04-04T15:55:43.965625",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Oxford dominate to win Women's Boat Race",
-      "link": "https://www.bbc.com/sport/rowing/articles/crl1zz4de7zo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T13:52:37",
-      "description": "Oxford take advantage of a brilliant start to get the better of Cambridge and win a first Women's Boat Race since 2016.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a04e/live/410731b0-3030-11f1-9cbd-37c700a63936.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T14:30:50.424773",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Australians told to continue Easter travel plans despite fuel shortages",
-      "link": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T12:10:10",
-      "description": "Hundreds of petrol stations across Australia have run out of fuel as the Iran war disrupts global oil shipments and pushes up prices.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1232/live/86e3bc60-301e-11f1-93d4-afd16efe51c8.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T14:30:50.424778",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Amber wind warning issued as Storm Dave set to hit parts of UK",
-      "link": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T13:39:54",
-      "description": "The Met Office said injuries or danger to life could occur as a result of flying debris.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0ba/live/9dd38c90-302b-11f1-9cbd-37c700a63936.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T13:51:07.594885",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Fourth suspect arrested over Jewish charity ambulance arson attack",
-      "link": "https://www.bbc.com/news/articles/clyjrrl17j1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T13:37:47",
-      "description": "Three men who had been charged following the attack appeared at court this morning, and have since been remanded in custody.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164f/live/63f11bc0-28ea-11f1-a95f-75471ca6e71e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T13:51:07.594891",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Russian attack on Ukraine market kills five",
-      "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T13:13:36",
-      "description": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a103/live/c0c0df90-3018-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T13:51:07.594893",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "World's only full-scale Jaws boat replica to open",
-      "link": "https://www.bbc.com/news/articles/c2k31510y7xo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T12:04:51",
-      "description": "The vessel took two years to build and will be filled with replica props from Steven Spielberg\u2019s 1975 classic film.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1101/live/b842f650-3027-11f1-9cbd-37c700a63936.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T13:51:07.594900",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Inner workings of Tiger Woods' relationship with Vanessa Trump revealed... and the relative he's particularly close with",
+      "link": "https://www.dailymail.co.uk/news/article-15724917/Tiger-Woods-Vanessa-Trump-relationship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T23:24:23",
+      "description": "Woods and Vanessa have been together over a year and sources say she has no plans of leaving amid his alleged DUI.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/23/107824215-0-image-a-10_1775946069757.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/23/107824215-0-image-a-10_1775946069757.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T23:30:06.525955",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Le Humiliation: Once-mighty Navy faces begging French fleet for help to patrol our OWN waters as PM is mocked for Chagos deal U-turn: 'We're relying on our oldest enemy'",
+      "link": "https://www.dailymail.co.uk/news/article-15725411/Le-Humiliation-Navy-faces-begging-French-fleet-Chagos.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T23:23:15",
+      "description": "The Royal Navy will be forced to ask the French for help intercepting Russian vessels in British waters because the UK fleet is struggling to meet 'operational commitments'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823967-0-image-m-17_1775940595176.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823967-0-image-m-17_1775940595176.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T23:30:06.525960",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Harry hits back at 'offensive and damaging claims' by charity he helped to found as Prince accuses Sentebale of running 'adverse media campaign against' him",
+      "link": "https://www.dailymail.co.uk/news/article-15725533/Harry-offensive-claims-charity-Prince-Sentebale-media-campaign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T23:22:01",
+      "description": "Prince Harry has strongly rejected claims lodged against him in a High Court defamation suit by the African charity he helped to found but sensationally quit after a boardroom battle.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/23/107825627-0-image-m-59_1775948228276.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/23/107825627-0-image-m-59_1775948228276.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T23:30:06.525962",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Health secretary urged not to bow to Zack Polanski's demand to cancel 'transformative' NHS technology over tech giant Palantir's links to Donald Trump",
+      "link": "https://www.dailymail.co.uk/news/article-15725537/Wes-Streeting-Zack-Polanski-cancel-NHS-Palantir-links-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T23:20:25",
+      "description": "A leaked memo from Ming Tang, chief data officer at NHS England, last week said the data platform Palantir was delivering 'outstanding results' with 'faster treatment',",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107825831-0-image-m-13_1775949178605.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107825831-0-image-m-13_1775949178605.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T23:30:06.525963",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Tragedy as girl, 7, drowns at popular swimming spot while on school holiday",
       "link": "https://www.dailymail.co.uk/news/article-15725575/Tragedy-young-girl-7-drowns-popular-swimming-spot-school-holiday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12443,62 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-09T09:47:30.921012",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Reverend Richard Coles says he has lost 15% of his body weight on fat loss jabs which he needed because he likes 'food and wine'",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15717379/Reverend-Richard-Coles-says-lost-15-body-weight-fat-loss-jabs-needed-likes-food-wine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T00:41:59",
-      "description": "The\u00a0former Communard star, 64, told how he noticed himself getting a 'tad plump' since he stopped going for his daily walks after the death of his dog.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755967-0-image-a-12_1775692542990.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755967-0-image-a-12_1775692542990.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921014",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "WWII RAF control tower where The First of the Few was filmed is to be converted into rental home",
-      "link": "https://www.dailymail.co.uk/property/article-15716375/WWII-RAF-control-tower-filmed-converted-rental-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T00:18:02",
-      "description": "Situated in Ringwood, Hampshire, RAF Ibsley became famous as the scene of the patriotic 1941 movie The First of a Few starring Leslie Howard and David Niven.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/18/107746473-0-image-m-16_1775668254404.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/18/107746473-0-image-m-16_1775668254404.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921015",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The Assembly viewers hail the return of 'fantastic' programme as Stephen Fry, 68, is quizzed about taking cocaine at Buckingham Palace and his sex life",
-      "link": "https://www.dailymail.co.uk/tv/article-15717337/The-Assembly-viewers-hail-return-fantastic-programme-Stephen-Fry-68-quizzed-taking-cocaine-Buckingham-Palace-sex-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T23:55:34",
-      "description": "The hit series sees celebrities ditch their media-trained responses as they field questions from a group of autistic, neurodivergent and/or learning disabled interviewers.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755919-0-image-a-63_1775692346780.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/00/107755919-0-image-a-63_1775692346780.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921017",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Cod and chips are off the menu! Scientists call for Brits to ditch the seaside staple as stocks plummet due to overfishing and climate change",
-      "link": "https://www.dailymail.co.uk/sciencetech/article-15715343/Cod-chips-menu-stocks-overfishing-climate-change.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T23:01:52",
-      "description": "It's been a seaside staple for decades - but cod and chips could soon be off the menu thanks to overfishing and climate change, scientists have warned.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/12/107739629-0-image-a-7_1775649327096.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/12/107739629-0-image-a-7_1775649327096.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921019",
       "feed_category": "News",
       "feed_visibility": "both"
     }
