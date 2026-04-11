@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Scotland celebrate hard-fought victory over Wales",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/c9vlxj83dnwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T18:09:53",
+      "description": "Scotland begin a new era under Sione Fukofuka with a 24-19 victory over Wales in Cardiff in the opening round of the Women's Six Nations.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3914/live/8470c6e0-35cc-11f1-aa65-43b95e4e356e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T19:34:56.042850",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'The older I get, the more I enjoy it' - Mullins etches name in Aintree folklore",
       "link": "https://www.bbc.com/sport/horse-racing/articles/cj40llvykz2o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T18:28:55",
@@ -5488,20 +5499,51 @@
       "archived_at": "2026-04-04T10:29:36.440211",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Teachers' union warns of 'masculinity crisis brewing' in schools",
-      "link": "https://www.bbc.com/news/articles/cpd5j4lnnq0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T09:37:04",
-      "description": "NASWUT's leader said there is a \"ticking time bomb\" if male pupils cannot be helped with misogyny.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dba/live/1aed83f0-3001-11f1-938c-99cee797e089.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T10:29:36.440214",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Detective who interrogated Baby P's mother insists 'manipulative monster' should never be given a 'second chance' as she makes another bid for freedom",
+      "link": "https://www.dailymail.co.uk/news/article-15725169/Detective-interrogated-Baby-Ps-mother-never-given-second-chance-bid-freedom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T19:25:51",
+      "description": "Tracey Connelly, 44, was jailed indefinitely in 2009 after allowing her son Peter - widely known as Baby P - to die in her care at home in north London in 2007 after a prolonged period of horrific abuse.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/100861179-0-image-m-33_1775934822187.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/100861179-0-image-m-33_1775934822187.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T19:34:59.435023",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The murder that shocked America: How a seven-year-old girl was abducted and brutally murdered by driver delivering her Barbie Christmas present\u2026 and the chilling final image of her alive",
+      "link": "https://www.dailymail.co.uk/news/article-15718519/The-murder-shocked-America-seven-year-old-girl-abducted-brutally-murdered-driver-delivering-Barbie-Christmas-present-chilling-final-image-alive.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T19:23:56",
+      "description": "More than three years later, as her killer faces the possibility of the death penalty, disturbing testimonies are exposing a calculated 'web of lies' behind Athena's death.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/08/107788849-0-image-m-9_1775807946946.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/08/107788849-0-image-m-9_1775807946946.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T19:34:59.435028",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man's vile threat to Donald Trump and son Barron that caught the attention of Secret Service officers",
+      "link": "https://www.dailymail.co.uk/news/article-15724583/michael-kovco-trump-barron-threat-chicago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T19:14:51",
+      "description": "Michael Kovco, 29, is accused of outlining plans to kill the president and target his family and law enforcement, and now faces federal charges that could carry up to five years in prison.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821579-0-image-a-7_1775931130055.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821579-0-image-a-7_1775931130055.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T19:34:59.435030",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "It's an idyllic, private island fit for a king and even comes with its own helicopter hangar... but to call Eilean Righ home it'll cost at least \u00a310 million",
       "link": "https://www.dailymail.co.uk/news/article-15724997/Its-idyllic-private-island-fit-king-comes-helicopter-hangar-call-Eilean-Righ-home-itll-cost-10-million.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12457,48 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-09T06:19:45.839636",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussie veteran says what many are thinking about Ben Roberts-Smith after he was charged with war crimes",
-      "link": "https://www.dailymail.co.uk/news/article-15717177/sam-bamford-adf-ben-roberts-smith.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T06:12:39",
-      "description": "Former Australian Defence force paratrooper Sam Bamford has unleashed on the federal government and AFP in a scathing attack.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/01/107755953-0-image-m-39_1775694245261.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/01/107755953-0-image-m-39_1775694245261.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T06:19:45.839637",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "British mother and daughter, 47 and 19, are arrested at Spanish airport 'with 42 kilos of cocaine in their suitcases'",
-      "link": "https://www.dailymail.co.uk/news/article-15717919/British-mother-daughter-47-19-arrested-Spanish-airport-42-kilos-cocaine-suitcases.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T06:11:42",
-      "description": "A British mother and her daughter have been arrested at a Spanish airport after allegedly trying to fly back to the UK with 42 kilos of cocaine in their luggage.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/07/107760767-0-image-m-58_1775714882428.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/07/107760767-0-image-m-58_1775714882428.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T06:19:45.839639",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Grace Tame SHUTS DOWN her charity as it runs out of money - after Australian of the Year complained her speaking gigs dried up due to 'intifada' comments",
-      "link": "https://www.dailymail.co.uk/news/article-15717821/Grace-Tame-SHUTS-charity-runs-money-Australian-Year-complained-speaking-gigs-dried-intifada-comments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T06:07:42",
-      "description": "An announcement appeared on the Grace Tame Foundation website on Thursday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/06/107760061-0-image-a-18_1775711325142.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/06/107760061-0-image-a-18_1775711325142.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T06:19:45.839640",
       "feed_category": "News",
       "feed_visibility": "both"
     }
