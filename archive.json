@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Fury dominates Makhmudov and calls out Joshua next",
+      "link": "https://www.bbc.com/sport/boxing/articles/cwy3ww0rkylo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T22:22:57",
+      "description": "Tyson Fury marks his return to the heavyweight mix with a composed points win over Arslanbek Makhmudo, before immediately turning ringside to call out Anthony Joshua.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/539e/live/8094efa0-35f5-11f1-a57a-1188f82f73cf.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T22:30:54.311830",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
       "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T21:23:07",
@@ -5488,20 +5499,121 @@
       "archived_at": "2026-04-04T13:51:07.594900",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Feyi-Waboso stars as Exeter hold off Munster charge",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/cn4v31rx819o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T13:34:29",
-      "description": "Immanuel Feyi-Waboso's superb solo try on his injury return helps Exeter Chiefs beat Munster to reach the Challenge Cup quarter-finals.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8da6/live/0e7fc410-302a-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T13:51:07.594904",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Tragedy as girl, 7, drowns at popular swimming spot while on school holiday",
+      "link": "https://www.dailymail.co.uk/news/article-15725575/Tragedy-young-girl-7-drowns-popular-swimming-spot-school-holiday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T22:24:12",
+      "description": "A young girls body has been found in a popular Brisbane river.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/23/107825065-0-image-m-18_1775945762602.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/23/107825065-0-image-m-18_1775945762602.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T22:30:55.513433",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Still thinking of voting GREEN? Meet the councillor who called David Lammy a 'coconut' and the Argentinian who believes Britain should hand back the Falklands",
+      "link": "https://www.dailymail.co.uk/news/article-15725259/Still-thinking-voting-GREEN-councillor-David-Lammy-coconut.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T22:21:36",
+      "description": "Hau-Yu Tam, deputy leader of the Greens in Lewisham, south-east London, called Justice Secretary David Lammy and former Home Secretary Priti Patel 'coconuts' in a vile slur.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822641-0-image-m-55_1775934376298.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822641-0-image-m-55_1775934376298.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T22:30:55.513441",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Taxpayers shelling out \u00a3800 a MINUTE in disability benefits to people claiming to suffer from 'anxiety' - as private firms cash-in by coaching claimants in exchange for half their payout",
+      "link": "https://www.dailymail.co.uk/news/article-15725273/anxiety-800-minute-disability-benefits-claim-private-firms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T22:18:10",
+      "description": "The cost of Personal Independence Payments (PIP) for the disorder has rocketed from under \u00a3100million in 2019 to nearly \u00a3427million last year.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822945-0-image-a-11_1775936296957.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822945-0-image-a-11_1775936296957.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T22:30:55.513442",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Patients are arriving not just with symptoms, but with scripts - and people in REAL need are being left behind, writes NHS GP and presenter DR RENEE HOENDERKAMP",
+      "link": "https://www.dailymail.co.uk/news/article-15725285/Patients-symptoms-scripts-REAL-NHS-GP-DR-RENEE-HOENDERKAMP.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T22:14:03",
+      "description": "Carefully prepared phrases, polished descriptions and diagnostic language lifted straight from specialist websites and, increasingly, AI-powered chatbots.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823635-0-image-a-7_1775938641158.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823635-0-image-a-7_1775938641158.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T22:30:55.513443",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Camilla could secretly meet some of Epstein's victims during state visit to America this month - but did Melania hold 'that' press conference 'to pave the way to join Queen'?",
+      "link": "https://www.dailymail.co.uk/news/article-15725437/Camilla-secretly-Epsteins-victims-America-Melania-Queen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T22:10:52",
+      "description": "Camilla, a life-long advocate for abused women, is said to have been approached by victims' rights groups but negotiations are understood to be in the 'very early stages.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107824109-0-image-m-9_1775940711427.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107824109-0-image-m-9_1775940711427.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T22:30:55.513445",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Is the hardliner who built this 110-mile barbed wire fence to stem flow of illegal migrants about to lose his crown to a 'Brussels poodle' in Hungary's crunch election? asks SUE REID",
+      "link": "https://www.dailymail.co.uk/news/article-15725205/hardliner-built-110-mile-fence-repel-migrants-Brussels-poodle-Sue-Reid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T22:10:47",
+      "description": "The fence is hated by the European Union's bureaucrats in Brussels who refused to export to Hungary the steel spikes needed to help build it at the start of the migration crisis in 2015.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822329-0-image-m-37_1775934438058.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822329-0-image-m-37_1775934438058.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T22:30:55.513446",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Southport inquiry expected to criticise bungling public bodies who failed to stop killer before he murdered three girls",
+      "link": "https://www.dailymail.co.uk/news/article-15725323/Southport-inquiry-criticise-public-bodies-killer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T22:09:37",
+      "description": "At least six public bodies are expected to be heavily criticised in tomorrow's report, including two police forces, two NHS mental health services and the local council's family and social services.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823511-0-image-m-34_1775938163148.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823511-0-image-m-34_1775938163148.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T22:30:55.513448",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tech billionaire's alleged depraved double life: Palm Beach ex makes horrific claims about satanic beatings, insomnia-inducing sex acts and pregnancy terminated with violence",
+      "link": "https://www.dailymail.co.uk/news/article-15700053/Tech-billionaires-Palm-Beach-girlfriend-serg-bell-acronis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T21:58:58",
+      "description": "At a remote estate in the rolling hills of Tuscany, Natalia Chernysheva woke in agony, her body bruised and her memory fractured after a night she could not fully recall.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/16/107639921-0-image-m-42_1775228724186.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/16/107639921-0-image-m-42_1775228724186.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T22:30:55.513449",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "He's no Jason Bourne, but founder of spoof hitman site finds he is regularly asked to kill \u2026and now there is a surprise twist to those requests",
       "link": "https://www.dailymail.co.uk/news/article-15722105/Shock-twist-Rent-Hitman-murder-requests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12387,118 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-09T09:47:30.921019",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I'm A Celebrity All Stars' Gemma Collins complains about her bed, Seann Walsh's snoring and insists she's 'losing her eyesight' as she struggles to adapt to 'torture' camp",
-      "link": "https://www.dailymail.co.uk/tv/article-15717011/Im-Celebrity-Stars-Gemma-Collins-complains-bed-Seann-Walsh-torture-camp.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T22:33:07",
-      "description": "The former TOWIE star is determined to redeem herself from her short-lived jungle stint back in 2014, but lost the gruelling eating trial to actor Craig Charles.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752385-0-image-a-36_1775682597662.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107752385-0-image-a-36_1775682597662.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921020",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'There was a lot of drinking - then the police turned up': A row with locals, an unexplained 'incident' and shocked guests... insiders tell MOLLY CLAYTON all about mystery fracas at Barbados wedding of Molly-Mae's close friend",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15716309/There-lot-drinking-police-turned-row-locals-unexplained-incident-shocked-guests-insiders-tell-MOLLY-CLAYTON-mystery-fracas-Barbados-wedding-Molly-Maes-close-friend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T18:58:32",
-      "description": "'Honoured to have been by your side,' read Molly-Mae's Instagram caption beneath a gorgeous black-and-white photograph shared with her 8.5million followers.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/17/107746115-0-image-a-43_1775664800427.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/17/107746115-0-image-a-43_1775664800427.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921022",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Sitting down for 'more than eight hours a day' increases dementia risk by almost a THIRD, claim researchers",
-      "link": "https://www.dailymail.co.uk/health/article-15715017/Physical-activity-sleep-lower-dementia-risk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T18:12:09",
-      "description": "Regular exercise, seven to eight hours of sleep, and limiting long periods of sitting could cut your risk of dementia by up to a quarter, new research finds.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/12/107739529-0-image-a-4_1775648708167.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/12/107739529-0-image-a-4_1775648708167.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921024",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why that menopausal fat really WON'T budge: Medical condition that affects women sees weight pile on 'seemingly overnight' - but hope IS at hand. Here's how to shift it",
-      "link": "https://www.dailymail.co.uk/lifestyle/fitness-wellbeing/article-15697537/menopausal-fat-Medical-condition-Lipoedema.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T16:47:49",
-      "description": "This isn't simply 'stubborn fat' that won't budge. The distribution is specific, often leaving the upper body relatively slim while the lower body appears disproportionately larger.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/10/107576515-0-image-a-15_1775035580978.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/10/107576515-0-image-a-15_1775035580978.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921025",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "When I hit my 50s, I escaped my litter-strewn London street and moved back to the childhood countryside home I once loved. But this is what no one tells you about 'the rural dream'",
-      "link": "https://www.dailymail.co.uk/lifestyle/article-15716003/50s-escape-London-countryside-rural-dream.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T16:43:20",
-      "description": "When former Londoners warn women, particularly single ones, not to move to the countryside, I understand the sentiment.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/17/107746117-0-image-a-1_1775664730872.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/17/107746117-0-image-a-1_1775664730872.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921027",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Brazen heist as thieves steal ONE TONNE of lobsters from seafood shop popular with foodies - and the unusual score is worth a fortune",
-      "link": "https://www.dailymail.co.uk/news/article-15717903/lobster-roll-Kraka-Seafood-Sydney-theft.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T09:44:12",
-      "description": "Kraka Seafood is known as having the 'best lobster roll' in Australia's largest city.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/08/107761945-0-image-m-11_1775720390569.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/08/107761945-0-image-m-11_1775720390569.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921030",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Chess star poses for selfie with opponent\u2026 then reports her to officials for having a phone",
-      "link": "https://www.dailymail.co.uk/news/article-15718197/Chess-star-poses-selfie-opponent-reports-officials-having-phone.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T09:40:07",
-      "description": "Kazakh grandmaster Alua Nurman, 18, could not resist asking the world No1 for a picture as they sat down to face each other at a major tournament in Germany .",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/10/107764145-0-image-a-5_1775726692711.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/10/107764145-0-image-a-5_1775726692711.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921032",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "We live in village Labour has chosen as one of Britain's new towns - but we can't cope with 40,000 more homes when we don't even have a shop",
-      "link": "https://www.dailymail.co.uk/news/article-15718085/live-village-Labour-towns-40000-homes-shop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T09:23:38",
-      "description": "Tempsford in Buckinghamshire was shortlisted as one of seven new towns in England under Labour's plans to deliver 1.5million properties by 2029.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/09/107761881-0-image-m-32_1775724999938.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/09/107761881-0-image-m-32_1775724999938.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921033",
       "feed_category": "News",
       "feed_visibility": "both"
     }
@@ -19705,6 +19705,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Bruno Mars kicks off \u2018The Romantic Tour\u2019 with record-breaking Las Vegas launch",
+      "link": "https://www.music-news.com/news/UK/188282/Bruno-Mars-kicks-off-The-Romantic-Tour-with-record-breaking-Las-Vegas-launch",
+      "pubDate": "2026-04-11T21:22:00",
+      "description": "16x GRAMMY\u00ae-winning superstar Bruno Mars officially kicked off his highly anticipated global outing, The Romantic Tour, with a record-breaking",
+      "thumbnail": "https://www.music-news.com/images/news/Bruno-Mars3.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Bruno-Mars3.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T22:31:03.041215",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Odessa A'zion stars in The Rolling Stones' new music video",
       "link": "https://www.music-news.com/news/UK/188279/Odessa-A-zion-stars-in-The-Rolling-Stones-new-music-video",
