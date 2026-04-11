@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "MacIntyre could face more Masters wrath after gnome picture",
+      "link": "https://www.bbc.com/sport/golf/articles/crl1e35r3xyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-10T23:45:06",
+      "description": "Robert MacIntyre fails to deliver on the course at the Masters - but provides one of the best known moments from this year's tournament. Or rather, one of its best gnome moments.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7880/live/2ec44b20-352e-11f1-8913-efd3b937f532.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T04:24:58.210739",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Back to Earth: What happens to the Artemis II astronauts now?",
       "link": "https://www.bbc.com/news/articles/cpwjvgv2d4no?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T00:38:27",
@@ -5488,20 +5499,65 @@
       "archived_at": "2026-04-03T19:36:07.988893",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Artemis II crew take 'spectacular' image of Earth",
-      "link": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-03T18:25:25",
-      "description": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-03T18:40:57.922142",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Clarifications and corrections",
+      "link": "https://www.dailymail.co.uk/home/article-15067765/Clarifications-corrections.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2025-11-01T00:19:30",
+      "description": "To report an inaccuracy, please email corrections@mailonline.co.uk. To make a formal complaint under IPSO rules please go to www.dailymail.co.uk/readerseditor where you will...",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2025/02/12/13/95132203-0-image-m-34_1739368658525.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2025/02/12/13/95132203-0-image-m-34_1739368658525.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T04:24:59.560454",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sydney man fighting for life after a late night fast food run ended in a shocking stabbing attack",
+      "link": "https://www.dailymail.co.uk/news/article-15724043/Sydney-stabbing-fast-food-attack-Guildford.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T03:11:23",
+      "description": "A Sydney man is fighting for life after he was stabbed in the neck and chest while out getting a late night meal.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/03/107812037-0-image-a-56_1775876274000.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/03/107812037-0-image-a-56_1775876274000.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T04:24:59.560460",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman, 35, 'picked up by garbage truck claw then crushed to death', family say",
+      "link": "https://www.dailymail.co.uk/news/article-15722657/kentucky-garbage-truck-claw-crushed-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T03:05:48",
+      "description": "Tyrah Adams was in a Louisville, Kentucky, alleyway when a city grappler allegedly picked her up and fatally crushed her.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/03/107809907-0-image-m-13_1775873256420.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/03/107809907-0-image-m-13_1775873256420.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T04:24:59.560462",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Missing man, 65, found in shallow grave on his own farm after vanishing two days earlier",
+      "link": "https://www.dailymail.co.uk/news/article-15723947/Missing-Richard-Wills-shallow-grave.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T02:28:31",
+      "description": "A missing man has been found shot dead and buired in a shallow grave.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/03/107811431-0-image-m-48_1775873462160.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/03/107811431-0-image-m-48_1775873462160.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T04:24:59.560463",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "NASA's Artemis II makes triumphant return as crew sends first message after historic moon mission",
       "link": "https://www.dailymail.co.uk/sciencetech/article-15723487/artemis-return-earth-splashdown-moon-mission.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12443,62 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-08T21:38:21.351540",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Chick-fil-A staffers fired for posting TikTok of themselves twerking and shaking their chests",
-      "link": "https://www.dailymail.co.uk/news/article-15715991/chick-fil-staff-fired-tiktok-twerking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T20:57:59",
-      "description": "A former employee uploaded footage of himself and seven other coworkers on March 20, garnering nearly 8 million views and 1.5 million likes.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/21/107751223-0-image-a-8_1775679785788.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/21/107751223-0-image-a-8_1775679785788.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351541",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why Aussie drivers won't see cheaper fuel anytime soon",
-      "link": "https://www.dailymail.co.uk/news/article-15717041/Why-Aussie-drivers-wont-cheaper-fuel-anytime-soon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T20:52:36",
-      "description": "Motorists may have to wait months for fuel prices to come down, despite the US and Iran agreeing to a pause in fighting which includes reopening the Strait of Hormuz.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/21/107751687-0-image-a-6_1775680764583.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/21/107751687-0-image-a-6_1775680764583.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351542",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woke NYC mayor admits key campaign pledge that critics fear will ruin Big Apple WON'T happen this year",
-      "link": "https://www.dailymail.co.uk/news/article-15716045/nyc-mayor-zohran-mamdani-free-buses-campaign-promise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T20:42:57",
-      "description": "Democratic Socialist Zohran Mamdani campaigned on offering a plethora of freebies to New Yorkers, including free buses, childcare and grocery stores.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/21/107750593-0-image-m-14_1775680946696.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/21/107750593-0-image-m-14_1775680946696.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351543",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Mother urged daughter to play lottery with these exact numbers - then she won SEVEN FIGURE jackpot",
-      "link": "https://www.dailymail.co.uk/news/article-15716031/Illinois-woman-overnight-millionaire-mother-lucky-lotto-numbers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-08T20:40:13",
-      "description": "The woman, who chose to remain anonymous, said her mother had played the same numbers years earlier but forgot to submit the ticket, so she missed out on a $6.4 million jackpot.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/21/107751019-0-image-m-6_1775679971139.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/21/107751019-0-image-m-6_1775679971139.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-08T21:38:21.351544",
       "feed_category": "News",
       "feed_visibility": "both"
     }
