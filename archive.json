@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Knifeman calling himself 'Lucifer' slashes three at NYC's Grand Central",
+      "link": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T18:08:46",
+      "description": "Police fatally shot the assailant after he ignored at least 20 demands to drop the weapon, said NYPD.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d402/live/d0298e10-35d0-11f1-8c7c-0fd6b3a59753.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T20:28:59.247817",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Scotland celebrate hard-fought victory over Wales",
       "link": "https://www.bbc.com/sport/rugby-union/articles/c9vlxj83dnwo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T18:09:53",
@@ -5488,20 +5499,37 @@
       "archived_at": "2026-04-04T10:29:36.440201",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Storm Dave triggers weather warning as 80mph gusts and travel disruption expected",
-      "link": "https://www.bbc.com/news/articles/c5y80nj5v50o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T09:04:11",
-      "description": "Power firm SSEN predicts wind guts could reach about 80mph in parts of the country over the Easter weekend.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29f4/live/20119ed0-2f79-11f1-9ab7-3fd8eff9efaa.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T10:29:36.440211",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Canadian leader Mark Carney spent half a MILLION dollars of taxpayers' money on plane food in his first year as Prime Minister",
+      "link": "https://www.dailymail.co.uk/news/article-15725253/mark-carney-canada-plane-food-spending.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T20:19:54",
+      "description": "The data was released after questions were filed in the Canadian House of Commons.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822537-0-image-m-25_1775934292441.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822537-0-image-m-25_1775934292441.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T20:29:02.561034",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sheriff's lieutenant charged with murder after one MILLION pounds of fireworks exploded in deadly fireball",
+      "link": "https://www.dailymail.co.uk/news/article-15725115/Sheriffs-lieutenant-charged-murder-one-MILLION-pounds-fireworks-exploded-deadly-fireball.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T19:42:55",
+      "description": "Samuel Machado, once a lieutenant with the Yolo County Sheriff's Office, was charged with murder after seven warehouse workers died in an explosion from fireworks that were allegedly his.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821755-0-image-a-68_1775933831339.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821755-0-image-a-68_1775933831339.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T20:29:02.561041",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Detective who interrogated Baby P's mother insists 'manipulative monster' should never be given a 'second chance' as she makes another bid for freedom",
       "link": "https://www.dailymail.co.uk/news/article-15725169/Detective-interrogated-Baby-Ps-mother-never-given-second-chance-bid-freedom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12471,34 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-09T08:00:33.381150",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Commuter chaos strikes peak hour as passengers are evacuated off trains and delays hit network",
-      "link": "https://www.dailymail.co.uk/news/article-15717927/Train-disruptions-Sydney-Parramatta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T06:15:40",
-      "description": "An incident at a major train station has triggered widespread delays ahead of peak hour.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/07/107760981-0-image-a-2_1775715318874.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/07/107760981-0-image-a-2_1775715318874.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T06:19:45.839629",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ben Roberts-Smith could be dealt another blow as Aussies make huge demand after his arrest - but not everyone agrees",
-      "link": "https://www.dailymail.co.uk/news/article-15717475/Ben-Roberts-Smith-war-memorial-Hall-Valour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T06:13:50",
-      "description": "The former SAS corporal was charged in relation to alleged incidents in Afghanistan between April 2009 and October 2012.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/03/107757419-0-image-m-59_1775700024212.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/03/107757419-0-image-m-59_1775700024212.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T06:19:45.839636",
       "feed_category": "News",
       "feed_visibility": "both"
     }
