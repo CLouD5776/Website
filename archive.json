@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Fortune favours the brave - will Slot start Ngumoha against PSG?",
+      "link": "https://www.bbc.com/sport/football/articles/cddqgqgyerjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T20:52:09",
+      "description": "Liverpool's 17-year-old star Rio Ngumoha stole the show against Fulham - will Arne Slot now start him against PSG?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b495/live/cfef02d0-35e0-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-11T21:01:03.540673",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Knifeman calling himself 'Lucifer' slashes three at NYC's Grand Central",
       "link": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T18:08:46",
@@ -5488,20 +5499,65 @@
       "archived_at": "2026-04-04T11:51:44.355272",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Trump seeks $152m to reopen notorious Alcatraz prison",
-      "link": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T09:17:10",
-      "description": "Former Speaker of the House Nancy Pelosi calls the plan a \"stupid notion that would be nothing more than a waste of taxpayer dollars\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddcf/live/782ba7e0-3006-11f1-a1a5-7555ad51d4c1.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T10:29:36.440201",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "ICE issues detainer for migrant released by Obama who 'tricked 15-year-old boy by posing as a girl online, then shot him dead'",
+      "link": "https://www.dailymail.co.uk/news/article-15725341/ICE-detainer-Yefry-Archaga-Elvir-honduras-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T20:53:41",
+      "description": "Federal immigration authorities asked Missouri authorities not to release Yefry Archaga-Elvir, the 18-year-old suspect accused of fatally shooting Miles Young, 15. Archaga-Elvir is an illegal migrant.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107699549-0-Yefry_Archaga_Elvir_an_18_year_old_Honduran_man_was_charged_in_c-a-4_1775939510080.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107699549-0-Yefry_Archaga_Elvir_an_18_year_old_Honduran_man_was_charged_in_c-a-4_1775939510080.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T21:01:06.148725",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fur flies over plans for dog hotel in posh area of London - as locals fear 'torturous' noise of howling animals would be 'unbearable' at night",
+      "link": "https://www.dailymail.co.uk/news/article-15725375/dog-hotel-London-locals-torturous-noise-howling.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T20:50:03",
+      "description": "Fido's of Fitzrovia, which describes itself as a 'health and wellness centre for dogs and cats', submitted an application for a change of use of its ground floors and basement levels.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823233-0-image-m-18_1775940211619.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823233-0-image-m-18_1775940211619.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T21:01:06.148731",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Strange mystery of canine corpses that eerily washed ashore on remote island is finally solved",
+      "link": "https://www.dailymail.co.uk/news/article-15725225/mystery-canine-corpses-island-solved-washington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T20:47:11",
+      "description": "The carcasses were roughly around the same size, with some about the length of a woman's size 9.5 shoe and others slightly larger.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107822675-0-image-m-110_1775939493738.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107822675-0-image-m-110_1775939493738.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T21:01:06.148732",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Kamala Harris is obliterated as she uses 'cringey' mob boss accent to attack Trump",
+      "link": "https://www.dailymail.co.uk/news/article-15724735/kamala-harris-mob-boss-accent-ridcule-trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T20:35:55",
+      "description": "Kamala Harris used a mob boss accent while mimicking what she believe Donald Trump acted like while dealing with foreign leaders.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822143-0-image-m-29_1775936794478.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822143-0-image-m-29_1775936794478.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-11T21:01:06.148734",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Canadian leader Mark Carney spent half a MILLION dollars of taxpayers' money on plane food in his first year as Prime Minister",
       "link": "https://www.dailymail.co.uk/news/article-15725253/mark-carney-canada-plane-food-spending.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12443,62 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-09T08:00:33.381138",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump warns of 'bigger, and better, and stronger' strikes unless 'real agreement' is reached and says troops will stay put while clock ticks on deal",
-      "link": "https://www.dailymail.co.uk/news/article-15717747/Trump-Iran-peace-deal-nuclear-Hormuz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T07:46:45",
-      "description": "President Donald Trump threatened to strike Iran 'bigger, and better and stronger' if peace talks were to fall through.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/08/107761567-0-image-a-66_1775718523485.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/08/107761567-0-image-a-66_1775718523485.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T08:00:33.381145",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tourette's sufferer at heart of BAFTA racial slur row hits out at BBC for not reaching out to directly apologise - after probe found corporation breached editorial standards",
-      "link": "https://www.dailymail.co.uk/news/article-15717871/Tourettes-sufferer-heart-BAFTA-racial-slur-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T07:46:19",
-      "description": "John Davidson made headlines across the world when he shouted the N-word while black actors Michael B Jordan and Delroy Lindo were on stage to present an award during the ceremony.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/07/106585869-0-image-m-13_1775717386227.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/07/106585869-0-image-m-13_1775717386227.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T08:00:33.381147",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "This vile monster was due to be kicked out the country - but a government loophole has let the evil paedophile STAY...and the reason will disgust you",
-      "link": "https://www.dailymail.co.uk/news/article-15717281/uk-paedophile-visa-deportation-australia-overturned.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T07:13:47",
-      "description": "Edward James Kilbey, 83, was found guilty of molesting a nine-year-old girl in the presence of another kid before spending 14 months in jail in 2024.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/01/107756001-0-image-a-39_1775693178148.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/01/107756001-0-image-a-39_1775693178148.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T08:00:33.381149",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Shoppers face surge in 'dynamic pricing' as supermarkets adopt digital technology to change grocery prices based on demand",
-      "link": "https://www.dailymail.co.uk/news/article-15717889/Shoppers-surge-dynamic-pricing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T07:09:20",
-      "description": "The Bank of England warned that these 'market-responsive pricing tools' will be adopted by one in three companies in the coming year, up from one in five in the year before.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/08/107761559-0-image-m-32_1775718507058.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/08/107761559-0-image-m-32_1775718507058.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T08:00:33.381150",
       "feed_category": "News",
       "feed_visibility": "both"
     }
