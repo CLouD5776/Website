@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
+      "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T19:25:54",
+      "description": "Donald Trump says that the US is going to start blockading the Strait of Hormuz. What does this mean in practice?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1bb/live/05ad5410-368d-11f1-8c7c-3d26c824719f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T19:37:05.178267",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Ideal start' - Rose chips in for birdie on first hole",
+      "link": "https://www.bbc.com/sport/golf/videos/clyj1n78ywlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T18:44:44",
+      "description": "Justin Rose recovers from missing the opening green by chipping in for a birdie to move to nine-under par to get his final round of the 2026 Masters under way at Augusta National Golf Club.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb52/live/183df690-369f-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T19:37:05.178275",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged",
       "link": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T17:45:11",
@@ -5477,31 +5499,93 @@
       "archived_at": "2026-04-05T17:27:03.245622",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "I bought the theme park I loved growing up",
-      "link": "https://www.bbc.com/news/articles/cn43le7y7kyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T06:08:30",
-      "description": "New owner James Mellors says he wants to put Lightwater Valley back on the map.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7570/live/a5574a80-2f70-11f1-8612-f1cd1152f88c.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T16:41:43.734127",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The little girl's belongings that tell the story of the Aberfan disaster",
-      "link": "https://www.bbc.com/news/articles/c4glr4670n9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T06:07:14",
-      "description": "Marylyn Minett\u2019s school book, her dress and her brother\u2019s football will be preserved by Wales\u2019 national museum.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48e1/live/cc5600c0-2e91-11f1-90b9-6ffcd881a7dc.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T16:41:43.734135",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Second heartbreak for father who used yacht to track down missing sex-trafficked daughter, 15 - as he claims she was assaulted in the psych ward that was supposed to rehabilitate her",
+      "link": "https://www.dailymail.co.uk/news/article-15726499/dad-rescued-daughter-boat-long-island-sex-trafficked-sues.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T19:30:08",
+      "description": "Frank Gervasi, who rescued his daughter from a sex-trafficking ring in December 2024, has filed a suit against two state facilities, alleging she was assaulted during recovery.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/16/93462323-0-image-m-15_1776008142882.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/16/93462323-0-image-m-15_1776008142882.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T19:37:08.802862",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Named and shamed, the areas of England where children are getting away with sexual and violent assaults... so is yours one of them?",
+      "link": "https://www.dailymail.co.uk/news/article-15567639/Named-shamed-areas-England-children-getting-away-sexual-violent-assaults.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T19:27:32",
+      "description": "One in six local justice bodies across England and Wales hasn't locked up a single underage serious offender in the last year, data shows.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/10/107380299-0-image-m-3_1775641096373.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/10/107380299-0-image-m-3_1775641096373.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T19:37:08.802868",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Passengers are 'left vomiting and passing out' after becoming stranded in Milan airport while trying to fly home to UK 'because of border check queues'",
+      "link": "https://www.dailymail.co.uk/news/article-15726889/Passengers-vomiting-stranded-Milan-airport-border-check-queues.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T19:27:30",
+      "description": "Around 100 Easyjet customers were reportedly abandoned in the Italian city while waiting to the board a flight to Manchester due to three-hour queues at\u00a0Linate airport.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/19/107839655-0-image-m-6_1776019204150.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/19/107839655-0-image-m-6_1776019204150.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T19:37:08.802869",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Four men are arrested over 'murder' of Brit businessman whose body was found in a sack in Kenya",
+      "link": "https://www.dailymail.co.uk/news/article-15726879/Four-men-arrested-murder-Brit-businessman-Kenya.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T19:22:25",
+      "description": "Campbell Scott vanished in the Kenyan capital of Nairobi last year, where he had travelled for a work conference.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/19/95963571-0-image-m-97_1776019324807.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/19/95963571-0-image-m-97_1776019324807.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T19:37:08.802871",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment Putin strolls into Easter Sunday service in Moscow - as Elon Musk's father watches on - after 'breaking Kremlin-declared ceasefire'",
+      "link": "https://www.dailymail.co.uk/news/article-15726821/Putin-Easter-Sunday-service-Moscow-Elon-Musks-father-Kremlin-declared-ceasefire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T19:08:14",
+      "description": "The Russian president casually walked into the midnight cathedral service, apparently wearing heavy makeup, and looking weary and tired.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/18/107838447-0-image-m-39_1776016075608.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/18/107838447-0-image-m-39_1776016075608.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T19:37:08.802872",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hunt for Brit pensioner, 70, who has vanished from a holiday home in Spain",
+      "link": "https://www.dailymail.co.uk/news/article-15726801/Hunt-Brit-pensioner-70-vanished-holiday-home-Spain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T19:04:38",
+      "description": "Retired builder and locksmith Paul Daniel Strange, 70, disappeared on Thursday from the coastal town of Palomares in Almeria, where he had been enjoying a getaway at a friend's apartment.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/19/107839679-0-image-a-3_1776019154492.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/19/107839679-0-image-a-3_1776019154492.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T19:37:08.802873",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Three teenage girls are seen laughing and playing in waterfall before slipping on rocks and drowning in India",
       "link": "https://www.dailymail.co.uk/news/article-15726557/three-teenage-girls-waterfall-slipping-rocks-drowning-India.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12415,90 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-09T17:56:31.108487",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Met Police officer who abused girlfriends and bled them dry of thousands of pounds for his gambling habit is found guilty of fraud and coercive control",
-      "link": "https://www.dailymail.co.uk/news/article-15719549/Met-Police-officer-abused-girlfriends-guilty-fraud-coercive-control.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T17:51:01",
-      "description": "Lewis Rollins, 28, who was a police constable in the Met's Central West Command, used women he met on dating apps to fund his out-of-control betting habit.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775031-0-image-m-13_1775753829385.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775031-0-image-m-13_1775753829385.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T17:56:31.108493",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Medical examiner who joked about Trump's 'big beautiful obituary' quickly placed on administrative leave",
-      "link": "https://www.dailymail.co.uk/news/article-15718991/medical-examiner-bob-pfalzgraf-trump-social-media-post.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T17:50:35",
-      "description": "After being contacted via multiple calls, messages and emails, Pfalzgraf told the Daily Mail on Thursday that he had 'no comment until the city speaks to me.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775719-0-image-m-52_1775753938453.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/17/107775719-0-image-m-52_1775753938453.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T17:56:31.108494",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "DC still so rough stores are putting CANDY behind locked plexiglass barriers despite Trump's no-nonsense federal crime crackdown",
-      "link": "https://www.dailymail.co.uk/news/article-15718703/dc-cvs-stores-candy-locked-glass-theft-crime.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T17:50:08",
-      "description": "Stealing is by far the most common crime recorded in the city, and theft rates have been steadily climbing since the start of the year, despite the federal crackdown.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/15/107771347-0-image-m-4_1775744912467.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/15/107771347-0-image-m-4_1775744912467.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T17:56:31.108496",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Fury as American DJ who is under investigation in Australia over 'anti-Semitic' speech is set to perform at London and Birmingham gigs next month",
-      "link": "https://www.dailymail.co.uk/news/article-15719569/American-DJ-Australia-alleged-antisemitic-rhetoric-perform-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T17:49:43",
-      "description": "DJ Haram, whose real name is Zubeyda Muzeyyen, is lined up for gigs at Phonox in London and Supersonic Festival in May.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776089-0-image-m-6_1775754735972.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776089-0-image-m-6_1775754735972.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T17:56:31.108497",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Flustered NATO chief squirms to explain why he called Trump 'Daddy' as he reveals closed-door plea to the President on staying in the alliance",
-      "link": "https://www.dailymail.co.uk/news/article-15719599/NATO-chief-Trump-Daddy-President-alliance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T17:49:15",
-      "description": "During a high-stakes encounter hours after a closed-door meeting with Donald Trump in the White House , the Daily Mail cornered NATO Secretary-General Mark Rutte with a blunt query.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107774877-0-image-m-22_1775754619885.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107774877-0-image-m-22_1775754619885.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T17:56:31.108498",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Britain braced for 'bumper' summer of Channel small boat crossings after French President Emmanuel Macron says 'Non!' to Shabana Mahmood's plan to intercept and return Channel migrants to France",
-      "link": "https://www.dailymail.co.uk/news/article-15719639/Britain-braced-bumper-summer-Channel-small-boat-crossings-French-President-Emmanuel-Macron-says-Non-Shabana-Mahmoods-plan-intercept-return-Channel-migrants-France.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T17:46:42",
-      "description": "Talks over a new migrant patrol deal were plunged into chaos after Shabana Mahmood pushed for Border Force vessels to be able to intercept boats.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776081-0-image-a-7_1775754819391.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776081-0-image-a-7_1775754819391.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T17:56:31.108500",
       "feed_category": "News",
       "feed_visibility": "both"
     }
@@ -20027,6 +20027,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Lady Gaga and Doechii Set to Storm Charts with \u2018Runway\u2019 from The Devil Wears Prada 2",
+      "link": "https://www.music-news.com/news/UK/188288/Lady-Gaga-and-Doechii-Set-to-Storm-Charts-with-Runway-from-The-Devil-Wears-Prada-2",
+      "pubDate": "2026-04-12T17:55:00",
+      "description": "The fashion world and the music charts are colliding this week as Lady Gaga and Doechii look set to claim the highest new entry on the Official Singles Chart.",
+      "thumbnail": "https://www.music-news.com/images/news/Lady-Gaga5.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Lady-Gaga5.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T19:37:16.389831",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Yungblud opens UK arena tour with triumphant Sheffield homecoming",
       "link": "https://www.music-news.com/news/UK/188289/Yungblud-opens-UK-arena-tour-with-triumphant-Sheffield-homecoming",
