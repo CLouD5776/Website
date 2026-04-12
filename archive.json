@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Eamonn Holmes 'doing OK' after stroke, his son says",
+      "link": "https://www.bbc.com/news/articles/c4gdlg7je4po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T11:01:52",
+      "description": "\"We're taking it one step at a time,\" Declan Holmes said, as his 66-year-old father recovers in hospital.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d11f/live/c61cca30-365d-11f1-a35a-c10911d2db0e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T11:55:17.661865",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
       "link": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T10:07:58",
@@ -5488,20 +5499,65 @@
       "archived_at": "2026-04-05T02:06:32.600647",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Trump's 'hellfire ultimatum' to Iran and 'PM slams Kanye gig'",
-      "link": "https://www.bbc.com/news/articles/c0e79re1w89o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T00:10:55",
-      "description": "The ongoing US-Israeli war against Iran and a Kanye West gig are top stories in the papers this Sunday.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cefc/live/3c89c040-307a-11f1-a79a-77e93010d956.png",
-      "enclosure": null,
-      "archived_at": "2026-04-05T02:06:32.600649",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "What has Trump achieved with his war in Iran? Ayatollah replaced with his extremist son, regime unchanged but emboldened, economic chaos, and NATO torn apart...",
+      "link": "https://www.dailymail.co.uk/news/article-15714921/Trump-achieved-war-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T11:49:30",
+      "description": "The US President rowed back on threats to take Iran in 'one night' and branded his bombing onslaught a resounding success from a 'military standpoint and from every other standpoint'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744795-0-image-m-22_1775663073075.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/08/16/107744795-0-image-m-22_1775663073075.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:55:21.174263",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman in her 20s is 'raped by several men outside church' after being followed leaving night club",
+      "link": "https://www.dailymail.co.uk/news/article-15726397/Woman-raped-outside-church-surrey-police.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T11:44:10",
+      "description": "The female, aged in her 20s, was attacked between 2am and 4am on Saturday outside the Epsom Methodist Church on Ashley Road, in Epsom, Surrey.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/12/107833809-0-image-m-13_1775994122797.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/12/107833809-0-image-m-13_1775994122797.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:55:21.174272",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Britain's bases are NOT up for negotiation with Cyprus despite country's president demanding 'frank' talks over 'colonial' outposts, insists Labour minister",
+      "link": "https://www.dailymail.co.uk/news/article-15726359/Britains-bases-NOT-negotiation-Cyprus-despite-countrys-president-demanding-frank-talks-colonial-outposts-insists-Labour-minister.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T11:42:18",
+      "description": "Al Carns, the Armed Forces minister, said the legal status of the UK's bases at Akrotiri and Dhekelia is 'rock solid'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/12/107353743-0-image-m-37_1775994056049.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/12/107353743-0-image-m-37_1775994056049.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:55:21.174274",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "REVEALED: Tougher Garda line against fuel blockaders - including use of pepper-spray - was taken only when Commissioner Justin Kelly was forced to cut short family holiday after garda\u00ed learned far-right agitators had 'infiltrated' genuine protest groups",
+      "link": "https://www.dailymail.co.uk/news/article-15725873/Tougher-Garda-line-against-fuel-blockaders-including-use-pepper-spray-taken-Commissioner-Justin-Kelly-forced-cut-short-family-holiday-garda-learned-far-right-agitators-infiltrated-genuine-protest-groups.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T11:39:41",
+      "description": "This tougher approach saw an end to blockades that caused severe fuel shortages... but questions are being asked in Government as to why it took so long for this response to take effect.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/02/107827975-0-image-m-71_1775958565332.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/02/107827975-0-image-m-71_1775958565332.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:55:21.174275",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Psychiatrist, 67, faces road ban if he speeds at 22mph again after breaking 'unjust and unnecessary' limit",
       "link": "https://www.dailymail.co.uk/news/article-15726257/Psychiatrist-faces-road-ban-22mph-breaking-unjust-limit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12445,65 +12501,51 @@
       "archived_at": "2026-04-09T16:47:07.212428",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "My droopy, hooded eyelids were making me look old and tired. Then I had this non-invasive 'lunchbreak' treatment that's left me looking and feeling years younger, brighter and fresher than ever",
-      "link": "https://www.dailymail.co.uk/lifestyle/beauty/article-15716711/My-droopy-hooded-eyelids-making-look-old-tired-non-invasive-lunchbreak-treatment-thats-left-looking-feeling-years-younger-brighter-fresher-ever.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T11:26:14",
-      "description": "Of all the skin issues that come with ageing, I didn't think my eyelids would become one of my top concerns. But in my mid-40s, I began to notice how the shape of my eyes seemed to have changed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/19/107748621-0-image-a-4_1775672427223.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/19/107748621-0-image-a-4_1775672427223.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212430",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Wife of ex-Man United academy starlet Joe Thompson, who died aged 36, is pregnant with his child from frozen embryo - a year on from his death",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15718455/Man-United-academy-player-Joe-Thompson-widow-pregnant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T11:25:03",
-      "description": "The wife of late footballer Joe Thompson has revealed that she is pregnant with his baby after undergoing IVF treatment using frozen embryos.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/12/107766655-0-image-m-30_1775732831242.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/12/107766655-0-image-m-30_1775732831242.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212431",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Iconic Olympics venue where Brits won six gold medals is devastated by fire, as shocking images reveal the damage caused",
-      "link": "https://www.dailymail.co.uk/sport/olympics/article-15718443/Shocking-images-major-damage-sporting-venue-major-fire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T11:10:54",
-      "description": "Drone footage showed flames raging on the velodrome roof in Rio, which required a 14-hour operation involving more than 80 firefighters to put the blaze out at the Olympic venue.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/11/107765261-0-image-m-33_1775729335150.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/11/107765261-0-image-m-33_1775729335150.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212432",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Named: The mystery blonde who has charmed golf's 'forever-single' star - Viktor Hovland's new girlfriend is unmasked as a Norwegian teacher after they kissed at The Masters",
-      "link": "https://www.dailymail.co.uk/sport/golf/article-15718131/Named-mystery-blonde-golf-forever-single-star-Viktor-Hovland-new-girlfriend-unmasked-Masters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T10:55:45",
-      "description": "Viktor Hovland has been dubbed golf's 'forever single' star for some time, but that all changed when he appeared with his new girlfriend at the par three contest at the Masters.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/10/107764153-0-image-a-8_1775726303160.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/10/107764153-0-image-a-8_1775726303160.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212434",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "How Liverpool fans' furious protests sent a loud and clear message to its owners during their win over Fulham with The Kop looking 'naked' and why Virgil van Dijk is pleading for a resolution, writes LEWIS STEELE",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15713143/How-Liverpool-fans-furious-protests-sent-loud-clear-message-owners-win-Fulham-Kop-looking-naked-Virgil-van-Dijk-pleading-resolution-writes-LEWIS-STEELE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T11:15:12",
+      "description": "LEWIS STEELE: Liverpool captain Virgil van Dijk has called on the Anfield hierarchy to find a solution with fans who are the 'heart and soul' of the club over protests over ticket prices.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/12/107833151-0-image-a-41_1775992397443.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/12/107833151-0-image-a-41_1775992397443.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:55:24.519348",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fortress Tynecastle playing its part as Hearts take another step towards immortality",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726383/Fortress-Tynecastle-playing-Hearts-step-immortality.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T11:49:23",
+      "description": "Players experiencing complete silence in the few seconds before stepping up to strike a penalty between the posts isn't uncommon in this part of Edinburgh.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/12/107833831-0-image-a-5_1775994444564.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/12/107833831-0-image-a-5_1775994444564.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:55:24.519359",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sunderland vs Tottenham - Premier League LIVE: Latest score, team news and updates as Roberto De Zerbi's tenure begins as he aims to rescue side from relegation plus Crystal Palace vs Newcastle and Nottingham Forest vs Aston Villa",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15709451/Sunderland-vs-Tottenham-Crystal-Palace-vs-Newcastle-Nottingham-Forest-vs-Aston-Villa-2025-26-Premier-League-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T11:47:29",
+      "description": "Follow Daily Mail Sport's live blog for Sunday's 2pm Premier League games featuring Sunderland vs Tottenham,\u00a0Crystal Palace vs Newcastle and Nottingham Forest vs Aston Villa.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791623-0-image-a-16_1775817581753.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791623-0-image-a-16_1775817581753.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:55:24.519360",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Bruno Fernandes reveals what Man United must do for him to remain at the club - as Red Devils captain gives verdict on Michael Carrick",
       "link": "https://www.dailymail.co.uk/sport/football/article-15726251/Bruno-Fernandes-reveals-Man-United-remain-club-Red-Devils-captain-gives-verdict-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
