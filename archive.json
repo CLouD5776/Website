@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Hungarians decide whether to end 16 years of Orb\u00e1n rule and elect rival",
+      "link": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-11T23:25:42",
+      "description": "Most polls favour P\u00e9ter Magyar, who fronts a grassroots party, but PM Viktor Orb\u00e1n has been in a defiant mood.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce3a/live/552fe3d0-35e9-11f1-ba3f-938a430be8f6.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T00:00:55.456906",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Faisal Islam: Why the government is relaxed about Chinese car imports",
       "link": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-11T23:12:58",
@@ -5488,20 +5499,79 @@
       "archived_at": "2026-04-04T19:55:21.287190",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Liverpool's FA Cup capitulation ramps up pressure on Slot",
-      "link": "https://www.bbc.com/sport/football/articles/crk1zl0ll1zo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T17:43:14",
-      "description": "Nobody would have believed that 12 months on from Liverpool's title win, a fanbase so united behind its team and its manager would be, at best, apathetic as to whether Arne Slot remains in the job.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd42/live/dc0bd840-3040-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T18:42:13.762315",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Manchester Airport engineer 'lucky to be alive' after plunging 35ft out of open Jet2 plane door due to 'mix-up with steps'",
+      "link": "https://www.dailymail.co.uk/news/article-15725677/Manchester-Airport-engineer-fall-Jet2-plane-door.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T23:53:44",
+      "description": "The man, believed to be in his 60s, plunged\u00a0from the back of the Jet2 aircraft when he mistakenly believed there would steps on the other side of the door.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107818327-0-The_man_believed_to_be_an_aircraft_engineer_is_said_to_have_fall-a-47_1775950722537.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107818327-0-The_man_believed_to_be_an_aircraft_engineer_is_said_to_have_fall-a-47_1775950722537.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T00:00:56.983550",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Artemis II astronaut Reid Wiseman's awestruck words after textbook touchdown: 'This planet is impossibly beautiful at every altitude I've seen it... surface to 250,000 miles'",
+      "link": "https://www.dailymail.co.uk/news/article-15725635/Artemis-II-astronaut-words-planet-touchdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T23:49:12",
+      "description": "Last night, Artemis II Nasa astronaut Reid Wiseman posted a photograph of the sun's rays gently poking through clouds.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107826085-0-image-m-11_1775950435271.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107826085-0-image-m-11_1775950435271.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T00:00:56.983557",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Surveillance footage that Bahamas police are NOT releasing after wife vanished from boat: Video raises troubling questions for husband... as new 'missing hours' theory emerges",
+      "link": "https://www.dailymail.co.uk/news/article-15724577/surveillance-video-brian-hooker-wife-lynette-overboard-bahamas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T23:45:23",
+      "description": "The surveillance film from Marsh Harbour Boat Yard on the island of Great Abaco is being analyzed by Royal Bahamas Police as part of the investigation and has not been released.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107818839-0-image-m-67_1775927374890.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107818839-0-image-m-67_1775927374890.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T00:00:56.983560",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "MARY CARR: Make no mistake, the MIGA movement has hijacked these fuel protests... and they're happy to create chaos while ordinary working people suffer",
+      "link": "https://www.dailymail.co.uk/news/article-15725351/protest-nasty-MIGA-movement-far-right-cause.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T23:40:40",
+      "description": "On O'Connell Street, the gleaming lines of trucks and top-of-the-range tractors look straight out of a dealer's brochure at the Ploughing Championship, rather than a hard-working farm or quarry.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107826047-0-image-m-17_1775950074014.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107826047-0-image-m-17_1775950074014.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T00:00:56.983561",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Why a pet duck has become the must-have animal accessory for the rich and famous",
+      "link": "https://www.dailymail.co.uk/news/article-15725307/Why-pet-duck-animal-accessory-rich-famous.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T23:30:23",
+      "description": "A growing number of celebrities are getting ducks, including Stacey Solomon, 36, who recently introduced her Instagram followers to two new additions: Daisy and Delilah Solomon-Swash.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/88699305-0-image-m-24_1775950164278.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/88699305-0-image-m-24_1775950164278.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T00:00:56.983563",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Inner workings of Tiger Woods' relationship with Vanessa Trump revealed... and the relative he's particularly close with",
       "link": "https://www.dailymail.co.uk/news/article-15724917/Tiger-Woods-Vanessa-Trump-relationship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12429,76 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-09T09:47:30.921003",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Rory McIlroy joined by wife Erica at Augusta for Masters Par 3 Contest as golf star gears up for title defense",
-      "link": "https://www.dailymail.co.uk/sport/golf/article-15716879/rory-mcilroy-erica-stoll-augusta-masters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T06:45:28",
-      "description": "Walking the grounds of Augusta National, Erica Stoll was pictured caddying for her husband, defending champion Rory McIlroy.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/20/107750365-0-image-a-4_1775677820612.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/20/107750365-0-image-a-4_1775677820612.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921005",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "This pay rise trick can save you \u00a320,000 on your mortgage: Here's how to make it work for you",
-      "link": "https://www.dailymail.co.uk/money/mortgageshome/article-15711983/This-pay-rise-trick-save-you-20-000-mortgage-Heres-make-work-you.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T05:00:49",
-      "description": "Homeowners due to remortgage this year could consider a clever 'pay rise' hack that could save them tens of thousands of pounds in the long run.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/15/107713047-0-image-a-13_1775570840548.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/15/107713047-0-image-a-13_1775570840548.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921007",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "CHRISTOPHER STEVENS reviews Twenty Twenty Six: Pin-sharp satire as W1A wally Ian heads Stateside for the World Cup",
-      "link": "https://www.dailymail.co.uk/tv/article-15716895/CHRISTOPHER-STEVENS-reviews-Twenty-Twenty-Six.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T02:32:57",
-      "description": "FIFA is a four-letter word. Few people would argue about that, after the Federation Internationale de Football Association awarded\u00a0Donald Trump its inaugural Peace Prize last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/22/107750931-0-image-m-11_1775683274542.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/22/107750931-0-image-m-11_1775683274542.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921009",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Gasps in court as smirking Gilgo serial killer confesses how he murdered eight young women",
-      "link": "https://www.dailymail.co.uk/crime-desk/article-15714333/gilgo-beach-killer-guilty-plea-rex-heuermann.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T02:27:29",
-      "description": "Inside Suffolk County Court on Wednesday, the hulking architect finally admitted to murdering eight victims during a reign of terror between 1993 and 2010.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/02/101906995-0-The_alleged_victims_clockwise_from_left_Maureen_Brainard_Barnes_-a-25_1775611534233.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/02/101906995-0-The_alleged_victims_clockwise_from_left_Maureen_Brainard_Barnes_-a-25_1775611534233.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921010",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Revealed: The best picnic items for 2026 after testing 219 snacks and dips - and the supermarket with the top 'picky bits'",
-      "link": "https://www.dailymail.co.uk/lifestyle/article-15716355/Good-Housekeeping-best-picnic-items-2026-testing-snacks-dips.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T01:16:24",
-      "description": "The great British picnic has had a gourmet glow-up and it's not just sausage rolls and scotch eggs anymore.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/08/23/107752805-0-image-a-3_1775686374005.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/08/23/107752805-0-image-a-3_1775686374005.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T09:47:30.921012",
       "feed_category": "News",
       "feed_visibility": "both"
     }
