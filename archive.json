@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "At least 30 feared dead in crush at Haitian tourist site",
+      "link": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T07:22:28",
+      "description": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d6/live/002434b0-3637-11f1-ab65-2568beff0c21.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T16:34:47.472997",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sinner beats Alcaraz to return to world top spot",
+      "link": "https://www.bbc.com/sport/tennis/articles/c8dl5qge2r8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T16:19:03",
+      "description": "Jannik Sinner is back to world number one after beating Carlos Alcaraz in the final in Monte Carlo.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6a9/live/aaf12aa0-3688-11f1-991f-79d0d362bba2.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T16:34:47.473006",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Four arrested over murder of Scottish businessman in Kenya",
       "link": "https://www.bbc.com/news/articles/cx2e8kj3yn4o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T14:47:55",
@@ -5477,31 +5499,37 @@
       "archived_at": "2026-04-05T10:29:41.721293",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Durham tell fans to stay away from ground after storm damage",
-      "link": "https://www.bbc.com/sport/cricket/articles/cew7yerz9epo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T09:19:14",
-      "description": "Spectators are told to stay away from Durham's Riverside ground at Chester-le-Street after it was hit by Storm Dave overnight.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8abc/live/f152aec0-30ce-11f1-8eb1-c3991b038902.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T09:35:41.179225",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Keir Starmer 'concerned' over Kanye West UK festival dates",
-      "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T07:52:04",
-      "description": "The rapper has drawn significant criticism over his antisemitic and offensive remarks in recent years.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b969/live/d25257c0-30bd-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T08:38:53.184669",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Texas construction worker dies after being buried alive in horror accident",
+      "link": "https://www.dailymail.co.uk/news/article-15726491/conroe-texas-construction-worker-trench-collapse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T16:18:00",
+      "description": "A construction worker has died after being crushed to death when a utility trench collapsed at a subdivision in the Houston suburb of Conroe.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/16/107835651-0-image-m-56_1776007155042.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/16/107835651-0-image-m-56_1776007155042.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T16:34:50.642069",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "North Carolina woman pranks her boyfriend into thinking she cheated on him - but it horribly backfired",
+      "link": "https://www.dailymail.co.uk/news/article-15726461/charlotte-north-carolina-boyfriend-girlfriend-prank-shooting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T15:53:17",
+      "description": "Shyied Ivey was pranked by his girlfriend of five months after she told him she cheated on him, but he things quickly turned dark. Ivey, 20, is  convicted felon with an extensive criminal history.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835567-0-image-m-6_1776003070150.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835567-0-image-m-6_1776003070150.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T16:34:50.642078",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Nightmare at Coachella as light fixture falls on festival attendee and 'gashed her head open'",
       "link": "https://www.dailymail.co.uk/news/article-15726457/coachella-light-fixture-falls-festival-attendee-gashed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12473,37 +12501,37 @@
       "archived_at": "2026-04-09T16:47:07.212401",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Tajikistan national is found guilty of attempted rape and sexual assault of girl, 13, after trying to chat to her on train using phone translator app",
-      "link": "https://www.dailymail.co.uk/news/article-15719331/Tajikistan-national-guilty-attempted-rape-girl-train-translator-app.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T16:02:58",
-      "description": "Abdulmanon Aliev, 50, approached the child on the train from Southend, Essex, to London on June 16 last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107772805-0-image-m-16_1775747872916.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107772805-0-image-m-16_1775747872916.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212402",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "World-famous Professor of Greek at Cambridge gave female student unwanted 'slobbery kiss' and put tongue in her ear",
-      "link": "https://www.dailymail.co.uk/news/article-15719133/Professor-Greek-Cambridge-female-student-unwanted-kiss-tongue-ear.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T16:00:36",
-      "description": "Simon Goldhill (pictured) has 'stepped away' from teaching after complaints about his professional and sexual misconduct were upheld.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107773857-0-image-a-33_1775749412785.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107773857-0-image-a-33_1775749412785.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212404",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Falkirk 3-6 Rangers: Danny Rohl's Jekyll and Hyde side come roaring back after criminal first-half display",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726637/Falkirk-3-6-Rangers-Danny-Rohls-Jekyll-Hyde-come-roaring-criminal-half-display.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T16:03:53",
+      "description": "On their last visit to Falkirk back in October, Rangers laboured to a 1-1 draw which would ultimately cost Russell Martin his job.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/16/107836921-0-image-a-5_1776009541173.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/16/107836921-0-image-a-5_1776009541173.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T16:34:53.152027",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Nottingham Forest 1-1 Aston Villa: A draw feels like a missed opportunity for both sides, writes TOM COLLOMOSSE - as hosts bounce back after Murillo's early disaster",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15713191/Nottingham-Forest-1-1-Aston-Villa-Premier-League-Tom-Collomosse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T15:58:15",
+      "description": "TOM COLLOMOSSE AT THE CITY GROUND: Given Aston Villa's wretched fortunes at this ground in recent seasons, Unai Emery was probably happy to escape with a point.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/16/107836883-0-image-a-51_1776009194581.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/16/107836883-0-image-a-51_1776009194581.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T16:34:53.152032",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Parents of EFL stars at the SAME CLUB are engaged in 'heated disagreement' as security step in, the bizarre Premier League procedure keeping admin staff busy - and why irate Arsenal fans don't have a leg to stand on: INSIDE SPORT",
       "link": "https://www.dailymail.co.uk/sport/football/article-15726315/Parents-EFL-stars-CLUB-engaged-heated-disagreement-security-step-bizarre-Premier-League-procedure-keeping-admin-busy-irate-Arsenal-fans-dont-leg-stand-INSIDE-SPORT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
