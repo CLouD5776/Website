@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Paddington musical dominates Olivier Awards",
+      "link": "https://www.bbc.com/news/articles/c3v6n7wqd07o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T21:07:35",
+      "description": "The beloved bear's stage show won seven prizes including best new musical and three acting prizes.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef4/live/1134e920-36a5-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T21:31:18.875731",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Swinney says Scottish independence referendum could be held in 2028",
+      "link": "https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T21:07:24",
+      "description": "The SNP leader made the claim in the BBC's televised debate ahead of next month's Scottish election.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38dd/live/5ba483f0-36a8-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T21:31:18.875736",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man City smell blood - why Arsenal should fear title rivals",
+      "link": "https://www.bbc.com/sport/football/articles/cpd58x923jyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T21:21:58",
+      "description": "Manchester City capitalise on Arsenal's latest slip-up in style - and now Pep Guardiola's side must be feared as the Premier League title race hots up.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c8/live/278b5820-36b5-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T21:31:18.875745",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trio of birdies send Rose to the top of the leaderboard",
+      "link": "https://www.bbc.com/sport/golf/videos/cdj7mll1kx7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T20:56:21",
+      "description": "Justin Rose hits three birdies in a row to move up from fourth to the top of the leaderboard in the final round of The Masters at Augusta National Golf Club.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b96/live/9ea8feb0-36b2-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T21:31:18.875747",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'A truly historic moment': BBC reports from Hungary as P\u00e9ter Magyar set to become new PM",
       "link": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T19:59:45",
@@ -5455,53 +5499,65 @@
       "archived_at": "2026-04-05T20:28:39.178132",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Leeds draw Chelsea, Man City face Southampton in FA Cup semis",
-      "link": "https://www.bbc.com/sport/football/articles/c4g6j43yzy5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T18:58:53",
-      "description": "Leeds United will play Chelsea at Wembley after reaching the FA Cup semi-finals for the first time in almost four decades, while Manchester City take on Southampton.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee2/live/a57cfe30-3121-11f1-b5dc-b3661fbf84ea.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T19:31:38.817348",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Family 'utterly devastated' after boy, 13, killed in crash as two charged",
-      "link": "https://www.bbc.com/news/articles/c8jkm74yvzjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T18:11:36",
-      "description": "Noah Campbell's family say he was a \"talented, versatile sportsman\" who was \"incredibly well-liked\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9c/live/baab9960-310d-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T18:50:59.055016",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Leinster beat Edinburgh in Champions Cup thriller",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/cly7rxnv3nwo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T18:22:23",
-      "description": "Leinster turn on the style in the second half to beat Edinburgh 49-31 in a chaotic Champions Cup last-16 game at the Aviva Stadium.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee03/live/ca717660-310f-11f1-8078-2797c344ad7d.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T18:50:59.055028",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Critchley stars as Essex wrap up big win at Hants",
-      "link": "https://www.bbc.com/sport/cricket/articles/ckge4myxxemo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T18:10:43",
-      "description": "Essex wrap up an innings and 137 run victory at Hampshire as Matt Critchley takes 5-9 to go with his knock of 173.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a862/live/3764f530-311a-11f1-b4eb-f70081c45e1f.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T18:50:59.055030",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Scottish Elections Debate Sketch by Stephen Daisley: In the audience, a very nice lady admitted she might not vote at all...",
+      "link": "https://www.dailymail.co.uk/news/article-15727095/Scottish-Elections-Debate-Sketch-Stephen-Daisley-audience-nice-lady-admitted-not-vote-all.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T21:16:10",
+      "description": "The first debate of the Holyrood election campaign put the six party leaders in a room in Paisley. In the audience a nice lady confessed she might not vote.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/21/107841001-0-image-a-3_1776025858678.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/21/107841001-0-image-a-3_1776025858678.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T21:31:21.324797",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Warning to drivers as Hyundai recalls 300,000 cars over life-threatening glitch",
+      "link": "https://www.dailymail.co.uk/news/article-15726527/hyundai-cars-recall-seatbelt-anchor-detach.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T21:11:43",
+      "description": "The car giant issued an urgent warning on Friday, recalling over 294,000 vehicles due to a defect that could cause a seatbelt anchor to detach.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840537-0-image-m-14_1776024157754.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840537-0-image-m-14_1776024157754.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T21:31:21.324803",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tragedy as one teen dies and four are rushed to hospital in horror 'DUI' car crash - days after their school hosted 'emotional' course about the 'lasting impact of impaired driving'",
+      "link": "https://www.dailymail.co.uk/news/article-15726839/novato-california-car-crash-teens-dead-drunk-driving.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T21:10:05",
+      "description": "A group of five teenagers were involved in a suspected drunk driving car crash in Novato, California, on Saturday around 1am. Four of them were left severely injured and one died.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840797-0-image-m-22_1776026231237.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840797-0-image-m-22_1776026231237.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T21:31:21.324804",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Catholic nuns who look after dying patients lash out against New York gender rules which could see them jailed",
+      "link": "https://www.dailymail.co.uk/news/article-15726639/catholic-nuns-dying-patients-new-york-gender-jailed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T21:10:03",
+      "description": "A group of Catholic nuns filed a lawsuit opposing a bill in New York that could land them behind bars or suffering hefty fines.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/20/107838387-0-image-m-74_1776022799198.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/20/107838387-0-image-m-74_1776022799198.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T21:31:21.324806",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Into the kill zone: Trump orders US sailors to seize Hormuz after he destroyed Iran's navy... but shadow fleet still lies in wait",
       "link": "https://www.dailymail.co.uk/news/article-15726949/Trump-US-Hormuz-Strait-Iran-IRGC-Fleet-Tehran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12445,65 +12501,23 @@
       "archived_at": "2026-04-09T20:11:44.646561",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Jenny Gilruth hits a bum note with Dolly Parton photo at library put under threat by SNP cuts",
-      "link": "https://www.dailymail.co.uk/news/article-15719977/Brass-neck-Dolly-photo-library-threat-SNP-Dundee-Jenny-Gilruth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T19:07:46",
-      "description": "A senior Nationalist minister yesterday came under fire for holding a campaign photocall in a library which has faced closure because of SNP cuts.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777611-0-image-a-5_1775759319777.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777611-0-image-a-5_1775759319777.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T20:11:44.646562",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "After years of SNP's 'broken promises' Scottish Tories are geared up to end nation's roads HELL",
-      "link": "https://www.dailymail.co.uk/news/article-15719955/After-years-SNPs-broken-promises-Scottish-Tories-geared-end-nations-roads-HELL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T19:04:05",
-      "description": "The upgrade of a series of key roads across Scotland must be fast-tracked after the Holyrood election, according to the Scottish Conservatives.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777485-0-image-a-106_1775758701776.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777485-0-image-a-106_1775758701776.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T19:07:08.955461",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Melania Trump makes shock statement saying 'lies' linking her to Jeffrey Epstein 'must stop'",
-      "link": "https://www.dailymail.co.uk/news/article-15720049/Melania-Trump-makes-shock-statement-saying-lies-linking-Jeffrey-Epstein-stop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T19:03:21",
-      "description": "First Lady Melania Trump is pushing back on claims she was linked to the disgraced financier and sex offender Jeffrey Esptein.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777809-0-image-m-72_1775760648060.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777809-0-image-m-72_1775760648060.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T19:07:08.955466",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Teenage boy is rushed to hospital after being shot while walking near library: Police hunting 'two men in balaclavas'",
-      "link": "https://www.dailymail.co.uk/news/article-15719843/Teenage-boy-hospital-shot-near-library-Police-hunting-two-men-balaclavas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T19:01:31",
-      "description": "Police were called to reports of a teenager with a serious leg injury outside Fartown Library in Huddersfield just after 9pm last night.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777535-0-image-m-12_1775758911094.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777535-0-image-m-12_1775758911094.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T19:07:08.955467",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Pubs 'are already nearly booked for England's World Cup games'... even though kick off is months away",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726979/Pubs-booked-Englands-World-Cup-months.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T21:11:59",
+      "description": "Although England do not take on Croatia until June 17, advanced bookings to secure entry or prime seats in pubs or venues are being snapped up much faster than in previous years.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/21/107841363-0-image-a-2_1776026921899.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/21/107841363-0-image-a-2_1776026921899.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T21:31:22.791078",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Pep Guardiola reveals what he told Man City stars after Arsenal's slip up as he sends message to title rivals after victory over Chelsea",
       "link": "https://www.dailymail.co.uk/sport/football/article-15727019/Pep-Guardiola-told-Man-City-Arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
