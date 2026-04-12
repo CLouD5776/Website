@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Legendary Bollywood singer Asha Bhosle dies aged 92",
+      "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T08:24:01",
+      "description": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbda/live/0f5c1ea0-ffdf-11ef-b50e-9d086302645f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T09:11:03.075617",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "What is going on with Garnacho?",
+      "link": "https://www.bbc.com/sport/football/articles/c8x71741kkdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T05:50:40",
+      "description": "Alejandro Garnacho is struggling to stand out at Chelsea - so can the \u00a340m signing from Manchester United still realise his potential at Stamford Bridge?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e7a/live/4880f450-3335-11f1-bf11-9546df991775.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T09:11:03.075629",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "I'm the only medic on the island \u2013 but I wish I'd brought some trousers",
       "link": "https://www.bbc.com/news/articles/cgld98z7nn9o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-04T05:23:44",
@@ -5477,31 +5499,79 @@
       "archived_at": "2026-04-05T02:06:32.600656",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'Something we have never seen before': Artemis II crew describe far side of Moon",
-      "link": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T22:45:08",
-      "description": "Astronauts on Artemis II have entered the third day of their mission around the far side of the Moon and back again.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f88a/live/01804880-3074-11f1-b608-c51f8a3bd27b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T23:32:08.531965",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Streetwear and crop tops take World Cup fashion to new heights",
-      "link": "https://www.bbc.com/news/articles/cr71vne5k70o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T23:01:44",
-      "description": "Inspired by football culture on and off the pitch, this year's kit collections mix archive classics with streetwear staples.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57d0/live/108df2a0-2c50-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T23:32:08.531971",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Singer whose viral blues song skyrocketed to top of UK charts is revealed as AI",
+      "link": "https://www.dailymail.co.uk/news/article-15726193/Viral-blues-singer-UK-charts-revealed-AI.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T09:03:44",
+      "description": "Eddie Dalton's song Another Day Old peaked at No. 2 and No. 3 on the official UK singles chart but it has been revealed that Dalton's velvet voice is actually just lines of generated code.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/09/107831187-0-image-m-21_1775984218656.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/09/107831187-0-image-m-21_1775984218656.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T09:11:04.336601",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The Ivy owner Richard Caring dubbed the 'King of Mayfair' sells his restaurant empire to Abu Dhabi sheikh in \u00a31.4bn deal",
+      "link": "https://www.dailymail.co.uk/news/article-15726203/Ivy-owner-Richard-Caring-restaurant-Abu-Dhabi-sheikh.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T09:03:07",
+      "description": "The businessman's majority stake has been snapped up by Diafa, an affiliate of huge holding company IHC Group. The group is owned by\u00a0Sheikh Tahnoon bin Zayed al-Nahyan.",
+      "thumbnail": "https://i.dailymail.co.uk/1/2026/04/12/09/54456949-0-image-m-23_1775984111898.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1/2026/04/12/09/54456949-0-image-m-23_1775984111898.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T09:11:04.336606",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "More than HALF of Keir Starmer's Cabinet ministers set to lose their seats at a general election with 12 falling to Reform and three to the Greens",
+      "link": "https://www.dailymail.co.uk/news/article-15726191/More-HALF-Keir-Starmers-Cabinet-ministers-set-lose-seats-general-election-12-falling-Reform-three-Greens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T08:57:25",
+      "description": "The More in Common survey found 16 out of the 22 Labour MPs who form the Prime Minister's top team would be kicked out of the House of Commons.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/09/107831135-0-image-m-6_1775983428693.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/09/107831135-0-image-m-6_1775983428693.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T09:11:04.336608",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Dramatic end to urgent manhunt for gang rapist Michael Angok who escaped immigration detention in Australia",
+      "link": "https://www.dailymail.co.uk/news/article-15726247/Immigration-detention-rapist-Sydney-Australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T08:50:00",
+      "description": "Michael Angok was being transported from Villawood Immigration Detention to a western Sydney hospital for medical treatment when he escaped on Wednesday and was on the run for five days.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/09/107785367-0-A_desperate_manhunt_for_immigration_detainee_Michael_Angok_enter-a-14_1775983243192.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/09/107785367-0-A_desperate_manhunt_for_immigration_detainee_Michael_Angok_enter-a-14_1775983243192.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T09:11:04.336609",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Judge him on what he does, not what he says': Labour's Wes Streeting tells Brits to ignore Donald Trump's 'outrageous' posts as he admits UK-US relations are 'strained'",
+      "link": "https://www.dailymail.co.uk/news/article-15726225/Judge-does-not-says-Labours-Wes-Streeting-tells-Brits-ignore-Donald-Trumps-outrageous-posts-admits-UK-US-relations-strained.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T08:25:15",
+      "description": "The Health Secretary said the US President should be judged on 'what he does, not just what he says' following his expletive-laden comments about the Iran war.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/09/107830761-0-image-m-5_1775981884597.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/09/107830761-0-image-m-5_1775981884597.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T09:11:04.336610",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "LISA SNELL: Do WhatsApp parents know too much about our kids' school lives?",
       "link": "https://www.dailymail.co.uk/news/article-15724509/WhatsApp-parents-know-kids-school-lives.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12429,76 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-09T16:47:07.212446",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Red Ed strikes again! Miliband blamed as OpenAI pulls out of \u00a331bn investment plans over high energy costs in huge blow to Labour's bid to make Britain an 'AI superpower'",
-      "link": "https://www.dailymail.co.uk/news/article-15718965/Red-Ed-strikes-Miliband-blamed-OpenAI-pulls-31bn-investment-plans-high-energy-costs-huge-blow-Labours-bid-make-Britain-AI-superpower.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:56:35",
-      "description": "The California-based firm pointed to high energy costs and regulatory uncertainty for its decision to pause its Stargate UK project.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770373-0-image-m-5_1775742401828.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770373-0-image-m-5_1775742401828.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313634",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Mystery as glamorous Atlanta CEO, 36, is found shot dead inside her $80,000 Range Rover Sport",
-      "link": "https://www.dailymail.co.uk/news/article-15715533/woman-shot-dead-atlanta-georgia-range-rover.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:51:30",
-      "description": "Qualeisha Barnes, 36, was fatally shot inside of her white Range Rover on Wednesday\u00a0around 1.30am in Atlanta, Georgia. She was found in the drivers seat with multiple gunshot wounds.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/15/107769983-0-image-m-8_1775744359283.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/15/107769983-0-image-m-8_1775744359283.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313642",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Child who accused Michael Jackson of sexually abusing him told police about marks on star's body he could only have seen if singer was naked, new documentary reveals",
-      "link": "https://www.dailymail.co.uk/news/article-15718787/Child-accused-Michael-Jackson-sexually-abusing-police-marks-stars-body-singer-naked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:49:15",
-      "description": "Jackson was accused of molesting Jordan Chandler, who he had initially met at a restaurant when he was 'very, very little', before they eventually began visiting each other years later.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107768965-0-image-m-6_1775741150897.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107768965-0-image-m-6_1775741150897.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313643",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Nantucket artist, 62, shocked after plane DOOR burst open while she was flying from her $1.6m home to attend funeral",
-      "link": "https://www.dailymail.co.uk/news/article-15718789/plane-door-open-flying-video-nantucket-boston.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:47:25",
-      "description": "Lizbet Carroll Fuller, 62, was traveling to Virginia with a stop in Boston on Cape Air flight around 7am Monday when the incident happened about ten minutes after takeoff.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769457-0-image-m-20_1775742528047.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769457-0-image-m-20_1775742528047.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313645",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Seattle homeless camps with CHIMNEYS erupting from makeshift homes overwhelm residents who demand woke Mayor take more action",
-      "link": "https://www.dailymail.co.uk/news/article-15715809/seattle-homeless-camps-chimneys-streets-mayor-wilson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:46:10",
-      "description": "Seattle officials and residents have expressed concern that the newly elected democratic socialist mayor's plan to address the city's homelessness crisis has been ineffective.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/15/107751263-0-image-m-16_1775743467228.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/15/107751263-0-image-m-16_1775743467228.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313646",
       "feed_category": "News",
       "feed_visibility": "both"
     }
