@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "US-Iran talks ending without deal disappointing, Streeting says",
+      "link": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T09:28:04",
+      "description": "The health secretary says the UK - which is not involved in the talks - wants to see a deal that ends Iran's nuclear ambitions.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44dd/live/ee5bf930-364e-11f1-837e-77d669b4895f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T10:05:50.480553",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Legendary Bollywood singer Asha Bhosle dies aged 92",
       "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T08:24:01",
@@ -5488,20 +5499,23 @@
       "archived_at": "2026-04-05T02:06:32.600655",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Is season running away from frazzled Arsenal?",
-      "link": "https://www.bbc.com/sport/football/articles/cvg0350nlwzo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T23:32:08",
-      "description": "Arsenal must regroup after their hopes of a quadruple were wrecked in two weeks by successive defeats for the first time this season.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fddc/live/5826ece0-307c-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T02:06:32.600656",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Inside the women at war: The mistresses, allies and enemies fighting over Australia's fallen hero Ben Roberts-Smith",
+      "link": "https://www.dailymail.co.uk/news/article-15714273/ben-roberts-smith-women-trial-mistress-wife-accusations-afghanistan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T09:39:15",
+      "description": "Of all the days in Ben Roberts-Smith's long and ultimately failed defamation trial, the one that stood out had nothing to do with war crimes  - and everything to do with women.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/05/107758683-0-image-m-28_1775882161797.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/05/107758683-0-image-m-28_1775882161797.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T10:05:51.618525",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Singer whose viral blues song skyrocketed to top of UK charts is revealed as AI",
       "link": "https://www.dailymail.co.uk/news/article-15726193/Viral-blues-singer-UK-charts-revealed-AI.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12485,20 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-09T16:47:07.212445",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump's NATO payback: President considers taking US troops out of 'unhelpful' allied nations' bases",
-      "link": "https://www.dailymail.co.uk/news/article-15718201/Trumps-NATO-payback-President-considers-taking-US-troops-unhelpful-allied-nations-bases.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T15:35:24",
-      "description": "Donald Trump is considering punishing members of NATO that he believes were unhelpful to the US and Israel in the war against Iran by pulling American troops out of the country's bases.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107773329-0-image-a-4_1775748414987.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107773329-0-image-a-4_1775748414987.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212446",
       "feed_category": "News",
       "feed_visibility": "both"
     }
