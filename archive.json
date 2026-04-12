@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Deep-fried food banned in new plans for school dinners",
+      "link": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T21:55:13",
+      "description": "Schools are being told to cut down on sugary desserts, and provide more vegetables and whole grains.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3914/live/ff412930-34ed-11f1-be84-6f37fe66395b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T22:30:12.230273",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Iran talks were a major test for JD Vance. How did he do?",
+      "link": "https://www.bbc.com/news/articles/c5y7k4y0veyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T22:22:42",
+      "description": "It was a difficult mission, negotiating on behalf of a president whose messaging on the war has been mixed from the start.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7041/live/070dfd10-36af-11f1-8589-db320d1899d1.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T22:30:12.230284",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Cold sore virus left mum with brain damage",
+      "link": "https://www.bbc.com/news/articles/c0lenp4r70eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T20:45:20",
+      "description": "Helen could never have imagined a virus she may have had for years would leave her with brain damage.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71e2/live/db4d9ce0-2dc5-11f1-b372-019434fa5473.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T22:30:12.230287",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "McIlroy sinks back-to-back birdies to take three-shot lead",
+      "link": "https://www.bbc.com/sport/golf/videos/cgld5xrz2nro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T22:02:24",
+      "description": "Rory McIlroy birdies the 12th and 13th holes to move to 13-under par and extend his lead in the final round of The Masters at Augusta National Golf Club.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dd9/live/cd4d2cc0-36ba-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T22:30:12.230290",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Paddington musical dominates Olivier Awards",
       "link": "https://www.bbc.com/news/articles/c3v6n7wqd07o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T21:07:35",
@@ -5455,53 +5499,51 @@
       "archived_at": "2026-04-05T20:59:37.221439",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "O'Neill hails Celtic spirit as they stay in title hunt",
-      "link": "https://www.bbc.com/sport/football/articles/c93e0gxp1zyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T20:36:03",
-      "description": "Celtic interim manager Martin O'Neill hails his team's spirit after they battle to a crucial victory in the Scottish Premiership at Dundee.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ff/live/48931b20-3124-11f1-806c-8f5b2321746a.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T20:59:37.221445",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Leeds beat West Ham on penalties in thriller to reach FA Cup semis",
-      "link": "https://www.bbc.com/sport/football/videos/c3r3vd42vrzo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T20:35:53",
-      "description": "Leeds United survive West Ham's fightback from 2-0 down to 2-2 as a penalty shootout victory sends the West Yorkshire side to their first FA Cup semi-final since 1987.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/863d/live/39464c70-3127-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T20:59:37.221447",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump declares victory in Iran war after rescue, but threats to US operation still loom",
-      "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T20:02:01",
-      "description": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/26e619b0-311e-11f1-a70d-7539c9c1712e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T20:28:39.178124",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Britain's Cameron becomes two-weight world champion",
-      "link": "https://www.bbc.com/sport/boxing/articles/c3w35q6pzg3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T20:03:03",
-      "description": "Britain's Chantelle Cameron put on a dominant performance to beat Michaela Kotaskova and claim the vacant WBO light-middleweight world title at the Olympia in London.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711a/live/2639ec70-3124-11f1-806c-8f5b2321746a.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T20:28:39.178132",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "STEPHEN DAISLEY: We could throw our hands in the air and give up... or we could hold our noses and try a little tactical voting",
+      "link": "https://www.dailymail.co.uk/news/article-15726923/STEPHEN-DAISLEY-throw-hands-air-hold-noses-try-little-tactical-voting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T22:25:37",
+      "description": "For opponents of the SNP's 19-year-long squat in Bute House, it is tempting to fall into despair over this election.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/19/107839849-0-image-a-7_1776020001914.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/19/107839849-0-image-a-7_1776020001914.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T22:30:13.474283",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Swinney savaged over NHS waiting times shambles - First Minister on rack in explosive televised leaders' debate",
+      "link": "https://www.dailymail.co.uk/news/article-15727159/Swinney-savaged-NHS-waiting-times-shambles-Minister-rack-explosive-televised-leaders-debate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T22:16:12",
+      "description": "A rattled John Swinney was savaged over the SNP's dismal record on the NHS on live TV last night. In the first debate, the FM was hammered by audience members.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/22/107841567-0-image-m-4_1776029729518.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/22/107841567-0-image-m-4_1776029729518.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T22:30:13.474289",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Italian restaurant worker loses it one minute into his shift by punching his colleague and his wife in their faces",
+      "link": "https://www.dailymail.co.uk/news/article-15726765/restaurant-DeNunzio-Pennsylvania-punch-face.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T22:08:14",
+      "description": "McKinley Pace Jr, 35, was just one minute into his shift at DeNunzio's restaurant in Jeanette, Pennsylvania on March 27 when the alleged attack began, police said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/23/107841989-0-image-m-5_1776031684290.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/23/107841989-0-image-m-5_1776031684290.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T22:30:13.474291",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Scottish Elections Debate Sketch by Stephen Daisley: In the audience, a very nice lady admitted she might not vote at all...",
       "link": "https://www.dailymail.co.uk/news/article-15727095/Scottish-Elections-Debate-Sketch-Stephen-Daisley-audience-nice-lady-admitted-not-vote-all.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12459,51 +12501,37 @@
       "archived_at": "2026-04-09T20:11:44.646557",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Read Melania Trump's furious denial of being a victim of Jeffrey Epstein in FULL",
-      "link": "https://www.dailymail.co.uk/news/article-15720107/read-melania-trump-denial-epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T19:27:52",
-      "description": "Melania Trump issued a ferocious denial of 'lies' linking her to disgraced pedophile Jeffrey Epstein. Read her speech in full.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777815-0-image-a-15_1775760850042.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777815-0-image-a-15_1775760850042.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T20:11:44.646558",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Student, 19, killed himself just weeks after finding his girlfriend dead in university halls, inquest hears",
-      "link": "https://www.dailymail.co.uk/news/article-15719947/student-killed-weeks-finding-girlfriend-dead-university-halls-inquest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T19:24:16",
-      "description": "A troubled student who was devastated after finding his girlfriend dead in her university halls took his own life just weeks later in a double teenage tragedy.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777671-0-image-m-15_1775759856593.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777671-0-image-m-15_1775759856593.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T20:11:44.646560",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "RUSSELL FINDLAY: It's a national disgrace! The Romans made a better job of building roads in Scotland than John Swinney has managed 2,000 years later...",
-      "link": "https://www.dailymail.co.uk/news/article-15719951/RUSSELL-FINDLAY-national-disgrace-Romans-better-job-building-roads-Scotland-John-Swinney-managed-2-000-years-later.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T19:22:10",
-      "description": "The two main roads serving the south-west of Scotland are a national disgrace and embarrassment. It's hard to describe just how terrible they are.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/20/107778269-0-image-a-21_1775761566572.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/20/107778269-0-image-a-21_1775761566572.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T20:11:44.646561",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Rio Ferdinand sends warning to Mikel Arteta ahead of Arsenal's title showdown with Manchester City: 'You can't do that!'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726993/Rio-Ferdinand-sends-warning-Mikel-Arteta-ahead-Arsenals-title-showdown-Manchester-City-You-that.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T21:56:02",
+      "description": "Arsenal and City will do battle in a game that many are billing a title-decider next Sunday, after Pep Guardiola's side closed the gap at the top of the Premier League to six points.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/22/107842099-0-image-a-105_1776030163558.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/22/107842099-0-image-a-105_1776030163558.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T22:30:16.722143",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Defender Tony Ralston calls on Celtic's big-game players to use all their experience in title run-in",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726703/Defender-Tony-Ralston-calls-Celtics-big-game-players-use-experience-title-run-in.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T21:30:46",
+      "description": "Tony Ralston believes Celtic's winning mentality and experience of trophy gathering can give them the edge over rivals Hearts and Rangers in the title run-in.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/18/107838151-0-image-a-56_1776014607617.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/18/107838151-0-image-a-56_1776014607617.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T22:30:16.722150",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Pubs 'are already nearly booked for England's World Cup games'... even though kick off is months away",
       "link": "https://www.dailymail.co.uk/sport/football/article-15726979/Pubs-booked-Englands-World-Cup-months.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
