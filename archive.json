@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+      "link": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T10:07:58",
+      "description": "The star spent much of the gig singing along to YouTube videos of early hits like Baby and Never say Never.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d135/live/63585db0-365d-11f1-a35a-c10911d2db0e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T11:05:21.973000",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How Hungary's knife-edge election could impact the US and Russia",
+      "link": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T02:52:03",
+      "description": "The BBC's Europe Editor Katya Adler reports from Prime Minister Victor Orb\u00e1n's home town of Felsc\u00fat.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f7/live/165dbbc0-3619-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T11:05:21.973010",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T09:19:47",
+      "description": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f639/live/b14356e0-3650-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T11:05:21.973013",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "US-Iran talks ending without deal disappointing, Streeting says",
       "link": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T09:28:04",
@@ -5466,42 +5499,93 @@
       "archived_at": "2026-04-05T02:06:32.600649",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
-      "link": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T01:09:11",
-      "description": "The statue honours the late African giant pouched rat who sniffed out more than 100 landmines during his lifetime.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57be/live/78742bb0-308c-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T02:06:32.600651",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man charged over fatal shooting of baby in pram in New York",
-      "link": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T23:28:09",
-      "description": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/195b/live/8b2a0c70-307d-11f1-b556-69ab2f69cc04.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T02:06:32.600653",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Chisora beaten by Wilder in captivating bout",
-      "link": "https://www.bbc.com/sport/boxing/articles/c78lzl79q18o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T23:33:36",
-      "description": "Derek Chisora suffers a points defeat by Deontay Wilder in a wild heavyweight contest at London's O2 Arena in what is expected to be his final professional bout.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e0d/live/327ad7c0-307e-11f1-ad30-2b8c4efdeade.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T02:06:32.600655",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Psychiatrist, 67, faces road ban if he speeds at 22mph again after breaking 'unjust and unnecessary' limit",
+      "link": "https://www.dailymail.co.uk/news/article-15726257/Psychiatrist-faces-road-ban-22mph-breaking-unjust-limit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T11:02:46",
+      "description": "Dr Gary Duffield, from north London, will be banned from driving if he is hit with one more speeding ticket, it was reported.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/10/107831941-0-image-a-5_1775986423159.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/10/107831941-0-image-a-5_1775986423159.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:05:23.184717",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Museum accused of 'rewriting history' after telling visitors Victorian boys in dresses were 'gender fluid'",
+      "link": "https://www.dailymail.co.uk/news/article-15726259/Museum-accused-rewriting-history-telling-visitors-Victorian-boys-dresses-gender-fluid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T11:00:50",
+      "description": "The Bowes Museum in Barnard Castle, County Durham, claimed 'gender fluidity is not a recent development' because boys aged between four and seven wore dresses in the 19th century.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/10/107831749-0-image-m-14_1775987538391.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/10/107831749-0-image-m-14_1775987538391.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:05:23.184724",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The South Pacific islanders who worship the spirit of a US WW2 soldier they deem 'more powerful than Jesus' and hope he will one day return with crates of Coca-Cola",
+      "link": "https://www.dailymail.co.uk/news/article-15712847/The-South-Pacific-islanders-worship-spirit-US-WW2-soldier-deem-powerful-Jesus-hope-one-day-return-crates-Coca-Cola.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T10:41:19",
+      "description": "Described by followers as a white American - often imagined as a soldier from the Second World War era - it is believed that John Frum will one day return bearing vast wealth and modern goods.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107689805-0-A_leader_of_the_John_Frum_movement_poses_in_front_of_an_American-a-17_1775747373876.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107689805-0-A_leader_of_the_John_Frum_movement_poses_in_front_of_an_American-a-17_1775747373876.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:05:23.184726",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Furious' Wes Streeting hits out at 'unreasonable' doctors' union as he demands to 'speak to the organ grinders' in bid to end further strikes",
+      "link": "https://www.dailymail.co.uk/news/article-15726299/Furious-Wes-Streeting-hits-unreasonable-doctors-union-demands-speak-organ-grinders-bid-end-strikes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T10:33:38",
+      "description": "Resident doctors,\u00a0formerly known as junior doctors, in England remain on strike this weekend and will return to work at 6.59am on Monday following a six-day walkout.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/11/107832755-0-image-m-30_1775989595663.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/11/107832755-0-image-m-30_1775989595663.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:05:23.184727",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The Albanese government is slammed for 'wasting' $20million of taxpayer money on petrol 'propaganda'",
+      "link": "https://www.dailymail.co.uk/news/article-15726129/Australia-petrol-fuel-ad-Albanese.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T10:26:33",
+      "description": "Prepare to be bombarded with the 'every little bit helps' fuel campaign from Monday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/09/107831213-0-image-m-12_1775984205617.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/09/107831213-0-image-m-12_1775984205617.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:05:23.184728",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Two boys, aged 12 and 16, are arrested after 'crashing stolen car into taxi'",
+      "link": "https://www.dailymail.co.uk/news/article-15726301/Two-boys-arrested-crashing-stolen-car-taxi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T10:03:42",
+      "description": "The two-vehicle crash happened at the junction\u00a0of Winterbottom Avenue and Warren Road in\u00a0Hartlepool, County Durham, just before 5.25am on Sunday morning.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/11/107832505-0-image-a-40_1775988069588.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/11/107832505-0-image-a-40_1775988069588.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:05:23.184730",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Inside the women at war: The mistresses, allies and enemies fighting over Australia's fallen hero Ben Roberts-Smith",
       "link": "https://www.dailymail.co.uk/news/article-15714273/ben-roberts-smith-women-trial-mistress-wife-accusations-afghanistan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12417,93 +12501,37 @@
       "archived_at": "2026-04-09T16:47:07.212434",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Kind-hearted construction workers changed adorable stray dog's life after spotting her shivering in cold",
-      "link": "https://www.dailymail.co.uk/news/article-15718705/stray-dog-construction-workers-maryland-adoption.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T16:20:39",
-      "description": "After months dodging traffic on the Baltimore-Washington Parkway, stray terrier Susan Badger has been adopted by the driver who helped save her and his wife.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107769567-0-image-m-9_1775748481137.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107769567-0-image-m-9_1775748481137.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212439",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Husbands could be jailed for telling wives how to vote in local elections on May 7, watchdog warns",
-      "link": "https://www.dailymail.co.uk/news/article-15719467/Husbands-jailed-telling-wives-vote-local-election-watchdog-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T16:12:35",
-      "description": "The Electoral Commission spoke out about the 'serious crime' ahead of the local elections following reports of coercion in the recent Gorton and Denton by-election.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107774183-0-image-a-4_1775749887217.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107774183-0-image-a-4_1775749887217.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212440",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Wealthy Oklahoma couple at war with Trump Tower Chicago neighbors over loud sex claims and mockery of wife's hair extensions",
-      "link": "https://www.dailymail.co.uk/news/article-15718865/Trump-Tower-couple-loud-sex-Georgia-Clint-Litle-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T16:04:28",
-      "description": "Georgia Litle, 36, and her husband Clint Litle, 45, accused their snooty neighbors in Trump Tower Chicago of 'harassing' them by filing repeated complaints about their allegedly noisy sex.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107772629-0-image-m-34_1775747548856.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107772629-0-image-m-34_1775747548856.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212441",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Diddy reveals VERY audacious excuse for freak-off tapes that could see him freed from prison TODAY",
-      "link": "https://www.dailymail.co.uk/news/article-15719261/diddy-excuse-freak-tapes-free-prison-sentence-combs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T16:04:12",
-      "description": "Sean ' Diddy' Combs was jailed in July for four years on two counts of transportation to engage in prostitution, after being acquitted for more serious offenses including sex trafficking.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107773707-0-image-m-4_1775749574817.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107773707-0-image-m-4_1775749574817.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212442",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Shameless Portland shoplifter SUES store clerk who beat him up after he fled supermarket with cart full of T-bone steaks",
-      "link": "https://www.dailymail.co.uk/news/article-15718711/portland-oregon-shoplifter-sued-grocery-store-clerk-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T16:03:08",
-      "description": "Joshua Merkel is asking for $10,000 to cover the medical expenses and mental anguish he claims was inflicted on him during the failed heist in southwest Portland.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107774381-0-image-a-6_1775750392643.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107774381-0-image-a-6_1775750392643.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212444",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Kentucky woman, 22, and her unborn baby both shot dead after she honked her horn at man in restaurant parking lot",
-      "link": "https://www.dailymail.co.uk/news/article-15718839/kentucky-woman-unborn-baby-shot-parking-lot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T16:03:01",
-      "description": "Ava Woodcock, 22, was shot on Monday and died the following day in a shooting which also led to the death of her unborn baby.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107772937-0-image-m-6_1775748768867.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107772937-0-image-m-6_1775748768867.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212445",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Bruno Fernandes reveals what Man United must do for him to remain at the club - as Red Devils captain gives verdict on Michael Carrick",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726251/Bruno-Fernandes-reveals-Man-United-remain-club-Red-Devils-captain-gives-verdict-Michael-Carrick.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T10:40:56",
+      "description": "The 31-year-old's future remains a hot topic with just a year left on his contract, although United do have the option to extend that by a further 12 months.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/11/107832901-0-image-a-3_1775990453648.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/11/107832901-0-image-a-3_1775990453648.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:05:24.406630",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Marie-Louise Eta makes history by becoming the FIRST female managerial appointment within top five European leagues of men's football",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726227/Marie-Louise-Eta-makes-history-female-managerial-appointment-five-European-leagues-mens-football.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T10:12:35",
+      "description": "Marie-Louise Eta continues to be a trailblazer for women in men's football after landing her first managerial role at a top-flight club within Europe's big five leagues.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/11/107832571-0-image-a-9_1775988336616.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/11/107832571-0-image-a-9_1775988336616.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T11:05:24.406645",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Arsenal legend Tony Adams opens up on three decades since revealing his battles with alcohol, destructive addictions faced by current stars and what he sees when he looks at Tiger Woods",
       "link": "https://www.dailymail.co.uk/sport/football/article-15721819/Arsenal-legend-Tony-Adams-opens-three-decades-revealing-battles-alcohol-destructive-addictions-faced-current-stars-sees-looks-Tiger-Woods.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
