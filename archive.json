@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Streeting denies changing pay deal for resident doctors",
+      "link": "https://www.bbc.com/news/articles/cddqn72l1n9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T13:49:48",
+      "description": "A current six-day strike in England is set to end at 06:59 on Monday.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1698/live/d22e2ab0-365f-11f1-abac-374b30aeab76.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T14:45:10.860388",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US-Iran Talks Fail - What Happens Next?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nbywjx?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T14:20:00",
+      "description": "And what stopped an agreement?",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T14:45:10.860395",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Slade holds nerve to kick Exeter into semi-finals",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/c5y9433q159o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T13:56:50",
+      "description": "Nerveless Henry Slade kicked a 79th minute penalty against Benetton to book Exeter a European Challenge Cup semi-final.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c5d/live/757918a0-3675-11f1-a169-f7f3edc44bf8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T14:45:10.860397",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "After Iran talks falter, the big question is 'what happens next?'",
       "link": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T12:48:01",
@@ -5466,42 +5499,51 @@
       "archived_at": "2026-04-05T07:36:57.470001",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Woman, 95, breaks five more swimming world records",
-      "link": "https://www.bbc.com/news/articles/c248qzld0deo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T05:12:20",
-      "description": "Jane Asher has set more than 100 Masters swimming records throughout her career.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dd2/live/318ba9a0-2c48-11f1-b979-37139b7cb8c6.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T07:36:57.470003",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Rubbish' animal artist raises \u00a3500k for charity",
-      "link": "https://www.bbc.com/news/articles/c93elee2e41o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T16:50:28",
-      "description": "Money is still coming after he walked 500 miles [805 km] in March to raise funds for two charities.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef33/live/6f7bd970-059c-11f0-80aa-91c66fd5fcb4.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T07:36:57.470005",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Survival or FA Cup glory - which would you choose?",
-      "link": "https://www.bbc.com/sport/football/articles/c1l9ged3vq3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T05:25:09",
-      "description": "Leeds visit West Ham on Sunday in the FA Cup quarter-finals but both are also in a relegation scrap. Would you risk safety for glory?",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c33e/live/25fddfa0-2dc8-11f1-b5b8-bdb2c7a76bf2.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T06:16:31.034793",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Elon Musk doubles down on Ben Roberts-Smith comment following the Australian former SAS soldier being charged with war crimes",
+      "link": "https://www.dailymail.co.uk/news/article-15726441/Elon-Musk-Ben-Roberts-Smith-SAS-soldier-charged.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T14:32:29",
+      "description": "Roberts-Smith was arrested last week and has a bail hearing set for this week.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835737-0-image-a-77_1776004211154.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835737-0-image-a-77_1776004211154.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T14:45:13.569833",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pigtailed school social worker avoids prison after sexually assaulting sixth-grade boy",
+      "link": "https://www.dailymail.co.uk/news/article-15726439/social-worker-raped-student-sentenced-Colorado.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T14:18:48",
+      "description": "Colorado school social worker Chloe Castro was sentenced to 20 years to life of Sex Offender Supervision Probation for sexual relations with a sixth-grade boy.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/14/91804333-0-image-m-13_1775999855092.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/14/91804333-0-image-m-13_1775999855092.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T14:45:13.569839",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'DON'T move to Dubai!' British expat's warning after he moved to UAE for dream life and went from driving around in a Rolls to being tortured by police who broke his fingers",
+      "link": "https://www.dailymail.co.uk/news/article-15712839/DONT-Dubai-British-expats-warning-moved-UAE-dream-life-went-driving-Rolls-tortured-police-broke-fingers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T14:12:41",
+      "description": "When 63-year-old Albert Douglas landed at Heathrow airport\u00a0after four years languishing in prison in Dubai, the first thing he did was kiss the ground.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107769545-0-image-m-14_1775815379747.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107769545-0-image-m-14_1775815379747.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T14:45:13.569841",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump BLOCKADES Strait of Hormuz as US Navy is deployed to mine-riddled powder keg after Iran rejected peace",
       "link": "https://www.dailymail.co.uk/news/article-15726477/Trump-BLOCKADES-Strait-Hormuz-US-Navy-deployed-riddled-powder-keg-Iran-rejected-peace.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12459,51 +12501,37 @@
       "archived_at": "2026-04-09T16:47:07.212409",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Financial adviser who 'swindled millions from pensioners' by claiming he'd protect their savings from inheritance tax was 'sick of being poor', court told",
-      "link": "https://www.dailymail.co.uk/news/article-15719291/Financial-adviser-millions-pensioners-savings-inheritance-tax-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T15:19:15",
-      "description": "Raymond Simpson, 78, is accused of defrauding elderly homeowners so he could buy land in Spain for property developments between January 2014 and April 2018 Southwark Crown Court heard.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/106977477-0-image-m-13_1775746942659.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/106977477-0-image-m-13_1775746942659.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212410",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Golf legend Gary Player, 90, leaves TV viewers cringing with 'creepy' remark to presenter at The Masters",
-      "link": "https://www.dailymail.co.uk/sport/golf/article-15718517/gary-player-sky-sports-masters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T15:09:37",
-      "description": "Sky Sports' Anna Jackson was working at Augusta National's annual Par 3 event on the eve of golf's most iconic tournament when she tried to grab a quick word with 90-year-old Player.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/12/107766363-0-image-m-18_1775733380574.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/12/107766363-0-image-m-18_1775733380574.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212412",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Labour cuts red tape on EV charging points by slashing installation costs by 95%",
-      "link": "https://www.dailymail.co.uk/money/electriccars/article-15718919/Labour-cuts-red-tape-EV-charging-points-slashing-installation-costs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T15:09:05",
-      "description": "Ministers promise it will also accelerate the installation process, meaning new devices can be fitted in just days rather than waiting months while seeking approval from councils.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770645-0-image-a-2_1775743159840.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770645-0-image-a-2_1775743159840.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212413",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Chelsea vs Manchester City - Premier League LIVE: Latest score, team news and updates as Blues look to avoid a third-straight defeat but face uphill task against Pep Guardiola's title-chasers",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15709453/Chelsea-vs-Manchester-City-2025-26-Premier-League-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T14:35:28",
+      "description": "Follow Daily Mail Sport's live blog for the latest score, team news and updates as Chelsea host Manchester City at Stamford Bridge in the Premier League.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835867-0-image-a-3_1776003955794.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835867-0-image-a-3_1776003955794.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T14:45:14.981832",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Blackpool fan tragically passes away after medical emergency halted League One clash for 30 minutes on Saturday",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726537/Blackpool-fan-passes-away-medical-emergency.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T14:39:49",
+      "description": "The game was paused in the second-half as medical personnel rushed to the aid of the supporter in the stands. Sadly, the fan's passing was confirmed on Sunday in a club statement.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835877-0-image-a-11_1776004212363.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835877-0-image-a-11_1776004212363.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T14:45:14.981841",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Man United legend celebrates his nephew as he signs for his former club aged 17... and the 39-year-old Premier League winner is still playing for a shock club!",
       "link": "https://www.dailymail.co.uk/sport/football/article-15726409/Man-United-legend-celebrates-nephew-signs-former-club-aged-17-39-year-old-Premier-League-winner-playing-shock-club.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
