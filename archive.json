@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+      "link": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T04:20:37",
+      "description": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9267/live/5ce7f850-3617-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T05:52:05.275950",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "What next for heavyweight division after Fury's win?",
+      "link": "https://www.bbc.com/sport/boxing/articles/cx240p2ynn0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T05:27:00",
+      "description": "What does Tyson Fury's comeback win mean for the heavyweight scene? And who could the Gypsy King fight next?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/108f/live/a9122420-3609-11f1-ad2c-033f10e2d2ef.png",
+      "enclosure": null,
+      "archived_at": "2026-04-12T05:52:05.275966",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Iran chose 'not to accept our terms', Vance says after negotiations",
       "link": "https://www.bbc.com/news/videos/cqj82xn9n8eo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T02:33:35",
@@ -5477,31 +5499,51 @@
       "archived_at": "2026-04-04T21:35:49.523185",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Sale hold off Quins comeback to reach Champions Cup last eight",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/clyrvd272y2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T21:30:40",
-      "description": "Sale Sharks hold off a second-half comeback from Harlequins to progress to the Champions Cup quarter-finals.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5980/live/e1ba9a20-306c-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T21:35:49.523193",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Search for missing airman presents serious test for US",
-      "link": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T20:13:41",
-      "description": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f49/live/002930e0-305c-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T20:27:02.063115",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Brian Hooker says 'cascade of failures' that he will 'never forgive' himself for is to blame for wife going overboard in Bahamas in phone call to friend",
+      "link": "https://www.dailymail.co.uk/news/article-15725869/Brian-Hooker-Bahamas-lynette-phone-call.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T05:47:31",
+      "description": "In new phone call audio, Hooker can be heard telling a friend that he is 'never going to forgive' himself for what went wrong the day of his wife's disappearance.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/05/107700689-0-The_couple_had_been_married_for_more_than_two_decades_and_lived_-a-6_1775969474672.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/05/107700689-0-The_couple_had_been_married_for_more_than_two_decades_and_lived_-a-6_1775969474672.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T05:52:07.857144",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Eric Swalwell 'violated immigration law by paying Brazilian migrant nanny using campaign funds', complaints say",
+      "link": "https://www.dailymail.co.uk/news/article-15725739/eric-swalwell-paid-illegal-migrant-nanny-campaign-funds-complaint.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T05:32:28",
+      "description": "The allegations are the latest scandal engulfing Swalwell, who was was hit with bombshell accusations of sexual assault and misconduct\u00a0by four women including a former staffer on Friday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/06/107829169-0-image-m-37_1775970866470.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/06/107829169-0-image-m-37_1775970866470.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T05:52:07.857150",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Albanese government breaks silence after peace talks end without agreement between the US and Iran",
+      "link": "https://www.dailymail.co.uk/news/article-15726037/albanese-iran-war-penny-wong.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T04:21:43",
+      "description": "The Foreign Minister has spoken out following the collapse of peace talks between Iran and the United States in Islamabad.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/04/107828833-0-image-a-3_1775965592388.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/04/107828833-0-image-a-3_1775965592388.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T05:52:07.857153",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Killed by convenience? Eating ready meals may raise men's risk of prostate disease",
       "link": "https://www.dailymail.co.uk/health/article-15725297/Killed-convenience-ready-meals-mens-risk-prostate-disease.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12457,48 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-09T15:05:58.313655",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Driver who smashed into lamppost and killed girlfriend, 20, after racing car is given absolute discharge",
-      "link": "https://www.dailymail.co.uk/news/article-15718831/Driver-killed-girlfriend-20-street-race-let-judge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:26:51",
-      "description": "Sophie Brimble died aged 20 after Jay Bayliss, then 23, crashed his car at 70mph on a 30mph residential road while racing Neil Brooks nearly a decade ago on July 26, 2017.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/106859965-0-image-m-13_1775742751192.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/106859965-0-image-m-13_1775742751192.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313656",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Shock as popular graduate of The King's School dies in accident - the second tragedy to strike the elite institution in a matter of months after his classmate was swept out to sea during Schoolies",
-      "link": "https://www.dailymail.co.uk/news/article-15718687/Kings-School-Sydney-student-death-Oscar-Todd.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T13:54:21",
-      "description": "The private schoolboy was in North Queensland when the incident unfolded.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768389-0-image-m-14_1775737684045.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768389-0-image-m-14_1775737684045.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313657",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Deep red Pennsylvania town of 2,000 people is outraged by Trump plans to construct MEGA ICE detention center for 7,500 migrants there",
-      "link": "https://www.dailymail.co.uk/news/article-15718669/Tremont-Pennsylvania-ICE-detention-center-warehouse-migrants-protest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T13:28:08",
-      "description": "Residents in the deep-red small Pennsylvania town of Tremont say they are outraged by the Trump administration's plans to open a huge ICE detention center in their community.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768253-0-image-a-10_1775738685910.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/13/107768253-0-image-a-10_1775738685910.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313659",
       "feed_category": "News",
       "feed_visibility": "both"
     }
@@ -19705,6 +19705,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Bruno Mars kicks off tour, receives key to Vegas Strip",
+      "link": "https://www.music-news.com/news/UK/188283/Bruno-Mars-kicks-off-tour-receives-key-to-Vegas-Strip",
+      "pubDate": "2026-04-12T03:00:00",
+      "description": "Bruno Mars has kicked off his tour in Las Vegas.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188283.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188283.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T05:52:14.306761",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Bruno Mars kicks off \u2018The Romantic Tour\u2019 with record-breaking Las Vegas launch",
       "link": "https://www.music-news.com/news/UK/188282/Bruno-Mars-kicks-off-The-Romantic-Tour-with-record-breaking-Las-Vegas-launch",
