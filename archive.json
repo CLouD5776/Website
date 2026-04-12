@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "The decade-long struggle to get AJ & Fury together",
+      "link": "https://www.bbc.com/sport/boxing/articles/c3dlm3pgjn1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T06:45:26",
+      "description": "Tyson Fury and Anthony Joshua shared a moment on Saturday, but getting the British heavyweights together this year may not be as straightforward as many suspected.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f5c/live/98eefd30-360d-11f1-b068-bbb6f8a6fe5b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T07:09:41.018538",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ulberg stuns Prochazka despite knee injury as Trump watches",
+      "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/c87wrv92392o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T06:21:45",
+      "description": "Carlos Ulberg shocks Jiri Prochazka in the first round to win the vacant light-heavyweight title at UFC 327 in Miami, Florida, despite injuring his knee.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1afe/live/1d511f80-362d-11f1-85b7-0b0da335d370.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T07:09:41.018545",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
       "link": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T04:20:37",
@@ -5477,31 +5499,93 @@
       "archived_at": "2026-04-04T22:26:04.490244",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Archbishop to pray for Middle East peace in first Easter sermon",
-      "link": "https://www.bbc.com/news/articles/c93edxr57d0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T21:30:15",
-      "description": "Dame Sarah Mullally will call for an 'end to the violence and destruction' before a congregation in Canterbury.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bca/live/917615d0-3053-11f1-a58f-07c787a90e98.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T21:35:49.523180",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "German men under 45 may need military approval for long stays abroad",
-      "link": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T21:16:42",
-      "description": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e7/live/ec4a7e00-305e-11f1-ba49-5da6d3e5ad3c.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-04T21:35:49.523185",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "US-Iran peace talks end after 21 hours without a deal as JD Vance says Tehran didn't accept 'our final offer': Live updates",
+      "link": "https://www.dailymail.co.uk/news/article-15726185/US-Iran-peace-talks-end-21-hours-without-deal-JD-Vance-says-Tehran-didnt-accept-final-offer-Live-updates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T07:01:41",
+      "description": "Vice President JD Vance left Islamabad after discussions ended, saying he has put forward a 'final and best offer': LIVE BLOG",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/07/107827867-0-image-m-20_1775976913266.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/07/107827867-0-image-m-20_1775976913266.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T07:09:44.562881",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Queen Mary's father John Donaldson has died in Tasmania just three weeks after she made the trip from Denmark to Australia",
+      "link": "https://www.dailymail.co.uk/news/article-15726165/Queen-Mary-father-Tasmania-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T06:56:27",
+      "description": "Queen Mary's father, Professor John Dalgleish Donaldson, has died at 84 years old.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/07/107830145-0-image-m-15_1775975624088.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/07/107830145-0-image-m-15_1775975624088.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T07:09:44.562887",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Is this why Trump has settled for a ceasefire with Iran? New Daily Mail show reveals the terrifying human cost of reopening the Strait of Hormuz by force",
+      "link": "https://www.dailymail.co.uk/news/article-15716525/why-trump-ceasefire-iran-strait-hormuz-force-war-tape.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T06:37:23",
+      "description": "Chris Pleasance breaks down the military options available to America for seizing the Strait of Hormuz by force and why each would come at a devastating price.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/11/107761241-0-image-m-11_1775729023949.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/11/107761241-0-image-m-11_1775729023949.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T07:09:44.562889",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Snowflake leftists call for boycott of beloved taco chain over Latino CEO's MAGA support",
+      "link": "https://www.dailymail.co.uk/news/article-15725599/robertos-taco-shop-ceo-maga-support-las-vegas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T06:31:09",
+      "description": "A backlash has been growing against Roberto's Taco Shop ever since the political leanings of its CEO Reynaldo Obledo came to light.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/07/107829597-0-image-m-60_1775973863293.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/07/107829597-0-image-m-60_1775973863293.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T07:09:44.562890",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Minnesota fraud suspect fails to show in court throwing $11 million Medicaid case into doubt",
+      "link": "https://www.dailymail.co.uk/news/article-15725499/Minnesota-medicaid-fraud-suspect-fails-court.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T06:27:03",
+      "description": "Abdirashid Ismail Said, 50, is accused of conspiring with two others to pull off the huge scam between 2019 and 2023.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/05/107829153-0-image-m-7_1775967464979.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/05/107829153-0-image-m-7_1775967464979.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T07:09:44.562892",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aussie company is accused of illegal cashback scheme after allegedly making a migrant worker repay $23,000 of her wages",
+      "link": "https://www.dailymail.co.uk/news/article-15725895/Warwick-Institute-cashback-scheme-worker-23000.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T05:48:28",
+      "description": "Huge fines loom if the company is found guilty of ripping off a worker.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/05/107829483-0-image-m-92_1775969534646.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/05/107829483-0-image-m-92_1775969534646.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T07:09:44.562893",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Brian Hooker says 'cascade of failures' that he will 'never forgive' himself for is to blame for wife going overboard in Bahamas in phone call to friend",
       "link": "https://www.dailymail.co.uk/news/article-15725869/Brian-Hooker-Bahamas-lynette-phone-call.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12417,93 +12501,37 @@
       "archived_at": "2026-04-09T15:05:58.313647",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Americans reveal their verdict on Trump's shaky ceasefire with Iran and whether it'll last",
-      "link": "https://www.dailymail.co.uk/news/article-15718933/verdict-Trumps-ceasefire-Iran-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:44:16",
-      "description": "According to the latest Daily Mail/JL Partners poll, American voters were 'relieved' that the President decided to take the off-ramp instead of escalating the war.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769073-0-image-a-8_1775742289678.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769073-0-image-a-8_1775742289678.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313649",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Two-thirds of public call on Chancellor Rachel Reeves to scrap her petrol tax raid after drivers hammered by extra \u00a31billion at the pumps because of Iran war",
-      "link": "https://www.dailymail.co.uk/news/article-15718593/Two-thirds-public-call-Chancellor-Rachel-Reeves-scrap-petrol-tax-raid-drivers-hammered-extra-1billion-pumps-Iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:42:06",
-      "description": "A poll found 68 per cent of people would back the Chancellor ditching her fuel duty hike amid sky-high pump prices sparked by the conflict.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/15/103619519-0-image-m-17_1775744542711.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/15/103619519-0-image-m-17_1775744542711.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313650",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hyperwoke Canadian lawmaker mocked for using the phrase MMIWG2SLGBTQQIA+: 'New internet password dropped'",
-      "link": "https://www.dailymail.co.uk/news/article-15718699/leah-gazan-canada-mmiwg2slgbtqqia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:41:16",
-      "description": "Leah Gazan, 53, a member of parliament, used the 17-character phrase on Wednesday during a press conference condemning Prime Minister Carney.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770389-0-image-a-11_1775742756649.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770389-0-image-a-11_1775742756649.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313651",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Leaked 'operational notes' for Harry and Meghan's Australia tour reveal who's paying for it all, include a VERY telling omission - and confirm the royal tradition they won't be doing",
-      "link": "https://www.dailymail.co.uk/news/article-15717401/Leaked-operational-notes-Harry-Meghans-Australia-tour-reveal-whos-paying-include-telling-omission-confirm-royal-tradition-wont-doing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:38:50",
-      "description": "Under-wraps details about the Duke and Duchess of Sussex's impending trip to Australia can be revealed for the first time. A telling omission stands out - as does a break from an established royal tradition.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/02/107756819-0-image-m-19_1775696877982.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/02/107756819-0-image-m-19_1775696877982.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313652",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Teenage girl, 15, died from ecstasy toxicity after becoming unwell at home, inquest hears",
-      "link": "https://www.dailymail.co.uk/news/article-15719033/teenage-girl-15-died-ecstasy-toxicity-inquest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:33:30",
-      "description": "Lilly Jane McCarthy, 15, from Bradwell near Greater Yarmouth in Norfolk, was found unresponsive at a residential property on January 24.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770025-0-image-m-6_1775742856612.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770025-0-image-m-6_1775742856612.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313653",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Somali asylum seeker who trained with Mo Farah denies sexually assaulting girl, 18, after leaving his migrant hotel on the Bournemouth coast for night-time stroll",
-      "link": "https://www.dailymail.co.uk/news/article-15719059/Somali-asylum-seeker-trained-Mo-Farah-denies-sexually-assaulting-girl-18-leaving-migrant-hotel-Bournemouth-coast-night-time-stroll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:30:03",
-      "description": "Long distance runner Abdinasir Elmi is accused of molesting a young woman in a Bournemouth park, but claimed he had been out walking ahead of a big race when he was invited to join her.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769541-0-image-m-33_1775742584954.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769541-0-image-m-33_1775742584954.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T15:05:58.313655",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Arsenal legend Tony Adams opens up on three decades since revealing his battles with alcohol, destructive addictions faced by current stars and what he sees when he looks at Tiger Woods",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15721819/Arsenal-legend-Tony-Adams-opens-three-decades-revealing-battles-alcohol-destructive-addictions-faced-current-stars-sees-looks-Tiger-Woods.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T07:00:52",
+      "description": "It is 30 years since he announced he was an alcoholic. It is 30 years since he went on a 44-day bender after England were knocked out of Euro 96. It is 30 years since he started to get his life back.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/12/107793065-0-image-a-46_1775820453950.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/12/107793065-0-image-a-46_1775820453950.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T07:09:47.896488",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Uni Boy Barney Stewart is learning fast ... and the prolific Falkirk striker could have a big say in the title race",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15724483/Uni-Boy-Barney-Stewart-learning-fast-prolific-Falkirk-striker-big-say-title-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T06:00:49",
+      "description": "Neil Lennon floated the idea that Falkirk might allow him to field loanee Barney Stewart in Dunfermline's Scottish Cup campaign.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/14/107816949-0-image-a-2_1775913174954.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/14/107816949-0-image-a-2_1775913174954.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T07:09:47.896493",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "McInnes hails Tynecastle magic as Hearts strike late to defeat Motherwell and take a step towards title",
       "link": "https://www.dailymail.co.uk/sport/football/article-15725249/McInnes-hails-Tynecastle-magic-Hearts-strike-late-defeat-Motherwell-step-title.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19705,6 +19733,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Jonas Brothers' mum Denise reveals she had a stroke",
+      "link": "https://www.music-news.com/news/UK/188284/Jonas-Brothers-mum-Denise-reveals-she-had-a-stroke",
+      "pubDate": "2026-04-12T05:00:00",
+      "description": "The Jonas Brothers' mum, Denise Jonas, has revealed she recently suffered a stroke.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188284.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188284.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T07:09:52.340744",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Bruno Mars kicks off tour, receives key to Vegas Strip",
       "link": "https://www.music-news.com/news/UK/188283/Bruno-Mars-kicks-off-tour-receives-key-to-Vegas-Strip",
