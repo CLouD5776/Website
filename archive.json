@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "'A truly historic moment': BBC reports from Hungary as P\u00e9ter Magyar set to become new PM",
+      "link": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T19:59:45",
+      "description": "Rajini Vaidyanathan broadcasts from outside Hungary's parliament as crowds hear about the prime minister's concession.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b928/live/373acf50-36a9-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T20:31:41.473295",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Disaster' as McIlroy double bogeys the fourth",
+      "link": "https://www.bbc.com/sport/golf/videos/ckgr1dxgkg6o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T19:43:08",
+      "description": "Overnight joint leader Rory McIlory struggles with his putter on the fourth hole and ends with a double bogey to gift the lead to Cam Young on the final day of the 2026 Masters at Augusta.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a06/live/542671c0-36a7-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T20:31:41.473310",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'I'm not blind' - Howe 'accountable' for loss after three-week break",
+      "link": "https://www.bbc.com/sport/football/articles/cdxkgz70qv9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T19:40:47",
+      "description": "Eddie Howe says he is \"accountable\" for Newcastle's defeat by Crystal Palace after three weeks without a game.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41bf/live/e2fbd190-369f-11f1-b710-4bdf337a8ae0.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T20:31:41.473312",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
       "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T19:25:54",
@@ -5466,42 +5499,65 @@
       "archived_at": "2026-04-05T18:50:59.055030",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Seven arrested at RAF base demo accused of supporting Palestine Action",
-      "link": "https://www.bbc.com/news/articles/cx26rkk2zr4o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T17:26:48",
-      "description": "Five men and two women at a peace camp at RAF Lakenheath are held on suspicion of supporting Palestine Action.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dee/live/dd5c4d00-3104-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T17:57:46.893071",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Who is Viktor Orban, Hungarian PM fighting to stay in power after 16 years?",
-      "link": "https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T17:04:26",
-      "description": "Since 2010, Orb\u00e1n has transformed Hungary into what the European Parliament has denounced as a \"hybrid regime of electoral autocracy\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5076/live/f4bbb470-30fc-11f1-85f0-7fe7dd4a9b2b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T17:57:46.893080",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
-      "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T16:38:06",
-      "description": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1f/live/b9410ce0-310d-11f1-8078-2797c344ad7d.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T17:27:03.245622",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Into the kill zone: Trump orders US sailors to seize Hormuz after he destroyed Iran's navy... but shadow fleet still lies in wait",
+      "link": "https://www.dailymail.co.uk/news/article-15726949/Trump-US-Hormuz-Strait-Iran-IRGC-Fleet-Tehran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T20:23:26",
+      "description": "Experts warn Trump's latest Iran order could put American lives at risk.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840957-0-image-a-8_1776025103238.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840957-0-image-a-8_1776025103238.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T20:31:45.059243",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Anthony Albanese to fly to Malaysia in second dash to Asia in two weeks as PM secures fuel supplies",
+      "link": "https://www.dailymail.co.uk/news/article-15727089/Anthony-Albanese-Malaysia-Brunei-Singapore-fuel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T20:22:07",
+      "description": "Anthony Albanese will travel to Brunei and Malaysia on Tuesday as efforts to safeguard the flow of petrol, diesel and other critical imports ramp up.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840877-0-image-a-4_1776025046495.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840877-0-image-a-4_1776025046495.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T20:31:45.059250",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tragedy as Aussie tourist drowns in hotel pool in Bali",
+      "link": "https://www.dailymail.co.uk/news/article-15727073/Aussie-drowns-hotel-pool-Legian-Kuta-Bali.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T20:16:36",
+      "description": "Emergency services were called to a hotel in Legian on Sunday afternoon after the man, 74, was found unresponsive in the water.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840849-0-image-a-4_1776024852461.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840849-0-image-a-4_1776024852461.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T20:31:45.059252",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Taekwondo instructor charged with sexually assaulting 13-year-old girl during private lessons",
+      "link": "https://www.dailymail.co.uk/news/article-15726775/steven-burnisky-taekwondo-assault-pennsylvania.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T20:15:37",
+      "description": "Steven Charles Burnisky, 22, has been charged with sexually assaulting a 13-year-old girl during her private taekwondo lessons.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/20/107840275-0-image-m-107_1776022687859.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/20/107840275-0-image-m-107_1776022687859.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T20:31:45.059254",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Second heartbreak for father who used yacht to track down missing sex-trafficked daughter, 15 - as he claims she was assaulted in the psych ward that was supposed to rehabilitate her",
       "link": "https://www.dailymail.co.uk/news/article-15726499/dad-rescued-daughter-boat-long-island-sex-trafficked-sues.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12445,65 +12501,37 @@
       "archived_at": "2026-04-09T19:07:08.955467",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Tributes to nun, 87, who died after being hit by car in Wales",
-      "link": "https://www.dailymail.co.uk/news/article-15719769/Tributes-nun-87-died-hit-car-Wales.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T19:00:05",
-      "description": "Sister Genevieve, previously called Anne Clanchy, died after being hit by a car on Stow Park Avenue on February 24.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776965-0-image-m-14_1775757293880.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107776965-0-image-m-14_1775757293880.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T19:07:08.955469",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Transgender women dart players to be banned from female tournaments, says sport's regulator, in a blow for six-time champion\u00a0Noa-Lynn van Leuven",
-      "link": "https://www.dailymail.co.uk/news/article-15719973/Transgender-women-dart-players-banned-female-tournaments-says-sports-regulator-blow-six-time-champion-Noa-Lynn-van-Leuven.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T18:13:32",
-      "description": "The Darts Regulation Authority (DRA), the sort's governing body for the professional game, said it had reviewed its policies after last year's landmark Supreme Court gender ruling.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777223-0-image-a-7_1775758372905.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/19/107777223-0-image-a-7_1775758372905.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T19:07:08.955471",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Another village falls victim to traveller 'land grab': More than a dozen caravans arrive in Surrey countryside after transforming field into 17 plot community over Easter weekend",
-      "link": "https://www.dailymail.co.uk/news/article-15719523/village-victim-traveller-land-grab-caravans-Surrey-countryside-community-Easter-weekend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T18:00:03",
-      "description": "'All hell' descended on the sleepy home county village of Alford last Thursday, when travellers transformed a rural field into a 17 plot 'gated community'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107775827-0-image-m-24_1775757454614.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107775827-0-image-m-24_1775757454614.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T19:07:08.955472",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump orders Benjamin Netanyahu to 'CALM DOWN' as Israel threatens Iran ceasefire with brutal bombardment in Lebanon",
-      "link": "https://www.dailymail.co.uk/news/article-15719705/Trump-orders-Benjamin-Netanyahu-CALM-Israel-threatens-Iran-ceasefire-brutal-bombardment-Lebanon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T17:53:35",
-      "description": "Trump's request came as the US prepares to meet with Iranian leaders in Pakistan to negotiate an end to the war.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/18/107413567-0-image-a-6_1775755207894.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/18/107413567-0-image-a-6_1775755207894.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T17:56:31.108487",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Pep Guardiola reveals what he told Man City stars after Arsenal's slip up as he sends message to title rivals after victory over Chelsea",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15727019/Pep-Guardiola-told-Man-City-Arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T20:11:45",
+      "description": "JACK GAUGHAN AND KIERAN GILL: Inspired by Rayan Cherki, City moved to within six points of the leaders with a game in hand as the two sides prepare to face off next Sunday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840705-0-image-a-59_1776024583426.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/21/107840705-0-image-a-59_1776024583426.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T20:31:46.416386",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I saw my beloved team lose at Wembley (again!) but here's why I still left smiling as final shows virtue of supporting a lower league club amid greed of the Premier League, writes OLIVER HOLT",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726901/I-saw-beloved-team-lose-Wembley-heres-left-smiling-final-shows-virtue-supporting-lower-league-club-amid-greed-Premier-League-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T19:37:19",
+      "description": "OLIVER HOLT: When I first started supporting Stockport County, in the late 1970s, the idea of the club winning trophies never crossed my mind.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/20/107840419-0-image-a-12_1776022589422.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/20/107840419-0-image-a-12_1776022589422.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T20:31:46.416394",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Jamie Carragher predicts 'AWFUL' Tottenham to be relegated from the Premier League after tepid Sunderland defeat",
       "link": "https://www.dailymail.co.uk/sport/football/article-15726749/Jamie-Carragher-AWFUL-Tottenham-relegated.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -18722,6 +18750,17 @@
     }
   ],
   "BBC Sport": [
+    {
+      "title": "'I'm not blind' - Howe 'accountable' for loss after three-week break",
+      "link": "https://www.bbc.com/sport/football/articles/cdxkgz70qv9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T19:40:47",
+      "description": "Eddie Howe says he is \"accountable\" for Newcastle's defeat by Crystal Palace after three weeks without a game.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41bf/live/e2fbd190-369f-11f1-b710-4bdf337a8ae0.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T20:31:47.017090",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Howe '100% committed' to Newcastle but 'I just need support'",
       "link": "https://www.bbc.com/sport/football/articles/ckgwdjjggy9o?at_medium=RSS&at_campaign=rss",
