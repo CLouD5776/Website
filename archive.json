@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Four arrested over murder of Scottish businessman in Kenya",
+      "link": "https://www.bbc.com/news/articles/cx2e8kj3yn4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T14:47:55",
+      "description": "Campbell Scott's body was found in a pineapple sack about 60 miles from Nairobi where he was attending a conference in February last year.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1138/live/87cfc1a0-0987-11f0-9a0d-3be11e1d5750.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T15:33:17.695500",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Two in hospital after bus crashes down embankment in the Highlands",
+      "link": "https://www.bbc.com/news/articles/cwyx94488wqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T14:59:19",
+      "description": "The bus, believed to be operated by Ember, left the road on Sunday morning north of Aviemore.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aae8/live/d9378440-366f-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-12T15:33:17.695507",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'We'll see what everyone is made of' - Masters contenders on final-round showdown",
+      "link": "https://www.bbc.com/sport/golf/articles/c20qgypgy84o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T02:10:51",
+      "description": "The Masters looks set to deliver an enthralling conclusion after a third-round stumble from defending champion Rory McIlroy opens the door to a star-studded chasing pack at Augusta National.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f471/live/b48c8e10-3606-11f1-89bb-57d02d54203b.png",
+      "enclosure": null,
+      "archived_at": "2026-04-12T15:33:17.695510",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Streeting denies changing pay deal for resident doctors",
       "link": "https://www.bbc.com/news/articles/cddqn72l1n9o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T13:49:48",
@@ -5466,42 +5499,51 @@
       "archived_at": "2026-04-05T08:38:53.184669",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "The \u2018Not Fit For Purpose\u2019 Department - Part 3",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nb9l78?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T05:01:00",
-      "description": "Covering the Home Office.",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0nb9lrs.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T08:38:53.184680",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'My special blood helps critically ill babies'",
-      "link": "https://www.bbc.com/news/articles/c30rqvml9n4o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-01T05:01:59",
-      "description": "Nigel Vaughan has a rare blood type which can be used to help critically ill babies.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca48/live/77a38730-2d08-11f1-903b-c7d082edabea.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T07:36:57.469995",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Sunglass-wearing police horse Luna retires",
-      "link": "https://www.bbc.com/news/articles/c248q426jz7o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-03-31T13:08:39",
-      "description": "Luna turned heads at Ascot in her 'neigh-bands' and stayed on duty after being punched at a match.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c5a/live/66810360-2ce5-11f1-bdf5-ddbf94ae98c3.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T07:36:57.470001",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Nightmare at Coachella as light fixture falls on festival attendee and 'gashed her head open'",
+      "link": "https://www.dailymail.co.uk/news/article-15726457/coachella-light-fixture-falls-festival-attendee-gashed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T15:28:09",
+      "description": "A young woman was critically injured by a falling light fixture during John Summit's surprise DJ set at Coachella.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835505-0-image-a-11_1776003090468.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835505-0-image-a-11_1776003090468.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T15:33:19.107667",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fuel protests 'being planned across Britain' as pump prices carry on soaring because of Iran war",
+      "link": "https://www.dailymail.co.uk/news/article-15726609/Fuel-protests-planned-Britain-pump-prices-carry-soaring-Iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T15:27:25",
+      "description": "Farming organisations were reportedly discussing how to carry out similar protests that have brought roads to a standstill in Ireland over the past week.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/103619633-0-image-a-5_1776005473407.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/103619633-0-image-a-5_1776005473407.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T15:33:19.107674",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Cringeworthy moment controversial 'looksmaxxer' influencer walks out on Australian 60 Minutes interview - and the question that crossed the line",
+      "link": "https://www.dailymail.co.uk/news/article-15726489/Australia-Clavicular-looksmaxxing-Andrew-Tate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T15:04:28",
+      "description": "'Looksmaxxing' influencer Braden Peters stormed out of an interview with Australian journalist Adam Hegarty on Sunday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835721-0-image-m-61_1776004536266.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835721-0-image-m-61_1776004536266.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T15:33:19.107676",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Elon Musk doubles down on Ben Roberts-Smith comment following the Australian former SAS soldier being charged with war crimes",
       "link": "https://www.dailymail.co.uk/news/article-15726441/Elon-Musk-Ben-Roberts-Smith-SAS-soldier-charged.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12459,51 +12501,37 @@
       "archived_at": "2026-04-09T16:47:07.212404",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Katie Price says she 'has done her bit' and will not return to Dubai to visit husband Lee Andrews - as he continues to deny 'travel ban' claims",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15718679/Katie-Price-says-bit-not-return-Dubai-visit-husband-Lee-Andrews-continues-deny-travel-ban-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T15:30:18",
-      "description": "Katie Price has said she will not visit her husband Lee Andrews in Dubai and will instead wait for him to return to the UK.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770149-0-image-a-12_1775741940228.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107770149-0-image-a-12_1775741940228.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212406",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The Apprentice's final two LEAKS online hours before semi-final hits screens after star 'tells his group chat' - causing huge headache for the BBC",
-      "link": "https://www.dailymail.co.uk/tv/article-15719143/The-Apprentices-final-two-LEAKS-online-hours-semi-final.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T15:29:42",
-      "description": "Fans of the BBC show will finally get to know who will make it to this year's final later today (9 April).",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/15/107772473-0-image-a-5_1775746434065.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/15/107772473-0-image-a-5_1775746434065.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212407",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Experts pinpoint how smoking can increase dementia risk: 'The lungs are directly connected to brain health'",
-      "link": "https://www.dailymail.co.uk/health/article-15718145/smoking-increase-dementia-risk-nicotine-brain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T15:22:40",
-      "description": "Smoking may increase the risk of dementia in a surprising way, scientists say - by disrupting communication between the lungs and the brain.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/10/107764253-0-image-a-5_1775726561386.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/10/107764253-0-image-a-5_1775726561386.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212409",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Parents of EFL stars at the SAME CLUB are engaged in 'heated disagreement' as security step in, the bizarre Premier League procedure keeping admin staff busy - and why irate Arsenal fans don't have a leg to stand on: INSIDE SPORT",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726315/Parents-EFL-stars-CLUB-engaged-heated-disagreement-security-step-bizarre-Premier-League-procedure-keeping-admin-busy-irate-Arsenal-fans-dont-leg-stand-INSIDE-SPORT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T15:27:42",
+      "description": "As many a Sunday League footballer will attest, one of the annoying knock-on effects of picking up a red or yellow card is the administration fee charged by the local Football Association. Inside Sport, however, was surprised to hear that a similar scenario is faced by the multi-millionaire stars at a number of Premier League clubs.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/107836133-0-image-a-38_1776005451161.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/107836133-0-image-a-38_1776005451161.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T15:33:22.511601",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sunderland 1-0 Tottenham: Roberto De Zerbi got a first-hand look at Spurs' self-destructive tendencies after Nordi Mukiele's deflected strike extends their winless Premier League run to 14 games, writes MATT BARLOW",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15713195/Sunderland-1-0-Tottenham-Premier-League-2025-26-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T15:26:16",
+      "description": "MATT BARLOW AT THE STADIUM OF LIGHT: Mukiele's effort clipped Micky van de Ven to leave goalkeeper Antonin Kinsky marooned in mid dive to his left as the ball spun and looped in.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/16/107836371-0-image-a-19_1776006182166.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/16/107836371-0-image-a-19_1776006182166.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T15:33:22.511607",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Chelsea vs Manchester City - Premier League LIVE: Latest score, team news and updates as Blues look to avoid a third-straight defeat but face uphill task against Pep Guardiola's title-chasers",
       "link": "https://www.dailymail.co.uk/sport/football/article-15709453/Chelsea-vs-Manchester-City-2025-26-Premier-League-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
