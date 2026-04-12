@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Woman raped by several men outside church",
+      "link": "https://www.bbc.com/news/articles/crk18mke8gjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T11:55:37",
+      "description": "A woman in her 20s was followed after leaving a nightclub and raped outside Epsom Methodist Church.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/81acbe40-3663-11f1-abac-374b30aeab76.png",
+      "enclosure": null,
+      "archived_at": "2026-04-12T12:55:10.381677",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman killed in dog attack at house named locally",
+      "link": "https://www.bbc.com/news/articles/c79jr971p5do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T11:57:10",
+      "description": "The 19-year-old woman killed in the attack is understood to be Jamie-Lea Biscoe.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d649/live/302ae3b0-3665-11f1-ac54-83d2c42adad4.png",
+      "enclosure": null,
+      "archived_at": "2026-04-12T12:55:10.381688",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Eamonn Holmes 'doing OK' after stroke, his son says",
       "link": "https://www.bbc.com/news/articles/c4gdlg7je4po?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-12T11:01:52",
@@ -5477,31 +5499,79 @@
       "archived_at": "2026-04-05T02:06:32.600636",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "ICE wanted to build a detention centre -  this small farming town said no",
-      "link": "https://www.bbc.com/news/articles/cje47vy0w3ko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-05T00:06:35",
-      "description": "Residents say they support the administration's immigration agenda - but not its plans to build a detention centre in their backyard.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c66/live/5ae4a8d0-2f75-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T02:06:32.600641",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Apple at 50: Three products that changed how we live - and three that really didn't",
-      "link": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T23:56:55",
-      "description": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ee7/live/6a634ad0-2f4f-11f1-a79a-77e93010d956.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-05T02:06:32.600647",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Terror in the Home Counties after wealthy crypto boss held at knifepoint in robbery",
+      "link": "https://www.dailymail.co.uk/news/article-15726453/Terror-Home-Counties-wealthy-crypto-boss-held-knifepoint-robbery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T12:52:10",
+      "description": "Businessman Oliver von Landsberg-Sadie, pictured in London in 2022, was tied up and held at knifepoint at his family home in Berkshire by four thieves who demanded cryptocurrency.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/13/107833229-0-image-a-6_1775997291187.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/13/107833229-0-image-a-6_1775997291187.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T12:55:12.937313",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "He lost everything when the 1980 Olympics were boycotted...now his six-figure bird carvings are owned by Robert F. Kennedy Jr. and Hollywood stars",
+      "link": "https://www.dailymail.co.uk/news/article-15706567/floyd-scholz-bird-carvings-hollywood-vermont.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T12:51:20",
+      "description": "After the 1980 Olympic boycott derailed his future, Floyd Scholz rebuilt his life in isolation, crafting intricate bird carvings that now command six figures and captivate A-list collectors.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107769705-0-image-a-16_1775747755446.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107769705-0-image-a-16_1775747755446.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T12:55:12.937320",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "America's 'most dysfunctional state' just keeps getting worse as more scandal hits liberal stronghold",
+      "link": "https://www.dailymail.co.uk/news/article-15719861/minnesota-dysfunctional-trump-ice-fraud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T12:50:26",
+      "description": "The Midwestern state has made headlines in every major newspaper across the country. From fraud to ICE shootings, the Democrat-run state has seen scandal after scandal.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/22/107807517-0-image-a-6_1775855784933.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/22/107807517-0-image-a-6_1775855784933.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T12:55:12.937321",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "America's 'upper middle class' is surging: How much you must make to avoid being left behind",
+      "link": "https://www.dailymail.co.uk/news/article-15716117/america-upper-middle-class-surging-amount.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T12:43:15",
+      "description": "New research revealed that\u00a0Americans in the nation's middle class are wealthier than ever, with nearly 31 percent now considered 'upper middle class,' up from just 10 percent in 1979.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/18/107801997-0-image-m-18_1775840755074.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/18/107801997-0-image-m-18_1775840755074.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T12:55:12.937323",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hero father who raised the alarm during Bondi Junction stabbing rampage as he rushed to his mortally wounded wife is among eight Aussies recognised for their extraordinary bravery amid life-threatening danger",
+      "link": "https://www.dailymail.co.uk/news/article-15726291/Bondi-Junction-stabbing-award-bravery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T12:36:30",
+      "description": "Eight Australians who showed incredible bravery during the mass stabbing at Westfield Bondi Junction in 2024 will be awarded.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/13/107833925-0-image-m-61_1775996343789.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/13/107833925-0-image-m-61_1775996343789.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T12:55:12.937325",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "What has Trump achieved with his war in Iran? Ayatollah replaced with his extremist son, regime unchanged but emboldened, economic chaos, and NATO torn apart...",
       "link": "https://www.dailymail.co.uk/news/article-15714921/Trump-achieved-war-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12431,79 +12501,37 @@
       "archived_at": "2026-04-09T16:47:07.212419",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "RICHARD EDEN: I've heard all the nasty rumours and innuendo about the Queen and Andrew's 'real' father. I cannot let this lie",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15718663/RICHARD-EDEN-rumours-innuendo-Queen-Andrews-real-father.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:23:06",
-      "description": "Andrew Lownie was widely praised for carrying out a public service when he wrote Entitled: The Rise and Fall of the House of York.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/13/107766953-0-image-m-14_1775736493555.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/13/107766953-0-image-m-14_1775736493555.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212421",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Was Prince Edward right to visit Andrew over Easter? Have your say in the Palace Confidential poll",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15719051/Was-Prince-Edward-right-visit-Andrew-Easter-say-Palace-Confidential-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:05:36",
-      "description": "Was Prince Edward right to visit Andrew over Easter?",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769633-0-image-a-4_1775742874782.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769633-0-image-a-4_1775742874782.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212423",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Researchers claim \u00a336 high street cholesterol test is better predictor of heart attack and stroke risk than standard GP tests",
-      "link": "https://www.dailymail.co.uk/health/article-15718183/Researchers-claim-36-high-street-cholesterol-test-better-predictor-heart-attack-stroke-risk-standard-GP-tests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T13:27:56",
-      "description": "A simple cholesterol test could be the key to identifying people who are at risk of suffering heart attack and stroke, a new study suggests.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/10/107764885-0-image-m-12_1775728232460.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/10/107764885-0-image-m-12_1775728232460.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212425",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Non-league chairman tells football fan 'go f*** yourself' in awkward email gaffe over moving a match for Man United's offshoot club",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15718775/Non-league-chairman-tells-football-fan-f-email-gaffe-Man-United-offshoot-club.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T13:07:18",
-      "description": "Duckfield had written to Harris to express his outrage after the league decided that FC United's crunch home match with Stockton Town should be played at a neutral venue.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/13/107769085-0-image-m-60_1775739489664.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/13/107769085-0-image-m-60_1775739489664.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212426",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'I loved my job. I was there 28 years': CAROL KIRKWOOD reveals for first time why she REALLY left BBC Breakfast. Her frank conversation with her younger husband about the move... and secret heartbreak she's never revealed",
-      "link": "https://www.dailymail.co.uk/tv/article-15718407/Carol-Kirkwood-REALLY-left-BBC-Breakfast-secret-heartbreak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T11:45:40",
-      "description": "What she won't miss is setting her alarm for 2.45am, having gone to bed at 7pm the previous evening.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/11/107765385-0-image-m-20_1775730768074.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/11/107765385-0-image-m-20_1775730768074.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T16:47:07.212428",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Stubborn Celtic remain in title hunt but their deficiencies are all too striking as three-horse race hits the final straight",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726451/Stubborn-Celtic-remain-title-hunt-deficiencies-striking-three-horse-race-hits-final-straight.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T12:36:18",
+      "description": "The downbeat reaction of Martin O'Neill after this slog of a victory perhaps said it all.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/13/107834295-0-image-a-21_1775997229944.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/13/107834295-0-image-a-21_1775997229944.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T12:55:16.279149",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Former Arsenal Invincibles star reveals he used to sell FAKE Gucci gear to team-mates - and opens up on rogue David Seaman tale",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15726403/Arsenal-Invincibles-Gucci-Graham-Stack-David-Seaman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T12:24:43",
+      "description": "England internationals in David Seaman and Ray Parlour apparently fell for the trick - and then told their wives that they had procured the goods from\u00a0Selfridges.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/13/107834301-0-image-a-7_1775996579913.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/13/107834301-0-image-a-7_1775996579913.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-12T12:55:16.279156",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "How Liverpool fans' furious protests sent a loud and clear message to its owners during their win over Fulham with The Kop looking 'naked' and why Virgil van Dijk is pleading for a resolution, writes LEWIS STEELE",
       "link": "https://www.dailymail.co.uk/sport/football/article-15713143/How-Liverpool-fans-furious-protests-sent-loud-clear-message-owners-win-Fulham-Kop-looking-naked-Virgil-van-Dijk-pleading-resolution-writes-LEWIS-STEELE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
