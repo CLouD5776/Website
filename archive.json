@@ -1,6 +1,61 @@
 {
   "BBC News": [
     {
+      "title": "PM to scrap spy chiefs' Hillsborough Law veto",
+      "link": "https://www.bbc.com/news/articles/c77mezv330lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T06:53:35",
+      "description": "Security chiefs will not be able to block spies from giving evidence to future public inquiries.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7d2/live/a512dac0-3700-11f1-bb40-2780b274e28f.png",
+      "enclosure": null,
+      "archived_at": "2026-04-13T08:27:40.613573",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump attacks Pope over criticism of Iran war",
+      "link": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T07:40:14",
+      "description": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9857/live/c50f42d0-3702-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T08:27:40.613582",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Britney Spears goes into rehab after driving under the influence arrest",
+      "link": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T08:14:14",
+      "description": "The singer voluntarily checks herself into a treatment facility, three weeks before her court date.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daae/live/b07244d0-370c-11f1-b35c-83d779cf62f0.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T08:27:40.613584",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Where does McIlroy rank among greats after Masters defence?",
+      "link": "https://www.bbc.com/sport/golf/articles/cz78ge3g77qo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T04:16:11",
+      "description": "Rory McIlroy has added a rare Masters defence to the career Grand Slam - now he is aiming to keep climbing the all-time list of major victories.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b65b/live/42dacb60-36e2-11f1-9232-4b9563be44e7.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T08:27:40.613588",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The Masters that got away - Rose the nearly man again",
+      "link": "https://www.bbc.com/sport/golf/articles/cwyd8permryo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T08:19:13",
+      "description": "Justin Rose says his latest run at the Masters was the \"chance that got away\" after falling short at Augusta once more.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0af0/live/57362120-3707-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T08:27:40.613590",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "UK could adopt EU single market rules under new legislation",
       "link": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-13T04:00:34",
@@ -5444,64 +5499,93 @@
       "archived_at": "2026-04-06T10:06:25.363140",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Don't put off treatment during doctors' strike, NHS tells patients",
-      "link": "https://www.bbc.com/news/articles/c5y9j02dvq5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T08:14:25",
-      "description": "The strike comes at the end of the bank holiday weekend and NHS managers fear demand could be \"challenging\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe75/live/e6127980-3193-11f1-91c1-ed120fec5b47.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-06T08:52:23.002404",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "New youth clubs for anti-social behaviour hotspots",
-      "link": "https://www.bbc.com/news/articles/ckgedgdx72zo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T08:02:53",
-      "description": "The government has announced eight young futures hubs in areas with high anti-social behaviour.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/415e/live/84d04c00-30ea-11f1-8d97-43e9078dfe36.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-06T08:52:23.002415",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Depression fears drove Orie's retirement decision",
-      "link": "https://www.bbc.com/sport/boxing/articles/c070klg98gmo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T06:40:28",
-      "description": "Delicious Orie discusses his shock decision to retire from boxing and why he wants to be a role model for the younger generation.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9650/live/c6463350-2e8a-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-06T08:52:23.002418",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Totti, Puyol, Maldini, Carragher - ranking football's greatest one-club men",
-      "link": "https://www.bbc.com/sport/football/articles/cqxl2w1r7rwo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T05:15:33",
-      "description": "From Francesco Totti to Matthew Le Tissier, one-club men share a rare and special bond with the fans - we've ranked the top 10 here.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a5/live/2cd28e00-2e6f-11f1-934f-036468834728.png",
-      "enclosure": null,
-      "archived_at": "2026-04-06T07:08:02.089659",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why it's time for Rose to come of age at Masters",
-      "link": "https://www.bbc.com/sport/golf/articles/c1mkz2lejk0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T05:10:57",
-      "description": "In the field for this week's 90th Masters there will be no player seeking a first Augusta crown with a better pedigree than Justin Rose, writes Iain Carter.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb63/live/70395880-2f33-11f1-bf2c-fd91bf9d4122.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-06T07:08:02.089665",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Students being given trigger warnings their lectures contain mention of chocolate in new woke low",
+      "link": "https://www.dailymail.co.uk/news/article-15728087/Students-trigger-warnings-chocolate-woke.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T08:18:42",
+      "description": "A psychology student at the University of Roehampton said content warnings are regularly shown before lectures to alert students to any potential sensitive subjects that may arise.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/09/107850331-0-image-a-2_1776068120413.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/09/107850331-0-image-a-2_1776068120413.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T08:27:43.027397",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sam Altman's home targeted in second attack as two arrested for opening fire near OpenAI founder's San Francisco residence",
+      "link": "https://www.dailymail.co.uk/news/article-15727781/Sam-Altman-San-Francisco-residence-attack-gunmen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T08:16:51",
+      "description": "Amanda Tom, 25, and\u00a0Muhamad Tarik Hussein, 23, were arrested on suspicion of firing a gun in the city's affluent Russian Hill neighborhood, the San Francisco Police Department said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/05/107806159-0-image-m-16_1776053954616.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/05/107806159-0-image-m-16_1776053954616.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T08:27:43.027404",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Starmer hits out at Trump's blockade plan saying Strait of Hormuz must be 'open, not shut' as oil prices jump back over $100 after Iran talks collapse",
+      "link": "https://www.dailymail.co.uk/news/article-15728091/Brits-brace-misery-oil-prices-jump-100-Iran-talks-collapse-Starmer-refusing-join-Trumps-blockade-Strait-Hormuz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T08:07:30",
+      "description": "Brent Crude is trading above $100 a barrel again after marathon negotiations failed to get an agreement and Donald Trump ramped up tensions.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/08/107850057-0-image-m-12_1776065638554.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/08/107850057-0-image-m-12_1776065638554.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T08:27:43.027406",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Cessnock siege: Tactical police swarm a unit block amid reports of a hostage situation",
+      "link": "https://www.dailymail.co.uk/news/article-15728209/Cessnock-police.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T08:01:17",
+      "description": "An ongoing police operation has seen heaviiy armoured vehicles line a street in a small town in the Hunter Valley.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/08/107850643-0-image-a-2_1776066281361.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/08/107850643-0-image-a-2_1776066281361.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T08:27:43.027407",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aussie state considers building its own fuel reserves - and it won't share it with anyone else",
+      "link": "https://www.dailymail.co.uk/news/article-15727287/wa-diesel-stockpile-queensland-oil-taroom-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T07:05:51",
+      "description": "One Australian state is moving to secure its own fuel supply, but the plan comes at a cost, it would be off-limits to everyone else.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/01/107844623-0-image-a-6_1776039075661.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/01/107844623-0-image-a-6_1776039075661.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T08:27:43.027409",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Awkward moment Barnaby Joyce squirms in trainwreck interview after Pauline Hanson was forced to dump rapist",
+      "link": "https://www.dailymail.co.uk/news/article-15727557/barnaby-joyce-pauline-hanson-sean-black-convicted-rapist.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T07:03:25",
+      "description": "Barnaby Joyce faced a tense interview after being questioned about One Nation's decision to sack a former staffer who had been convicted of rape.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/03/107846825-0-image-m-26_1776047463747.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/03/107846825-0-image-m-26_1776047463747.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T08:27:43.027411",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Chris Bowen makes candid admission about Strait of Hormuz - and it paints a bleak future for Australia",
       "link": "https://www.dailymail.co.uk/news/article-15727847/Chris-Bowen-Strait-Hormuz-Australia-close.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12417,93 +12501,23 @@
       "archived_at": "2026-04-10T03:33:45.049768",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Teenage girl who was repeatedly sent home from hospital with painkillers for her 'migraines' is told she has just weeks to live",
-      "link": "https://www.dailymail.co.uk/health/article-15702517/Teenage-girl-repeatedly-sent-home-hospital-painkillers-migraines-told-just-weeks-live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T20:39:54",
-      "description": "At the age of 19, Ella-Louise Moroney should be enjoying the carefree years of early adulthood, spending time with family and friends, and looking ahead to the future.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/19/107519857-0-image-m-21_1775585794125.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/19/107519857-0-image-m-21_1775585794125.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049771",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ollie Locke's humiliation part 2. After eviction and a \u00a325,000 row we reveal name-dropping revelation that's got the Chelsea crowd twittering, how it's all unravelled... and new troubling questions over business dealings",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15719439/Ollie-Locke-plan-revive-fortunes-star-project-investigated.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T19:45:52",
-      "description": "Ollie and Gareth Locke have been evicted from their \u00a34million Chelsea home and are said to be at risk of bankruptcy. But they are plotting a bold return to London's elite nightlife scene.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/16/107773227-0-image-m-10_1775748396872.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/16/107773227-0-image-m-10_1775748396872.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049772",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "RICHARD LITTLEJOHN: My Royal Navy father would have loathed Trump... but he would've backed the battle against Iran's Nazis. Here's the real deal about this war",
-      "link": "https://www.dailymail.co.uk/debate/article-15719583/RICHARD-LITTLEJOHN-Royal-Navy-father-loathed-Trump-battle-Iran-Nazis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T19:16:05",
-      "description": "Our current government's craven objections to the bombing of Tehran revolve around 'international law' and, let's call it what it is, cowardice.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/17/107774455-0-image-m-16_1775750985771.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/17/107774455-0-image-m-16_1775750985771.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049774",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "IMF prepares $50billion bailout to prop up countries battered by Iran war as oil prices rebound on ceasefire fears",
-      "link": "https://www.dailymail.co.uk/money/markets/article-15719087/IMF-prepares-50billion-bailout-prop-countries-battered-Iran-war-oil-prices-rebound-ceasefire-fears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T14:04:11",
-      "description": "The International Monetary Fund is preparing bail-outs of up to $50bilion for countries battered by the Iran war - as oil prices rise again amid fears over the fragile ceasefire.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769887-0-image-a-49_1775741889457.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/14/107769887-0-image-a-49_1775741889457.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049775",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump posts horrific video of 'illegal immigrant' beating woman with a hammer outside Florida gas station",
-      "link": "https://www.dailymail.co.uk/news/article-15720735/Trump-Rolbert-Joachin-illegal-immigrant-bludgeoning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T03:00:34",
-      "description": "Rolbert Joachin, 40, a Haitian native who entered the United States under a Temporary Protected Status, which expired in 2024, is accused of bludgeoning a 51-year-old mother.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/03/107785029-0-image-m-10_1775788302261.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/03/107785029-0-image-m-10_1775788302261.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049778",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Husband of US woman who vanished in Bahamas slips into ocean and injured while being transported by police",
-      "link": "https://www.dailymail.co.uk/news/article-15720841/Brian-Hooker-Lynette-overboard-boat-missing-Bahamas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T02:58:31",
-      "description": "Brian Hooker, 59, fell off a boat and suffered from knee pain and abrasions on Wednesday, attorney Terrel Butler said.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/03/107700689-0-image-m-23_1775786866498.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/03/107700689-0-image-m-23_1775786866498.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049779",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Chelsea legend John Terry 'leading audacious \u00a314MILLION bid' for Football League club - as he turns to ownership after abandoning managerial ambitions",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15728061/Chelsea-John-Terry-Football-League-Colchester-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T07:58:06",
+      "description": "Terry, who is anticipated to hold 'significant influence', is going down the ownership route after ending his pursuit of a managerial job.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/08/107850441-0-image-a-11_1776066354416.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/08/107850441-0-image-a-11_1776066354416.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T08:27:46.334284",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Read Matildas star Kyra Cooney-Cross's deeply personal update as she puts career on hold to be with her cancer-stricken mum",
       "link": "https://www.dailymail.co.uk/sport/football/article-15727851/Matildas-Kyra-Cooney-Cross-update-cancer-mum-mother.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19120,6 +19134,17 @@
   ],
   "Unherd": [
     {
+      "title": "The Hungarian revolution isn\u2019t what it seems",
+      "link": "https://unherd.com/2026/04/the-hungarian-revolution-isnt-what-it-seems/?edition=us",
+      "pubDate": "2026-04-13T07:12:15",
+      "description": "Orb\u0102\u0104n\u00e2\u20ac\u2122s defeat is not a liberal victory",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-13T08:27:49.101967",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
       "title": "Inside the #MeToo unraveling of Eric Swalwell",
       "link": "https://unherd.com/2026/04/inside-the-metoo-unraveling-of-eric-swalwell/?edition=us",
       "pubDate": "2026-04-12T23:12:39",
@@ -20180,6 +20205,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Todrick Hall picks his favourite Taylor Swift song and it's neither of their collaborations",
+      "link": "https://www.music-news.com/news/UK/188296/Todrick-Hall-picks-his-favourite-Taylor-Swift-song-and-it-s-neither-of-their-collaborations",
+      "pubDate": "2026-04-13T07:00:00",
+      "description": "Todrick Hall has weighed in on his favourite Taylor Swift songs, but he didn't choose either of the music videos he worked on with her.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188296.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188296.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T08:27:51.054853",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Jennifer Lopez is 'rewriting everything' after surprise Coachella performance",
+      "link": "https://www.music-news.com/news/UK/188295/Jennifer-Lopez-is-rewriting-everything-after-surprise-Coachella-performance",
+      "pubDate": "2026-04-13T07:00:00",
+      "description": "Jennifer Lopez has declared she is in her \"happy er\" and is \"rewriting everything\" after her surprise performance at the Coachella festival in California over the weekend.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188295.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188295.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T08:27:51.054861",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Lizzo praises Justin Bieber's 'transcendent' Coachella performance",
       "link": "https://www.music-news.com/news/UK/188294/Lizzo-praises-Justin-Bieber-s-transcendent-Coachella-performance",
