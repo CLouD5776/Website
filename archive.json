@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Trump deletes controversial Truth Social post where he appears Jesus-like",
+      "link": "https://www.bbc.com/news/articles/c17v8y0z9z2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T17:02:17",
+      "description": "The post came just hours after the president posted a lengthy message critical of Pope Leo.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e245/live/ab72d880-375e-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T17:37:50.165526",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump threat to Iranian civilians 'wrong', Starmer says",
+      "link": "https://www.bbc.com/news/articles/cd7j0p09j7no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T16:18:38",
+      "description": "The PM condemns the US president's threat that a \"whole civilisation\" would die unless Iran agreed to end the war.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b4/live/2a47f820-375a-11f1-a6a0-913b15480fa1.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T17:37:50.165533",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Palestine Action group cleared of violent disorder",
+      "link": "https://www.bbc.com/news/articles/cwyvgvwvpqlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T16:59:05",
+      "description": "The three defendants continue to face a charge of criminal damage.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/234d/live/d707b240-373b-11f1-b3bd-89f011397f28.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T17:37:50.165536",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Ex-Nigerian oil minister denies taking bribes",
       "link": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-13T16:05:59",
@@ -5466,42 +5499,205 @@
       "archived_at": "2026-04-06T23:32:17.053979",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
-      "link": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T23:09:23",
-      "description": "Almost nothing was known about the Royal Hill casino until the Thai military took control of it in December.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae75/live/c1573460-3192-11f1-8b1f-d33b6f9e6bd4.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-06T23:32:17.053982",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Coventry edge ever closer - but who will join them in Premier League?",
-      "link": "https://www.bbc.com/sport/football/articles/cddqmlzz34qo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T22:26:52",
-      "description": "As Coventry edge ever closer to ending their 25-year wait for Premier League football, who is best placed to join them?",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903d/live/1cb0ed00-31fd-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-06T23:32:17.053985",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Quiet and steady' - how Lincoln's promotion was 20 years in the making",
-      "link": "https://www.bbc.com/sport/football/articles/cp86mde460no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T18:57:19",
-      "description": "John Pakey looks back over the past 20 years from Keith Alexander to the Cowleys to Lincoln City now calling themselves a Championship club.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07bb/live/94e9e940-31e7-11f1-8794-099b3bc3f94e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-06T23:32:17.053987",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "FBI raids home of baby-faced suspected arsonist, 20, accused of trying to torch OpenAI boss Sam Altman's San Francisco mansion",
+      "link": "https://www.dailymail.co.uk/news/article-15729681/fbi-raids-texas-home-sam-altman-arson-suspect-daniel-moreno-gama.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:30:39",
+      "description": "FBI agents executed a search warrant at the Texas home of the\u00a0suspect accused of throwing a Molotov cocktail at OpenAI CEO Sam Altman's luxurious mansion.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/18/107863127-0-image-m-15_1776099996360.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/18/107863127-0-image-m-15_1776099996360.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554166",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Asylum seeker accused of gang raping woman on Brighton beach tells court he was threatened by police officers 'who turned up to his cell in the middle of the night'",
+      "link": "https://www.dailymail.co.uk/news/article-15729261/Asylum-seeker-gang-raping-woman-Brighton-beach-threatened-police-officers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:29:34",
+      "description": "Abdulla Ahmadi, 26, is on trial alongside Egyptian national Ibrahim Alshafe, 25, accused of repeatedly gang raping a 33-year-old woman last October.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/18/107863031-0-image-m-28_1776100317861.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/18/107863031-0-image-m-28_1776100317861.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554173",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment Trump puts 'DoorDash Grandma' on the spot about very controversial issue as he hands her a wad of cash",
+      "link": "https://www.dailymail.co.uk/news/article-15729649/Moment-Trump-puts-DoorDash-Grandma-spot-controversial-issue-hands-wad-cash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:26:36",
+      "description": "President Donald Trump held a bizarre impromptu press conference with a food delivery driver at the White House who was dropping off his favorite food.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862775-0-image-m-49_1776099391632.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862775-0-image-m-49_1776099391632.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554174",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "French police at it again as small boats rammed with migrants set off unchallenged for Britain from Dunkirk beach",
+      "link": "https://www.dailymail.co.uk/news/article-15729637/French-police-small-boats-rammed-migrants-set-unchallenged-Britain-Dunkirk-beach.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:24:15",
+      "description": "Despite their specialist uniforms with riot helmets, waterproof body-worn cameras, non-lethal handguns and pistol-grip pepper spray, the gendarmerie stood and watched as boats left.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/18/107862363-0-image-m-12_1776100817413.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/18/107862363-0-image-m-12_1776100817413.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554177",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mother loses both her daughters in horrific car crash",
+      "link": "https://www.dailymail.co.uk/news/article-15729231/north.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:23:06",
+      "description": "Melissa Battle's two daughters, Carmen Poland, 24, and Lillian Davis, six, died in a car crash in Rocky Mount, North Carolina.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862599-0-image-m-26_1776098853598.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862599-0-image-m-26_1776098853598.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554178",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Disgraceful excuse of FedEx driver who abducted and killed Athena Strand, 7, while delivering her Barbie Christmas present... as his self-pitying letters to her family are revealed",
+      "link": "https://www.dailymail.co.uk/news/article-15729463/Tanner-Horner-Athena-Strand-letters-suicide-trial-death-penalty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:20:47",
+      "description": "Tanner Horner, 34, wrote a disgraceful letter to the seven-year-old's grieving family from his jail cell months after he killed her in November 2022, blaming FedEx for the little girl's murder.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107719345-0-image-m-80_1776098091300.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107719345-0-image-m-80_1776098091300.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554180",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mother, 37, kills herself, her two teenage children and family friend after car vaulted off road 'while traveling at high rate of speed'",
+      "link": "https://www.dailymail.co.uk/news/article-15728851/kara-beagle-texas-four-people-dead-car-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:18:40",
+      "description": "Kara Beagle, 37, her kids Markel and Makhia Beagle, and their 19-year-old family friend Jay'Shawn Godfrey, died in a tragic high speed car crash on Friday in Texas.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861621-0-Kara_Beagle_37_her_children_Markel_and_Makhia_Beagle_they_died_i-a-10_1776097536158.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861621-0-Kara_Beagle_37_her_children_Markel_and_Makhia_Beagle_they_died_i-a-10_1776097536158.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554181",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Baby-faced stepbrother, 16, of Anna Kepner unmasked as he's formally charged as an adult in her cruise ship murder",
+      "link": "https://www.dailymail.co.uk/news/crime-desk/article-15658223/anna-kepner-murder-timothy-hudson-charges-florida.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:17:02",
+      "description": "Timothy Hudson will be tried as an adult in federal court, although he cannot face the death penalty because he was a juvenile at the time of the alleged slaying.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/18/16/107237355-0-image-a-29_1773850327616.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/03/18/16/107237355-0-image-a-29_1773850327616.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554183",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Muslims complain it is RACIST to tow their cars for being parked illegally outside Maine mosque... as nearby business blares national anthem and What Does the Fox Say? during services",
+      "link": "https://www.dailymail.co.uk/news/article-15728759/Muslims-complain-RACIST-tow-cars-parked-illegally-outside-Maine-mosque-nearby-business-blares-national-anthem-Does-Fox-Say-services.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:04:59",
+      "description": "The Masjidu Salaam Mosque in Lewiston has hit out at a recent spate of ticketing and towing - but locals say it is unfair of worshippers to park illegally.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/18/107862035-0-image-m-16_1776099657780.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/18/107862035-0-image-m-16_1776099657780.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554185",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Two brothers used a 'high level of violence' as they attacked armed police officer in Manchester Airport brawl, court hears",
+      "link": "https://www.dailymail.co.uk/news/article-15729499/Two-brothers-used-high-level-violence-attacked-armed-police-officer-Manchester-Airport-brawl-court-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:03:55",
+      "description": "Mohammed Fahir Amaaz,21, and his elder brother Muhammad Amaad, 26, rained 'repeated blows' on PC Zachary Marsden as he tried to arrest Amaaz at Manchester airport.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862359-0-image-m-15_1776098697950.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862359-0-image-m-15_1776098697950.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554187",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Democrat who wants to be Florida's next governor is filmed being arrested after allegedly beating up two elderly people with a cane and phone",
+      "link": "https://www.dailymail.co.uk/news/article-15729211/florida-democrat-governor-kevin-cichowski-arrested.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:02:26",
+      "description": "Kevin Cichowski, 46, who\u00a0is listed as a Democratic candidate for governor, was arrested on Friday after police say he beat his elderly parents and threatened to kill them.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/16/107859493-0-image-m-9_1776093238611.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/16/107859493-0-image-m-9_1776093238611.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554188",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Keir Starmer's former boss blasts plan to slash jury trial as a 'betrayal of Labour traditions and values'",
+      "link": "https://www.dailymail.co.uk/news/article-15728623/Keir-Starmers-former-boss-blasts-plan-slash-jury-trial-betrayal-Labour-traditions-values.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:02:24",
+      "description": "Geoffrey Robertson KC said legislation slashing the right to trial by jury risked being a 'cure worse than the disease'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861955-0-image-m-13_1776096464434.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861955-0-image-m-13_1776096464434.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554190",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Here's how to get a PAY RISE (especially if you're a woman). A new survey shows a shocking discrepancy between how men and women conduct their financial affairs, but there are steps you can take to boost your confidence - and your bank balance...",
+      "link": "https://www.dailymail.co.uk/news/article-15729569/Heres-PAY-RISE-especially-youre-woman-new-survey-shows-shocking-discrepancy-men-women-conduct-financial-affairs-steps-you-boost-confidence-bank-balance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T16:39:40",
+      "description": "The survey found that men\u00a0report higher confidence levels than women in a gap is particularly evident when it comes to asking for a pay rise.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861989-0-image-a-4_1776097119971.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861989-0-image-a-4_1776097119971.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554192",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "It really is a dog's life: Majority of Brits admit their pet has an assigned seat in the living room",
+      "link": "https://www.dailymail.co.uk/news/article-15729183/dogs-pet-assigned-seat-living-room-TV-sofa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T16:28:39",
+      "description": "It's time to let sleeping dogs lie - preferably in their own spot on the sofa.\nOne in five Britons believe  pets have as much right to loaf around on the furniture as their owners.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862205-0-image-a-4_1776097340008.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862205-0-image-a-4_1776097340008.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:53.554194",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Controlling boyfriend who hurled teenage girl 40ft from fourth-floor flat is jailed for five years",
       "link": "https://www.dailymail.co.uk/news/article-15729119/Controlling-boyfriend-hurled-teenage-girl-jailed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12305,205 +12501,51 @@
       "archived_at": "2026-04-10T13:54:18.407819",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'I paid for everything when they were growing up - now my adult children want more. Where does it end?' VANESSA STOYKOV",
-      "link": "https://www.dailymail.co.uk/news/article-15711261/adult-children-financial-support-marriage-problems-Vanessa-Stoykov.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T13:26:37",
-      "description": "'I'm not wealthy, but I've done well enough to be comfortable. The problem is, I'm starting to feel resentful. It's like no matter what I've already done, it's never quite enough.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/07/01/107698067-0-image-a-5_1775523476045.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/07/01/107698067-0-image-a-5_1775523476045.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T13:54:18.407821",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Socialite Annabelle Price's tragic last days: Neighbours reveal her change in appearance and the sad question they asked police when the forensic van arrived... after she vanished from the Double Bay scene",
-      "link": "https://www.dailymail.co.uk/news/article-15717879/Annabelle-Price-mysterious-days-neighbours-socialite-Maroubra.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T13:26:23",
-      "description": "Having spoken to Ms Price's neighbours, their descriptions of her will no doubt sound unfamiliar to those who knew\u00a0her during her days as a social butterfly living in\u00a0Double Bay just a few years ago.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/02/107784807-0-image-a-11_1775785686380.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/02/107784807-0-image-a-11_1775785686380.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T13:54:18.407822",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Zelensky says Britain must rejoin the EU if Trump pulls US out of NATO",
-      "link": "https://www.dailymail.co.uk/news/article-15721863/Zelensky-says-Britain-rejoin-EU-Trump-pulls-US-NATO.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T13:20:19",
-      "description": "Trump, a fierce critic of the defence bloc, has been left unimpressed by fellow members and their refusal to get involved in his war with Iran.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/14/107794819-0-image-a-8_1775826767386.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/14/107794819-0-image-a-8_1775826767386.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T13:54:18.407823",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woman wrote notes about killing her 'evil' film director sister before 'slitting her throat and stealing her Rolex', court hears",
-      "link": "https://www.dailymail.co.uk/news/article-15721987/Woman-wrote-notes-killing-evil-film-director-sister-slitting-throat-stealing-Rolex-court-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T13:08:53",
-      "description": "Nancy Pexton, pictured left, is accused of murdering her elder sister Jennifer Abbot, right, a film director, and stealing her Rolex watch. Pexton, who turns 70 today, denies murder.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/13/99570499-0-Nancy_Pexton_with_sister_Jennifer_Abbott_in_a_photo_taken_in_the-a-22_1775822949843.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/13/99570499-0-Nancy_Pexton_with_sister_Jennifer_Abbott_in_a_photo_taken_in_the-a-22_1775822949843.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T13:54:18.407824",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Another council faces backlash for turning off street lights overnight as it aims to save \u00a3270K-a-year - despite fears more women and girls will be put at risk",
-      "link": "https://www.dailymail.co.uk/news/article-15656845/council-backlash-street-lights-overnight-save-270k-fears-women-girls-risk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T13:06:01",
-      "description": "Devon County Council has said the lighting (pictured, file photo) will be switched off early or dimmed on a permanent basis across the county, after a year-long trial.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584679-0-image-m-38_1775054540363.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/15/107584679-0-image-m-38_1775054540363.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T13:54:18.407825",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Surrey town becomes latest victim of traveller 'land grab': 'Illegal' site appears in middle of woodland after group brought in machinery and hacked down trees over Easter weekend",
-      "link": "https://www.dailymail.co.uk/news/article-15721855/Surrey-town-latest-victim-traveller-land-grab-Illegal-site-appears-middle-woodland-group-brought-machinery-hacked-trees-Easter-weekend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T12:52:09",
-      "description": "Residents in Burpham, Guildford, were left furious after overgrowth and trees were replaced by hardstanding over the Easter weekend.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/13/107793761-0-image-m-14_1775824079439.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/13/107793761-0-image-m-14_1775824079439.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T13:54:18.407827",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Basketball fan gets slam-dunked by female friend in hilarious clip with her brutal response to his yapping",
-      "link": "https://www.dailymail.co.uk/news/article-15721485/Basketball-fan-gets-slam-dunked-female-friend-hilarious-clip-brutal-response-yapping.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T12:06:31",
-      "description": "In live broadcast footage, the man appears to be criticising play during the game when she turns on him with a savage one-liner.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791737-0-image-a-8_1775817937976.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791737-0-image-a-8_1775817937976.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T13:54:18.407828",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Upping the style stakes! Glamorous Aintree racegoers don daring hemlines and plunging dresses for Ladies Day - as Zara Tindall and daughter Mia bring a touch of elegance in smart suits",
-      "link": "https://www.dailymail.co.uk/lifestyle/article-15721351/Hats-spirit-Glamorous-racegoers-don-flamboyant-headwear-plunging-dresses-style-stakes-Ladies-Day-Aintree.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T11:57:43",
-      "description": "After weeks of preening and outfit preparation, glamorous racegoers amped up the style stakes on Friday as they descended on Aintree for day two of the three-day Grand National Festival.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/12/107791383-0-image-m-108_1775819316554.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/12/107791383-0-image-m-108_1775819316554.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T12:05:35.006571",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Transgender woman claims church refused to baptise her unless she 'wore trousers and grew a beard'",
-      "link": "https://www.dailymail.co.uk/news/article-15721563/Transgender-woman-refused-baptise-unless-wore-trousers-grew-beard.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T11:46:27",
-      "description": "Joann Carver, 73, joined the Lighthouse Church in Ely, Cambridgeshire, in April 2022 and asked to be baptised in June 2024.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/12/107792611-0-image-m-17_1775819534255.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/12/107792611-0-image-m-17_1775819534255.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T12:05:35.006577",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The nine 'deadliest' NHS trusts in England where patients are more likely to die: Is YOUR local hospital on the list?",
-      "link": "https://www.dailymail.co.uk/health/article-15718575/Map-reveals-nine-deadliest-NHS-trusts-England-does-local-one-fare.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T11:38:09",
-      "description": "Data released by NHS England yesterday revealed that some trusts recorded more than 30 per cent higher patient deaths than expected between December 2024 and November last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/15/107771905-0-image-m-29_1775745342563.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/15/107771905-0-image-m-29_1775745342563.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T12:05:35.006579",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Secrets of Ladies Day glam! Racegoer reveals her VERY extensive beauty schedule to look her best for Aintree (and preparations started a month ago!)",
-      "link": "https://www.dailymail.co.uk/lifestyle/article-15721347/aintree-ladies-day-beauty-prep.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T11:21:19",
-      "description": "Taking to TikTok, one glamorous racegoer revealed how she had started her beauty appointments as far back as March to make sure she looked her best for Ladies' Day.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/09/107789465-0-image-m-20_1775811477184.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/09/107789465-0-image-m-20_1775811477184.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T12:05:35.006581",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why your husband's making you miserable - and when it's time to walk away. So many women feel they deserve more. Now therapist LUCY BERESFORD - who's helped thousands - reveals signs it's time to go... and what happens next",
-      "link": "https://www.dailymail.co.uk/lifestyle/love-sex/article-15721661/therapist-husband-miserable-wives-marital-problems-divorce.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T11:20:34",
-      "description": "Of all the 'therapy speak' that has been invading our language around dating culture in recent years, the phrase 'red flags' is perhaps the most common.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107790851-0-image-m-9_1775815307935.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107790851-0-image-m-9_1775815307935.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T12:05:35.006582",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "TV golf presenter Amanda Balionis brushes Rory McIlroy romance rumour under the carpet in friendly interview with him back at The Masters",
-      "link": "https://www.dailymail.co.uk/sport/golf/article-15721617/TV-golf-presenter-Amanda-Balionis-Rory-McIlroy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T11:19:28",
-      "description": "McIlroy, 36, is back on the grass at Augusta National looking to defend the famous green jacket, one year on from his dramatic play-off victory over Justin Rose, which bagged him a career grand slam.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107790295-0-image-m-9_1775817360102.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107790295-0-image-m-9_1775817360102.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T12:05:35.006583",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Adam Peaty 'snubs his devoted \"Olympic Nan\" on her 84th birthday' leaving her 'sad and bewildered' just days after publicly marking wife Holly Ramsay's brother Oscar turning seven as family feud rumbles on",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15721411/Adam-Peaty-snubs-devoted-Olympic-Nan-birthday-feud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T11:16:48",
-      "description": "The Olympian, 31, tied the knot with Gordon Ramsay's eldest daughter, 26, at\u00a0Bath Abbey in December amid a bitter feud which saw his mother Caroline, 60, disinvited.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791409-0-image-a-33_1775816540345.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/11/107791409-0-image-a-33_1775816540345.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T12:05:35.006585",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Footballer announces he is expecting a baby... and the mother is his manager's DAUGHTER!",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15729469/oliver-arblaster-expecting-baby-chris-wilder-daughter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T16:20:37",
+      "description": "Martha Elizabeth Wilder took to Instagram on Sunday night to share her exciting news with a series of polaroid photos of her proudly showing off her growing bump.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862123-0-image-a-12_1776097183246.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862123-0-image-a-12_1776097183246.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:54.719587",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Manchester United vs Leeds - Premier League LIVE: Latest score, team news and updates as Red Devils eye crucial win against bitter rivals to fuel Champions League push",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15728457/Manchester-United-vs-Leeds-Premier-League-LIVE-Latest-score-team-news-updates-Red-Devils-eye-crucial-win-against-bitter-rivals-fuel-Champions-League-push.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:29:23",
+      "description": "Follow Daily Mail Sport's live blog for the latest score, team news and updates as Manchester United host Leeds at Old Trafford in the Premier League.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/11/107853435-0-image-a-33_1776075442699.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/11/107853435-0-image-a-33_1776075442699.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:54.719598",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arne Slot sends defiant rallying cry as Liverpool\u00a0aim for a Champions League miracle against PSG - with wary Luis Enrique sharing fear over Anfield 'trap'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15729741/Arne-Slot-sends-defiant-rallying-cry-Liverpool-aim-Champions-League-miracle-against-PSG-wary-Luis-Enrique-sharing-fear-Anfield-trap.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T17:20:28",
+      "description": "LEWIS STEELE: Arne Slot believes Liverpool can do 'special things' against Paris Saint-Germain and overturn a two-goal deficit at a stadium famed for nights like these.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/18/107863329-0-image-a-42_1776100768476.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/18/107863329-0-image-a-42_1776100768476.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:54.719600",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Cristian Romero is OUT for the season with knee ligament injury in huge blow to relegation-threatened Spurs - but crying captain could still make the World Cup with Argentina",
       "link": "https://www.dailymail.co.uk/sport/football/article-15729331/Romero-season-knee-injury-huge-blow-Spurs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -20426,6 +20468,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Robbie Williams slams 'bully' podcaster",
+      "link": "https://www.music-news.com/news/UK/188306/Robbie-Williams-slams-bully-podcaster",
+      "pubDate": "2026-04-13T16:00:00",
+      "description": "Robbie Williams has spoken out after a podcaster described him as a \"Redcoat\".",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188306.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188306.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T17:37:57.004948",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "KATSEYE team up with K-Pop Demon Hunters stars for surprise Golden performance at Coachella",
       "link": "https://www.music-news.com/news/UK/188304/KATSEYE-team-up-with-K-Pop-Demon-Hunters-stars-for-surprise-Golden-performance-at-Coachella",
