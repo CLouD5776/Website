@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Lib Dems call for inquiry into Farage Bitcoin deal",
+      "link": "https://www.bbc.com/news/articles/cd9vgw2g3w2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T20:26:12",
+      "description": "The Reform UK leader is a shareholder in British bitcoin company Stack and appeared in a promotional video.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca9/live/2823e930-3766-11f1-a7e9-a1f2253df567.png",
+      "enclosure": null,
+      "archived_at": "2026-04-13T20:30:46.929436",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
+      "link": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T19:20:08",
+      "description": "The vast majority did not believe Hezbollah or Iran had been severely weakened by weeks of Israeli and US attacks, according to the poll.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caec/live/d45e3b20-3751-11f1-a12e-891a94889568.png",
+      "enclosure": null,
+      "archived_at": "2026-04-13T20:30:46.929443",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Americanswers... on 5 Live! Donald Trump vs Pope Leo on Iran",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nd6swy?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T19:10:00",
+      "description": "The US president insults the pope and depicts himself as Jesus",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T20:30:46.929448",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The \"Systemic Failures\" Before The Southport Attack",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nbywqg?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T19:03:00",
+      "description": "Inquiry finds Southport killer's family and authorities could have prevented attack.",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T20:30:46.929449",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Southport killer's parents failed in 'moral duty' to report son, public inquiry finds",
       "link": "https://www.bbc.com/news/articles/cx2rgyeqv1yo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-13T17:49:05",
@@ -5455,53 +5499,163 @@
       "archived_at": "2026-04-07T04:56:53.897795",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "JD Vance due in Hungary to back Orban's re-election bid",
-      "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T01:45:41",
-      "description": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31b4/live/6ab44b00-3202-11f1-8df9-2146dc911a76.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T04:56:53.897797",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump's Hormuz deadline looms but Asian nations have already struck deals with Iran",
-      "link": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T23:34:11",
-      "description": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e4/live/78fa26e0-3184-11f1-86cc-99d8e53afbd3.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T02:03:45.871611",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The Papers: Doctors 'hold patients hostage' and 'The whole of the moon'",
-      "link": "https://www.bbc.com/news/articles/c624n11yqpgo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T23:36:18",
-      "description": "A number of the papers have focused in on the six-day resident doctors' strike, which is due to kick off on Tuesday.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9a/live/921cc710-3209-11f1-b297-95b0a0a8331e.png",
-      "enclosure": null,
-      "archived_at": "2026-04-07T02:03:45.871617",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Nine policemen sentenced to death in India over Covid custody killings",
-      "link": "https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T21:21:13",
-      "description": "The father and son died in jail after being arrested on suspicion of breaching Covid lockdown rules in 2020.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad14/live/4b633f20-31f5-11f1-980b-61f22cc055ba.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T02:03:45.871619",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Terrifying Texas bridge notorious for being one of scariest drives in America reopens after refurbishment - but its span is as frightening as ever",
+      "link": "https://www.dailymail.co.uk/news/article-15729603/rainbow-bridge-texas-renovations-reopens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T20:26:05",
+      "description": "The Rainbow Bridge in Bridge City, Texas, is known for its steep, anxiety-inducing climb. After a year-long closure, it reopened on Saturday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/21/107864905-0-The_nearly_200_ft_tall_bridge_is_famous_for_its_anxiety_inducing-a-10_1776110934532.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/21/107864905-0-The_nearly_200_ft_tall_bridge_is_famous_for_its_anxiety_inducing-a-10_1776110934532.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:49.177713",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Driver, 69, who hit Take That fan as she walked to concert with friends denies causing death",
+      "link": "https://www.dailymail.co.uk/news/article-15729813/driver-concert-friends-denies-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T20:14:21",
+      "description": "Fiona Hodge, 69, was behind the wheel of a Citroen C1 car with two passengers when the vehicle mounted the pavement near Ashton Gate Stadium in Bristol on June 2024.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/21/107865457-0-image-m-6_1776111244941.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/21/107865457-0-image-m-6_1776111244941.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:49.177720",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Restaurant bosses jailed \u2028for 3 years after cooking up \u00a3700,000 VAT scam",
+      "link": "https://www.dailymail.co.uk/news/article-15730023/Restaurant-bosses-jailed-3-years-cooking-700-000-VAT-scam.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T20:06:24",
+      "description": "Two restaurateurs who cooked up a VAT fraud of almost \u00a3700,000 have been jailed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/20/107864765-0-image-a-69_1776107281297.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/20/107864765-0-image-a-69_1776107281297.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:49.177721",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Dog dies after being found with muzzle 'permanently taped' to his head: Owner is banned from having pets",
+      "link": "https://www.dailymail.co.uk/news/article-15729739/Dog-dies-muzzle-permanently-taped-head.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T20:02:03",
+      "description": "The owner of German Shepherd Sparrow, Joanne Falconer, 58, has been banned from having pets after the dog had to be put down by the animal welfare charity RSPCA.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/19/107863943-0-image-m-12_1776104626120.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/19/107863943-0-image-m-12_1776104626120.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:49.177723",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bomb-y Prince Charlie! Shell fired on Culloden battlefield is discovered almost 300 years on",
+      "link": "https://www.dailymail.co.uk/news/article-15729961/Bomb-y-Prince-Charlie-Shell-fired-Culloden-battlefield-discovered-300-years-on.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T19:49:05",
+      "description": "Almost three centuries after it was fired at Culloden, archaeologists have discovered an unexploded mortar shell in the battlefield.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/20/107864571-0-image-a-18_1776106971618.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/20/107864571-0-image-a-18_1776106971618.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:49.177725",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The town hall fat cats: Now 369 council staff are paid over \u00a3100,000",
+      "link": "https://www.dailymail.co.uk/news/article-15729953/The-town-hall-fat-cats-369-council-staff-paid-100-000.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T19:48:33",
+      "description": "Soaring public sector wages have seen the number of Scots council staff earning six-figure sums reach almost 370 despite cuts to frontline services and some of the highest council tax hikes on record.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864461-0-image-a-64_1776106216997.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864461-0-image-a-64_1776106216997.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:49.177727",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tories have a plan to tackle pothole crisis that's ruining Scotland's roads",
+      "link": "https://www.dailymail.co.uk/news/article-15729931/Tories-plan-tackle-pothole-crisis-thats-ruining-Scotlands-roads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T19:33:49",
+      "description": "The SNP's pothole epidemic has left parts of Scotland looking 'like a third world country', it was claimed yesterday.",
+      "thumbnail": "https://i.dailymail.co.uk/1/2026/04/13/19/107864227-0-image-a-8_1776105229798.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1/2026/04/13/19/107864227-0-image-a-8_1776105229798.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:49.177728",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "DC Insider Poll: Do you back President Trump or Pope Leo?",
+      "link": "https://www.dailymail.co.uk/news/article-15729567/poll-donald-trump-pope-leo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T19:32:09",
+      "description": "Donald Trump is in a high-profile skirmish with Pope Leo XIV, after the American-born Pontiff criticized the President for going to war with Iran.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861111-0-image-m-2_1776098101250.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861111-0-image-m-2_1776098101250.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:49.177729",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Speech and language therapist who claimed English was her native tongue - yet couldn't understand workmates - is sacked",
+      "link": "https://www.dailymail.co.uk/news/article-15702495/Speech-language-therapist-claimed-English-native-tongue-understand-workmates-sacked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T19:27:37",
+      "description": "Sai Keerthana Sriperambuduru joined the York and Scarborough Teaching Hospitals NHS Foundation Trust in October 2023.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/01/107402679-0-image-m-32_1775177232918.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/03/01/107402679-0-image-m-32_1775177232918.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:49.177731",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "GRAHAM GRANT: Scotland's defence safer in the hands of the SNP? Sorry, but who do you think you are kidding Mr Flynn?",
+      "link": "https://www.dailymail.co.uk/news/article-15729883/GRAHAM-GRANT-Scotlands-defence-safer-hands-SNP-Sorry-you-think-you-kidding-Mr-Flynn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T19:16:44",
+      "description": "There haven't been many moments of levity in the election campaign - but Stephen Flynn managed to provide one the other day.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864179-0-image-a-50_1776104761773.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864179-0-image-a-50_1776104761773.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:49.177734",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woke Minneapolis lawmaker who condemned anti-gay Molotov cocktail attack on ice cream parlor goes VERY quiet after arsonist was identified",
+      "link": "https://www.dailymail.co.uk/news/article-15728783/minneapolis-lawmaker-silence-anti-gay-attacker-identified.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T19:10:46",
+      "description": "Minneapolis City Councilmember Jason Chavez denounced the Molotov cocktail attack on\u00a0Fletcher's Ice Cream & Caf\u00e9 in October.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864403-0-image-m-34_1776105968653.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864403-0-image-m-34_1776105968653.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:49.177735",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Teenage boy, 17, died when he lost control of his car just days after passing driving test, inquest hears",
       "link": "https://www.dailymail.co.uk/news/article-15729669/Teenage-17-died-lost-control-car-driving-test-inquest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12347,163 +12501,37 @@
       "archived_at": "2026-04-10T15:48:23.794562",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Astonishing audio of Kristi Noem being humiliated by husband Bryon: His desire to gender transition and chosen girl name... damaging ICE messages... and worst insult imaginable for a wife",
-      "link": "https://www.dailymail.co.uk/news/article-15710733/kristi-noem-husband-bryon-audio-transition-bimbo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T15:32:51",
-      "description": "Kristi Noem's husband Bryon had an on-off secret relationship with a left-wing dominatrix for more than nine years, the Daily Mail can exclusively reveal.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/21/107772429-0-image-a-26_1775765518339.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/21/107772429-0-image-a-26_1775765518339.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T15:48:23.794563",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Disturbing new photos show bloody wounds missing Bahamas wife is accused of inflicting on husband during drunken rampage, as he blames wind for her disappearance",
-      "link": "https://www.dailymail.co.uk/news/article-15722239/lynette-hooker-missing-bahamas-husband-brian-bloody-wounds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T15:29:11",
-      "description": "Lynette Hooker, 55, was arrested for domestic violence in 2015\u00a0after an alleged violent altercation with her husband Brian, 59, at their suburban Michigan home.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/15/107796743-0-image-a-46_1775832263981.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/15/107796743-0-image-a-46_1775832263981.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T15:48:23.794564",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Voters split on Trump's threats to pull out of NATO over Hormuz fury",
-      "link": "https://www.dailymail.co.uk/news/article-15721845/Voters-split-Trump-Hormuz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T15:22:11",
-      "description": "The American public is sharply divided over President Donald Trump's latest ultimatum to NATO allies.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/15/107774955-0-image-m-14_1775832603153.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/15/107774955-0-image-m-14_1775832603153.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T15:48:23.794566",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "BBC producer, 50, is found guilty of downloading thousands of indecent images of children",
-      "link": "https://www.dailymail.co.uk/news/article-15722403/BBC-producer-guilty-downloading-thousands-indecent-images-children.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T15:12:16",
-      "description": "Dylan Dawes, 50, had more than 6,000 indecent images of children on his devices when they were seized by police.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/15/107799099-0-image-m-14_1775832862492.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/15/107799099-0-image-m-14_1775832862492.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T15:48:23.794567",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Conservative dad sues gay son, 18, for dropping out of $6,000 CONVERSION THERAPY he offered to undertake in bid to stop his parents kicking him out of their home",
-      "link": "https://www.dailymail.co.uk/news/article-15721993/conservative-dad-sues-gay-son-conversion-therapy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T14:47:49",
-      "description": "The teen detailed how he found the conversion therapy unbearable, alleging that he was repeatedly verbally abused. The son said he was called a 'monster' and told he was 'cursed.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/15/107797073-0-image-m-19_1775830974920.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/15/107797073-0-image-m-19_1775830974920.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T15:48:23.794571",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Sudanese man, 27, is arrested after four migrants died trying to board small boat crossing English Channel",
-      "link": "https://www.dailymail.co.uk/news/article-15722521/Sudanese-man-27-arrested-four-migrants-died-trying-board-small-boat-crossing-English-Channel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T14:42:52",
-      "description": "The incident happened off the coast of Saint Etienne au Mont, south of Boulogne-sur-Mer near Calais.",
-      "thumbnail": "https://i.dailymail.co.uk/i/pix/m_logo_154x115px.png",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/i/pix/m_logo_154x115px.png",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T14:44:33.178709",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Cheapskate Seattle judge living in $1.4m house fired for putting official court seal on forged document to try and bag $10 parking discount",
-      "link": "https://www.dailymail.co.uk/news/article-15722009/seattle-judge-david-ruzumna-fired-forging-document-parking-discount.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T14:42:15",
-      "description": "David Ruzumna, who worked as a temporary judge for King County District Court in Washington, was removed from the bench on Thursday after fraudulently trying to get the discount.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/15/107795025-0-image-a-5_1775831274576.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/15/107795025-0-image-a-5_1775831274576.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T14:44:33.178716",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tourist bus crash leaves one dead and 14 injured when vehicle plunges into ravine on Canary Islands",
-      "link": "https://www.dailymail.co.uk/news/article-15722421/Tourist-bus-crash-leaves-one-dead-20-injured-vehicle-plunges-ravine-Canary-Islands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T14:41:32",
-      "description": "The accident happened at about 1.30pm and the emergency services, including helicopters, are at the scene.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/15/107796723-0-image-a-5_1775830065419.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/15/107796723-0-image-a-5_1775830065419.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T14:44:33.178718",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Families of two grammar school pupils killed in car crash open up about their 'immeasurable loss' - after speeding teen driver jailed for just 14 months",
-      "link": "https://www.dailymail.co.uk/news/article-15722209/families-two-grammar-pupils-loss-driver-jailed-140months.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T14:29:18",
-      "description": "Madeleine Lonsdale, 18, misjudged a bend along a country road near Grantham, Lincolnshire on June 20, 2025 as she reached speeds of up to 100mph.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/15/107795363-0-image-m-7_1775830057063.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/15/107795363-0-image-m-7_1775830057063.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T14:44:33.178719",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Father of Nottingham attack victim says it was 'completely avoidable' and calls for shoulder-shrugging staff involved to be sacked",
-      "link": "https://www.dailymail.co.uk/news/article-15722171/Father-Nottingham-attack-victim-says-completely-avoidable-calls-shoulder-shrugging-staff-involved-sacked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T14:27:47",
-      "description": "Dr Sanjoy Kumar's daughter, Grace, was stabbed to death by a man with paranoid schizophrenia in 2023. He said those who failed to prevent the atrocity should lose their jobs.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/14/107795347-0-image-a-4_1775827130513.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/14/107795347-0-image-a-4_1775827130513.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T14:44:33.178720",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Kentucky cheerleader Laken Snelling, 22, pleads NOT GUILTY to killing her baby and hiding infant's body in closet",
-      "link": "https://www.dailymail.co.uk/news/article-15722367/Kentucky-cheerleader-Laken-Snelling-not-guilty-manslaughter-baby-closet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T14:24:24",
-      "description": "Snelling, 22, was arrested in August 2025 after investigators say they found a baby boy wrapped in a blood-soaked towel and a trash bag in her dorm at the University of Kentucky.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/15/107796567-0-image-a-21_1775829795286.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/15/107796567-0-image-a-21_1775829795286.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T14:44:33.178722",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "From hero to zero! Lisandro Martinez saves Man United with heroic goal-saving tackle before being sent off for violent HAIR pull as Roy Keane hits out\u00a0 at Michael Carrick's side's 'sloppy' display against Leeds",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15730147/lisandro-martinez-manchester-united-leeds-tackle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T20:22:41",
+      "description": "A brace inside the first 30 minutes from Noah Okafor gave Leeds a crucial two-goal advantage with Daniel Farke's side hugely deserving of their lead at the break.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/21/107865829-0-image-a-6_1776111747869.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/21/107865829-0-image-a-6_1776111747869.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:52.428313",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Roy Keane warns 'nervous' Arsenal they 'need to get a grip' or Premier League title will 'slip by' as Jamie Carragher names the Gunners signing who 'is really struggling'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15729973/Roy-Keane-warns-nervous-Arsenal-need-grip-Premier-League-title-slip-Jamie-Carragher-names-Gunners-signing-really-struggling.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T19:35:02",
+      "description": "Roy Keane has sent a warning to Arsenal and highlighted what they must do to make sure they win the Premier League this season.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/20/107864851-0-image-a-11_1776108434132.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/20/107864851-0-image-a-11_1776108434132.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T20:30:52.428319",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Revealed: How EFL checks on Sheffield Wednesday bidders Arise are progressing and the date when long-suffering Owls fans are likely to know the outcome",
       "link": "https://www.dailymail.co.uk/sport/football/article-15729801/sheffield-wednesday-efl-ownership-checks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -23830,6 +23858,17 @@
     }
   ],
   "ENV": [
+    {
+      "title": "Contest of Cosmic Stories \u201cIsn\u2019t a Fair Fight\u201d",
+      "link": "https://scienceandculture.com/2026/04/contest-of-cosmic-stories-isnt-a-fair-fight/",
+      "pubDate": "2026-04-13T19:18:54",
+      "description": "As Bethel McGrew notes, the tradition of seeing the stars, planets, and the rest of space as pointing to a creator has a distinguished scientific history.\n<p><a href=\"https://scienceandculture.com/2026/04/contest-of-cosmic-stories-isnt-a-fair-fight/\" rel=\"nofollow\">Source</a></p>",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-13T20:30:57.409038",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Project Hail Mary Can\u2019t Outrun the God Hypothesis",
       "link": "https://scienceandculture.com/2026/04/project-hail-mary-cant-outrun-the-god-hypothesis/",
