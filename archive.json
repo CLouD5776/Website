@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Man Utd's Martinez sent off for hair-pull - is three-match ban justified?",
+      "link": "https://www.bbc.com/sport/football/articles/c145mdge2gdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T20:39:35",
+      "description": "Manchester United defender Lisandro Martinez is sent off after 56 minutes for pulling the hair of Leeds United striker Dominic Calvert-Lewin at Old Trafford.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16e8/live/d6824940-3775-11f1-b023-c3d1c5398968.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T21:43:58.052234",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "England 'feckless, reckless and legless' in Ashes - Wisden",
+      "link": "https://www.bbc.com/sport/cricket/articles/cy81l2l9z9no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T21:30:03",
+      "description": "England were \"feckless, reckless and legless\" on their dismal Ashes tour of Australia, according to the editor of the prestigious Wisden Almanack.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b94/live/3da5b1a0-374b-11f1-bcf0-130930103dc8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T21:43:58.052240",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Lib Dems call for inquiry into Farage Bitcoin deal",
       "link": "https://www.bbc.com/news/articles/cd9vgw2g3w2o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-13T20:26:12",
@@ -5477,31 +5499,163 @@
       "archived_at": "2026-04-07T06:19:10.838929",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Watch: Artemis II mission loses contact with Earth for 40 minutes",
-      "link": "https://www.bbc.com/news/videos/cp38vg5knveo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T01:03:27",
-      "description": "Once contact was regained, astronaut Christina Koch said: \"It is so great to hear from Earth again.\"",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de3/live/eae252d0-321c-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T04:56:53.897790",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Australia's most-decorated living soldier arrested over alleged war crimes",
-      "link": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T04:05:07",
-      "description": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c859/live/f534b9b0-3228-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T04:56:53.897795",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Eric Swalwell to RESIGN from Congress after scathing sexual assault allegations as he admits 'mistakes'",
+      "link": "https://www.dailymail.co.uk/news/article-15730345/Eric-Swalwell-RESIGN-Congress-scathing-sexual-assault-allegations-admits-mistakes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T21:39:15",
+      "description": "California\u00a0Congressman Eric Swalwell has announced his resignation from Congress.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/21/107859807-0-Eric_Swalwell_speaks_during_the_California_Democratic_Convention-a-5_1776111847902.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/21/107859807-0-Eric_Swalwell_speaks_during_the_California_Democratic_Convention-a-5_1776111847902.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:00.393867",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Kemi Badenoch warns that Labour's new plan to cosy up to Brussels will leave Britain in the 'worst of both worlds'",
+      "link": "https://www.dailymail.co.uk/news/article-15729641/Kemi-Badenoch-warns-Labours-new-plan-cosy-Brussels-leave-Britain-worst-worlds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T21:38:10",
+      "description": "Downing Street confirmed  that Keir Starmer will press ahead with plans to align Britain with EU rules in a range of areas, despite warnings it will unpick Brexit and make Britain a 'rule-taker'.",
+      "thumbnail": "https://i.dailymail.co.uk/1/2026/04/13/17/107862665-0-image-a-5_1776098588791.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1/2026/04/13/17/107862665-0-image-a-5_1776098588791.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:00.393886",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Harry and Meghan touch down in Australia on a commercial flight as four-day tour begins - and calls grow for no taxpayer support for the millionaire couple",
+      "link": "https://www.dailymail.co.uk/news/article-15730257/Harry-Meghan-Australia-tour-Melbourne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T21:37:51",
+      "description": "Follow Daily Mail's live coverage here.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/22/107866571-0-image-a-13_1776114320138.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/22/107866571-0-image-a-13_1776114320138.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:00.393888",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Shameful moment Range Rover-driving Real Housewife and her husband are arrested after SHOPLIFTING for months on end at Florida Publix supermarket",
+      "link": "https://www.dailymail.co.uk/news/article-15729605/melany-petrus-viljoen-real-housewives-pretoria-florida-arrest-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T21:31:07",
+      "description": "Police bodycam footage captured the moment Real Housewife star Melany Viljoen, 40, and her husband,\u00a0Petrus 'Peet' Viljoen, 57, were arrested in Boca Raton, Florida.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/21/107865775-0-image-m-17_1776111695485.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/21/107865775-0-image-m-17_1776111695485.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:00.393889",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump insists Iran wants to make a deal 'very badly' and that only sticking point between warring nations is 'over nuclear'",
+      "link": "https://www.dailymail.co.uk/news/article-15730275/Trump-Iran-make-deal-badly-nuclear.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T21:25:38",
+      "description": "The US President claimed the only sticking point between the warring nations was 'over nuclear', claiming Iran wanted an atomic bomb so it could 'exterminate the world'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/22/107866633-0-image-m-19_1776115072250.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/22/107866633-0-image-m-19_1776115072250.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:00.393891",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Eric Swalwell slapped with NEW investigation into 'sexual misconduct' as damning reports swirl",
+      "link": "https://www.dailymail.co.uk/news/article-15730013/Eric-Swalwell-investigation-sexual-misconduct-reports.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T21:07:54",
+      "description": "California Congressman Eric Swalwell is facing a new fight on Capitol Hill after being slapped with a fresh investigation after bombshell 'sexual misconduct' allegations.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/21/107859807-0-Eric_Swalwell_speaks_during_the_California_Democratic_Convention-a-5_1776111847902.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/21/107859807-0-Eric_Swalwell_speaks_during_the_California_Democratic_Convention-a-5_1776111847902.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:00.393892",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "American Airlines flight diverts to Arizona due to FIRE on board plane",
+      "link": "https://www.dailymail.co.uk/news/article-15730229/American-Airlines-fire-plane-diverted-Tucson-Arizona.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T21:05:26",
+      "description": "An American Airlines flight has been diverted to Tucson, Arizona after a fire broke out board a plane, according to local news outlets.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/21/107866137-0-image-m-2_1776112935533.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/21/107866137-0-image-m-2_1776112935533.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:00.393893",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The new Dubai: Wealthy flock to secret boomtown with fast-rising skyline as Middle East exodus fuels rush to the Americas",
+      "link": "https://www.dailymail.co.uk/news/article-15722681/Dubai-war-Iran-rich-flee-war-Americas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T20:57:02",
+      "description": "Dubai has long been presented as the Middle East's gold-plated success story. But as the war with Iran drags on, the millions of expats who call the glittering UAE city home are reconsidering.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/18/107837339-0-image-a-11_1776014173241.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/18/107837339-0-image-a-11_1776014173241.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:00.393895",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chaos as Jetstar flight is forced to divert after leaving Melbourne - as woman is dragged off plane",
+      "link": "https://www.dailymail.co.uk/news/article-15730191/Jetstar-flight-Melbourne-Thailand-divert-woman-charged.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T20:56:15",
+      "description": "Australian Federal Police officers\u00a0were alerted to an incident onboard flight JQ17, which was travelling from Melbourne to Phuket, on Sunday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/21/107865901-0-image-a-4_1776112488147.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/21/107865901-0-image-a-4_1776112488147.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:00.393896",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Tories: Indyref threat is real... other parties are in denial",
+      "link": "https://www.dailymail.co.uk/news/article-15729987/Tories-Indyref-threat-real-parties-denial.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T20:39:52",
+      "description": "The Scottish leaders of Reform UK and other pro-Union parties have been accused of being 'weak or in denial' about the threat of another independence referendum.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/20/107864873-0-image-a-5_1776107661266.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/20/107864873-0-image-a-5_1776107661266.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:00.393898",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Iconic midwestern 'tunnel of trees' partially-destroyed by floods, as residents living below dam warned it is on verge of OVERFLOWING",
+      "link": "https://www.dailymail.co.uk/news/article-15729283/midwestern-tunnel-trees-destroyed-floods-dam-overflowing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T20:34:33",
+      "description": "The iconic 'tunnel of trees' was partially destroyed as heavy rain and floods batter Michigan, and a near overflowing dam threatens residents living below.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/20/107862405-0-The_M_119_between_Island_View_and_Division_Road_was_closed_after-a-66_1776109125690.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/20/107862405-0-The_M_119_between_Island_View_and_Division_Road_was_closed_after-a-66_1776109125690.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:00.393899",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Terrifying Texas bridge notorious for being one of scariest drives in America reopens after refurbishment - but its span is as frightening as ever",
       "link": "https://www.dailymail.co.uk/news/article-15729603/rainbow-bridge-texas-renovations-reopens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12347,163 +12501,23 @@
       "archived_at": "2026-04-10T16:46:31.527715",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Boris in the kill zone: The ex-PM's extraordinarily vivid dispatch from Ukraine's frontline - compiled as he dodged Russian drones - shames the West's failure to give Kyiv the tools it needs to defend freedom",
-      "link": "https://www.dailymail.co.uk/debate/article-15722491/Boris-Johnson-kill-zone-PM-dispatch-Ukraine-frontline-Russian-drones-West-failure-Kyiv-defend-freedom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T16:44:36",
-      "description": "It's time to go, says Makar, the deputy commander of the 65th battalion, coming back into the shop. We need to hurry, says the 30ish-year-old Ukrainian soldier, and I am not disposed to argue.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107798885-0-Boris_Johnson_seen_with_the_Daily_Mail_s_Richard_Pendlebury_near-a-30_1775836799872.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107798885-0-Boris_Johnson_seen_with_the_Daily_Mail_s_Richard_Pendlebury_near-a-30_1775836799872.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T16:46:31.527722",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump issues chilling new ultimatum for Iran to make a peace deal as talks on brink of collapse",
-      "link": "https://www.dailymail.co.uk/news/article-15722705/Trump-issues-chilling-new-ultimatum-Iran-make-peace-deal-talks-brink-collapse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T16:44:23",
-      "description": "Trump is warning Iran that they better strike a deal within 24 hours or he'll unleash new waves of strikes on the nation.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/16/107798371-0-image-a-12_1775836045339.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/16/107798371-0-image-a-12_1775836045339.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T16:46:31.527724",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Female executives at war over VERY ugly comments one of them allegedly made about other's firing",
-      "link": "https://www.dailymail.co.uk/news/article-15721877/female-executives-santa-fe-new-mexico-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T16:41:04",
-      "description": "Christine Robertson, the former executive director for the Santa Fe Railyard Community Corporation in New Mexico has filed suit against Rosemary Romero, the current board president.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107801325-0-image-a-41_1775838980575.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107801325-0-image-a-41_1775838980575.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T16:46:31.527725",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Asylum seeker 'told friend \"you are an animal\" after watching him spit in woman's face after raping her on Brighton beach', court hears",
-      "link": "https://www.dailymail.co.uk/news/article-15722545/Asylum-seeker-friend-animal-rape-Brighton-beach.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T16:37:52",
-      "description": "Iranian-born Abdulla Ahmadi, 26, said he was 'disgusted' after watching Egyptian Karin Al-Danasurt (pictured), 20, grab hold the the woman's face and spit in her mouth.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107745521-0-image-m-13_1775838514010.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107745521-0-image-m-13_1775838514010.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T16:46:31.527726",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ex-police inspector fell to death from motorway after misconduct probe into 'sexist and objectifying' messages about a female officer",
-      "link": "https://www.dailymail.co.uk/news/article-15722461/Ex-police-inspector-fell-death-motorway-misconduct-probe-sexist-objectifying-messages-female-officer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T16:17:20",
-      "description": "A FORMER police inspector fell from a motorway bridge months after quitting his force amid claims he sent 'sexist' WhatsApp messages 'objectifying' a female officer.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/16/107800685-0-image-a-1_1775835744042.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/16/107800685-0-image-a-1_1775835744042.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T16:46:31.527728",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Abandoned malls, whispers of nuclear war and young foreigners detained. This is what's REALLY going on in Dubai... and the chilling warning one taxi driver gave to the Mail's IAN BIRRELL",
-      "link": "https://www.dailymail.co.uk/news/article-15722537/abandoned-malls-foreigners-detained-nuclear-war-Dubai-warning-IAN-BIRRELL.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T16:14:52",
-      "description": "The Burj Al Arab hotel, built on a man-made island jutting into the Persian Gulf, is famous for being designed like a billowing sail on one of the traditional local dhow boats.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/17/107798981-0-Empty_sun_loungers_line_a_beach_at_Jumeirah_Beach_Residence_form-a-3_1775837672223.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/17/107798981-0-Empty_sun_loungers_line_a_beach_at_Jumeirah_Beach_Residence_form-a-3_1775837672223.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T16:46:31.527729",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Quaint Colorado town on verge of being ABANDONED because its creaking water system is teetering on edge of disaster",
-      "link": "https://www.dailymail.co.uk/news/article-15722263/colorado-town-hartman-abandoned-water-failure.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T16:11:43",
-      "description": "Hartman, Colorado, which is home to approximately 30 residents, could be declared abandoned because its water system is on the brink of failure.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/16/107800977-0-image-a-7_1775835905903.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/16/107800977-0-image-a-7_1775835905903.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T16:46:31.527731",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "People smugglers behind 'Tripadvisor' service that trafficked 100 illegal immigrants a week from car wash are jailed",
-      "link": "https://www.dailymail.co.uk/crime-desk/article-15722223/People-smugglers-jailed-trafficking-100-illegal-immigrants-week-TripAdvisor-travel-service-run-roadside-car-wash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T15:41:59",
-      "description": "Migrants would leave reviews on social media on videos filmed inside lorries or boats for the journeys arranged by Dilshad Shamo, 43, and Ali Khdir, 42.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/15/107796603-0-Migrants_would_leave_reviews_on_social_media_on_videos_filmed_in-a-14_1775830141312.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/15/107796603-0-Migrants_would_leave_reviews_on_social_media_on_videos_filmed_in-a-14_1775830141312.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T15:48:23.794542",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aintree horse Gold Dancer is put down on Ladies Day after breaking back following a fall - but still being whipped to \u00a367,000 victory by his jockey at the Grand National Festival",
-      "link": "https://www.dailymail.co.uk/sport/racing/article-15722455/aintree-gold-dancer-horse-down.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T15:33:38",
-      "description": "Gold Dancer fell at the final hurdle, but recovered to limp over the line to victory. The six-year-old was being ridden by Paul Townend, who continued to whip the horse after its fall.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/15/107798191-0-image-m-14_1775831814549.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/15/107798191-0-image-m-14_1775831814549.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T15:48:23.794549",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Binky Felstead is called out by bakery owner for 'asking for free cake for son Wilder's third birthday in exchange for Instagram post'",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15721817/Binky-Felstead-called-bakery-owner-asking-free-cake-son-Wilders-birthday-exchange-Instagram-post.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T12:45:35",
-      "description": "Reshmi Bennett, 42, who owns luxury cake business Anges de Sucre in London, has previously hit headlines over her fury at influencers requesting free cakes.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/12/107793547-0-image-a-22_1775821915061.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/12/107793547-0-image-a-22_1775821915061.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T15:48:23.794553",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Careless driver who didn't realise he had mowed down and killed 'hero' milkman because he was so distracted avoids jail",
-      "link": "https://www.dailymail.co.uk/news/article-15722333/careless-driver-killed-hero-milkman-distracted-avoids-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T15:38:01",
-      "description": "Callan Howitt, 30, did not realise he had ploughed into Stuart Withers, 71, until he got out of his car on November 22, 2024 in Salisbury city centre.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/16/107797597-0-image-m-25_1775833308969.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/16/107797597-0-image-m-25_1775833308969.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T15:48:23.794562",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Man United 1-2 Leeds United: Rusty Red Devils made to pay for utterly shambolic errors in front of Sir Jim Ratcliffe, writes CHRIS WHEELER - with the writing on the wall for \u00a350m man",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15728745/Man-United-1-2-Leeds-United-Rusty-Red-Devils-pay-utterly-shambolic-errors-Sir-Jim-Ratcliffe-writes-CHRIS-WHEELER-writing-wall-50m-man.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T21:14:09",
+      "description": "CHRIS WHEELER AT OLD TRAFFORD: On a wildly unpredictable night at Old Trafford, United discovered to their cost that it was the latter.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/22/107866107-0-image-a-21_1776114359254.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/22/107866107-0-image-a-21_1776114359254.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T21:44:02.668210",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "From hero to zero! Lisandro Martinez saves Man United with heroic goal-saving tackle before being sent off for violent HAIR pull as Roy Keane hits out\u00a0 at Michael Carrick's side's 'sloppy' display against Leeds",
       "link": "https://www.dailymail.co.uk/sport/football/article-15730147/lisandro-martinez-manchester-united-leeds-tackle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
