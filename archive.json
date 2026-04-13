@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "UK could adopt EU single market rules under new legislation",
+      "link": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T04:00:34",
+      "description": "Sir Keir Starmer is planning a law which will mean that the UK government can adopt EU single market rules, without them being voted on in Parliament.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c7d/live/6ce58d70-36e5-11f1-9232-4b9563be44e7.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T06:11:33.999980",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The Dutch village at risk of being demolished",
+      "link": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-12T23:20:52",
+      "description": "Moerdijk has been earmarked for removal, to make way for a vast electricity substation.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e8/live/0f638c80-33dc-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T06:11:33.999992",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Man City have psychological edge over Arsenal - Rooney",
+      "link": "https://www.bbc.com/sport/football/articles/cde54lry1pyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T05:21:34",
+      "description": "Wayne Rooney says Manchester City have the psychological edge over leaders Arsenal in the Premier League title race.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee9c/live/5fdb9df0-36a8-11f1-ad83-3bd811df2e97.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-13T06:11:33.999996",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Orb\u00e1n era swept away by P\u00e9ter Magyar's Hungary election landslide",
       "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-13T02:52:39",
@@ -5466,42 +5499,149 @@
       "archived_at": "2026-04-06T07:08:02.089665",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Female coaches make huge difference - Scarratt",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/c9qdxjenxgjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T06:18:56",
-      "description": "More female coaches would be \"huge\" for women's rugby, says new Red Roses coach Emily Scarratt.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c37/live/c70428f0-2e86-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-06T07:08:02.089667",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Two weeks will make such a difference': UK first as NI brings in miscarriage leave",
-      "link": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T04:44:13",
-      "description": "Northern Ireland becomes first part of UK to bring in legal entitlement for parents affected by miscarriage at any stage of a pregnancy to have paid leave.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/945e/live/51451d60-2f4c-11f1-b471-73a11a0c1806.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-06T05:09:42.513211",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Oil back above $110 after expletive-laden Trump threat to Iran",
-      "link": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-06T01:09:26",
-      "description": "The US president said Iran's bridges and power plants would be destroyed unless it opened the Strait of Hormuz.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefe/live/5f932e40-314d-11f1-b849-f5bf4267dd5c.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-06T02:07:51.446909",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Chris Bowen makes candid admission about Strait of Hormuz - and it paints a bleak future for Australia",
+      "link": "https://www.dailymail.co.uk/news/article-15727847/Chris-Bowen-Strait-Hormuz-Australia-close.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T06:10:05",
+      "description": "Chris Bowen makes a major admission on the Strait of Hormuz as the US prepares to blockade the key shipping route",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/04/107847925-0-image-m-37_1776052392364.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/04/107847925-0-image-m-37_1776052392364.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:37.418093",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump reveals 'desperate' Iran wants nuclear weapon after failed peace talks and claims he 'doesn't care' whether Tehran comes back to negotiating table",
+      "link": "https://www.dailymail.co.uk/news/article-15727827/Trump-Iran-nuclear-weapon-peace-talks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T06:02:20",
+      "description": "President Donald Trump revealed Sunday night that peace talks with Iranian officials ended when they pushed for nuclear weapons.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/05/107848381-0-image-m-8_1776055294406.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/05/107848381-0-image-m-8_1776055294406.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:37.418099",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Inside the gruesome Mad Max-style final moments of Ouyen farmer murdered in vicious 'Merino Mafia' sheep war rocking country Victoria",
+      "link": "https://www.dailymail.co.uk/news/article-15727621/ouyen-sheep-farmer-murder-mad-max-livestock-theft.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T05:58:53",
+      "description": "A sheep farmer found shot dead on his own property suffered a fate similar to a graphic scene from the classic Australian movie Mad Max.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/06/107847115-0-image-m-16_1776059264250.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/06/107847115-0-image-m-16_1776059264250.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:37.418101",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Oil prices spike as Trump plans his own clampdown on Strait of Hormuz and blasts NATO for not helping to defeat Iran: 'They weren't there for us'",
+      "link": "https://www.dailymail.co.uk/news/article-15727861/Oil-prices-Donald-Trump-Iran-Blockade.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T05:40:54",
+      "description": "Oil prices spiked back over $100 a barrel as the markets reacted to Donald Trump's announcement of a blockade preventing access to the Strait of Hormuz for Iranian bound ships.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/05/107848031-0-image-a-3_1776055142693.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/05/107848031-0-image-a-3_1776055142693.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:37.418102",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Jacinta Allan is rocked by mass resignations as THREE ministers announce their retirement months before state election",
+      "link": "https://www.dailymail.co.uk/news/article-15727919/Jacinta-Allan-three-ministers-retire-Victoria-election.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T05:21:45",
+      "description": "Three senior Labor ministers have announced their retirement as Victorian Premier Jacinta Allan braces for the November state election.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/05/107848585-0-image-a-6_1776055491369.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/05/107848585-0-image-a-6_1776055491369.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:37.418103",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Adorable moment Artemis crew member returns home to a VERY happy dog",
+      "link": "https://www.dailymail.co.uk/news/article-15727907/artemis-christina-koch-dog-reunion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T05:17:34",
+      "description": "Christina Koch, 47, just returned to Earth on Friday after completing a historic flyby around the moon, alongside three male colleagues.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/06/107848809-0-image-m-11_1776056446853.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/06/107848809-0-image-m-11_1776056446853.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:37.418105",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Emergency services rush to Broadway Shopping Centre as large area is cordoned off",
+      "link": "https://www.dailymail.co.uk/news/article-15727823/Broadway-shopping-centre-man-jump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T04:31:45",
+      "description": "Emergency services were called to Broadway Shopping Centre about 1pm Monday following reports a man had climbed onto the roof.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/04/107847789-0-image-a-23_1776051601018.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/04/107847789-0-image-a-23_1776051601018.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:37.418106",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Cops on the hunt for escaped female inmate after she went missing from a Kentucky facility",
+      "link": "https://www.dailymail.co.uk/news/article-15727537/inmate-angela-long-escape-kentucky.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T03:58:48",
+      "description": "The Kentucky State Police are searching for 45-year-old Angela S. Long. She escaped from the Dismas Charities re-entry facility in Owensboro on Friday evening.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/04/107847077-0-image-m-11_1776051181266.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/04/107847077-0-image-m-11_1776051181266.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:37.418108",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Huge change to driving test in one state - and Aussies are divided: 'Confusing'",
+      "link": "https://www.dailymail.co.uk/news/article-15727635/driver-knowledge-test-NSW-eight-languages.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T03:53:39",
+      "description": "A major change to the 45-question theory test about\u00a0road safety and rules to obtain a learner's licence has sparked fierce debate.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/03/107846087-0-image-a-9_1776048345959.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/03/107846087-0-image-a-9_1776048345959.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:37.418109",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "If we are going to cut the NDIS for wealthy disabled people, isn't it time to do the unthinkable to Medicare? PETER VAN ONSELEN",
+      "link": "https://www.dailymail.co.uk/news/article-15727723/NDIS-Medicare.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T03:39:53",
+      "description": "Like the NDIS, it is a large, taxpayer-funded social program with escalating costs...",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/04/107847267-0-image-m-14_1776051083330.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/04/107847267-0-image-m-14_1776051083330.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:37.418110",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Prue MacSween rips into system that allowed escaped child rapist to stay in Australia for more than ten years after his horrific crime",
       "link": "https://www.dailymail.co.uk/news/article-15727661/Prue-MacSween-Michael-Angok-rapist-deport.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12361,149 +12501,23 @@
       "archived_at": "2026-04-10T03:33:45.049779",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "CNN data guru convulses as record-breaking poll reveals America's most hated First Lady of the past 40 years",
-      "link": "https://www.dailymail.co.uk/news/article-15719681/CNN-poll-Lady-melania-trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T02:29:09",
-      "description": "CNN's Henry Enten revealed Melania Trump's latest approval ratings shortly before her shocking Epstein revelation. 'The American people really don't care for her,' he said.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/02/107783621-0-image-m-28_1775785187944.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/02/107783621-0-image-m-28_1775785187944.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049780",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'This has broken me': Devastated sister of woman found dead during 2,000km road trip breaks her silence - as man, 33, is charged with murder",
-      "link": "https://www.dailymail.co.uk/news/article-15720499/barkly-highway-murder-nt-christine-marshall-hunter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T01:51:09",
-      "description": "A man has been charged with murder five days after his new partner died on a remote stretch of highway during a 2,000km road trip in the Northern Territory.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/02/107784707-0-image-m-103_1775785391665.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/02/107784707-0-image-m-103_1775785391665.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049783",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Second midwife is charged after baby boy died during botched home birth in Newcastle",
-      "link": "https://www.dailymail.co.uk/news/article-15720733/second-midwife-jordan-olland-oyebola-coxon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T01:50:06",
-      "description": "A second midwife has been charged with manslaughter after a newborn baby died during a botched home birth in NSW's Hunter region.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/02/107784697-0-image-m-38_1775785426282.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/02/107784697-0-image-m-38_1775785426282.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049784",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Carman's CEO 'grateful to be alive' after  she choked on a piece of steak while hosting a dinner party",
-      "link": "https://www.dailymail.co.uk/news/article-15720323/Carolyn-Creswell-carmans-steak-gippsland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T01:20:06",
-      "description": "An Australian muesli mogul says she is grateful to be alive after disturbing video captured the moment she nearly choked to death on a piece of steak and then collapsed to the ground.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/02/107784273-0-image-m-87_1775782818135.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/02/107784273-0-image-m-87_1775782818135.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049786",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Glamorous Gen Z barista-turned-socialist gives longtime Democrat opponent run for her money in Denver congressional seat",
-      "link": "https://www.dailymail.co.uk/news/article-15719219/Glamorous-barista-socialist-Congress-Denver.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T01:12:50",
-      "description": "Melat Kiros, a political novice, challenged Representative Diana DeGette in the Democrat primary for a seat she's held since 1997.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/22/107781017-0-image-a-1_1775769992722.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/22/107781017-0-image-a-1_1775769992722.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049788",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Council tax on second homes in Edinburgh rose by 300%... for just eight days",
-      "link": "https://www.dailymail.co.uk/news/article-15720675/Council-tax-second-homes-Edinburgh-rose-300-just-eight-days.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T01:08:08",
-      "description": "The Labour-run authority introduced the new bills on April 1 in a decision which leader Jane Meagher argued would help boost housing availability in the Scottish capital.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/01/107735259-0-image-m-67_1775781205628.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/01/107735259-0-image-m-67_1775781205628.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049789",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "A hare-raising fight! Animals 'box' each other in Norfolk field",
-      "link": "https://www.dailymail.co.uk/news/article-15720697/hare-raising-fight-animals-box-Norfolk-field.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-10T00:58:05",
-      "description": "Hares 'box' each other when a female is 'fighting off unwanted attention' from a male - but in this instance the male had a rare trait.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/01/107784075-0-image-a-21_1775782176591.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/01/107784075-0-image-a-21_1775782176591.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-10T03:33:45.049791",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Teacher, 34, who was banned after calling pupil a 'very special person' and sent her more than 100 texts in one day played Buddy the Elf in school video",
-      "link": "https://www.dailymail.co.uk/news/article-15720221/Teacher-banned-pupil-special-person-texts-Buddy-Elf-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T23:55:39",
-      "description": "Stephen White was a teacher at St Wilfrid's Catholic School in Crawley when he 'engaged in an inappropriate relationship' with Pupil A, between March 2020 and March 2023.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/20/107707459-0-Stephen_White_34_pictured_in_St_Wilfred_Catholic_School_s_versio-a-4_1775764551807.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/20/107707459-0-Stephen_White_34_pictured_in_St_Wilfred_Catholic_School_s_versio-a-4_1775764551807.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T23:59:51.673921",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Explosive marriage secrets of wife who vanished from Bahamas love boat... as bombshell court papers come to light",
-      "link": "https://www.dailymail.co.uk/news/article-15720017/lynette-brian-hooker-bahamas-disappearance-marriage-secrets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T23:54:34",
-      "description": "Lynette and Brian have been married\u00a0for more than two decades and spent the past four years as boat-life vloggers living on\u00a0their yacht Soulmate.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779467-0-image-a-75_1775765740073.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/21/107779467-0-image-a-75_1775765740073.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T23:59:51.673927",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ed Miliband's 'mad dash' to Net Zero is blamed for OpenAI shelving a multi- billion-pound investment into Britain",
-      "link": "https://www.dailymail.co.uk/news/article-15720487/Ed-Milibands-Net-Zero-blamed-OpenAI-multi-billion-pound-investment-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-09T23:53:17",
-      "description": "OpenAI, the company behind ChatGPT, said soaring energy prices as well as red tape were behind the decision to pause its Stargate UK project.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/00/107783029-0-image-a-4_1775777856262.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/00/107783029-0-image-a-4_1775777856262.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-09T23:59:51.673929",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Read Matildas star Kyra Cooney-Cross's deeply personal update as she puts career on hold to be with her cancer-stricken mum",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15727851/Matildas-Kyra-Cooney-Cross-update-cancer-mum-mother.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-13T05:46:03",
+      "description": "Matildas midfielder Kyra Cooney-Cross has given her fans a totally unvarnished insight into her state of mind.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/06/107848853-0-image-a-21_1776056744775.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/06/107848853-0-image-a-21_1776056744775.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:40.623070",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "How 'unique' Rayan Cherki is fuelling Man City's title challenge - and the unseen moment in Chelsea win that shows why there is more to come, writes JACK GAUGHAN",
       "link": "https://www.dailymail.co.uk/sport/football/article-15727139/How-unique-Rayan-Cherki-fuelling-Man-Citys-title-challenge-unseen-moment-Chelsea-win-shows-come-writes-JACK-GAUGHAN.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -20166,6 +20180,48 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Lizzo praises Justin Bieber's 'transcendent' Coachella performance",
+      "link": "https://www.music-news.com/news/UK/188294/Lizzo-praises-Justin-Bieber-s-transcendent-Coachella-performance",
+      "pubDate": "2026-04-13T05:00:00",
+      "description": "Justin Bieber took fans on a trip down memory lane with his headlining set at Coachella on Saturday night.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188294.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188294.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:44.344429",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Cruz Beckham confirms mum Victoria has erased all six tattoos",
+      "link": "https://www.music-news.com/news/UK/188293/Cruz-Beckham-confirms-mum-Victoria-has-erased-all-six-tattoos",
+      "pubDate": "2026-04-13T03:00:00",
+      "description": "Cruz Beckham has confirmed that his mum, Victoria, has erased all six of her tattoos.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188293.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188293.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:44.344435",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Britney Spears checks herself into rehab",
+      "link": "https://www.music-news.com/news/UK/188292/Britney-Spears-checks-herself-into-rehab",
+      "pubDate": "2026-04-13T03:00:00",
+      "description": "Britney Spears has voluntarily checked into rehab.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188292.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188292.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-13T06:11:44.344437",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Justin Bieber launches major comeback at Coachella 2026",
       "link": "https://www.music-news.com/news/UK/188291/Justin-Bieber-launches-major-comeback-at-Coachella-2026",
