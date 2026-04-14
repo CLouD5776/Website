@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "'Welcome home': Watch joyful reunion as Orion capsule opened after splashdown",
+      "link": "https://www.bbc.com/news/videos/clyxxnz97wxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T16:12:27",
+      "description": "Newly released video shows the moment the hatch of Artemis II's Orion capsule is unlocked to a joyful reunion with the four astronauts.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c04/live/858fa430-3818-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T17:41:48.351675",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Criticism of complacency on defence spending will sting government",
+      "link": "https://www.bbc.com/news/articles/cp388j32wnvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T16:28:06",
+      "description": "The government faces tough questions about the ability to defend the UK, writes Jonathan Beale.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/453b/live/dea73670-37fd-11f1-9200-b31cdeb07b99.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T17:41:48.351685",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The Israeli town on the frontline with Hezbollah",
+      "link": "https://www.bbc.com/news/videos/cqxll4qz3d5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T16:24:18",
+      "description": "BBC foreign correspondent Nick Beake visits Metula, an Israeli town surrounded on three sides by Lebanon.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4611/live/a7e26b40-380d-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T17:41:48.351688",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Partner of US influencer who died in Zanzibar speaking to police as witness",
+      "link": "https://www.bbc.com/news/articles/cx299rxk0ngo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T16:22:47",
+      "description": "The police said Ashly Robinson, known online as Ashlee Jenae, had died after attempting to take her own life.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcbc/live/3e151a60-37fd-11f1-9200-b31cdeb07b99.png",
+      "enclosure": null,
+      "archived_at": "2026-04-14T17:41:48.351689",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "JD Vance defends backing 'great guy' Orb\u00e1n's campaign after landslide defeat",
       "link": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-14T15:04:09",
@@ -5455,53 +5499,177 @@
       "archived_at": "2026-04-07T23:05:39.576729",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Is 'free' McIlroy ready to create more Masters history?",
-      "link": "https://www.bbc.com/sport/golf/articles/cn89zp1e38no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T21:05:12",
-      "description": "Twelve months after the greatest moment of his career, Rory McIlroy returns to the Masters looking for a rare back-to-back win.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72a2/live/84f943a0-31a1-11f1-b238-cf10fe15ebcf.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T22:03:03.022128",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man, 21, fatally stabbed on London's Primrose Hill",
-      "link": "https://www.bbc.com/news/articles/c75k13wz6k2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T20:46:21",
-      "description": "Metropolitan Police detectives are appealing for information as part of a murder investigation.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f1/live/9ba23200-32ba-11f1-8551-ebe7c5dd79d2.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T21:09:49.246404",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Legendary manager Lucescu dies days after resigning",
-      "link": "https://www.bbc.com/sport/football/articles/cgj0d8dz5dgo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T20:39:19",
-      "description": "Legendary manager Mircea Lucescu dies aged 80, five days after stepping down as Romania's head coach.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8260/live/f7470000-32b9-11f1-8551-ebe7c5dd79d2.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T21:09:49.246411",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Premier League secures fifth Champions League spot",
-      "link": "https://www.bbc.com/sport/football/articles/c9vl1y7g1mjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T20:55:57",
-      "description": "The Premier League will have at least five teams in the Champions League next season after securing a European Performance Spot for the second straight year.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e84e/live/df45da50-32c1-11f1-9a58-95213bd54a81.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T21:09:49.246413",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Sleek \u00a3334million superyacht turns heads on Britain's south coast on its way to secretive new Chinese billionaire owner",
+      "link": "https://www.dailymail.co.uk/news/article-15724841/334million-superyacht-Britains-south-coast-secretive-Chinese-billionaire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T17:23:29",
+      "description": "German-built Deep Blue is a 439ft, 9000 tonne, five-deck superyacht equipped with a helipad and two swimming pools.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/17/107820223-0-image-m-11_1775926033997.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/17/107820223-0-image-m-11_1775926033997.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076822",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Government to revive WW1-era manual helping British people to prepare for the next war",
+      "link": "https://www.dailymail.co.uk/news/article-15724895/Government-WW1-era-manual-British-people-prepare-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T16:44:43",
+      "description": "A war book first conceived over a hundred years ago could be revived to prepare the nation for possible war, the head of the armed forces has said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/17/107819667-0-image-m-12_1775924682558.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/17/107819667-0-image-m-12_1775924682558.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076827",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fifth accuser claims Eric Swalwell drugged her drink and choked her unconscious: 'I thought I died'",
+      "link": "https://www.dailymail.co.uk/news/article-15733113/Fifth-accuser-claims-Eric-Swalwell-drugged-drink-choked-unconscious-thought-died.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T17:35:24",
+      "description": "A fifth woman has come forward accusing California Congressman Eric Swalwell of sexual assault.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/18/107892011-0-image-a-15_1776187847753.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/18/107892011-0-image-a-15_1776187847753.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076829",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump drops bombshell hint on Iran peace talks as negotiations enter critical 48 hours",
+      "link": "https://www.dailymail.co.uk/news/article-15733099/Trump-drops-bombshell-Iran-hint-deal-talks-enter-critical-48-hours.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T17:22:19",
+      "description": "Donald Trump announced talks between the US and Iran could restart in the next 48 after negotiations led by JD Vance fell last weekend.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/17/107889609-0-image-m-15_1776185246969.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/17/107889609-0-image-m-15_1776185246969.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076831",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "British lawyer, 28, who died after having BBL and liposuction surgery in Turkey felt 'pressure to look slim in legal profession', inquest hears",
+      "link": "https://www.dailymail.co.uk/news/article-15732795/British-lawyer-28-died-having-BBL-liposuction-surgery-Turkey-felt-pressure-look-slim-legal-profession-inquest-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T17:14:19",
+      "description": "Diarra Brown, 28, died on October 26, 2021, after her four-hour operation at the Private Memorial Hospital in Istanbul, Turkey.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890707-0-image-m-12_1776185834251.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890707-0-image-m-12_1776185834251.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076832",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Hero' mum pushed pram out of way to save toddler, family reveal as lorry driver whose loose load hit her is jailed",
+      "link": "https://www.dailymail.co.uk/news/article-15731353/Lorry-driver-71-killed-mother-pram-struck-loose-equipment-trailer-jailed-XX-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T17:08:19",
+      "description": "The crane equipment on the lorry  driven by Kevin Miller, 71, swung over a footpath where it hit Ms Ableman, 30, who was wit her her two-year-old daughter, Autumn. She died later in hospital.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/14/107876805-0-image-m-17_1776173700180.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/14/107876805-0-image-m-17_1776173700180.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076834",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Overjoyed internet star, 31, shared video of her boyfriend proposing to her on paradise island of Zanzibar... six days later she died in mysterious circumstances",
+      "link": "https://www.dailymail.co.uk/news/article-15732751/ashly-robinson-ashlee-jenae-influencer-dead-engaged-zanzibar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T17:04:41",
+      "description": "Popular lifestyle influencer Ashly Robinson, 31, was reported dead on April 9 while holidaying on the island off east Africa, according to her family.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890205-0-image-m-15_1776182857964.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890205-0-image-m-15_1776182857964.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076835",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Great white shark spotted lurking in waters near Trump's Mar-a-Lago",
+      "link": "https://www.dailymail.co.uk/news/article-15732181/Great-white-shark-Trump-Mar-Lago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T17:00:44",
+      "description": "The 10-foot-long, 689-pound shark was being tracked by marine researchers. She pinged near the estate on April 13, around 6.50am.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/17/107887603-0-image-a-13_1776182980012.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/17/107887603-0-image-a-13_1776182980012.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076836",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Final words of boy, 14, before he shot his goth mom dead for calling him the r-word, according to prosecutor",
+      "link": "https://www.dailymail.co.uk/news/article-15732433/havoc-leone-theresa-mcintosh-calling-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T16:48:09",
+      "description": "Havoc\u00a0Leone allegedly fatally shot his mother inside their Wyoming home in March after she allegedly called him ret***ed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890257-0-image-m-38_1776183390485.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890257-0-image-m-38_1776183390485.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076838",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Disgraced biotech executives ordered to pay professor enormous amount after they faked crime and had him arrested to punish him for suing them",
+      "link": "https://www.dailymail.co.uk/news/article-15732037/Disgraced-biotech-executives-ordered-pay-professor-enormous-faked-crime-arrested-punish-suing-them.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T16:42:41",
+      "description": "Dr James Quinn has won $58 million after a Georgia jury found medical adhesive firm Chemence acted in bad faith by having him arrested during a deposition in a long-running dispute.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890371-0-image-a-2_1776183162819.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890371-0-image-a-2_1776183162819.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076839",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment Albanian burglary gang\u00a0haul safe over garden fence amid \u00a33million crime spree ransacking luxury homes",
+      "link": "https://www.dailymail.co.uk/news/article-15732669/Moment-Albanian-burglary-gang-haul-safe-garden-fence-amid-3million-crime-spree-ransacking-luxury-homes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T16:39:11",
+      "description": "Police linked the mob to at least 59 burglaries in Derbyshire, Cheshire, Cleveland, Leicestershire, Nottinghamshire, Staffordshire, Warwickshire and West Mercia.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888315-0-CCTV_from_one_of_the_raids_shows_two_masked_burglars_stumbling_i-a-4_1776181950800.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888315-0-CCTV_from_one_of_the_raids_shows_two_masked_burglars_stumbling_i-a-4_1776181950800.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076840",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teen sisters violently beaten by classmate 'bullies' in savage caught-on-camera attack",
+      "link": "https://www.dailymail.co.uk/news/article-15732245/arizona-teen-sister-beaten-bullying-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T16:22:31",
+      "description": "Two teen girls were attacked\u00a0during an Arizona school walkout protesting ICE.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/16/107889873-0-image-m-34_1776182294014.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/16/107889873-0-image-m-34_1776182294014.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:50.076841",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "The world's deadliest countries: From terror attacks to muggings, rape and kidnap - the threat levels around the globe and holiday hotspots now deemed too dangerous to visit",
       "link": "https://www.dailymail.co.uk/news/article-15658459/The-worlds-deadliest-countries-terror-attacks-muggings-rape-kidnap-threat-levels-globe-holiday-hotspots-deemed-dangerous-visit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12333,177 +12501,37 @@
       "archived_at": "2026-04-11T21:55:58.726811",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Starmer should be toppled as PM because of the economic damage he has caused, key Andy Burnham ally says: 'I bitterly regret donating to get him into Downing Street'",
-      "link": "https://www.dailymail.co.uk/news/article-15725429/Starmer-toppled-PM-economic-damage-Burnham-ally.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T21:11:57",
-      "description": "Sacha Lord, who spent seven years as an adviser to Mr Burnham, declares in an article for The Mail on Sunday that it is 'time to give someone else a go' in No 10.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107824145-0-image-m-28_1775940852009.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107824145-0-image-m-28_1775940852009.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T21:55:58.726812",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "ICE issues detainer for migrant released by Obama who 'tricked 15-year-old boy by posing as a girl online, then shot him dead'",
-      "link": "https://www.dailymail.co.uk/news/article-15725341/ICE-detainer-Yefry-Archaga-Elvir-honduras-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T20:53:41",
-      "description": "Federal immigration authorities asked Missouri authorities not to release Yefry Archaga-Elvir, the 18-year-old suspect accused of fatally shooting Miles Young, 15. Archaga-Elvir is an illegal migrant.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107699549-0-Yefry_Archaga_Elvir_an_18_year_old_Honduran_man_was_charged_in_c-a-4_1775939510080.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107699549-0-Yefry_Archaga_Elvir_an_18_year_old_Honduran_man_was_charged_in_c-a-4_1775939510080.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T21:01:06.148725",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Fur flies over plans for dog hotel in posh area of London - as locals fear 'torturous' noise of howling animals would be 'unbearable' at night",
-      "link": "https://www.dailymail.co.uk/news/article-15725375/dog-hotel-London-locals-torturous-noise-howling.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T20:50:03",
-      "description": "Fido's of Fitzrovia, which describes itself as a 'health and wellness centre for dogs and cats', submitted an application for a change of use of its ground floors and basement levels.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823233-0-image-m-18_1775940211619.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823233-0-image-m-18_1775940211619.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T21:01:06.148731",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Strange mystery of canine corpses that eerily washed ashore on remote island is finally solved",
-      "link": "https://www.dailymail.co.uk/news/article-15725225/mystery-canine-corpses-island-solved-washington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T20:47:11",
-      "description": "The carcasses were roughly around the same size, with some about the length of a woman's size 9.5 shoe and others slightly larger.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107822675-0-image-m-110_1775939493738.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107822675-0-image-m-110_1775939493738.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T21:01:06.148732",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Kamala Harris is obliterated as she uses 'cringey' mob boss accent to attack Trump",
-      "link": "https://www.dailymail.co.uk/news/article-15724735/kamala-harris-mob-boss-accent-ridcule-trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T20:35:55",
-      "description": "Kamala Harris used a mob boss accent while mimicking what she believe Donald Trump acted like while dealing with foreign leaders.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822143-0-image-m-29_1775936794478.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822143-0-image-m-29_1775936794478.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T21:01:06.148734",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Canadian leader Mark Carney spent half a MILLION dollars of taxpayers' money on plane food in his first year as Prime Minister",
-      "link": "https://www.dailymail.co.uk/news/article-15725253/mark-carney-canada-plane-food-spending.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T20:19:54",
-      "description": "The data was released after questions were filed in the Canadian House of Commons.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822537-0-image-m-25_1775934292441.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822537-0-image-m-25_1775934292441.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T20:29:02.561034",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Sheriff's lieutenant charged with murder after one MILLION pounds of fireworks exploded in deadly fireball",
-      "link": "https://www.dailymail.co.uk/news/article-15725115/Sheriffs-lieutenant-charged-murder-one-MILLION-pounds-fireworks-exploded-deadly-fireball.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T19:42:55",
-      "description": "Samuel Machado, once a lieutenant with the Yolo County Sheriff's Office, was charged with murder after seven warehouse workers died in an explosion from fireworks that were allegedly his.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821755-0-image-a-68_1775933831339.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821755-0-image-a-68_1775933831339.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T20:29:02.561041",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Detective who interrogated Baby P's mother insists 'manipulative monster' should never be given a 'second chance' as she makes another bid for freedom",
-      "link": "https://www.dailymail.co.uk/news/article-15725169/Detective-interrogated-Baby-Ps-mother-never-given-second-chance-bid-freedom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T19:25:51",
-      "description": "Tracey Connelly, 44, was jailed indefinitely in 2009 after allowing her son Peter - widely known as Baby P - to die in her care at home in north London in 2007 after a prolonged period of horrific abuse.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/100861179-0-image-m-33_1775934822187.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/100861179-0-image-m-33_1775934822187.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T19:34:59.435023",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The murder that shocked America: How a seven-year-old girl was abducted and brutally murdered by driver delivering her Barbie Christmas present\u2026 and the chilling final image of her alive",
-      "link": "https://www.dailymail.co.uk/news/article-15718519/The-murder-shocked-America-seven-year-old-girl-abducted-brutally-murdered-driver-delivering-Barbie-Christmas-present-chilling-final-image-alive.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T19:23:56",
-      "description": "More than three years later, as her killer faces the possibility of the death penalty, disturbing testimonies are exposing a calculated 'web of lies' behind Athena's death.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/08/107788849-0-image-m-9_1775807946946.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/08/107788849-0-image-m-9_1775807946946.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T19:34:59.435028",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man's vile threat to Donald Trump and son Barron that caught the attention of Secret Service officers",
-      "link": "https://www.dailymail.co.uk/news/article-15724583/michael-kovco-trump-barron-threat-chicago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T19:14:51",
-      "description": "Michael Kovco, 29, is accused of outlining plans to kill the president and target his family and law enforcement, and now faces federal charges that could carry up to five years in prison.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821579-0-image-a-7_1775931130055.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/19/107821579-0-image-a-7_1775931130055.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T19:34:59.435030",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "It's an idyllic, private island fit for a king and even comes with its own helicopter hangar... but to call Eilean Righ home it'll cost at least \u00a310 million",
-      "link": "https://www.dailymail.co.uk/news/article-15724997/Its-idyllic-private-island-fit-king-comes-helicopter-hangar-call-Eilean-Righ-home-itll-cost-10-million.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T18:38:44",
-      "description": "It's an idyllic, private island fit for a king and even comes with its own helicopter hangar and shooting range.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107819819-0-image-m-32_1775927543604.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107819819-0-image-m-32_1775927543604.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T18:56:32.744222",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I need time to rebuild my life and freezing eggs lets me do that... ex-A Place in the Sun presenter Danni Menzies reflects on new life in US",
-      "link": "https://www.dailymail.co.uk/news/article-15724941/I-need-time-rebuild-life-freezing-eggs-lets-ex-Place-Sun-presenter-Danni-Menzies-reflects-new-life-US.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T18:37:44",
-      "description": "Scots TV star Danni Menzies has revealed she will freeze her eggs one more time before turning forty as she celebrated relocating to the States during New York's Dressed to Kilt event.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107819803-0-image-m-12_1775927055462.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107819803-0-image-m-12_1775927055462.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T18:56:32.744227",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Michael Carrick risks Sir Jim Ratcliffe's impulsive wrath after Man United's loss against Leeds - and these are the stars who were badly exposed in sobering defeat, writes CHRIS WHEELER",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15732937/Michael-Carrick-Sir-Jim-Ratcliffe-Man-United-Leeds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T17:08:05",
+      "description": "CHRIS WHEELER: Just when Manchester United looked to be coasting into the Champions League, along came Leeds to sow some seeds of doubt.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890359-0-image-a-15_1776184588064.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890359-0-image-a-15_1776184588064.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:53.474538",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Liverpool vs PSG - Champions League LIVE: Latest score, team news and updates as Slot could roll the dice on 17-year-old Rio as Reds aim for another iconic European comeback",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15731707/Liverpool-vs-PSG-2025-26-Champions-League-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T17:30:06",
+      "description": "Follow Daily Mail Sport's live blog for the latest score, team news and updates as Liverpool host PSG at Anfield in the second leg of their Champions League quarter-final.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/11/107881199-0-image-a-6_1776164310836.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/11/107881199-0-image-a-6_1776164310836.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:53.474546",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Greatest ever Champions League comebacks RANKED: Liverpool are no strangers to sensational turnarounds ahead of uphill battle against PSG - but do they boast the best in history?",
       "link": "https://www.dailymail.co.uk/sport/football/article-15731925/Greatest-Champions-League-comebacks-RANKED.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -20915,6 +20943,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Taylor Swift leads 2026 American Music Award nominations",
+      "link": "https://www.music-news.com/news/UK/188334/Taylor-Swift-leads-2026-American-Music-Award-nominations",
+      "pubDate": "2026-04-14T16:00:00",
+      "description": "Taylor Swift is already the most-awarded artist in AMA history with 40 wins.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188334.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188334.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T17:41:57.728907",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "U2's Bono and more pay tribute to late Clannad singer Moya Brennan",
       "link": "https://www.music-news.com/news/UK/188333/U2-s-Bono-and-more-pay-tribute-to-late-Clannad-singer-Moya-Brennan",
