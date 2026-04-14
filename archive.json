@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Success over Spain - but how can England get best out of classy James?",
+      "link": "https://www.bbc.com/sport/football/articles/cvg0j37lwj7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T21:44:59",
+      "description": "How can Sarina Wiegman get the best from one of England's most talented footballers, Lauren James?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55e2/live/37831200-342f-11f1-a207-8b959fccb503.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T22:11:29.414231",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "King not meeting Epstein survivors, but state visit could help ease US-UK tensions",
       "link": "https://www.bbc.com/news/articles/cvg44q1zdeno?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-14T21:15:14",
@@ -5488,20 +5499,135 @@
       "archived_at": "2026-04-08T05:45:13.207121",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Iran ceasefire deal a partial win for Trump - but at a high cost",
-      "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T03:30:55",
-      "description": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0299/live/cbbe3760-32e0-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T03:38:18.847710",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Manchester Airport engineer 'lucky to be alive' after plunging 35ft out of open Jet2 plane door due to 'mix-up with steps'",
+      "link": "https://www.dailymail.co.uk/news/article-15725677/Manchester-Airport-engineer-fall-Jet2-plane-door.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T00:08:05",
+      "description": "The man, believed to be in his 60s, plunged\u00a0from the back of the Jet2 aircraft when he mistakenly believed there would steps on the other side of the door.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107818327-0-The_man_believed_to_be_an_aircraft_engineer_is_said_to_have_fall-a-47_1775950722537.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107818327-0-The_man_believed_to_be_an_aircraft_engineer_is_said_to_have_fall-a-47_1775950722537.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T22:11:31.958680",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Stunning moment Eric Swalwell's bestie breaks down in TEARS as he admits he was 'flirty' but denied seeing alleged sexual exploits",
+      "link": "https://www.dailymail.co.uk/news/article-15733349/Stunning-moment-Eric-Swalwells-bestie-breaks-TEARS-admits-flirty-denied-seeing-alleged-sexual-exploits.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T22:01:06",
+      "description": "Disgraced soon-to-be-former California Congressman Eric Swalwell's best friend, Arizona Senator Ruben Gallego, is denying that he had any knowledge of his alleged sexual misconduct.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894149-0-image-m-20_1776197207887.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894149-0-image-m-20_1776197207887.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T22:11:31.958687",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aussies slam Anthony Albanese over 'disgraceful' detail as PM jets to Brunei and Malaysia to secure fuel supplies",
+      "link": "https://www.dailymail.co.uk/news/article-15733567/Albanese-fuel-waste-crisis-Brunei-Malaysia-jet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:52:32",
+      "description": "Anthony Albanese's trip to Brunei and Malaysia has been branded a 'desperation tour' as Aussies accuse him of hypocrisy.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896335-0-image-m-11_1776201706996.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896335-0-image-m-11_1776201706996.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T22:11:31.958689",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "ADMIRAL LORD WEST: Trump's bluff has been called. He'll either have to back off - or seize ships",
+      "link": "https://www.dailymail.co.uk/news/article-15733651/Donald-Trump-Lord-West-bluff-war-iran-conflict-seize-ships.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:50:00",
+      "description": "Trump's bluff has been called. His declaration last Sunday that the US Navy would block 'any and all ships trying to enter or leave the Strait of Hormuz' has been shown to be an absurd boast...",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107895787-0-image-a-57_1776200098494.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107895787-0-image-a-57_1776200098494.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T22:11:31.958690",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Justice catches up with shameless Vegas mother who spewed lies and faked pancreatic cancer diagnosis for cash",
+      "link": "https://www.dailymail.co.uk/news/article-15732255/vegas-mother-fake-cancer-cash-fraud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:45:52",
+      "description": "Haleigh Knight pleaded guilty to a felony theft charge last month after longtime friend Cydney Fink accused her of scamming her and her family out of $20,000.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/22/107895893-0-image-m-13_1776201368051.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/22/107895893-0-image-m-13_1776201368051.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T22:11:31.958692",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "TV debate bombshell as Labour leader accuses Reform hopeful of wanting to deport his children - Battle for Holyrood explodes over race hate claim during live TV debate",
+      "link": "https://www.dailymail.co.uk/news/article-15733661/TV-debate-bombshell-Labour-leader-accuses-Reform-hopeful-wanting-deport-children-Battle-Holyrood-explodes-race-hate-claim-live-TV-debate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:38:27",
+      "description": "Anas Sarwar has claimed a Reform UK candidate wants to deport his children during explosive clashes in a televised leader's debate.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896257-0-image-a-6_1776201065418.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896257-0-image-a-6_1776201065418.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T22:11:31.958693",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "RFK Jr's private diaries reveal the agonizing recovery of John Kennedy Jr and Carolyn Bessette's mangled bodies...and the bitter family feud that exploded after their deaths",
+      "link": "https://www.dailymail.co.uk/news/article-15733077/jfk-jr-carolyn-bessette-kennedy-deaths-burial-family-feud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:34:22",
+      "description": "The extraordinary details are drawn from the private diaries of Robert F Kennedy Jr , revealed in new book, RFK Jr: The Fall and Rise, by New York Post journalist Isabel Vincent.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/19/107892739-0-image-a-84_1776190913534.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/19/107892739-0-image-a-84_1776190913534.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T22:11:31.958694",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Baby Jessica' McClure's dark family secrets revealed after shock arrest: An alleged lesbian murder, the 'lost' $1 million... and her VERY telling note - 39 years on from famous well rescue",
+      "link": "https://www.dailymail.co.uk/news/article-15733075/baby-jessica-mcclure-dark-family-secrets-arrest-rescue.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:28:51",
+      "description": "She's known across the world as 'Baby Jessica,' and now she's an alleged criminal. Jessica McClure Morales was arrested on Saturday night on suspicion of domestic abuse.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896323-0-image-a-50_1776202040457.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896323-0-image-a-50_1776202040457.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T22:11:31.958696",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "STEPHEN DAISLEY: Sarwar turned brutal... an emotional and personal broadside that spoke volumes",
+      "link": "https://www.dailymail.co.uk/news/article-15733663/STEPHEN-DAISLEY-Sarwar-turned-brutal-emotional-personal-broadside-spoke-volumes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:27:18",
+      "description": "Channel 4 News knows its audience and sticking Trump at the top of the programme might have stopped them switching over from an all-Scotland show.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896277-0-image-a-19_1776201152495.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896277-0-image-a-19_1776201152495.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T22:11:31.958697",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Health secretary urged not to bow to Zack Polanski's demand to cancel 'transformative' NHS technology over tech giant Palantir's links to Donald Trump",
       "link": "https://www.dailymail.co.uk/news/article-15725537/Wes-Streeting-Zack-Polanski-cancel-NHS-Palantir-links-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12375,135 +12501,37 @@
       "archived_at": "2026-04-12T03:50:25.062239",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Grandma, 75, has face stomped after asking neighbor to pick up after their dog",
-      "link": "https://www.dailymail.co.uk/news/article-15725665/grandma-face-stomped-crown-heights-new-york-Linda-Scott.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T03:03:37",
-      "description": "Linda Scott, 75, was hospitalized after the vicious April 6 attack in the front yard of her home in Crown Heights, New York City.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/02/107827589-0-image-m-13_1775958329469.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/02/107827589-0-image-m-13_1775958329469.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062240",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussie slams despicable act at petrol station as drivers reach a new low amid fuel crisis",
-      "link": "https://www.dailymail.co.uk/news/article-15725695/fuel-prices-australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T02:53:38",
-      "description": "A woman was stunned to witness the shocking act unfold at a petrol station.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/02/107827633-0-image-m-11_1775956831694.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/02/107827633-0-image-m-11_1775956831694.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062242",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Eric Swalwell hit with DA investigation over sexual assault claims as more than a dozen staffers slam 'abhorrent' reports",
-      "link": "https://www.dailymail.co.uk/news/article-15725651/Eric-Swalwell-DA-investigation-sexual-assault.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T02:50:04",
-      "description": "It comes after the Democratic lawmaker was hit with bombshell accusations by four women including former staffers on Friday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/02/107812693-0-image-m-7_1775955962074.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/02/107812693-0-image-m-7_1775955962074.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062243",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Glamorous prosecutor Vanessa O'Bryan is accused of having intimate relationships with several inmates",
-      "link": "https://www.dailymail.co.uk/news/article-15725639/prosecutor-Vanessa-OBryan-sexual-relationship-inmate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T02:28:37",
-      "description": "A NSW prosecutor has been accused of having intimate relationships with prisoners and accessing hundreds of confidential files.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/02/107827535-0-image-m-63_1775956990592.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/02/107827535-0-image-m-63_1775956990592.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062244",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The Airbnb 'sex dungeons' disturbing America's sleepy suburbs: Network of kinkiness MAPPED as locals reveal sights they can't unsee",
-      "link": "https://www.dailymail.co.uk/news/article-15698945/Airbnb-fetish-dungeons-sex-kinky.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T01:40:43",
-      "description": "From the outside, it looks like any other American home. But behind the door lies a world of floggers, paddles, restraints, spanking benches and rooms draped in purple and black.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/02/107771235-0-image-m-59_1775956958706.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/02/107771235-0-image-m-59_1775956958706.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062245",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woman's utter shock as her beloved puppy is found ALIVE five years after she escaped from backyard",
-      "link": "https://www.dailymail.co.uk/news/article-15698529/dog-alive-reseda-california.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T01:35:29",
-      "description": "Michelle Bluestone was reunited with her dog in what she called a 'miracle' five years after the pet vanished from her backyard and was presumed dead.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/01/16/107586561-0-image-a-17_1775058641517.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/01/16/107586561-0-image-a-17_1775058641517.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062246",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussie blasts migration visa list after exposing 'skilled' job that foreigners can apply for so they can live in the country: 'Farcical'",
-      "link": "https://www.dailymail.co.uk/news/article-15725583/migrant-visa-list-Australia-dog-grooming.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T01:04:08",
-      "description": "An Aussie has exposed some of the bizarre jobs included on the skilled migration visa list.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107826297-0-image-m-43_1775951680308.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107826297-0-image-m-43_1775951680308.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062248",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "WFH loophole is shut down after Aussie tried to claim thousands of dollars back on tax for a very common expense",
-      "link": "https://www.dailymail.co.uk/news/article-15725591/wfh-tax-loophole-payments-rent-ned-hall-abc.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T00:49:29",
-      "description": "The work-from-home loophole could have cost the government billions of dollars.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/01/107826615-0-image-m-15_1775953541088.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/01/107826615-0-image-m-15_1775953541088.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062249",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Married mayor says he WON'T resign after he was caught sneaking other woman into town hall in dead of night then walking around pantsless",
-      "link": "https://www.dailymail.co.uk/news/article-15719223/mooresville-north-carolina-mayor-wont-resign-town-hall-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T00:21:09",
-      "description": "Married Mooresville Mayor Chris Carney, 54, will not resign despite commissioners pushing for him to do so after a lawsuit claimed he snuck another woman into town hall late at night in October 2024.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/20/107777047-0-image-m-12_1775762505836.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/20/107777047-0-image-m-12_1775762505836.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062250",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Liverpool 0-2 PSG (0-4 agg): Energy and emotion but no goals as Reds finally turn up for Arne Slot but suffer same fate, as Ousmane Dembele double and defensive steel seals win",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15731711/Liverpool-0-2-PSG-0-4-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:59:55",
+      "description": "IAN LADYMAN AT ANFIELD: So now we know that there is another side to the champions of Europe. PSG of France can defend, too.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896727-0-image-a-31_1776202580822.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896727-0-image-a-31_1776202580822.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T22:11:35.246512",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chelsea legend John Terry pitches up at Colchester United game amid '\u00a314m takeover' - as one of his family members starts the match!",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15733781/Chelsea-legend-John-Terry-pitches-Colchester-United-game-amid-14m-takeover-one-family-members-starts-match.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T22:01:57",
+      "description": "The England and Chelsea legend, 45, pitched up for their League Two clash against Accrington Stanley at the JobServe Community Stadium in Essex.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/22/107897015-0-image-a-76_1776203991724.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/22/107897015-0-image-a-76_1776203991724.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T22:11:35.246520",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Arsenal learn their would-be Champions League opponents as Atletico Madrid see off Barcelona despite TWO defensive shockers and a bloody clash - and here's why Mikel Arteta and Co might like what they saw, writes KIERAN GILL",
       "link": "https://www.dailymail.co.uk/sport/football/article-15731725/Atletico-Madrid-Barcelona-despite-TWO-defensive-shockers-gruesome-clash-dramatic-Champions-League-night-Arsenal-fans-like-saw.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19473,34 +19501,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-03-31T19:33:34.721332",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Czech Republic 2-2 Republic of Ireland (PENS 4-3): Visitors' 24-YEAR wait for a place at the World Cup continues after gut-wrenching play-off defeat in Prague",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15680887/Czechia-2-2-Ireland-World-Cup-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T13:37:31",
-      "description": "KIERAN GILL: It was a night of domination then devastation for the Irish, who will not get to face Denmark in Dublin this Tuesday with qualification for this summer's FIFA jamboree.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/13/107468405-0-image-a-28_1774618617595.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/13/107468405-0-image-a-28_1774618617595.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721334",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Top footballers could shun Saudi Arabia due to war in Iran, warns former Premier League chief - as their clubs are linked with move for Mohamed Salah this summer",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15684903/Top-footballers-shun-Saudi-Arabia-war-Iran-warns-former-Premier-League-chief-clubs-linked-Mohamed-Salah-summer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T13:30:33",
-      "description": "The Saudi Pro League has signed stars from across the world in recent seasons and its clubs have long coveted Mohamed Salah, who will leave Liverpool at the end of the season.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/12/107467033-0-image-a-16_1774615843725.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/12/107467033-0-image-a-16_1774615843725.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721335",
       "feed_category": "Sport",
       "feed_visibility": "both"
     }
