@@ -1,6 +1,94 @@
 {
   "BBC News": [
     {
+      "title": "Titanic rescue hero's gold watch could go for \u00a3100k",
+      "link": "https://www.bbc.com/news/articles/cx234k8g1mko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T05:06:21",
+      "description": "The item was awarded to John Richardson for his efforts in rescuing survivors of the 1912 disaster.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1464/live/fd3db4b0-3735-11f1-ba17-d34f2bc9d6da.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T09:00:28.844858",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Why one school has banned phones for some pupils - but not others",
+      "link": "https://www.bbc.com/news/articles/c2lw08ezekzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T07:48:35",
+      "description": "Schools across Wales say phone bans improve behaviour but can mean conflict with pupils and parents.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93d5/live/fc2d6070-37d5-11f1-b3d4-79c42c859995.png",
+      "enclosure": null,
+      "archived_at": "2026-04-14T09:00:28.844864",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I was minutes from dying - then I heard the lifeboat crewman's voice",
+      "link": "https://www.bbc.com/news/articles/cx2937d1r4jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T05:29:55",
+      "description": "A woman is reunited with the lifeboat crew who saved her life after her paddleboard was swept out to sea",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45d3/live/45298c90-37c2-11f1-9656-9dba0009e4a8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T09:00:28.844866",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Wins and challenges: Zohran Mamdani's first 100 days in office",
+      "link": "https://www.bbc.com/news/articles/czd782pjgq3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T20:46:02",
+      "description": "Mamdani has made progress on pledges for free child care and city-owned grocery stores, but many goals remain.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6173/live/7da0ef90-374b-11f1-bcf0-130930103dc8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T09:00:28.844868",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Al Fayed enablers 'must face accountability', survivors say",
+      "link": "https://www.bbc.com/news/articles/c208kde30g2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T06:54:51",
+      "description": "Two survivors want to see those who enabled Al Fayed to carry out his abuse to face justice.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98bf/live/2577bd60-3423-11f1-aa50-fd39c44a0779.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T09:00:28.844869",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+      "link": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T21:28:14",
+      "description": "Russia has offered \"pragmatic\" relations, but P\u00e9ter Magyar says he will not call Vladimir Putin himself.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4448/live/68e90900-3775-11f1-b023-c3d1c5398968.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T09:00:28.844870",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "South Korea jails 90-year-old woman for laundering son's drug money",
+      "link": "https://www.bbc.com/news/articles/c70554w89rlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T07:00:47",
+      "description": "The woman has been sentenced to a year in jail for laundering money for her son who is imprisoned in Cambodia.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1453/live/c4be3860-37cd-11f1-af91-3517da4ddb55.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T09:00:28.844872",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How Champions League could decide \u00a3100m Alvarez's future",
+      "link": "https://www.bbc.com/sport/football/articles/ckgw8pr23pxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T07:30:51",
+      "description": "With Julian Alvarez's Atletico Madrid future uncertain, European football expert Guillem Balague looks at how pivotal their Champions League run could prove.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56ba/live/e44a0190-3751-11f1-a12e-891a94889568.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T09:00:28.844874",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Greek police using masked migrants to forcibly push other migrants back across border",
       "link": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-14T05:02:21",
@@ -5411,97 +5499,121 @@
       "archived_at": "2026-04-07T14:07:18.587315",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Ex-Australia batter David Warner charged with drink-driving",
-      "link": "https://www.bbc.com/sport/cricket/articles/ckgez0k0jd0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T11:37:13",
-      "description": "Former Australia opener David Warner is charged with drink-driving in Sydney.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c159/live/ac0e5960-3275-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T12:09:13.887642",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Watch: Artemis II's historic lunar flyby... in 90 seconds",
-      "link": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T10:56:44",
-      "description": "The four astronauts in the Orion spacecraft set a new record for distance travelled from Earth.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae2/live/2f00db60-326f-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T11:28:57.704467",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Plan 2 student loan interest rates capped at 6% in England",
-      "link": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T11:21:16",
-      "description": "The cap on Plan 2 and postgraduate loan interest rates comes amid a risk of rising inflation.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da87/live/79584fc0-3271-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T11:28:57.704473",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ex-footballer Barton denies golf club attack",
-      "link": "https://www.bbc.com/news/articles/c05d1j0q9jro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T10:26:48",
-      "description": "The ex-Manchester City, Newcastle United, QPR,  Burnley and Rangers player is accused of assault.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/970e/live/eb1b6af0-326e-11f1-a16a-396ab9b34017.png",
-      "enclosure": null,
-      "archived_at": "2026-04-07T11:28:57.704475",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Music giant Universal gets $64bn takeover offer",
-      "link": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T10:35:36",
-      "description": "The music giant behind acts such as Taylor Swift and Sabrina Carpenter gets an offer from Bill Ackman's Pershing Square.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/03a29b70-3265-11f1-bdf9-bf5479a63eec.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T11:28:57.704481",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "One dead as high-speed train collides with lorry in France",
-      "link": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T10:18:36",
-      "description": "More than a dozen people are injured, two of whom critically, in the incident in the Calais region.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d8/live/4bbe50a0-3267-11f1-a291-032c2f0b6204.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T11:28:57.704483",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "How the Iran war affects your money and bills",
-      "link": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T10:43:34",
-      "description": "The conflict in the Middle East has increased pressure on the cost of petrol, household energy bills and even food.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaf/live/7cc7a4a0-1bc2-11f1-964c-87b629a369ca.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T11:28:57.704485",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Holiday let owner says legislation will 'destroy me'",
-      "link": "https://www.bbc.com/news/articles/cly6826p8j8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T05:13:44",
-      "description": "Paul Martin says his only option is to \"dismantle the cottages and render them unhabitable\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/d8905d10-2f43-11f1-91cb-cd1f5e51ebfd.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T11:28:57.704487",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Migrants are hired by Greek cops to stop other migrants entering the country - and have been raping women, taking valuables and using extreme violence",
+      "link": "https://www.dailymail.co.uk/news/article-15731289/Migrants-hired-Greek-cops-stop-migrants-entering-country-raping-women-violence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T08:57:31",
+      "description": "Greek police have been hiring migrants to stop other foreigners from entering the country, a new investigation has reported.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/09/107877493-0-image-a-11_1776156310474.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/09/107877493-0-image-a-11_1776156310474.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:31.994313",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "School shooting rampage leaves at least 18 injured as pupil opens fire with hunting rifle in Turkey",
+      "link": "https://www.dailymail.co.uk/news/article-15731477/School-shooting-rampage-leaves-18-injured-pupil-opens-fire-hunting-rifle-Turkey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T08:57:29",
+      "description": "Special security forces were deployed to the\u00a0Ahmet Koyuncu Vocational and Technical Anatolian High School\u00a0in the Siverek district of Sanliurfa province following the brutal attack.",
+      "thumbnail": "https://i.dailymail.co.uk/i/pix/m_logo_154x115px.png",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/i/pix/m_logo_154x115px.png",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:31.994320",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The breathtaking moment Meghan is dripped out in gold and designer gear as she served lunch for HOMELESS women at a shelter in Melbourne on day one of tour",
+      "link": "https://www.dailymail.co.uk/news/article-15731135/meghan-markle-melbourne-homeless-shelter-diana-watch-style.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T08:50:37",
+      "description": "Meghan went to a solo visit at McAuley homeless centre in Melbourne's inner-west clad in gold jewellery, including what appeared to be the late Princess Diana's Cartier watch.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/07/107875473-0-image-m-99_1776149313930.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/07/107875473-0-image-m-99_1776149313930.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:31.994321",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The eye-watering cost of deporting small boat migrants to France under Labour's 'failed' one-in one-out deal",
+      "link": "https://www.dailymail.co.uk/news/article-15731423/The-eye-watering-cost-deporting-small-boat-migrants-France-Labours-failed-one-one-deal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T08:49:09",
+      "description": "Analysis by the Migration Observatory at the University of Oxford found the cost of removing migrants had risen sharply from around \u00a315,000 a decade ago.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/09/107862363-0-image-m-13_1776156322651.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/09/107862363-0-image-m-13_1776156322651.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:31.994322",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Businessman sues BA for \u00a350,000 over 'flashbacks and nightmares' from after cutting his little finger on a flight",
+      "link": "https://www.dailymail.co.uk/news/article-15731429/Businessman-sues-BA-flashbacks-nightmares-cutting-finger.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T08:48:58",
+      "description": "Andrew Chesterton, 61, was flying from Heathrow to Cincinnati for a holiday in 2023 when he put his hand between the plane's seats and caught two of his fingers on a sharp object.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/09/107877411-0-image-m-6_1776155936171.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/09/107877411-0-image-m-6_1776155936171.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:31.994324",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mystery death of Hungarian reality TV star gripping the Canary Islands: Twist in police probe as shepherd finds influencer's rucksack after half-naked body was found in Gran Canaria ravine",
+      "link": "https://www.dailymail.co.uk/news/article-15731363/Mystery-death-Hungarian-reality-TV-star-gripping-Canary-Islands-Twist-police-probe-shepherd-finds-influencers-rucksack-half-naked-body-Gran-Canaria-ravine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T08:47:35",
+      "description": "Detectives identified Annabella Lovas, 32, using dental records after her half-naked body was discovered in a ravine on the island.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/09/107877389-0-image-a-6_1776155120119.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/09/107877389-0-image-a-6_1776155120119.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:31.994325",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I was in bed at 5am when the call came - Russia had invaded Ukraine: CHRIS PLEASANCE on the chaos of covering a global war",
+      "link": "https://www.dailymail.co.uk/news/article-15729327/Russia-invaded-Ukraine-CHRIS-PLEASANCE-global-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T08:29:22",
+      "description": "I've been covering foreign affairs for the Daily Mail for almost 15 years. The Iran war is the latest conflict I've reported on, but it's far from the first.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/16/107861421-0-image-m-9_1776094905984.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/16/107861421-0-image-m-9_1776094905984.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:31.994327",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "British tourist is stranded in hospital with \u00a340,000 bill due to insurance technicality after getting knocked off motorbike three hours after arriving in Sri Lanka",
+      "link": "https://www.dailymail.co.uk/news/article-15731393/British-tourist-stranded-hospital-40-000-bill-insurance-technicality-getting-knocked-motorbike-three-hours-arriving-Sri-Lanka.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T08:24:12",
+      "description": "Alex Muncey travelled to Colombo on March 30 for a ten-week 'trip of a lifetime'\u00a0and, while travelling from the airport to his hostel, was knocked off his bike.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/09/107876721-0-image-a-4_1776154164721.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/09/107876721-0-image-a-4_1776154164721.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:31.994329",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Meghan and Harry's quasi-royal tour of Australia under fire over 'unacceptable' cost to taxpayer as couple visit homeless shelter and children's hospital before money-spinning commercial engagements",
       "link": "https://www.dailymail.co.uk/news/article-15731101/Harry-Meghans-Australian-quasi-royal-tour-starts-amid-bafflement-actually-ahead-money-spinning-commercial-engagements-including-1-400-head-girls-weekend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12389,121 +12501,37 @@
       "archived_at": "2026-04-11T01:58:00.051684",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman breaks his silence and shares intimate family snap after his mansion was hit with a Molotov cocktail",
-      "link": "https://www.dailymail.co.uk/news/article-15723829/OpenAI-Sam-Altman-molotov-cocktail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T01:34:47",
-      "description": "The San Francisco Police Department said an unidentified man threw the fire bomb at Sam Altman's home just after 4am PST.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/00/107806159-0-image-m-10_1775865389049.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/00/107806159-0-image-m-10_1775865389049.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T01:58:00.051685",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Vigilantes slammed after they attacked their own stolen car with baseball bats",
-      "link": "https://www.dailymail.co.uk/news/article-15723873/Vigilantes-stolen-car-baseball-bats-Queensland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T01:27:19",
-      "description": "Vigilantes have been slammed for taking the law into their own hands after smashing their own ute with baseball bats.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/02/107810757-0-image-m-29_1775870120266.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/02/107810757-0-image-m-29_1775870120266.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T01:58:00.051687",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "James Bulger's mother 'disgusted' after murdered toddler's grave is vandalised for second time in six weeks",
-      "link": "https://www.dailymail.co.uk/news/article-15723739/James-Bulgers-mother-disgusted-murdered-toddlers-grave-vandalised-second-time-weeks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T01:11:06",
-      "description": "Denise Fergus , whose two-year-old son was tortured and killed by John Venables and his accomplice Robert Thompson, said James Bulger's gravestone had been vandalised yet again.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/01/107809031-0-image-m-16_1775866302533.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/01/107809031-0-image-m-16_1775866302533.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T01:58:00.051688",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Afghanistan vets to protest Ben Roberts-Smith's arrest with Pauline Hanson: 'Vietnam repeating itself'",
-      "link": "https://www.dailymail.co.uk/news/article-15723795/Afghanistan-vets-protest-Ben-Roberts-Smiths-Pauline-Hanson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T00:56:37",
-      "description": "War veterans will join Pauline Hanson to rally on Saturday in support of Ben Roberts-Smith.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/00/107757419-0-image-m-9_1775865590528.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/00/107757419-0-image-m-9_1775865590528.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T01:58:00.051689",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tens of thousands of protesters rally at concert calling for Hungary's Prime Minister Viktor Orban to be ousted after 16 years as he trails in election polls",
-      "link": "https://www.dailymail.co.uk/news/article-15723801/thousands-protesters-rally-concert-Hungary-Prime-Minister-Viktor-Orban-ousted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T00:53:07",
-      "description": "More than 100,000 people gathered in Budapest\u00a0for a concert urging citizens to vote out Prime Minister Viktor Orban on Friday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/01/107810171-0-image-a-11_1775867646595.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/01/107810171-0-image-a-11_1775867646595.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T01:58:00.051690",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump reveals his parting words to JD Vance ahead of Iran peace talks as he provides update on plans for Strait of Hormuz",
-      "link": "https://www.dailymail.co.uk/news/article-15723609/Trump-Vance-parting-words-Iran-talks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T00:47:12",
-      "description": "The President spoke as Vance flew out Friday alongside special envoy Steve Witkoff and Jared Kushner to attempt to find a permanent end to the war that began on February 28.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/00/107809115-0-image-a-4_1775864480816.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/00/107809115-0-image-a-4_1775864480816.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T01:58:00.051692",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Costa Coffee 'hires bouncers to guard food and drink' as High Street battles shoplifting epidemic",
-      "link": "https://www.dailymail.co.uk/news/article-15723667/Costa-Coffee-bouncers-guard-food-drink-shoplifting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T00:44:55",
-      "description": "The high street giant has supposedly hired security guards at dozens of its stores across the country which are facing repeated incidents of shoplifting on a daily basis.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/00/107808643-0-image-a-14_1775864400780.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/00/107808643-0-image-a-14_1775864400780.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T01:58:00.051693",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man, 28, appears in court over daylight 'smash-and-grab' raid of family jewellers in Richmond",
-      "link": "https://www.dailymail.co.uk/news/article-15723313/Man-court-daylight-raid-family-jewellers-Richmond.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T00:44:28",
-      "description": "Deniz Mehmet, 28. from Aveley, Essex, was arrested on Wednesday and the following day was charged with conspiracy to commit robbery.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/01/107810033-0-image-m-19_1775867010055.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/01/107810033-0-image-m-19_1775867010055.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T01:58:00.051694",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Gary Neville buys up Mark Goldbridge in seven-figure deal: Man United legend's Overlap to take over controversial YouTuber's channels - as they team up for huge new network",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15731209/gary-neville-mark-goldbridge-overlap-deal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T08:49:20",
+      "description": "MIKE KEEGAN: Gary Neville's The Overlap has bought Manchester United influencer Mark Goldbridge's YouTube channels.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/07/107875441-0-image-a-7_1776148622512.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/07/107875441-0-image-a-7_1776148622512.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:33.185333",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Gary Neville names a VERY different top five Premier League midfielders to 'biased' Jamie Carragher",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15731203/Gary-Neville-names-different-five-Premier-League-midfielders-biased-Jamie-Carragher.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T08:24:03",
+      "description": "Gary Neville and Jamie Carragher don't often see eye-to-eye and that was apparent with the pair naming their greatest-ever Premier League midfielders.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/08/107875887-0-image-a-4_1776150997465.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/08/107875887-0-image-a-4_1776150997465.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:33.185340",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Aston Villa monitoring Man City and England star over potential summer move - with Emi Martinez facing uncertain future at the club",
       "link": "https://www.dailymail.co.uk/sport/football/article-15731247/Aston-Villa-monitoring-Man-City-England-star.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19607,6 +19635,17 @@
   ],
   "Unherd": [
     {
+      "title": "Axel Rudakubana and the moral rot of the state",
+      "link": "https://unherd.com/2026/04/axel-rudakubana-and-the-moral-rot-of-the-state/?edition=us",
+      "pubDate": "2026-04-14T08:43:41",
+      "description": "The Southport inquiry exposes buck-passing bureaucrats",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-14T09:00:35.295061",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
       "title": "National populism has outgrown America",
       "link": "https://unherd.com/2026/04/national-populism-has-outgrown-america/?edition=us",
       "pubDate": "2026-04-13T23:03:28",
@@ -20722,6 +20761,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Oasis lead Rock and Roll Hall of Fame class of 2026 inductees",
+      "link": "https://www.music-news.com/news/UK/188319/Oasis-lead-Rock-and-Roll-Hall-of-Fame-class-of-2026-inductees",
+      "pubDate": "2026-04-14T07:00:00",
+      "description": "Oasis, Iron Maiden, Billy Idol and more will be inducted into the Rock and Roll Hall of Fame later this year.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188319.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188319.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:36.877072",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'It was amazing!' Diplo defends Justin Bieber following Coachella criticism",
+      "link": "https://www.music-news.com/news/UK/188318/It-was-amazing-Diplo-defends-Justin-Bieber-following-Coachella-criticism",
+      "pubDate": "2026-04-14T07:00:00",
+      "description": "DJ and music producer Diplo has defended Justin Bieber following criticism over the pop star's Coachella headline set, insisting it was \"awesome\" and he branded the pop star \"legendary\" for singing along to YouTube videos of his hits.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188318.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188318.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T09:00:36.877078",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Oasis and Phil Collins among 2026 Rock and Roll Hall of Fame inductees",
       "link": "https://www.music-news.com/news/UK/188316/Oasis-and-Phil-Collins-among-2026-Rock-and-Roll-Hall-of-Fame-inductees",
