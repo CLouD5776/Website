@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "King not meeting Epstein survivors, but state visit could help ease US-UK tensions",
+      "link": "https://www.bbc.com/news/articles/cvg44q1zdeno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T21:15:14",
+      "description": "The US state visit will see the King heading into choppy diplomatic waters during London-Washington tensions.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be0/live/fee5bb50-3825-11f1-87a9-4117efae0ff4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T21:27:24.615743",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US-Kuwaiti journalist detained in Kuwait after social media posts, watchdog says",
+      "link": "https://www.bbc.com/news/articles/cx2dd0lz1m2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T20:14:53",
+      "description": "Ahmed Shihab-Eldin is understood to be facing charges including spreading false information, the Committee to Protect Journalists says.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c689/live/dd576470-382a-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T21:27:24.615753",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "BBC News app",
       "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
       "pubDate": "2025-04-30T14:04:28",
@@ -5477,31 +5499,177 @@
       "archived_at": "2026-04-08T03:38:18.847710",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Tributes after British teenager dies while visiting Vietnam",
-      "link": "https://www.bbc.com/news/articles/c5y9lg10595o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T01:15:21",
-      "description": "Orla Wates, reportedly killed in a road accident, is remembered by her mother as \"beautiful, independent and very funny\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0467/live/56bbbfc0-32cf-11f1-8126-b55de2929b39.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T03:38:18.847715",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Top Australian soldier to remain in jail over alleged war crimes",
-      "link": "https://www.bbc.com/news/articles/c1l9qemvgppo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T02:24:33",
-      "description": "Ben Roberts-Smith faces five charges of the war crime of murder, which has a penalty of life in prison.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b05e/live/9898c820-32f2-11f1-99b6-23f4623af7b4.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T03:38:18.847721",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Health secretary urged not to bow to Zack Polanski's demand to cancel 'transformative' NHS technology over tech giant Palantir's links to Donald Trump",
+      "link": "https://www.dailymail.co.uk/news/article-15725537/Wes-Streeting-Zack-Polanski-cancel-NHS-Palantir-links-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T07:46:58",
+      "description": "A leaked memo from Ming Tang, chief data officer at NHS England, last week said the data platform Palantir was delivering 'outstanding results' with 'faster treatment'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107825831-0-image-m-13_1775949178605.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107825831-0-image-m-13_1775949178605.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798648",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Southport inquiry expected to criticise bungling public bodies who failed to stop killer before he murdered three girls",
+      "link": "https://www.dailymail.co.uk/news/article-15725323/Southport-inquiry-criticise-public-bodies-killer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T01:23:19",
+      "description": "At least six public bodies are expected to be heavily criticised in tomorrow's report, including two police forces, two NHS mental health services and the local council's family and social services.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823511-0-image-m-34_1775938163148.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823511-0-image-m-34_1775938163148.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798654",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Camilla could secretly meet some of Epstein's victims during state visit to America this month - but did Melania hold 'that' press conference 'to pave the way to join Queen'?",
+      "link": "https://www.dailymail.co.uk/news/article-15725437/Camilla-secretly-Epsteins-victims-America-Melania-Queen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T00:30:52",
+      "description": "Camilla, a life-long advocate for abused women, is said to have been approached by victims' rights groups but negotiations are understood to be in the 'very early stages.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107824109-0-image-m-9_1775940711427.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107824109-0-image-m-9_1775940711427.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798655",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The Democrats' audacious plot to force Trump into a mental fitness test amid signs of 'dementia'",
+      "link": "https://www.dailymail.co.uk/news/article-15733441/democrats-bill-25th-amendment-donald-trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:20:23",
+      "description": "Democratic Representative Jamie Raskin has sponsored a bill that would give his party a blueprint on how to force President Donald Trump, 79, into taking a mental fitness test.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107893477-0-image-a-6_1776199170049.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107893477-0-image-a-6_1776199170049.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798659",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Boy, 3, fell to his death from apartment tower window after dad 'went outside for cigarette' while babysitting him as his mom recovered in hospital from leg amputation",
+      "link": "https://www.dailymail.co.uk/news/article-15733317/st-louis-boy-falls-window-cigarette.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:19:47",
+      "description": "Travis Jr., who went by T3, died on Friday morning after he feel out of a window from an high-rise apartment in St. Louis, Missouri.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107893709-0-image-m-10_1776197874792.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107893709-0-image-m-10_1776197874792.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798660",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Resurgent Detroit could finally be brought back to its glory days thanks to plans to turn it into America's DRONE manufacturing capital",
+      "link": "https://www.dailymail.co.uk/news/article-15732047/detroit-drone-capital-america.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:13:49",
+      "description": "Keith Miao, the founder of a drone start-up, had never visited Detroit but said that the city gave them the opportunity to 'become the epicenter of the US drone industry.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/22/107894103-0-image-a-50_1776201143101.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/22/107894103-0-image-a-50_1776201143101.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798661",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Disability advocate reveals some of the most APPALLING behaviour he has witnessed from commuters towards wheelchair users on public transport as he makes one particular plea to able-bodied people everywhere",
+      "link": "https://www.dailymail.co.uk/news/article-15725489/Disability-advocate-reveals-APPALLING-behaviour-witnessed-commuters-wheelchair-users-public-transport-makes-one-particular-plea-able-bodied-people-everywhere.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:58:41",
+      "description": "He also says people in the NTA are 'telling disabled people what's right and what's wrong for them' regarding how they fund accessibility upgrades.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/22/107824767-0-image-m-31_1775944015884.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/22/107824767-0-image-m-31_1775944015884.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798663",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "A crisis that robs a generation of motherhood... How can you think of raising kids, when you're still living at home? Aoife, 31, after three no-fault evictions says: 'At least if I lived in a van, it couldn't be taken from under me.'",
+      "link": "https://www.dailymail.co.uk/news/article-15722941/A-crisis-robs-generation-motherhood-you-think-raising-kids-youre-living-home-Aoife-31-three-no-fault-evictions-says-lived-van-taken-me.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:45:47",
+      "description": "Ella Glynn, back in her childhood bedroom says when she tries to imagine having children, the thought stalls. 'I can't bring a baby into this.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/18/107803221-0-image-m-57_1775842126692.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/18/107803221-0-image-m-57_1775842126692.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798664",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Anna was on her dream holiday in Japan when it took a terrifying turn... her parents raced over as doctors warned she might not survive",
+      "link": "https://www.dailymail.co.uk/news/article-15730891/Aussie-Japan-holiday-meningococcal-meningitis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:43:19",
+      "description": "Anna Gallo, 24, became delirious and was sent to Tokyo's National Center for Global Health and Medicine.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/07/107874577-0-image-a-29_1776149427964.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/07/107874577-0-image-a-29_1776149427964.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798665",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'We cannot defend Britain with an ever expanding welfare bill': Not the Daily Mail's words but those of the ex-Labour minister Starmer tasked with writing his defence review - and who has now lost all confidence in dithering PM",
+      "link": "https://www.dailymail.co.uk/news/article-15733455/lord-Robertson-defence-spending-slash-welfare.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:37:40",
+      "description": "Two former Labour defence secretaries have urged ministers to slash welfare to boost spending on Britain's security.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893775-0-image-m-18_1776195032575.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893775-0-image-m-18_1776195032575.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798666",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Democrat forced to cancel re-election bid after he sent unsolicited AI deepfake to woman of him KISSING her",
+      "link": "https://www.dailymail.co.uk/news/article-15732345/tusla-representative-john-waldron-ai-deepfake-kissing-campaign-canceled.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:34:50",
+      "description": "John Waldron, 57, made an AI deepfake of himself and a woman kissing and sent it to her. Waldron announced on Monday that he would be ending his bid for reelection over the scandal.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894413-0-image-m-47_1776197550523.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894413-0-image-m-47_1776197550523.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798667",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "LGBT charity boss quits after 'Walter Mitty' false CV row... SNP-backed group got \u00a313m from taxpayer",
+      "link": "https://www.dailymail.co.uk/news/article-15733341/LGBT-charity-boss-quits-Walter-Mitty-false-CV-row-SNP-backed-group-got-13m-taxpayer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:28:28",
+      "description": "A senior figure in a charity for gay and trans teenagers which has received millions in public funding has quit amid claims he is a 'Walter Mitty character' with a false CV.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893847-0-image-m-13_1776195256825.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893847-0-image-m-13_1776195256825.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:25.798669",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Outlander star loses battle with council over renting out flat",
       "link": "https://www.dailymail.co.uk/news/article-15733343/Outlander-star-loses-battle-council-renting-flat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12333,177 +12501,37 @@
       "archived_at": "2026-04-12T03:50:25.062250",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Trump's secret mass pardoning plot revealed as he plans to use the power even more liberally",
-      "link": "https://www.dailymail.co.uk/news/article-15724715/trump-secret-pardon-plot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T00:19:25",
-      "description": "White House insiders claimed Trump is considering holding a press conference to announce a sweeping set of pardons near the conclusion of his term.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/23/94339025-0-image-a-10_1775948110120.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/23/94339025-0-image-a-10_1775948110120.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062251",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Blake Lively begs court to toss out articles portraying her as a 'mean girl' in upcoming Justin Baldoni trial",
-      "link": "https://www.dailymail.co.uk/news/article-15725637/blake-lively-justin-baldoni-trial-new-york.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T00:18:57",
-      "description": "Blake Lively\u00a0is objecting to articles being shown to the jury at her trial against Justin Baldoni next month, claiming a jury would 'draw adverse conclusions about her character.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/01/107825563-0-image-m-18_1775952035129.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/01/107825563-0-image-m-18_1775952035129.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062252",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "New York GAA are getting ready for their 'biggest day of the year' ahead of today's clash with Roscommon, while keeping one eye on Rory McIlory and Shane Lowry... but here's why it's feared the future of annual trip is in doubt",
-      "link": "https://www.dailymail.co.uk/news/article-15725579/New-York-GAA-getting-ready-biggest-day-year-ahead-todays-clash-Roscommon-keeping-one-eye-Rory-McIlory-Shane-Lowry-heres-feared-future-annual-trip-doubt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T00:09:10",
-      "description": "New York have been part of the Connacht football championship since 1999. They travelled to Ireland for the opening round fixture for the first three years before reverting to the Bronx from 2002.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/23/107825029-0-image-m-9_1775945269036.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/23/107825029-0-image-m-9_1775945269036.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062253",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Minister hints that time may be running out for IPAS company that's taken TENS of MILLIONS of euro from taxpayers to operate an ILLEGAL refugee village in an area of outstanding beauty - just as the council makes its BOLDEST move yet",
-      "link": "https://www.dailymail.co.uk/news/article-15725339/Minister-hints-time-running-IPAS-company-thats-taken-TENS-MILLIONS-euro-taxpayers-operate-ILLEGAL-refugee-village-area-outstanding-beauty-just-council-makes-BOLDEST-yet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T00:03:26",
-      "description": "The latest development comes just weeks after Meath County Council ordered the demolition of a mansion in Navan after a 20-year legal battle",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823781-0-image-m-9_1775938959325.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823781-0-image-m-9_1775938959325.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T03:50:25.062255",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Manchester Airport engineer 'lucky to be alive' after plunging 35ft out of open Jet2 plane door due to 'mix-up with steps'",
-      "link": "https://www.dailymail.co.uk/news/article-15725677/Manchester-Airport-engineer-fall-Jet2-plane-door.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T23:53:44",
-      "description": "The man, believed to be in his 60s, plunged\u00a0from the back of the Jet2 aircraft when he mistakenly believed there would steps on the other side of the door.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107818327-0-The_man_believed_to_be_an_aircraft_engineer_is_said_to_have_fall-a-47_1775950722537.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107818327-0-The_man_believed_to_be_an_aircraft_engineer_is_said_to_have_fall-a-47_1775950722537.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T00:00:56.983550",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Artemis II astronaut Reid Wiseman's awestruck words after textbook touchdown: 'This planet is impossibly beautiful at every altitude I've seen it... surface to 250,000 miles'",
-      "link": "https://www.dailymail.co.uk/news/article-15725635/Artemis-II-astronaut-words-planet-touchdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T23:49:12",
-      "description": "Last night, Artemis II Nasa astronaut Reid Wiseman posted a photograph of the sun's rays gently poking through clouds.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107826085-0-image-m-11_1775950435271.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107826085-0-image-m-11_1775950435271.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T00:00:56.983557",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Surveillance footage that Bahamas police are NOT releasing after wife vanished from boat: Video raises troubling questions for husband... as new 'missing hours' theory emerges",
-      "link": "https://www.dailymail.co.uk/news/article-15724577/surveillance-video-brian-hooker-wife-lynette-overboard-bahamas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T23:45:23",
-      "description": "The surveillance film from Marsh Harbour Boat Yard on the island of Great Abaco is being analyzed by Royal Bahamas Police as part of the investigation and has not been released.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/18/107818839-0-image-m-67_1775927374890.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/18/107818839-0-image-m-67_1775927374890.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T00:00:56.983560",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "MARY CARR: Make no mistake, the MIGA movement has hijacked these fuel protests... and they're happy to create chaos while ordinary working people suffer",
-      "link": "https://www.dailymail.co.uk/news/article-15725351/protest-nasty-MIGA-movement-far-right-cause.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T23:40:40",
-      "description": "On O'Connell Street, the gleaming lines of trucks and top-of-the-range tractors look straight out of a dealer's brochure at the Ploughing Championship, rather than a hard-working farm or quarry.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107826047-0-image-m-17_1775950074014.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107826047-0-image-m-17_1775950074014.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T00:00:56.983561",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why a pet duck has become the must-have animal accessory for the rich and famous",
-      "link": "https://www.dailymail.co.uk/news/article-15725307/Why-pet-duck-animal-accessory-rich-famous.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T23:30:23",
-      "description": "A growing number of celebrities are getting ducks, including Stacey Solomon, 36, who recently introduced her Instagram followers to two new additions: Daisy and Delilah Solomon-Swash.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/88699305-0-image-m-24_1775950164278.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/88699305-0-image-m-24_1775950164278.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T00:00:56.983563",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Inner workings of Tiger Woods' relationship with Vanessa Trump revealed... and the relative he's particularly close with",
-      "link": "https://www.dailymail.co.uk/news/article-15724917/Tiger-Woods-Vanessa-Trump-relationship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T23:24:23",
-      "description": "Woods and Vanessa have been together over a year and sources say she has no plans of leaving amid his alleged DUI.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/23/107824215-0-image-a-10_1775946069757.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/23/107824215-0-image-a-10_1775946069757.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T23:30:06.525955",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Le Humiliation: Once-mighty Navy faces begging French fleet for help to patrol our OWN waters as PM is mocked for Chagos deal U-turn: 'We're relying on our oldest enemy'",
-      "link": "https://www.dailymail.co.uk/news/article-15725411/Le-Humiliation-Navy-faces-begging-French-fleet-Chagos.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T23:23:15",
-      "description": "The Royal Navy will be forced to ask the French for help intercepting Russian vessels in British waters because the UK fleet is struggling to meet 'operational commitments'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823967-0-image-m-17_1775940595176.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823967-0-image-m-17_1775940595176.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T23:30:06.525960",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Harry hits back at 'offensive and damaging claims' by charity he helped to found as Prince accuses Sentebale of running 'adverse media campaign against' him",
-      "link": "https://www.dailymail.co.uk/news/article-15725533/Harry-offensive-claims-charity-Prince-Sentebale-media-campaign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T23:22:01",
-      "description": "Prince Harry has strongly rejected claims lodged against him in a High Court defamation suit by the African charity he helped to found but sensationally quit after a boardroom battle.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/23/107825627-0-image-m-59_1775948228276.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/23/107825627-0-image-m-59_1775948228276.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T23:30:06.525962",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Arsenal learn their would-be Champions League opponents as Atletico Madrid see off Barcelona despite TWO defensive shockers and a bloody clash - and here's why Mikel Arteta and Co might like what they saw, writes KIERAN GILL",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15731725/Atletico-Madrid-Barcelona-despite-TWO-defensive-shockers-gruesome-clash-dramatic-Champions-League-night-Arsenal-fans-like-saw.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:08:44",
+      "description": "KIERAN GILL: Here we were thinking Diego Simeone might have his Atletico Madrid side pull the shutters down in front of their goal, as if closed for business.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107895589-0-image-a-14_1776200355351.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107895589-0-image-a-14_1776200355351.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:27.041192",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Liverpool 0-2 PSG (0-4 agg) PLAYER RATINGS: Who put in one of his best performances of the season? Whose decision-making let him down? And which star was 'on top time and again' against one of the world's best?",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15731771/Liverpool-0-2-PSG-0-4-agg-PLAYER-RATINGS-one-best-performances-season-decision-making-let-star-time-against-one-worlds-best.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T21:24:48",
+      "description": "Liverpool's Champions League dream was shredded by the boots of Ousmane Dembele. Arne Slot's side threw everything at this second leg of their Champions League quarter-final.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896433-0-image-a-62_1776201783338.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896433-0-image-a-62_1776201783338.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T21:27:27.041201",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Barcelona star left bleeding on pitch in gruesome scenes after being kicked in the FACE by Atletico Madrid goalkeeper in dramatic Champions League second leg",
       "link": "https://www.dailymail.co.uk/sport/football/article-15733493/Barcelona-Fermin-Lopez-Atletico-Madrid-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19473,34 +19501,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-03-31T19:33:34.721335",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Inside Bolton Wanderers' quiet revival: Why wobbly form isn't shaking Steven Schumacher's promotion plans, how club learned their lesson after years of financial woe and the reasons fans should feel positive about League One run-in",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15681989/bolton-wanderers-promotion-finances-schumacher.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T12:05:44",
-      "description": "Standing third all season - an accomplishment for most clubs - feels like a disappointment for Wanderers, though captain Eoin Toal insists no one in the squad views that interpretation as harsh.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/11/107464071-0-image-a-63_1774609396511.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/11/107464071-0-image-a-63_1774609396511.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721336",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The top 11 Premier League signings of the season: The 'masterstroke' decision to recruit title-winning captain, the Man United forward who has fitted in seamlessly and the rejuvenated England striker",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15677443/premier-league-signings-ranked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T11:44:06",
-      "description": "SIMON JONES: In one of the most open competitions for years, it is still all to play for. Key to that has been a number of surprise performances from summer signings.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/25/20/107417345-0-image-a-7_1774470917076.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/25/20/107417345-0-image-a-7_1774470917076.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721337",
       "feed_category": "Sport",
       "feed_visibility": "both"
     }
