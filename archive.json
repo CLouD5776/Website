@@ -1,6 +1,83 @@
 {
   "BBC News": [
     {
+      "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
+      "link": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T13:00:43",
+      "description": "The financial body cuts its growth forecast for the UK and warns the war threatens to throw the global economy \"off course\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0112/live/146c3df0-3777-11f1-b2f4-33029861d617.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T13:19:37.033503",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Burglars who used Rightmove to target homes and steal \u00a31m of valuables jailed",
+      "link": "https://www.bbc.com/news/articles/c8jxe9npzdlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T13:08:50",
+      "description": "The gang gloated about their crimes while two of them referred to themselves as Bonnie and Clyde.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1f5/live/d39a57a0-ebde-11f0-bb6f-d709b650ca8e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T13:19:37.033510",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Student accused of murder over housemate stabbing",
+      "link": "https://www.bbc.com/news/articles/c0j668j9dndo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T09:48:35",
+      "description": "University student Jamie Collins was found dead in a garden with multiple stab wounds.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d836/live/a00805e0-37d8-11f1-9d5c-8ba507d7dbde.png",
+      "enclosure": null,
+      "archived_at": "2026-04-14T13:19:37.033517",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fuel protesters in tractors disrupt Belfast traffic",
+      "link": "https://www.bbc.com/news/articles/cx2e8wevpwyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T12:51:08",
+      "description": "Drivers are being told to allow extra time due to a slow-moving convoy of demonstrators unhappy with soaring energy prices.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e43/live/fe7c93b0-37ed-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T13:19:37.033519",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Customers failed over outages, water boss tells MPs",
+      "link": "https://www.bbc.com/news/articles/c98mqr83z49o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T12:17:47",
+      "description": "Bosses at South East Water are grilled over failures that left thousands without water over winter.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d565/live/bcec5170-3409-11f1-8c66-61d0f886d14f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T13:19:37.033521",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bloodborne film adaptation to be produced by YouTube star Jacksepticeye",
+      "link": "https://www.bbc.com/news/articles/c24887zl8e5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T12:44:28",
+      "description": "YouTuber Jacksepticeye will co-produce the film adapation of the popular Playstation game.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36d/live/55576ba0-37ef-11f1-bf98-335695df34d3.png",
+      "enclosure": null,
+      "archived_at": "2026-04-14T13:19:37.033523",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Will Iraola's departure speed up the managerial merry-go-round?",
+      "link": "https://www.bbc.com/sport/football/articles/ckgeerk761mo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T13:05:18",
+      "description": "Andoni Iraola's decision to leave Bournemouth could make it a frantic summer in the Premier League's managerial market, says chief football writer Phil McNulty.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ef/live/553b3ba0-37f0-11f1-bf98-335695df34d3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T13:19:37.033524",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Households could get free electricity for doing washing on sunny weekends",
       "link": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-14T11:42:05",
@@ -5422,86 +5499,177 @@
       "archived_at": "2026-04-07T19:03:29.252949",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
-      "link": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T17:21:45",
-      "description": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45da/live/271e4090-32a6-11f1-b4da-a3b95db80b81.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T17:56:29.228753",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Dad, 84, 'under awful stress' as son's care package set to end",
-      "link": "https://www.bbc.com/news/articles/cly0922zj0vo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T15:13:42",
-      "description": "A health trust is withdrawing a care package that helped an 84-year-old man to look after his two sons.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c86/live/ce7c26e0-3288-11f1-9fac-89e41bab67f2.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T17:56:29.228765",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "US journalist Shelly Kittleson to be released after kidnap in Iraq, militia says",
-      "link": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T17:50:17",
-      "description": "Kataib Hezbollah says the release comes on condition that she leave Iraq immediately.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/598f/live/1cbbe940-329c-11f1-8cba-9df81803c83c.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T17:56:29.228767",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
-      "link": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T17:15:34",
-      "description": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3138/live/2d589b10-329a-11f1-934f-036468834728.png",
-      "enclosure": null,
-      "archived_at": "2026-04-07T17:56:29.228769",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Two major airlines cut flights and hike fares as fuel prices surge",
-      "link": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T15:49:22",
-      "description": "Airlines have reduced services and lifted ticket costs as the Iran war weighs on jet fuel costs.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a528/live/23a83730-32a7-11f1-b297-95b0a0a8331e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T17:56:29.228770",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Masters tee-times for rounds one and two announced",
-      "link": "https://www.bbc.com/sport/golf/articles/crl12d8520eo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T17:10:37",
-      "description": "Find out the tee-times for Thursday and Friday's first two rounds of the Masters at Augusta National in Georgia.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2db/live/bb8d3e50-32a3-11f1-bcd7-95478cdf5125.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T17:56:29.228774",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Strictly star will not face rape charges, police say",
-      "link": "https://www.bbc.com/news/articles/cvgld1vjdewo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T16:25:33",
-      "description": "Detectives determined there was \"insufficient evidence\" to bring criminal charges against the unnamed man.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/635b/live/3e382240-3298-11f1-8cba-9df81803c83c.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-07T16:54:01.075923",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Clarifications and corrections",
+      "link": "https://www.dailymail.co.uk/home/article-15067765/Clarifications-corrections.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2025-11-01T00:19:30",
+      "description": "To report an inaccuracy, please email corrections@mailonline.co.uk. To make a formal complaint under IPSO rules please go to www.dailymail.co.uk/readerseditor where you will...",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2025/02/12/13/95132203-0-image-m-34_1739368658525.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2025/02/12/13/95132203-0-image-m-34_1739368658525.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.435978",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Euan Blair's \u00a31.4bn firm is accused of 'aggressive' push to get young people on ill-suited apprenticeships - with funeral planners taking AI courses",
+      "link": "https://www.dailymail.co.uk/news/article-15731893/Euan-Blairs-1-4bn-firm-accused-aggressive-push-young-people-ill-suited-apprenticeships-funeral-planners-taking-AI-courses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T13:15:13",
+      "description": "The \u00a31.4 billion tech firm founded by Tony Blair's son has been accused of placing young people on\u00a0ill-suited apprenticeships as part of an 'aggressive' push to sign up more learners.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/14/107490827-0-image-m-12_1776172439878.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/14/107490827-0-image-m-12_1776172439878.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.435984",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Bonnie and Clyde' couple were part of \u00a33million Albanian Rightmove burglary gang that studied floorplans of luxury houses on property website before ransacking them while homeowners cowered in terror",
+      "link": "https://www.dailymail.co.uk/news/article-15567817/Jailed-3million-Albanian-Rightmove-burglary-gang-studied-floorplans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T13:14:31",
+      "description": "The 'besotted' pair belonged to a 'callous' six-strong group that targeted upmarket properties across the UK, stealing jewellery and designer goods worth up to \u00a33million.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/13/107883713-0-image-m-6_1776170926337.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/13/107883713-0-image-m-6_1776170926337.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.435985",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The 'Gate of Tears': 18-mile global chokepoint Iran is plotting to seize as Saudis beg Trump to end Hormuz blockade",
+      "link": "https://www.dailymail.co.uk/news/article-15732147/The-Gate-Tears-18-mile-global-chokepoint-Iran-plotting-seize-Saudis-beg-Trump-end-Hormuz-blockade.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T13:13:16",
+      "description": "Saudi Arabia fears Iran could move to shut down the Middle East's remaining oil routes in retaliation for Donald Trump's naval blockade of the Strait of Hormuz.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/14/107884631-0-image-a-11_1776172389786.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/14/107884631-0-image-a-11_1776172389786.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.435987",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Gucci-loving condiment heir who lives in $2m mansion destroys family's generations-old good name with disgraceful antics at his mustard factory",
+      "link": "https://www.dailymail.co.uk/news/article-15728795/mustard-factory-polluting-river-new-hampshire-charles-santich.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T13:04:40",
+      "description": "He built an enviable life for himself on Long Island's North Shore, with a BMW on his drive and vacations aplenty. But behind the glossy facade lay a dark hidden scandal...",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/21/107862501-0-image-m-18_1776110667797.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/21/107862501-0-image-m-18_1776110667797.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.435988",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Disabled man, 21, whose job application to become a binman was rejected twice despite doing nine-month internship for free is let down AGAIN after council invited him for interview only to turn him down",
+      "link": "https://www.dailymail.co.uk/news/article-15731981/Disabled-binman-rejected-three-times-free-nine-month-internship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T12:43:35",
+      "description": "Bryan Rowe, 21, was twice turned down for the role by Southampton City Council before it claimed he had been rejected in error, inviting him back for interview.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/12/107881989-0-image-m-12_1776167239591.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/12/107881989-0-image-m-12_1776167239591.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.435990",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hunt launched for 'disgusting' thieves who stole hundreds of memorial plaques from crematorium gardens",
+      "link": "https://www.dailymail.co.uk/news/article-15732077/Hunt-launched-disgusting-thieves-stole-hundreds-memorial-plaques-crematorium-gardens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T12:28:19",
+      "description": "Staff at Overdale Crematorium in Bolton, Greater Manchester, discovered the theft after arriving for work on Monday morning.",
+      "thumbnail": "https://i.dailymail.co.uk/1/2026/04/14/13/107883001-0-image-a-22_1776168508237.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1/2026/04/14/13/107883001-0-image-a-22_1776168508237.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.435993",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Inmates at crisis-hit prison 'sit in their cells watching daytime TV and taking drugs smuggled in by drone-flying gangs through broken windows'",
+      "link": "https://www.dailymail.co.uk/news/article-15731585/Inmates-crisis-hit-prison-sit-cells-watching-daytime-TV-taking-drugs-smuggled-drone-flying-gangs-broken-windows.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T12:10:09",
+      "description": "Prisoners are burning holes in windows at HMP Manchester to allow them to snatch packages hanging from drones.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/13/94061841-0-Prisoners_are_burning_holes_in_windows_at_HMP_Manchester_in_orde-a-4_1776168106350.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/13/94061841-0-Prisoners_are_burning_holes_in_windows_at_HMP_Manchester_in_orde-a-4_1776168106350.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.435995",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Dad of murdered teen Anna Kepner says accused stepbrother, 16, 'is a danger' and has shown no remorse after court allows him to stay with relative before trial",
+      "link": "https://www.dailymail.co.uk/news/crime-desk/article-15730139/anna-kepner-timothy-hudson-florida-murder-trial.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T12:09:50",
+      "description": "Christopher Kepner said his family are outraged by a court's decision to let Timothy Hudson live with a relative instead of being locked up ahead of his federal trial.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/21/107866429-0-image-a-22_1776113777828.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/13/21/107866429-0-image-a-22_1776113777828.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.435997",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment family armed with plank studded with nails and metal pole fight with neighbours over drug dealing claims",
+      "link": "https://www.dailymail.co.uk/news/article-15731755/Moment-family-fight-neighbours-drug-dealing-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T12:08:54",
+      "description": "The Jenkins family descended on their neighbour's home with weapons after their home was ransacked with golf clubs.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/12/107881517-0-image-m-15_1776166396016.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/12/107881517-0-image-m-15_1776166396016.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.435998",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Meet the Forbes 30 Under 30 class of 2026! Adolescence star Owen Cooper, singer Sienna Spiro and I'm A Celeb's GK Barry are among talented Brits to watch out for",
+      "link": "https://www.dailymail.co.uk/news/article-15731521/Forbes-2026-Owen-Cooper-Sienna-Spiro-GK-Barry-Brits.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T12:02:52",
+      "description": "The 2026 roll call features an impressive cohort of up and coming sports stars, entertainment icons and self-driven business gurus.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/13/105237437-0-image-m-52_1776168156508.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/13/105237437-0-image-m-52_1776168156508.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.435999",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Labour's immigration 'crackdown' could save just \u00a3600m instead of the \u00a310billion claimed by Home Secretary Shabana Mahmood",
+      "link": "https://www.dailymail.co.uk/news/article-15731895/Labours-immigration-crackdown-save-just-600m-instead-10billion-claimed-Home-Secretary-Shabana-Mahmood.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T12:00:29",
+      "description": "The Home Secretary's reforms would see most people have to wait\u00a010 years to qualify for settled status - up from the current five years - which she argued would cut spending on public services.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/12/107882203-0-image-m-31_1776166057161.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/12/107882203-0-image-m-31_1776166057161.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:39.436000",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Germans face having wages docked if they take a sick day under plans to toughen up the workforce",
       "link": "https://www.dailymail.co.uk/news/article-15731829/Germans-face-having-wages-docked-sick-day-plans-toughen-workforce.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12333,177 +12501,23 @@
       "archived_at": "2026-04-11T11:27:20.530196",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Murder detectives arrest two men aged 25 and 27 over fatal stabbing of Finbar Sullivan, 21, in Primrose Hill",
-      "link": "https://www.dailymail.co.uk/news/article-15724417/Murder-detectives-arrest-two-men-stabbing-Finbar-Sullivan-Primrose-Hill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T11:10:56",
-      "description": "The men were detailed on Friday, April 10, following the tragic incident at the popular London beauty spot on Tuesday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/11/107754879-0-image-m-44_1775904345187.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/11/107754879-0-image-m-44_1775904345187.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T11:27:20.530198",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ex-terrorist who praised jihad should not be elected as councillor, says Brit kidnapped by gang of his Islamist supporters in terrifying ordeal",
-      "link": "https://www.dailymail.co.uk/news/article-15724323/Brit-kidnapped-Islamist-gang-four-killed-jail-Birmingham-councillor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T11:07:21",
-      "description": "Shahid Butt, who will be an independent candidate in Birmingham in May's local elections,\u00a0was jailed for five years in 1999 for conspiring to bomb the British consulate and other targets in Yemen.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/11/107814695-0-image-m-53_1775904513221.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/11/107814695-0-image-m-53_1775904513221.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T11:27:20.530199",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "End to Ukraine war may be close, Moscow and Kyiv agree as chilling video shows how Ukrainian drone brigade killed 8,000 Russian troops in one month",
-      "link": "https://www.dailymail.co.uk/news/article-15724343/End-Ukraine-war-close-Moscow-Kyiv-agree-chilling-video-shows-Ukrainian-drone.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T11:06:02",
-      "description": "The video shows stricken Russian soldiers desperately trying to fend off approaching drones, throwing sticks and swatting at them in a futile bid to survive.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/10/107814993-0-image-a-4_1775901510150.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/10/107814993-0-image-a-4_1775901510150.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T11:27:20.530201",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ex-hedge fund manager Crispin Odey drops \u00a379million libel case against Financial Times over claims he sexually assaulted women",
-      "link": "https://www.dailymail.co.uk/news/article-15724209/Odey-drops-libel-case-FT-claims-sexually-assaulted-women.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T11:00:49",
-      "description": "The former hedge fund manager was suing the paper over articles published in 2023 which alleged he had sexually assaulted multiple women, which he denies.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/08/107813833-0-image-m-12_1775892524117.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/08/107813833-0-image-m-12_1775892524117.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T11:27:20.530203",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Your entire browsing history, private messages and financial details could be released for ANYONE to read: TOM LEONARD reveals crisis talks over Armageddon new program - and the devastating consequences",
-      "link": "https://www.dailymail.co.uk/news/article-15722735/browsing-history-private-messages-financial-details-released-TOM-LEONARD-crisis-Armageddon-AI.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T10:48:20",
-      "description": "Recently, a researcher working for the large AI company Anthropic was enjoying a sandwich when he suddenly received an email that must have instantly ruined his appetite.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/11/107815013-0-image-m-26_1775901738058.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/11/107815013-0-image-m-26_1775901738058.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T11:27:20.530204",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "TV gardening hunk Henry Agg reveals how he turned to the soil to become best-selling author after five friends killed themselves and he suffered emotional breakdown",
-      "link": "https://www.dailymail.co.uk/news/article-15724301/Henry-Agg-author-five-friends-suicide-emotional-breakdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T10:21:34",
-      "description": "The former recruiter, who left his job as part of an 'emotional breakdown' which saw him turn to gardening, said the first of his friends to die by suicide did so when Agg was in his twenties.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/11/107815131-0-image-m-11_1775902387699.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/11/107815131-0-image-m-11_1775902387699.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T10:30:38.788424",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Chilling 'Merino Mafia' theory emerges after a sheep farmer Richard Wills was found in a shallow grave two days after kissing his wife goodbye before work",
-      "link": "https://www.dailymail.co.uk/news/article-15724215/Ouyen-Merino-Mafia-theory-Richard-Wills-dead.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T10:12:12",
-      "description": "The remains of 65-year-old Richard Wills were found on his farm on Tuesday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814245-0-image-m-39_1775897042320.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814245-0-image-m-39_1775897042320.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T10:30:38.788429",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Qantas flight bound for Perth is forced to make a dramatic landing after passengers and crew notice a strange smell",
-      "link": "https://www.dailymail.co.uk/news/article-15724327/Qantas-plane-landing-strange-smell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T10:08:58",
-      "description": "Qantas flight QF857 was forced to make a priority landing in Adelaide after a strong smell was detected on board.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/11/107814907-0-image-a-10_1775901922191.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/11/107814907-0-image-a-10_1775901922191.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T10:30:38.788431",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Mystery over how teens drove off M1 bridge in crash that killed the pair as images show how minibus was struck by car in thousand-to-one twist of fate",
-      "link": "https://www.dailymail.co.uk/news/article-15724307/Two-teenagers-die-car-plunges-bridge-minibus-motorway-Easter-holiday-pile-closed-motorway.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T09:35:09",
-      "description": "The pair, who have not been named, were travelling in a blue car along Gilmorton Lane, towards Lutterworth, Leicestershire, when the vehicle careered off a bridge.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814329-0-image-m-17_1775897795998.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814329-0-image-m-17_1775897795998.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T09:36:49.866201",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ferrari and Mercedes drivers are among 'brazen' motorists stealing \u00a31.2m of petrol a week as fuel prices soar due to Iran war",
-      "link": "https://www.dailymail.co.uk/news/article-15724281/Ferrari-Mercedes-drivers-brazen-motorists-stealing-1-2m-petrol-week-fuel-prices-soar-Iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T09:33:53",
-      "description": "Analysis of approximately 500 UK filling stations reveals a 27% surge in daily fuel thefts since the outbreak of the Iran conflict in February.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814381-0-image-m-23_1775897406147.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814381-0-image-m-23_1775897406147.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T09:36:49.866206",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Putin's shadow fleet sailors can claim asylum if Britain seizes their ships in the English Channel, ministers fear",
-      "link": "https://www.dailymail.co.uk/news/article-15724219/Putins-shadow-fleet-sailors-claim-asylum-Britain-seizes-ships-Channel-ministers-fear.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T09:11:49",
-      "description": "Foreign Secretary Yvette Cooper and Home Secretary Shabana Mahmood are understood to have raised concerns to this effect. Pictured: The US seizing Russian tanker in UK waters in January",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814251-0-image-m-7_1775896345115.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814251-0-image-m-7_1775896345115.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T09:36:49.866208",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'We are now in a world war': Chilling prediction by billionaire US hedge fund founder Ray Dalio - and the cycle of events that has put us 'two steps from conflict between major global powers'",
-      "link": "https://www.dailymail.co.uk/news/article-15715397/World-war-prediction-billionaire-US-hedge-fund-founder-Ray-Dalio.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T09:06:42",
-      "description": "A billionaire investor has issued a stark warning that the globe is already sliding into a world war, arguing that we are close to a full-blown conflict between major superpowers.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/08/107745027-0-image-a-5_1775806063522.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/08/107745027-0-image-a-5_1775806063522.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T09:36:49.866210",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Andoni Iraola to LEAVE Bournemouth at the end of the season",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15732363/Andoni-Iraola-LEAVE-Bournemouth-end-season.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T13:09:42",
+      "description": "The Spaniard, 43, joined the Cherries in 2023 on an initial two-year deal which was later extended.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/14/107884553-0-image-a-16_1776172145109.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/14/107884553-0-image-a-16_1776172145109.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T13:19:41.673822",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Crisis-hit Arsenal see FIVE first-choice stars miss training on eve of their Champions League decider against Sporting - and with days to go until they travel to Man City in must-not-lose game",
       "link": "https://www.dailymail.co.uk/sport/football/article-15731965/Crisis-hit-Arsenal-FIVE-choice-stars-miss-training-eve-Champions-League-decider-against-Sporting-days-travel-Man-City-not-lose-game.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -24081,6 +24095,17 @@
     }
   ],
   "Crev": [
+    {
+      "title": "Fossil Mistaken Identity Fools Experts for 26 Years",
+      "link": "https://crev.info/2026/04/jb-octopus-fossil-mistaken-identity/?utm_source=rss&utm_medium=rss&utm_campaign=jb-octopus-fossil-mistaken-identity",
+      "pubDate": "2026-04-14T12:00:59",
+      "description": "Evolutionary narratives have sometimes been reconstructed from little more than a jaw, a few teeth, or scattered bones.",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-14T13:19:47.226395",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Scientists Shocked by Rapid Speciation After Chicxulub\u00a0Impact",
       "link": "https://crev.info/2026/04/sbr-rapid-speciation-after-chicxulub/?utm_source=rss&utm_medium=rss&utm_campaign=sbr-rapid-speciation-after-chicxulub",
