@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "BBC News app",
+      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2025-04-30T14:04:28",
+      "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png",
+      "enclosure": null,
+      "archived_at": "2026-04-14T20:30:03.519337",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Can we afford to keep the UK safe?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nd40v8?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T19:31:00",
+      "description": "Former Nato chief warns UK's national security 'in peril'.",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-14T20:30:03.519343",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "US Treasury secretary says short-term economic pain worth long-term security",
       "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-14T18:16:44",
@@ -5477,31 +5499,135 @@
       "archived_at": "2026-04-08T03:38:18.847721",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Gilgo Beach serial killings suspect expected to plead guilty to eighth victim",
-      "link": "https://www.bbc.com/news/articles/c62l503xyy0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T00:59:51",
-      "description": "Architect Rex Heuermann will appear in court on Wednesday when he is expected to plead guilty to murder charges.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/747b/live/d25bb920-32d7-11f1-ab67-3575cd26b632.png",
-      "enclosure": null,
-      "archived_at": "2026-04-08T03:38:18.847723",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why the Strait of Hormuz matters so much in the Iran war",
-      "link": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T01:01:29",
-      "description": "Tehran says it has agreed to open the Strait of Hormuz for two weeks \"if attacks against Iran are halted\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c7d/live/4972bc60-16af-11f1-9120-a910fc22c6ac.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T03:38:18.847725",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Outlander star loses battle with council over renting out flat",
+      "link": "https://www.dailymail.co.uk/news/article-15733343/Outlander-star-loses-battle-council-renting-flat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:26:29",
+      "description": "Her famous on-screen character has survived numerous battles in the Jacobite era. But now Outlander star Caitriona Balfe has lost a planning battle over a bid to rent out her flat in Glasgow.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107892803-0-image-m-4_1776198177651.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107892803-0-image-m-4_1776198177651.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:05.939448",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Texas man sentenced to JAIL for wandering off trail at Yellowstone to get a closer look at hot springs",
+      "link": "https://www.dailymail.co.uk/news/article-15732229/Texas-eric-bedient-sentenced-jail-Yellowstone.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:26:11",
+      "description": "Eric Bedient, 50, was handed five days in jail after 'thermal trespassing.' Officials warned the dangerous offense could have turned him into 'thermal soup.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107892321-0-image-m-13_1776196654544.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107892321-0-image-m-13_1776196654544.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:05.939454",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Rachel Reeves FINALLY addresses the day she cried at PMQs... and says she won't apologise for it",
+      "link": "https://www.dailymail.co.uk/news/article-15733367/Rachel-Reeves-addresses-day-cried-PMQs-apologise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:22:28",
+      "description": "Rachel Reeves spoke out about the 'stressful time' in an interview with Mumsnet today, where she was also probed on benefits handouts and sluggish economic growth.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/99944343-0-image-m-10_1776196994540.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/99944343-0-image-m-10_1776196994540.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:05.939456",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "EUAN McCOLM: A free bag for every child? Maybe they can use them to carry the free laptops they were promised in 2021...",
+      "link": "https://www.dailymail.co.uk/news/article-15733337/EUAN-McCOLM-free-bags.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:09:43",
+      "description": "Appearing on ITV's Loose Women chat show after stepping down as FM, Sturgeon was asked to name the achievement in Government of which she was proudest.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/19/107893035-0-image-a-5_1776192628565.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/19/107893035-0-image-a-5_1776192628565.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:05.939458",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Now SNP's \u00a325m school bags giveaway branded a 'shameful election bribe'",
+      "link": "https://www.dailymail.co.uk/news/article-15733345/Now-SNPs-25m-school-bags-giveaway-branded-shameful-election-bribe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:09:26",
+      "description": "The SNP has been slammed for offering voters \u00a3130 school bags in a pre-election 'bribe'. The 'goodie-bag gimmick' could cost taxpayers more than \u00a325million in the next parliament.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893973-0-image-m-15_1776196142404.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893973-0-image-m-15_1776196142404.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:05.939459",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Come to the cabernet! Exclusive glimpse inside Nancy Pelosi's six-acre, $25M Napa Valley wine empire that makes her up to $1M a year",
+      "link": "https://www.dailymail.co.uk/news/article-15732257/nancy-pelosi-napa-valley-25m-wine-empire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:07:50",
+      "description": "The San Francisco Democrat and Speaker Emerita 86, is one of Washington's wealthiest politicians and has the swank properties to prove it.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888159-0-image-a-63_1776179615191.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888159-0-image-a-63_1776179615191.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:05.939461",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "British fighter jets 'scrambled after Russian bomber approached UK airspace'",
+      "link": "https://www.dailymail.co.uk/news/article-15733467/British-fighter-jets-scrambled-Russian-bomber-approached-UK-airspace.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T19:55:52",
+      "description": "Two Typhoon fighter jets were flown from RAF Lossiemouth, in Scotland, along with a Voyager refuelling jet from RAF Brize Norton in Oxfordshire.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893929-0-image-m-33_1776195696689.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893929-0-image-m-33_1776195696689.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:05.939462",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Beloved hog farmer killed and wife assaulted by disgruntled madman who was going through a divorce",
+      "link": "https://www.dailymail.co.uk/news/article-15732339/nebraska-hog-farmer-killed-man-attack-wife-divorce.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T19:35:26",
+      "description": "Brian Gabel, 44, was shot and killed at his hog farm by a man who was searching for his wife, according to police.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893303-0-image-m-17_1776194105269.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893303-0-image-m-17_1776194105269.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:05.939464",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "NJ Transit to gouge World Cup spectators traveling to upcoming matches, charging OVER $100 for a typical $13 ride",
+      "link": "https://www.dailymail.co.uk/news/article-15733005/nj-transit-price-gouge-train-tickets-world-cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T19:15:40",
+      "description": "A typical round-trip ticket between New York's Pennsylvania Station and MetLife is $12.90.\u00a0When the Garden State hosted the FIFA Club World Cup last summer, the ticket price did not change.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893493-0-image-a-62_1776193858147.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893493-0-image-a-62_1776193858147.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:05.939465",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Strange mystery of canine corpses that eerily washed ashore on remote island is finally solved",
       "link": "https://www.dailymail.co.uk/news/article-15725225/mystery-canine-corpses-island-solved-washington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12375,135 +12501,93 @@
       "archived_at": "2026-04-11T23:30:06.525962",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Health secretary urged not to bow to Zack Polanski's demand to cancel 'transformative' NHS technology over tech giant Palantir's links to Donald Trump",
-      "link": "https://www.dailymail.co.uk/news/article-15725537/Wes-Streeting-Zack-Polanski-cancel-NHS-Palantir-links-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T23:20:25",
-      "description": "A leaked memo from Ming Tang, chief data officer at NHS England, last week said the data platform Palantir was delivering 'outstanding results' with 'faster treatment',",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107825831-0-image-m-13_1775949178605.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107825831-0-image-m-13_1775949178605.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T23:30:06.525963",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tragedy as girl, 7, drowns at popular swimming spot while on school holiday",
-      "link": "https://www.dailymail.co.uk/news/article-15725575/Tragedy-young-girl-7-drowns-popular-swimming-spot-school-holiday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T22:24:12",
-      "description": "A young girls body has been found in a popular Brisbane river.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/23/107825065-0-image-m-18_1775945762602.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/23/107825065-0-image-m-18_1775945762602.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T22:30:55.513433",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Still thinking of voting GREEN? Meet the councillor who called David Lammy a 'coconut' and the Argentinian who believes Britain should hand back the Falklands",
-      "link": "https://www.dailymail.co.uk/news/article-15725259/Still-thinking-voting-GREEN-councillor-David-Lammy-coconut.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T22:21:36",
-      "description": "Hau-Yu Tam, deputy leader of the Greens in Lewisham, south-east London, called Justice Secretary David Lammy and former Home Secretary Priti Patel 'coconuts' in a vile slur.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822641-0-image-m-55_1775934376298.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822641-0-image-m-55_1775934376298.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T22:30:55.513441",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Taxpayers shelling out \u00a3800 a MINUTE in disability benefits to people claiming to suffer from 'anxiety' - as private firms cash-in by coaching claimants in exchange for half their payout",
-      "link": "https://www.dailymail.co.uk/news/article-15725273/anxiety-800-minute-disability-benefits-claim-private-firms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T22:18:10",
-      "description": "The cost of Personal Independence Payments (PIP) for the disorder has rocketed from under \u00a3100million in 2019 to nearly \u00a3427million last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822945-0-image-a-11_1775936296957.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822945-0-image-a-11_1775936296957.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T22:30:55.513442",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Patients are arriving not just with symptoms, but with scripts - and people in REAL need are being left behind, writes NHS GP and presenter DR RENEE HOENDERKAMP",
-      "link": "https://www.dailymail.co.uk/news/article-15725285/Patients-symptoms-scripts-REAL-NHS-GP-DR-RENEE-HOENDERKAMP.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T22:14:03",
-      "description": "Carefully prepared phrases, polished descriptions and diagnostic language lifted straight from specialist websites and, increasingly, AI-powered chatbots.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823635-0-image-a-7_1775938641158.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823635-0-image-a-7_1775938641158.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T22:30:55.513443",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Camilla could secretly meet some of Epstein's victims during state visit to America this month - but did Melania hold 'that' press conference 'to pave the way to join Queen'?",
-      "link": "https://www.dailymail.co.uk/news/article-15725437/Camilla-secretly-Epsteins-victims-America-Melania-Queen.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T22:10:52",
-      "description": "Camilla, a life-long advocate for abused women, is said to have been approached by victims' rights groups but negotiations are understood to be in the 'very early stages.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107824109-0-image-m-9_1775940711427.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107824109-0-image-m-9_1775940711427.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T22:30:55.513445",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Is the hardliner who built this 110-mile barbed wire fence to stem flow of illegal migrants about to lose his crown to a 'Brussels poodle' in Hungary's crunch election? asks SUE REID",
-      "link": "https://www.dailymail.co.uk/news/article-15725205/hardliner-built-110-mile-fence-repel-migrants-Brussels-poodle-Sue-Reid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T22:10:47",
-      "description": "The fence is hated by the European Union's bureaucrats in Brussels who refused to export to Hungary the steel spikes needed to help build it at the start of the migration crisis in 2015.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822329-0-image-m-37_1775934438058.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/20/107822329-0-image-m-37_1775934438058.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T22:30:55.513446",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Southport inquiry expected to criticise bungling public bodies who failed to stop killer before he murdered three girls",
-      "link": "https://www.dailymail.co.uk/news/article-15725323/Southport-inquiry-criticise-public-bodies-killer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T22:09:37",
-      "description": "At least six public bodies are expected to be heavily criticised in tomorrow's report, including two police forces, two NHS mental health services and the local council's family and social services.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823511-0-image-m-34_1775938163148.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823511-0-image-m-34_1775938163148.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T22:30:55.513448",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tech billionaire's alleged depraved double life: Palm Beach ex makes horrific claims about satanic beatings, insomnia-inducing sex acts and pregnancy terminated with violence",
-      "link": "https://www.dailymail.co.uk/news/article-15700053/Tech-billionaires-Palm-Beach-girlfriend-serg-bell-acronis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T21:58:58",
-      "description": "At a remote estate in the rolling hills of Tuscany, Natalia Chernysheva woke in agony, her body bruised and her memory fractured after a night she could not fully recall.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/16/107639921-0-image-m-42_1775228724186.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/16/107639921-0-image-m-42_1775228724186.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-11T22:30:55.513449",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Barcelona star left bleeding on pitch in gruesome scenes after being kicked in the FACE by Atletico Madrid goalkeeper in dramatic Champions League second leg",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15733493/Barcelona-Fermin-Lopez-Atletico-Madrid-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:16:34",
+      "description": "Somehow the Spaniard came back on looking as clean as ever within minutes of the gruesome scenes - with one fan online praising his 'die for Barcelona' attitude.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894795-0-image-a-19_1776197791951.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894795-0-image-a-19_1776197791951.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:09.199986",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Football's most infamous hair pulls after Lisandro Martinez's controversial red card... from TWO Marc Cucurella incidents to Peter Crouch's 'bodily assault' at the World Cup",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15731465/Footballs-infamous-hair-pulls-Lisandro-Martinez-red-card.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T19:47:53",
+      "description": "Lisandro Martinez's red card for pulling Dominic Calvert-Lewin's ponytail proved costly on Monday night as Manchester United fell to a 2-1 defeat against bitter rivals Leeds at Old Trafford.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/11/107880771-0-image-a-140_1776163404853.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/11/107880771-0-image-a-140_1776163404853.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:09.199991",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Carlo Ancelotti asked Brazil's PRESIDENT if he should pick Neymar for World Cup - as politician reveals his advice to manager",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15733489/Carlo-Ancelotti-Lula-Neymar-Brazil-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:26:25",
+      "description": "Brazil's president has revealed that Carlo Ancelotti picked his brain over whether to select Neymar for the World Cup.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107894423-0-image-a-9_1776196791986.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107894423-0-image-a-9_1776196791986.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:09.199996",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "IT'S NOT FARE! Tartan Army are driven to despair by latest World Cup rip-off... with Boston bus bosses ramping up prices for summer showpiece",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15733539/ITS-NOT-FARE-Tartan-Army-driven-despair-latest-World-Cup-rip-Boston-bus-bosses-ramping-prices-summer-showpiece.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:10:36",
+      "description": "The Tartan Army will be subjected to more rip-offs at the World Cup this summer with the cost of going to Scotland's opening two matches by bus set to outstrip the price of a train ticket.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894587-0-image-a-26_1776197275801.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894587-0-image-a-26_1776197275801.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:09.199998",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "England 1-0 Spain: Lauren Hemp scrambles earliest Lionesses goal at Wembley... as Mary Earps returns to say goodbye after retirement backlash",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15731701/England-1-0-Spain-Lauren-Hemp-scrambles-earliest-Lionesses-goal-Wembley-Mary-Earps-returns-say-goodbye-retirement-backlash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T20:05:18",
+      "description": "The result against the world champions leaves them in control of the race for the only automatic qualifying place at next year's showpiece in Brazil, with three fixtures remaining.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894009-0-image-a-4_1776196992477.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894009-0-image-a-4_1776196992477.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:09.199999",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Retrial begins over death of Diego Maradona: Football icon's medical team accused of 'treating him like an animal' in 'house of horrors' return to court in Buenos Aires",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15733239/Retrial-Diego-Maradona-Buenos-Aires.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-14T19:10:54",
+      "description": "The retrial of Diego Maradona's medical staff, who have been accused of 'treating the football icon like an animal in a house of horrors', has begun.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893193-0-image-a-24_1776193321785.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893193-0-image-a-24_1776193321785.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-14T20:30:09.200001",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Alexander Isak handed shock START for the first time since December as Arne Slot turns to \u00a3125m man to spur Liverpool's bid for famous comeback against PSG",
       "link": "https://www.dailymail.co.uk/sport/football/article-15733189/Alexander-Isak-handed-shock-START-time-December-Arne-Slot-turns-125m-man-spur-Liverpools-bid-famous-comeback-against-PSG.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19417,90 +19501,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-03-31T19:33:34.721337",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Viral England fan reveals he's selling his \u00a3350,000 house to fund a seven-week trip to the World Cup",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15681659/England-fan-selling-350-000-house-fund-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T11:40:59",
-      "description": "An England superfan has put his \u00a3350,000 house up for sale to fund a seven-week trip to the World Cup this summer in the United States, Canada and Mexico.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/10/107463717-0-image-a-6_1774608266752.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/10/107463717-0-image-a-6_1774608266752.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721338",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "John Toshack's family in row over his diagnosis: Liverpool and Wales legend and wife say he HASN'T got dementia - but his son is adamant he is fighting 'terrible disease'",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15684077/john-toshack-dementia-family-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T10:56:19",
-      "description": "The family of Liverpool and Wales legend John Toshack are embroiled in an escalating row over his dementia diagnosis.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/09/107462017-0-image-a-10_1774603781981.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/09/107462017-0-image-a-10_1774603781981.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721339",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Is this the most depressing set of fixtures ever? Play-off losers to meet in friendlies next week after seeing World Cup dreams dashed",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15684291/Depressing-fixtures-Play-losers-meet-friendlies-World-Cup-dreams-dashed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T10:49:33",
-      "description": "Next week could see arguably the most depressing set of fixtures in football, with losers of play-offs set to meet after seeing their World Cup dreams dashed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/10/107463179-0-image-a-22_1774606834916.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/10/107463179-0-image-a-22_1774606834916.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721340",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Sky Bet customers win big! Three bets pay out more than \u00a330k from last weekend's action",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15678199/Sky-Bet-pay-out.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T10:01:54",
-      "description": "Three Sky Bet customers struck it lucky last weekend, sharing more than \u00a330,000 in winnings.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/09/107462255-0-image-a-11_1774604205441.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/09/107462255-0-image-a-11_1774604205441.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721341",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Half a million lifesavers: Sky Bet and British Heart Foundation hit landmark CPR learning milestone",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15684119/Sky-Bet-British-Heart-Foundation-CPR.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T08:36:49",
-      "description": "Sky Bet and the BHF, supported by the EFL have reached a major milestone in their transformative Every Minute Matters campaign, with more than 500,000 people having started learning CPR.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/08/107460955-0-image-a-11_1774600255918.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/08/107460955-0-image-a-11_1774600255918.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721342",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "THE INCREDIBLE JOURNEYMAN: His career has taken him from Berwick to Bavaria and seen him become a West Ham cult hero before parting for Prague... can Andy Irving now make the World Cup his next adventure?",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15682567/THE-INCREDIBLE-JOURNEYMAN-career-taken-Berwick-Bavaria-seen-West-Ham-cult-hero-parting-Prague-Andy-Irving-make-World-Cup-adventure.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T07:01:05",
-      "description": "Andy Irving will need no one to tell him that breaking into Scotland's midfield at this point in time is a task which could be compared to splitting the atom.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/26/20/107448843-0-image-a-97_1774556736168.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/26/20/107448843-0-image-a-97_1774556736168.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721343",
       "feed_category": "Sport",
       "feed_visibility": "both"
     }
