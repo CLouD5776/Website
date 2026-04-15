@@ -1,6 +1,72 @@
 {
   "BBC News": [
     {
+      "title": "Four killed in second Turkish school shooting in two days",
+      "link": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T12:53:39",
+      "description": "There has been no official confirmation of who has been killed or what has happened to the attacker.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3b2/live/de38d570-38c7-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T13:17:56.007708",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Booking.com customers warned of 'reservation hijacking' after hack",
+      "link": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T12:05:58",
+      "description": "The travel platform said it had changed Pins to protect customers but would not say how many were affected.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b80a/live/cc534330-38b9-11f1-883f-2b010a576163.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T13:17:56.007714",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "From One Day to One Ring: Leo Woodall joins new The Lord of the Rings cast",
+      "link": "https://www.bbc.com/news/articles/crl11p22rnjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T11:36:42",
+      "description": "Lee Woodall, Jamie Dornan and Kate Winslet will join LOTR returning actors Sir Ian McKellen and Elijah Wood in Middle Earth",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f3/live/2a28aed0-38a3-11f1-8b8f-a3c16ecb3158.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T13:17:56.007722",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US eases sanctions on state-run Venezuelan banks",
+      "link": "https://www.bbc.com/news/articles/cd6llepv9gqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T12:24:28",
+      "description": "The move will make it easier for the banks to conduct transactions in dollars.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5af/live/dcc72bc0-38c1-11f1-883f-2b010a576163.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T13:17:56.007724",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'I might not be here' - Stokes on being hit in face by ball",
+      "link": "https://www.bbc.com/sport/cricket/articles/c4g443z0pkno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T12:46:45",
+      "description": "England captain Ben Stokes says he \"got out quite lucky\" with major facial surgery after an incident in the nets at Durham.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19e1/live/28fbfd90-38c2-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T13:17:56.007726",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Joshua v Fury will not be in Dublin - Hearn",
+      "link": "https://www.bbc.com/sport/boxing/articles/cn533ng0e7qo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T12:19:45",
+      "description": "A heavyweight showdown between Tyson Fury and Anthony Joshua \"is not going to happen at Croke Park\" according to Eddie Hearn.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13fb/live/db79f5d0-38c2-11f1-930d-fbf2959e80bc.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T13:17:56.007728",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Trump warns that UK trade deal 'can always be changed'",
       "link": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-15T10:46:55",
@@ -5433,75 +5499,93 @@
       "archived_at": "2026-04-08T19:46:00.915996",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Jeremy Bowen: Ceasefire means respite for civilians, but it might not last long",
-      "link": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T17:05:54",
-      "description": "Whether or not a lasting peace deal can be reached, the war and its consequences are reshaping the Middle East, writes international editor Jeremy Bowen.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90b9/live/12a4d210-335e-11f1-8079-85791470d942.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T18:09:26.419474",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Iran warning adds to shipping uncertainty",
-      "link": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T17:21:31",
-      "description": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png",
-      "enclosure": null,
-      "archived_at": "2026-04-08T18:09:26.419479",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Cold as ice': Serial killer admits to eight murders in case that haunted Long Island for years",
-      "link": "https://www.bbc.com/news/articles/crl12xl2p4lo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T17:44:33",
-      "description": "Rex Heuermann's plea ends a case that police took 13 years to solve, frustrating the public and victims' family.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceaf/live/b969d720-3369-11f1-af12-a7b3159b34f1.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T18:09:26.419485",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man jailed after blowing up his home",
-      "link": "https://www.bbc.com/news/articles/cde5gj3wr79o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T16:03:21",
-      "description": "Police said Paul Solway caused the blast by tampering with a gas pipe and setting fire to a chair.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6470/live/04ae6640-334e-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T18:09:26.419489",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump pulls back from the brink...but for how long?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nc8tq4?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T17:30:00",
-      "description": "Trump\u2019s threat to \u201cwipe out\u201d Iran has divided Republicans.",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T18:09:26.419491",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "World Cup winners Packer & Galligan expecting baby",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/c93exvp6lxeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T17:24:01",
-      "description": "England World Cup winners Rosie Galligan and Marlie Packer announce they are expecting a baby together, with Galligan due to give birth in October.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b822/live/a0dd2c90-336c-11f1-af12-a7b3159b34f1.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T18:09:26.419493",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Trump declares Strait of Hormuz 'permanently open' just hours after imposing Iran blockade as China intervenes: 'They want me to do it'",
+      "link": "https://www.dailymail.co.uk/news/article-15735567/Trump-declares-Strait-Hormuz-permanently-open-just-hours-imposing-Iran-blockade-China-intervenes-want-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T13:14:38",
+      "description": "Donald Trump has declared the Strait of Hormuz 'permanently open' despite his ongoing naval blockade amid growing concerns from China.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/13/107912071-0-image-a-4_1776256106664.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/13/107912071-0-image-a-4_1776256106664.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T13:17:58.161236",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Police investigate 'anti-semitic' arson attack at north London synagogue as balaclava-clad suspects hurl petrol bombs",
+      "link": "https://www.dailymail.co.uk/news/article-15735613/Police-investigate-arson-attack-north-London-synagogue-four-Jewish-ambulances-firebombed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T13:09:02",
+      "description": "The incident, which is being treated as\u00a0an antisemitic hate crime, happened at Finchley Reform Synagogue, in North Finchley, overnight.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/107913947-0-image-m-63_1776258042022.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/107913947-0-image-m-63_1776258042022.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T13:17:58.161243",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Madwoman, 31, abducts stranger's toddler at knifepoint in Walmart and cuts him... before armed cops bring abduction to deadly conclusion",
+      "link": "https://www.dailymail.co.uk/news/article-15733315/walmart-omaha-noemi-guzman-toddler-abduction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T12:41:50",
+      "description": "Noemi Guzman, 31,\u00a0snatched three-year-old Cyler Hillman on Tuesday morning while his mother Sara was shopping at Walmart in Omaha, Nebraska.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/13/107913057-0-image-m-51_1776256215399.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/13/107913057-0-image-m-51_1776256215399.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T13:17:58.161246",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Paedophile with indecent child images as his phone wallpaper is jailed after shocked passenger spots him watching abuse videos on train",
+      "link": "https://www.dailymail.co.uk/news/article-15735435/Paedophile-indecent-child-images-phone-jailed-train.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T12:41:03",
+      "description": "David Johnson, 35, was caught viewing videos of young children being abused while on a train from Stafford to London on September 23. He has been jailed for two years and three months.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/13/107913099-0-image-m-15_1776255698217.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/13/107913099-0-image-m-15_1776255698217.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T13:17:58.161248",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Catastrophic pile-up on Melbourne freeway claims the life of 12-year-old boy",
+      "link": "https://www.dailymail.co.uk/news/article-15735469/Melbourne-Monash-Freeway-crash-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T12:34:35",
+      "description": "Five cars collided on the Monash Freeway in Dandenong North, southeast Melbourne, shortly after 2pm on Sunday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/13/107912903-0-image-a-51_1776254642274.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/13/107912903-0-image-a-51_1776254642274.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T13:17:58.161249",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Paedophile pensioner, 82, who admitted he 'enjoys' looking through his collection of 75,000 abuse images avoids jail because of his age",
+      "link": "https://www.dailymail.co.uk/news/article-15735383/Paedophile-pensioner-spared-jail-child-abuse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T12:13:17",
+      "description": "When he was arrested, Louis Rumis, 82, boasted that he 'enjoyed' looking at the images, which included depraved videos of babies as young as six-months-old being abused.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/13/107912623-0-image-m-32_1776254456327.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/13/107912623-0-image-m-32_1776254456327.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T13:17:58.161251",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump gives Iran new two-day ultimatum as ceasefire holds steady amid blockade... and he surges more US troops into Middle East",
       "link": "https://www.dailymail.co.uk/news/article-15735447/Trump-gives-Iran-new-two-day-ultimatum-ceasefire-holds-steady-amid-blockade-surges-US-troops-Middle-East.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12417,93 +12501,37 @@
       "archived_at": "2026-04-12T23:59:19.219932",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "MARK ALMOND: Trump will have to start bombing again - but that won't save his presidency",
-      "link": "https://www.dailymail.co.uk/news/article-15726927/Trump-start-bombing-iran-save-presidency-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T23:06:59",
-      "description": "With November's mid-terms threatening to overturn President Donald Trump's narrow majority in Congress, the survival of Trump's presidency is now at stake...",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/20/107839855-0-image-m-15_1776021243865.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/20/107839855-0-image-m-15_1776021243865.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T23:59:19.219934",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "After tragic death of British teenager in Vietnam, backpackers reveal the dangerous underworld of the Ha Giang loop - with easy riders 'drinking until 2am and falling asleep at the handlebars'",
-      "link": "https://www.dailymail.co.uk/news/article-15726595/death-British-teenager-backpackers-dangerous-Ha-Giang-loop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T23:05:56",
-      "description": "Backpackers have today revealed the dangerous underworld of Vietnam motorbike tours, after a British teenager was killed on a 'notorious' mountain route.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/23/107815273-0-The_views_are_undeniably_beautiful_with_zigzagging_mountain_pass-m-5_1776034758654.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/23/107815273-0-The_views_are_undeniably_beautiful_with_zigzagging_mountain_pass-m-5_1776034758654.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T23:59:19.219935",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Britain's population 'would skyrocket to 4.4 MILLION under the Green Party'",
-      "link": "https://www.dailymail.co.uk/news/article-15727327/Britains-population-skyrocket-4-4-MILLION-Green-Party.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T23:04:09",
-      "description": "Economists estimate the number of people living in the UK would soar by 4.4million in just five years if Zack Polanski wins power in 2029.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/00/107843377-0-image-m-15_1776034835737.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/00/107843377-0-image-m-15_1776034835737.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T23:59:19.219936",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Number of patients being admitted to hospital for spider bites has doubled amid 'explosion' of false widows in UK",
-      "link": "https://www.dailymail.co.uk/news/article-15726685/Number-patients-hospital-spider-bites-doubled-false-widows.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T23:02:28",
-      "description": "Provisional NHS figures show there were 100 hospital admissions because of 'contact with or toxic effect of spiders' in 2025, up from 47 admissions in 2015.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/17/107837977-0-image-m-18_1776012879784.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/17/107837977-0-image-m-18_1776012879784.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T23:05:15.785913",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Government accused of making \u00a3679m 'profit' off graduates via student loan changes",
-      "link": "https://www.dailymail.co.uk/news/article-15726773/Government-679m-student-loan-changes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T23:01:49",
-      "description": "The National Union of Students (NUS) said the Government had made a 'calculated choice' to generate a 'profit' from the latest cohort.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/17/107837915-0-image-m-7_1776012505134.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/17/107837915-0-image-m-7_1776012505134.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T23:05:15.785920",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Striving middle-class households to be left poorer by Iran war this year but large families on handouts set to be richer thanks to Labour's benefits spending splurge, report finds",
-      "link": "https://www.dailymail.co.uk/news/article-15726583/Striving-middle-class-households-left-poorer-Iran-war-year-large-families-handouts-set-richer-thanks-Labours-benefits-spending-splurge-report-finds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T23:01:46",
-      "description": "Typical middle earner households were previously set for a \u00a3300 boost this year but are now projected to take a \u00a3480 hit because of the economic shockwave sparked by the conflict.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/103619519-0-image-m-14_1776004985041.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/103619519-0-image-m-14_1776004985041.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T23:05:15.785922",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Harry Maguire is being handed ADDITIONAL ban for swearing at refs - which will see him miss Man United trip to Chelsea and force them to rely on 19 and 20-year-old centre backs",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15735515/harry-maguire-ban-manchester-united-chelsea.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T12:56:52",
+      "description": "Harry Maguire is set to be given a one-match ban - ruling him out of Manchester United's game at Chelsea - with the FA upholding his misconduct charge.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/13/107912853-0-image-a-5_1776254612896.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/13/107912853-0-image-a-5_1776254612896.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T13:17:59.457913",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chelsea drug-test outcast Mykhailo Murdyk bench presses his new GIRLFRIEND as Ukrainian keeps fit while he awaits ban verdict",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15735449/Chelsea-drug-test-outcast-Mykhailo-Murdyk-bench-presses-new-GIRLFRIEND-Ukrainian-keeps-fit-awaits-ban-verdict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T12:42:14",
+      "description": "Chelsea outcast Mykhailo Mudryk appeared to find a novel way to keep fit during his time away from the first team by bench pressing his new girlfriend on social media.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/13/107913453-0-image-a-26_1776256649128.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/13/107913453-0-image-a-26_1776256649128.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T13:17:59.457919",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Neymar calls Santos fan 'FAT' in furious post-match exchange after dismal draw with Brazilian's World Cup hopes vanishing",
       "link": "https://www.dailymail.co.uk/sport/football/article-15735235/Neymar-Santos-fan-FAT-furious-post-match-exchange-dismal-draw-Brazil-World-Cup-hopes-vanishing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19475,37 +19503,20 @@
       "archived_at": "2026-03-31T19:33:34.721320",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Slovenia boss warns Manchester United he will not be pushed around over Benjamin Sesko after stand-off",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15685101/Slovenia-boss-warns-Manchester-United-Benjamin-Sesko.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T18:38:09",
-      "description": "Sesko will miss the friendlies away to Hungary and Montengero after he withdrew to recover from what United said was an issue they have been 'carefully managing throughout recent weeks'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/18/107479267-0-image-a-136_1774636672916.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/18/107479267-0-image-a-136_1774636672916.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721321",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Football legend Alan Shearer involved in bike accident: Match of the Day star reveals gruesome cuts - and blames pot holes",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15685387/England-legend-Alan-Shearer-shares-gruesome-pictures-cuts-arm-leg-falling-bike.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T18:34:49",
-      "description": "In a number of gory snaps shared to Instagram, the Newcastle legend blamed pot holes for the multiple cuts scattering his leg and arm.\u00a0The ex-footballer is holidaying in Portugal.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/18/107478621-0-image-a-20_1774635679641.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/18/107478621-0-image-a-20_1774635679641.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721322",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
+    {
+      "title": "Bayern links and World Cup hopes - a big summer for Gordon",
+      "link": "https://www.bbc.com/sport/football/articles/clyxx5j8408o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T12:23:00",
+      "description": "Anthony Gordon faces a big summer - with World Cup hopes and the possibility that Newcastle will need to sell him. So what comes next for the England forward?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b791/live/4f4643f0-38bf-11f1-883f-2b010a576163.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T13:17:59.772609",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Is Howe still the right man for Newcastle?",
       "link": "https://www.bbc.com/sport/football/videos/cvg01z2pjd2o?at_medium=RSS&at_campaign=rss",
@@ -20987,6 +20998,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Alabama 3 almost missed out having now-iconic track played over opening of The Sopranos",
+      "link": "https://www.music-news.com/news/UK/188352/Alabama-3-almost-missed-out-having-now-iconic-track-played-over-opening-of-The-Sopranos",
+      "pubDate": "2026-04-15T11:00:00",
+      "description": "Show creator David Chase has admitted Alabama 3 almost missed out having their now-iconic track Woke Up This Morning played over the opening of The Sopranos.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188352.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188352.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T13:18:03.433655",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sofia Isella reveals her music inspiration is \u2018horrifying\u2019",
+      "link": "https://www.music-news.com/news/UK/188351/Sofia-Isella-reveals-her-music-inspiration-is-horrifying",
+      "pubDate": "2026-04-15T11:00:00",
+      "description": "While opening up about the nightmarish material behind her tracks, singer Sofia Isella has admitted her music inspiration is \u201chorrifying\u201d.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188351.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188351.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T13:18:03.433661",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Madonna teases Confessions on a Dance Floor album sequel",
       "link": "https://www.music-news.com/news/UK/188349/Madonna-teases-Confessions-on-a-Dance-Floor-album-sequel",
@@ -24503,6 +24542,17 @@
     }
   ],
   "Crev": [
+    {
+      "title": "Evolutionary \u201cPatchwork\u201d or Poor Proofreading?",
+      "link": "https://crev.info/2026/04/evolutionary-patchwork-or-poor-proofreading/?utm_source=rss&utm_medium=rss&utm_campaign=evolutionary-patchwork-or-poor-proofreading",
+      "pubDate": "2026-04-15T12:00:39",
+      "description": "It used to be a requirement to check the status of your information when writing about science.",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-15T13:18:04.475499",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Fossil Mistaken Identity Fools Experts for 26 Years",
       "link": "https://crev.info/2026/04/jb-octopus-fossil-mistaken-identity/?utm_source=rss&utm_medium=rss&utm_campaign=jb-octopus-fossil-mistaken-identity",
