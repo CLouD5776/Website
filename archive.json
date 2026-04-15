@@ -1,6 +1,94 @@
 {
   "BBC News": [
     {
+      "title": "AA and BSM ordered to refund learner drivers for hidden fees",
+      "link": "https://www.bbc.com/news/articles/c07000dzg9do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T07:00:16",
+      "description": "The owner of the driving schools has been fined for failing to disclose fees upfront online.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e519/live/d7593c10-3898-11f1-a836-373ce269a87a.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T07:57:17.221178",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Magyar to meet Hungarian president as Trump says next PM 'a good man'",
+      "link": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T07:37:09",
+      "description": "The man who ended Viktor Orb\u00e1n's 16 years of continuous rule, P\u00e9ter Magyar, is calling for a speedy transfer of power.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7347/live/2428a790-3896-11f1-a836-373ce269a87a.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T07:57:17.221183",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ukraine's military to get biggest-ever shipment of UK drones",
+      "link": "https://www.bbc.com/news/articles/cm2kk8242jpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T06:32:14",
+      "description": "With attention on the Middle East, Defence Secretary John Healey said 'Putin wants us to be distracted.'",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76a5/live/d5b4dbe0-388d-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T07:57:17.221189",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Kanye West postpones France gig until further notice",
+      "link": "https://www.bbc.com/news/articles/c36rrrp5wnlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T07:01:37",
+      "description": "It comes a week after the UK announced it would block the rapper from entering the country, where he was due to headline a music festival in summer.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68cd/live/19cf70a0-388f-11f1-866e-6700ddf80eed.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T07:57:17.221191",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "A cold could kill my daughter - hospital visits feel like a death sentence",
+      "link": "https://www.bbc.com/news/articles/c145ej273evo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T05:57:53",
+      "description": "Rebecca Quayle, who has terminal cancer, has had to wait in A&amp;E with people coughing and taking Covid tests.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8204/live/bfe73de0-3288-11f1-9fac-89e41bab67f2.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T07:57:17.221194",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'I'm not the same person': Victim of secret home filming speaks out about impact of voyeurism",
+      "link": "https://www.bbc.com/news/articles/cly8771r016o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T05:20:23",
+      "description": "Lucy Domaille was filmed by Kirk Bishop through a gap in the curtains of her home.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2970/live/4972a910-38a0-11f1-a836-373ce269a87a.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T07:57:17.221196",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Burger kitchen boss defends turning away people with allergies",
+      "link": "https://www.bbc.com/news/articles/cp841900np6o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T04:49:33",
+      "description": "Jeff Taylor says the Bun X kitchen is too small to avoid any cross-contamination with dishes.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/656a/live/83ac1e50-37f0-11f1-bf98-335695df34d3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T07:57:17.221198",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Are Kompany's Bayern a glimpse at football after Guardiola?",
+      "link": "https://www.bbc.com/sport/football/articles/cn4vvm0pmkjo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T07:29:37",
+      "description": "With Vincent Kompany making an impressive impact at Bayern Munich, BBC Sport's tactics expert Umir Irfan takes a closer look at the manager's unique style.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d85c/live/da34fb20-37f0-11f1-bf98-335695df34d3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T07:57:17.221200",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds",
       "link": "https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-15T04:58:25",
@@ -5411,97 +5499,107 @@
       "archived_at": "2026-04-08T14:08:17.334117",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Scotland & England fans in Boston face World Cup train fare hike",
-      "link": "https://www.bbc.com/sport/football/articles/cly797p1399o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T11:37:10",
-      "description": "Scotland and England fans face a huge price hike to travel by train to World Cup group-stage matches at Boston Stadium.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cec/live/4a06a7f0-334b-11f1-9d5c-8ba507d7dbde.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T14:08:17.334119",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Watch: When will fuel prices go down?",
-      "link": "https://www.bbc.com/news/videos/c62je685v3vo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T11:23:35",
-      "description": "The BBC's Nick Marsh takes a look at whether fuel costs will get cheaper now the US and Iran have agreed a ceasefire.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067d/live/fd045550-333c-11f1-879d-1b2f5c3919b8.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T12:09:27.770251",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "BBC upholds complaints over racial slur in Baftas broadcast",
-      "link": "https://www.bbc.com/news/articles/c3dln2e93ypo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T11:39:44",
-      "description": "The broadcast of a racial slur broke editorial standards, the corporation's complaints unit concludes.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a7/live/53c64ae0-333a-11f1-bf11-9546df991775.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T12:09:27.770261",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Greece to ban social media for under-15s from next year",
-      "link": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T11:39:43",
-      "description": "It follows similar moves in other European countries, including France and Spain.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a861/live/2f39f310-333b-11f1-9f60-37eac42daa69.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T12:09:27.770264",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Girl group Flo on entering into their 'bombastic, confident, strong' era",
-      "link": "https://www.bbc.com/news/articles/cy918xyg193o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T11:36:12",
-      "description": "The R&amp;B trio having been making waves this year with their latest hit, Leak It.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de5d/live/03ad3d30-333e-11f1-9f60-37eac42daa69.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T12:09:27.770267",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Co-founder of Jalisco New Generation drug cartel pleads guilty",
-      "link": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T11:03:40",
-      "description": "\u00c9rick Valencia Salazar was among a group of 29 alleged drug lords extradited to the US from Mexico.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99bf/live/1f88ddf0-3336-11f1-bf11-9546df991775.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T12:09:27.770268",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
-      "link": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T10:33:54",
-      "description": "The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8247/live/4dbd29a0-3332-11f1-8873-2d60fc58e0b0.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T12:09:27.770270",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Jeremy Bowen: Ceasefire gives space but not a solution",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nc4ty7?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T08:25:28",
-      "description": "International editor Jeremy Bowen talks about the US-Iran ceasefire.",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0nc575b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-08T12:09:27.770272",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Trump declares war is 'close to over' and wants 'grand bargain' in Iran talks as US claims\u00a0blockade on Strait of Hormuz 'fully implemented' - Updates",
+      "link": "https://www.dailymail.co.uk/news/article-15734711/Trump-declares-war-close-wants-grand-bargain-Iran-talks-US-claims-blockade-Strait-Hormuz-fully-implemented-Updates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T07:52:33",
+      "description": "Read the Daily Mail's coverage of the ongoing Middle East crisis as Donald Trump declares the war is 'close to over' and his blockade of the Strait of Hormuz is 'fully implemented'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/08/107906847-0-image-a-4_1776237441281.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/08/107906847-0-image-a-4_1776237441281.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T07:57:19.608736",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump threatens to downgrade Britain's trade deal in retaliation for Starmer's refusal to back Iran War",
+      "link": "https://www.dailymail.co.uk/news/article-15734719/Trump-Starmer-downgrade-Britain-trade-deal-PM-drug-dealers-mental-patients.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T07:51:17",
+      "description": "Donald Trump has vented fury at the PM for refusing to back his Iran War in his latest impromptu interview.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/07/107906459-0-image-m-5_1776236142554.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/07/107906459-0-image-m-5_1776236142554.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T07:57:19.608742",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump lashes out at the Pope again for his Iran war views, saying it is 'unacceptable' for Tehran to have a nuclear bomb and pointing out the regime 'has killed 42,000 innocent protesters'",
+      "link": "https://www.dailymail.co.uk/news/article-15734615/Trump-lashes-Pope-Iran-war-views-saying-unacceptable-Tehran-nuclear-bomb-pointing-regime-killed-42-000-innocent-protesters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T07:04:51",
+      "description": "It comes amid a growing row between Trump and the head of the Catholic Church, who has in recent weeks condemned rhetoric coming out of the White House.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/07/107880157-0-image-a-10_1776236305619.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/07/107880157-0-image-a-10_1776236305619.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T07:57:19.608744",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Camp Mystic chief sobs as he admits he doesn't know what happened to girl, 8... but 900 kids already registered for reopening",
+      "link": "https://www.dailymail.co.uk/news/article-15734203/Camp-Mystic-director-sobs-court-reopening.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T06:49:23",
+      "description": "Edward Eastland, the director of Camp Mystic, broke down in court on Monday as he admitted he does not know what happened to one young girl in last year's massive flooding.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/07/107904999-0-image-a-80_1776233223455.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/07/107904999-0-image-a-80_1776233223455.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T07:57:19.608746",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Brisbane car repair business Panel House sparks outrage after sharing video mocking the Holocaust",
+      "link": "https://www.dailymail.co.uk/news/article-15734257/panel-house-slacks-creek-antisemitic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T06:48:00",
+      "description": "A\u00a0panel beating business has sparked outrage after it shared videos promoting Holocaust denial, Nazi symbols, and open antisemitism",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/06/107905003-0-image-m-41_1776231329975.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/06/107905003-0-image-m-41_1776231329975.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T07:57:19.608747",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aussies divided over Pauline Hanson's bold call to overhaul home ownership laws: 'Common sense'",
+      "link": "https://www.dailymail.co.uk/news/article-15734407/Pauline-Hanson-home-ownership-foreigners-homes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T06:46:20",
+      "description": "Aussies have largely sided with Pauline Hanson after she made a controversial call about who should be able to own a home in Australia.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/06/107904801-0-image-m-97_1776230639117.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/06/107904801-0-image-m-97_1776230639117.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T07:57:19.608748",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Top cop breaks ranks to slam bail laws for youth offenders in his own state in candid chat with ex-criminal",
+      "link": "https://www.dailymail.co.uk/news/article-15734351/Top-cop-slams-bail-laws-Victoria.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T06:35:04",
+      "description": "Victoria Police Chief Commissioner Mike Bush didn't hold back when speaking on the youth crime podcast Lead Good.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/07/107904211-0-image-m-7_1776234691980.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/07/107904211-0-image-m-7_1776234691980.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T07:57:19.608750",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Prince Harry admits his 'struggles' of being a father and his 'disconnection' to son Archie as he opens up on parenting at talk on men's mental health on second day of quasi royal tour of Australia",
       "link": "https://www.dailymail.co.uk/news/article-15734517/Prince-Harry-tells-struggle-son-Archie-born.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12403,107 +12501,51 @@
       "archived_at": "2026-04-12T18:41:38.818200",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Man, 23, is dead and seven others are rushed to hospital after multi-vehicle crash 'following police pursuit'",
-      "link": "https://www.dailymail.co.uk/news/article-15726781/Dead-seven-hospital-multi-crash-police-pursuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T17:59:06",
-      "description": "Emergency services were called on Saturday at 8.20pm to the northbound A21 in Robertsbridge in East Sussex after reports of a BMW car in a crash with three other vehicles.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/18/107839259-0-image-a-4_1776016675649.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/18/107839259-0-image-a-4_1776016675649.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T18:41:38.818201",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump holds crisis talks on the economy as Iran war spirals - and president admits gas prices won't come down before midterms",
-      "link": "https://www.dailymail.co.uk/news/article-15726623/Trump-holds-crisis-talks-economy-Iran-war-spirals-president-admits-gas-prices-wont-come-midterms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T17:08:51",
-      "description": "Americans are feeling the financial pinch of Trump's Iran war ahead of the midterm elections later this year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/17/107837705-0-image-a-11_1776011333970.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/17/107837705-0-image-a-11_1776011333970.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T17:31:59.497340",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Kemi Badenoch vows to 'root out far-Left bigotry' in Britain's public sector after NHS England manager is revealed to have hurled racist slur at Tory leader",
-      "link": "https://www.dailymail.co.uk/news/article-15726631/Kemi-Badenoch-vows-root-far-Left-bigotry-Britains-public-sector-NHS-England-manager-revealed-hurled-racist-slur-Tory-leader.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T16:35:20",
-      "description": "Lucy Hunte, national programme manager for apprenticeships at NHS England, used a series of coconut emojis when sending a message on X to Mrs Badenoch.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/17/107837495-0-image-m-55_1776010831734.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/17/107837495-0-image-m-55_1776010831734.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T17:31:59.497346",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Texas construction worker dies after being buried alive in horror accident",
-      "link": "https://www.dailymail.co.uk/news/article-15726491/conroe-texas-construction-worker-trench-collapse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T16:18:00",
-      "description": "A construction worker has died after being crushed to death when a utility trench collapsed at a subdivision in the Houston suburb of Conroe.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/16/107835651-0-image-m-56_1776007155042.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/16/107835651-0-image-m-56_1776007155042.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T16:34:50.642069",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "North Carolina woman pranks her boyfriend into thinking she cheated on him - but it horribly backfired",
-      "link": "https://www.dailymail.co.uk/news/article-15726461/charlotte-north-carolina-boyfriend-girlfriend-prank-shooting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T15:53:17",
-      "description": "Shyied Ivey was pranked by his girlfriend of five months after she told him she cheated on him, but he things quickly turned dark. Ivey, 20, is  convicted felon with an extensive criminal history.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835567-0-image-m-6_1776003070150.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835567-0-image-m-6_1776003070150.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T16:34:50.642078",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Nightmare at Coachella as light fixture falls on festival attendee and 'gashed her head open'",
-      "link": "https://www.dailymail.co.uk/news/article-15726457/coachella-light-fixture-falls-festival-attendee-gashed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T15:28:09",
-      "description": "A young woman was critically injured by a falling light fixture during John Summit's surprise DJ set at Coachella.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835505-0-image-a-11_1776003090468.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/107835505-0-image-a-11_1776003090468.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T15:33:19.107667",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Fuel protests 'being planned across Britain' as pump prices carry on soaring because of Iran war",
-      "link": "https://www.dailymail.co.uk/news/article-15726609/Fuel-protests-planned-Britain-pump-prices-carry-soaring-Iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T15:27:25",
-      "description": "Farming organisations were reportedly discussing how to carry out similar protests that have brought roads to a standstill in Ireland over the past week.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/15/103619633-0-image-a-5_1776005473407.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/12/15/103619633-0-image-a-5_1776005473407.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-12T15:33:19.107674",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Arne Slot warns Liverpool stars they face summer FIRE SALE and will flog 'good players' after \u00a3450m spend fell flat with no trophies",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15734691/arne-slot-warns-liverpool-fire-sale.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T07:39:34",
+      "description": "Liverpool are preparing to sell 'good players' this summer after the season following their \u00a3450million transfer spend ended without silverware, Arne Slot has warned.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/08/107906891-0-image-a-27_1776237728564.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/08/107906891-0-image-a-27_1776237728564.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T07:57:23.465539",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Liverpool's faint hopes of silverware were well and truly snuffed out by PSG but finally there ARE reasons for Arne Slot's men to be cheerful on Merseyside, writes LEWIS STEELE",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15731765/Liverpools-faint-hopes-PSG-reasons-Arne-Slot-cheerful-LEWIS-STEELE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T06:00:52",
+      "description": "LEWIS STEELE AT ANFIELD: There is no hiding that this has been a tricky second album after a smash hit for Slot last season.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897751-0-image-a-20_1776206696416.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897751-0-image-a-20_1776206696416.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T07:57:23.465545",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Revealed: Fitness update on Aston Villa goalkeeper Emi Martinez ahead of Europa League clash with Bologna - and reason he withdrew from Nottingham Forest clash in the warm-up",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15734793/Fitness-update-Emi-Martinez.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T07:34:08",
+      "description": "The Argentina goalkeeper was named in the starting XI for last Sunday's match at Nottingham Forest but pulled out during the warm-up - the third time this has happened this season.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/08/107906903-0-image-a-2_1776238138562.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/08/107906903-0-image-a-2_1776238138562.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T07:57:23.465550",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Fresh World Cup fury as fans face 775 PER CENT price hike after ticket scandal: 'This is a shakedown'",
       "link": "https://www.dailymail.co.uk/sport/football/article-15733949/world-cup-ticket-fifa-metlife-new-york-train.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19461,48 +19503,6 @@
       "archived_at": "2026-03-31T19:33:34.721325",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Chelsea Confidential: Why Blues players past and present love masseur Billy McCulloch, and his funniest moments across 25 years at Stamford Bridge - from being tied up in Jose Mourinho's office to taking a punch in the face from Diego Costa",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15677303/chelsea-billy-mcculloch-funniest-moments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T15:12:56",
-      "description": "McCulloch joined Chelsea in 2001, so his 25-year anniversary is approaching. If the club are looking to mark that milestone with a highlights reel, they have a mountain of material to choose from.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/25/13/107406081-0-image-a-23_1774444834917.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/25/13/107406081-0-image-a-23_1774444834917.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721326",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Roy Keane in mourning as his mum - 'the only boss I listen to' - dies surrounded by family at Irish hospice",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15685131/Roy-Keane-mum-Marie-dies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T15:10:28",
-      "description": "The mother of former Manchester United captain Roy Keane has sadly passed away, her family confirmed on Friday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/14/107469523-0-image-a-6_1774620996606.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/14/107469523-0-image-a-6_1774620996606.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721327",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Former \u00a325m Man United star faces huge ban for using his PHONE during a game under little-known rule",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15684723/Memphis-Depay-faces-ban-using-phone-Corinthians-Flamengo-Brazil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-27T14:59:05",
-      "description": "The former Manchester United forward was filmed by television cameras using a phone during their 1-1 draw against Flamengo on Sunday before being approached by a Corinthians coach.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/12/107466937-0-image-a-25_1774615540675.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/12/107466937-0-image-a-25_1774615540675.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721328",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
@@ -19816,6 +19816,17 @@
     }
   ],
   "Unherd": [
+    {
+      "title": "The Pope versus the President",
+      "link": "https://unherd.com/2026/04/the-pope-versus-the-president/?edition=us",
+      "pubDate": "2026-04-15T06:43:17",
+      "description": "Conservative Catholics face a choice",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-15T07:57:25.947954",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
     {
       "title": "Will I ever escape the Strait of Hormuz?",
       "link": "https://unherd.com/2026/04/can-i-ever-escape-the-strait-of-hormuz/?edition=us",
@@ -20976,6 +20987,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Dua Lipa hails Britney Spears as 'an icon'",
+      "link": "https://www.music-news.com/news/UK/188340/Dua-Lipa-hails-Britney-Spears-as-an-icon",
+      "pubDate": "2026-04-15T05:00:00",
+      "description": "The Houdini singer also singled out her all-time favourite song by the pop star.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188340.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188340.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T07:57:27.779341",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Lady Gaga closes Mayhem tour with song for fianc&eacute; Michael Polansky",
       "link": "https://www.music-news.com/news/UK/188339/Lady-Gaga-closes-Mayhem-tour-with-song-for-fianc%C3%A9-Michael-Polansky",
