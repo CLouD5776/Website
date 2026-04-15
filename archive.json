@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Move over wind farms: why some argue cutting costs is the best way to cut carbon",
+      "link": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T22:19:25",
+      "description": "From heat pumps to offshore wind, the UK\u2019s net zero push is facing growing scrutiny. Are rising costs undermining climate goals?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/205f/live/7e2f7c10-37dc-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T23:08:48.555257",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Horse urine perfume: why online bargains may be dangerous",
+      "link": "https://www.bbc.com/news/articles/c4gjjryvzg9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T22:57:56",
+      "description": "Experts warn of hidden risk of counterfeits, while the government consults on stricter product safety rules.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5066/live/b42183c0-3815-11f1-8c85-0db6dfcd1b6a.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T23:08:48.555263",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The city where primary school places come with a toilet-training guide",
+      "link": "https://www.bbc.com/news/articles/cgrll5zjkx4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T23:06:15",
+      "description": "Teachers say more children are starting school without skills like basic communication and potty training.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f9b/live/1d83c580-3820-11f1-87a9-4117efae0ff4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T23:08:48.555269",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Former champion Brecel misses out on Crucible spot",
+      "link": "https://www.bbc.com/sport/snooker/articles/c7vqqvrgy6no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T20:44:24",
+      "description": "Former winner Luca Brecel fails to qualify for the 2026 World Snooker Championship, losing to Wales' Jak Jones in the last qualifying round.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36cf/live/c77df520-3900-11f1-88f0-7d03c2035921.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T23:08:48.555274",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Lyse Doucet in Iran: Under fragile ceasefire, Iranians wonder if US deal can be done",
       "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-15T21:10:14",
@@ -5455,53 +5499,163 @@
       "archived_at": "2026-04-09T09:47:28.565905",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Primrose Hill stab victim 'can never be replaced', father says",
-      "link": "https://www.bbc.com/news/articles/c1krpmw11gmo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T09:31:34",
-      "description": "Christopher Sullivan pays tribute to his son, filmmaking student Finbar Sullivan, who was killed.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88c/live/03ea4760-3358-11f1-9d5c-8ba507d7dbde.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T09:47:28.565907",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Verstappen race engineer Lambiase to join McLaren",
-      "link": "https://www.bbc.com/sport/formula1/articles/cedexn47qzlo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T08:23:59",
-      "description": "Red Bull's Gianpiero Lambiase, Max Verstappen's race engineer, agrees to join McLaren from 2028.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3559/live/d724f290-33eb-11f1-b79d-1961e02f6301.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T09:47:28.565909",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "BBC at the site of Israeli air strikes in Beirut",
-      "link": "https://www.bbc.com/news/videos/cly9z7xp10wo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T07:45:26",
-      "description": "At least 182 people were killed and 890 others wounded, according to the Lebanese health ministry.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894d/live/6f6e84b0-33e4-11f1-bcd5-f5e97411e751.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T08:00:32.164132",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Israel says it hit Lebanon 100 times in just 10 minutes",
-      "link": "https://www.bbc.com/news/videos/c75k1p625ngo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T18:37:48",
-      "description": "Israel described it as the largest wave of air strikes in this conflict, hitting more than 100 of what it called Hezbollah command centres and military sites.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2c/live/9b2fa950-33e7-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T08:00:32.164139",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Aussies are saying the same thing about this moment between Harry and Meghan as couple begin third day of tour: 'A love like this'",
+      "link": "https://www.dailymail.co.uk/news/article-15737129/Harry-Meghan-Australia-tour-Sydney-Melbourne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T23:02:16",
+      "description": "The Duke and Duchess of Sussex have appeared at a series of engagements in both Melbourne and Canberra so far, with spectators all saying the same thing about a tender moment between the pair.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926557-0-image-m-9_1776291881798.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926557-0-image-m-9_1776291881798.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:50.919462",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Jealous husband will plead GUILTY to dousing lawmaker in gasoline and setting him ablaze to avenge affair with wife",
+      "link": "https://www.dailymail.co.uk/news/article-15736855/Shotsie-Buck-Hayes-guilty-fire-Lee-Vogler.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T23:01:57",
+      "description": "Shotsie Michael Buck-Hayes, 29, is set to change his plea to 'guilty' on Thursday to dousing Danville City Councilman Lee Vogler with gasoline and setting him on fire on July 30.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/23/102583297-0-image-m-10_1776293184241.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/23/102583297-0-image-m-10_1776293184241.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:50.919468",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Time to end the biomass scam: Drax, Britain's largest carbon emitter, received \u00a31bn in subsidies last year - \u00a32.7m a day and more than \u00a3100k an hour, which we all pay for",
+      "link": "https://www.dailymail.co.uk/news/article-15736385/Time-end-biomass-scam-Drax-Britains-largest-carbon-emitter-received-1bn-subsidies-year-2-7m-day-100k-hour-pay-for.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T23:01:49",
+      "description": "The controversial biomass power station receives 'overly generous' payments of \u00a32.7million a day and more than \u00a3100,000 an hour, energy think tank Ember found.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/17/90939683-0-Ofgem_found_Drax_did_fail_to_properly_record_data_about_wood_imp-a-6_1776272076048.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/17/90939683-0-Ofgem_found_Drax_did_fail_to_properly_record_data_about_wood_imp-a-6_1776272076048.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:50.919470",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "TOM LEONARD: How Elon Musk's plan to launch ONE MILLION satellites could make him the most terrifyingly powerful man on the planet",
+      "link": "https://www.dailymail.co.uk/news/article-15736947/TOM-LEONARD-Elon-Musks-plan-launch-ONE-MILLION-satellites-make-terrifyingly-powerful-man-planet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T23:01:36",
+      "description": "Look up into the night sky and, if you can see anything up there that's bright and moving, chances are it belongs to Elon Musk.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/22/107924797-0-image-m-21_1776289674058.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/22/107924797-0-image-m-21_1776289674058.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:50.919471",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Labour's shameful betrayal of women: Single-sex space ruling is STILL being ignored by hundreds of public bodies... because ministers let them",
+      "link": "https://www.dailymail.co.uk/news/article-15737027/Labour-Single-sex-space-ruling-ignored-public-bodies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T23:00:40",
+      "description": "The ruling specified that 'woman' in the Equality Act referred to biological sex, but a Daily Mail audit has found that NHS trusts, police forces, town halls and Whitehall departments are failing to comply.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926775-0-image-m-29_1776292902893.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926775-0-image-m-29_1776292902893.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:50.919473",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "One group of Aussies to get $100 fuel vouchers - what you need to know",
+      "link": "https://www.dailymail.co.uk/news/article-15737081/100-fuel-voucher-CFMEU.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T22:54:47",
+      "description": "Thousands of Aussie workers will receive fuel vouchers during the next few months to help them survive the current fuel crisis.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926541-0-image-m-9_1776291926938.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926541-0-image-m-9_1776291926938.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:50.919475",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Transport Secretary's car has to be towed 'after hitting a POTHOLE'",
+      "link": "https://www.dailymail.co.uk/news/article-15736999/Transport-Secretary-Heidi-Alexander-car-towed-hitting-POTHOLE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T22:51:09",
+      "description": "The Labour minister had been driving home from her Swindon South constituency when her green Mini Cooper struck a hole on the B4437 outside Burford in Oxfordshire.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926753-0-image-a-8_1776292645922.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926753-0-image-a-8_1776292645922.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:50.919476",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "California nurse, 45, wins $300k payout from Carnival after she drank 14 shots of tequila, then fell and injured herself",
+      "link": "https://www.dailymail.co.uk/news/article-15736705/nurse-diana-sanders-wins-lawsuit-carnival-cruise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T22:37:35",
+      "description": "Diana Sanders said she blacked out from the massive amount of liquor and fell at some point during the night, sustaining serious injuries. Carnival was found liable by a Miami federal jury.",
+      "thumbnail": "https://i.dailymail.co.uk/1/2026/04/15/23/107925851-0-image-m-12_1776291721881.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1/2026/04/15/23/107925851-0-image-m-12_1776291721881.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:50.919477",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "White House 'feels good about the prospects of a deal' with US-Iran peace talks set to return",
+      "link": "https://www.dailymail.co.uk/news/article-15737153/White-House-feels-good-prospects-deal-US-Iran-peace-talks-set-return.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T22:28:02",
+      "description": "Reports suggested the US and Iran are considering extending the ceasefire by two weeks to allow further peace negotiations. But last night the White House denied it had formally requested an extension.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926363-0-image-m-9_1776291543036.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926363-0-image-m-9_1776291543036.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:50.919479",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Kemi Badenoch: We must act now to stop the SNP tearing Britain apart",
+      "link": "https://www.dailymail.co.uk/news/article-15736553/Kemi-Badenoch-act-stop-SNP-tearing-Britain-apart.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T22:19:54",
+      "description": "Scots unionist voters are being urged by Kemi Badenoch to unite to help stop the SNP 'tearing our country apart'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/19/107921787-0-image-a-26_1776277524911.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/19/107921787-0-image-a-26_1776277524911.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:50.919480",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Now watchdog to probe LGBT charity after boss allegedly used a false CV",
+      "link": "https://www.dailymail.co.uk/news/article-15736569/Now-watchdog-probe-LGBT-charity-boss-allegedly-used-false-CV.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T22:18:50",
+      "description": "Scotland's charity watchdog is assessing allegations that the former convener of a gay rights group for teens was appointed despite claims he had a bogus CV.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/19/107921915-0-image-m-41_1776278100169.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/19/107921915-0-image-m-41_1776278100169.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:50.919481",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Fianc\u00e9 of influencer found dead in Zanzibar days after engagement is held for questioning as it emerges they had explosive fight before her death",
       "link": "https://www.dailymail.co.uk/news/article-15736677/Ashlee-Jenae-influencer-Joe-McCann-questioning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12347,163 +12501,37 @@
       "archived_at": "2026-04-13T15:00:01.265276",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "French police watch on as migrants wade into the sea to board UK-bound boats - days after four died in attempted crossing",
-      "link": "https://www.dailymail.co.uk/news/article-15728689/French-police-watch-migrants-wade-sea-board-UK-bound-boats-days-four-died-attempted-crossing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T14:26:55",
-      "description": "Images taken on Monday showed the overloaded dinghy floating on the coast at Dunkirk, with another making its way towards the UK further ahead in the distance.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/15/107858081-0-image-a-6_1776088996160.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/15/107858081-0-image-a-6_1776088996160.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T15:00:01.265277",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Shocking footage of 'road rage attack' on tradie's van - and the ridiculous reason he won't be hard to track down",
-      "link": "https://www.dailymail.co.uk/news/article-15729029/van-road-rage-Yatala-M1.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T14:20:20",
-      "description": "A terrifying road rage incident was filmed in southeast Queensland on Saturday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/15/107857603-0-image-m-31_1776089806234.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/15/107857603-0-image-m-31_1776089806234.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T15:00:01.265279",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The Battle for Kharg Island: Why the US wants it - and why Iran won't give it up",
-      "link": "https://www.dailymail.co.uk/news/article-15723369/Kharg-Island-attack-oil-Iran-economy-strait-hormuz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T14:14:28",
-      "description": "President Trump is considering invading Iran's Kharg Island - one of several options in a potential US ground offensive.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/20/107803771-0-image-a-6_1775851139642.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/20/107803771-0-image-a-6_1775851139642.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T15:00:01.265280",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "How to use YOUR vote to beat the SNP and help secure the Union. Part 1:\u00a0 West of Scotland and Highlands & Islands",
-      "link": "https://www.dailymail.co.uk/news/article-15727113/How-use-vote-beat-SNP-help-secure-Union-1-West-Scotland-Highlands-Islands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T14:05:12",
-      "description": "With less than a month until the election, the polls are\u00a0striking. Despite a mountain of missed targets and scandals, the SNP is comfortably in the lead.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/14/107857557-0-image-a-4_1776086145258.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/14/107857557-0-image-a-4_1776086145258.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T15:00:01.265281",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "NYC mayor says he's raising taxes and cutting police numbers to tackle racism, as he touts his proudest socialist wins since coming to office",
-      "link": "https://www.dailymail.co.uk/news/article-15728715/nyc-mayor-zohran-mamdani-socialist-wins.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T13:59:47",
-      "description": "New York City Mayor Zohran Mamdani celebrated his first 100 days in office by touting his socialist wins.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/14/107857363-0-image-m-21_1776085938075.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/14/107857363-0-image-m-21_1776085938075.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T15:00:01.265283",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Despairing friends of 'middle-class' drug queen Tess Rowlatt leak heartbreaking photo after she vowed to get clean... and tell LUCY MANLY the moment they knew her partying would end in tragedy",
-      "link": "https://www.dailymail.co.uk/news/article-15727507/Tess-Rowlatt-Melbourne-drugs-photo-friends.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T13:52:20",
-      "description": "The image of Tess was screenshotted and widely shared among her former social circle: proof, friends said, of how squalid this once-promising young woman's life had become.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/05/107848107-0-image-a-41_1776053060020.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/05/107848107-0-image-a-41_1776053060020.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T15:00:01.265285",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The Swiss town flooded by Dubai's ultra-rich: Queues form around the block for apartments as picturesque canton is inundated with wealthy elite after UAE exodus",
-      "link": "https://www.dailymail.co.uk/news/article-15728615/The-Swiss-town-flooded-Dubais-ultra-rich-Queues-form-block-apartments-picturesque-canton-inundated-wealthy-elite-UAE-exodus.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T13:45:32",
-      "description": "Locals have reported seeing queues stretching around the block outside apartment viewings as former Dubai residents descend on the picturesque canton.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/14/107854915-0-image-a-9_1776087109407.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/14/107854915-0-image-a-9_1776087109407.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T15:00:01.265287",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Relief for drivers at the pumps may not be far away as rocketing petrol and diesel prices sparked by Iran war 'almost ground to a halt', says RAC",
-      "link": "https://www.dailymail.co.uk/news/article-15728943/Relief-drivers-pumps-not-far-away-rocketing-petrol-diesel-prices-sparked-Iran-war-ground-halt-says-RAC.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T13:44:50",
-      "description": "The RAC said average pump prices for petrol and diesel rose by less than half a penny between Thursday and today.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/14/103619651-0-image-m-14_1776087646095.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/14/103619651-0-image-m-14_1776087646095.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T15:00:01.265288",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Angus Taylor unveils hardline migration crackdown that will target 65,000 overstayers and bring in an 'Australian values' test for new arrivals",
-      "link": "https://www.dailymail.co.uk/news/article-15728301/coalition-liberal-migration-policy-australia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T13:31:39",
-      "description": "The Opposition Leader is set to unveil a landmark migration policy, warning Anthony Albanese's approach risks the \"Balkanisation\" of Australia.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/14/107851405-0-image-m-19_1776086703233.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/14/107851405-0-image-m-19_1776086703233.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T15:00:01.265290",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "British 'bunga bunga' model convicted of recruiting prostitutes for Silvio Berlusconi is given a rare presidential pardon sparking outrage in Italy",
-      "link": "https://www.dailymail.co.uk/news/article-15728685/British-bunga-bunga-model-convicted-recruiting-prostitutes-Silvio-Berlusconi-given-rare-presidential-pardon-sparking-outrage-Italy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T13:29:33",
-      "description": "Nicole Minetti, who was once entangled in the ex-premier's notorious 'bunga bunga' sex party scandal, was granted clemency in a move that has sparked fury across Italy.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/12/107854645-0-image-m-31_1776080350953.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/12/107854645-0-image-m-31_1776080350953.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T15:00:01.265292",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Meeting striking doctors' pay demands would 'break' the country and cost taxpayers \u00a330billon a year as other health unions seek the same deal, Streeting warns",
-      "link": "https://www.dailymail.co.uk/news/article-15728987/Meeting-striking-doctors-pay-demands-break-country-cost-taxpayers-30billon-year-health-unions-seek-deal-Streeting-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T13:13:45",
-      "description": "Resident doctors want an extra \u00a33billion a year but the health secretary said the real burden would be ten-times higher as it is likely other staff would expect the same deal if he caved in.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/14/107857441-0-image-a-7_1776085656759.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/14/107857441-0-image-a-7_1776085656759.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T13:19:27.809801",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Real Madrid lose the plot after Bayern Munich defeat: Furious stars confront referee over controversial decision as player is sent off AFTER full-time before angry tunnel row in chaotic scenes",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15737043/Real-Madrid-Bayern-Munich-referee-Eduardo-Camavinga-Arder-Guler-Champions-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T23:01:03",
+      "description": "Real Madrid's anguish soon turned to fury after full-time in their absorbing defeat by Bayern Munich on Wednesday night.\u00a0Referee\u00a0Slavko Vincic was harangued after the game ended.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/00/107927071-0-image-a-44_1776294005729.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/00/107927071-0-image-a-44_1776294005729.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:53.340358",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Steven Gerrard predicts manager will 'lose his job' after disappointing Champions League exit - but insists struggling boss doesn't deserve the sack",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15737061/Steven-Gerrard-predicts-manager-lose-job-disappointing-Champions-League-exit-insists-struggling-boss-doesnt-deserve-sack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T22:39:33",
+      "description": "The fallout of Real Madrid's Champions League exit will begin in earnest after being knocked out at the quarter-final stages on Wednesday night.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926631-0-image-a-59_1776292144078.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/23/107926631-0-image-a-59_1776292144078.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:53.340369",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Arsenal looked full of fear and rode their luck in reaching the Champions League semi-finals - their nervy display in twitchy draw with Sporting will not daunt the mentality monsters who lie ahead, writes OLIVER HOLT",
       "link": "https://www.dailymail.co.uk/sport/football/article-15733025/Arsenal-looked-fear-rode-luck-reaching-Champions-League-semi-finals-nervy-display-not-daunt-mentality-monsters-lie-ahead-Mikel-Artetas-men-writes-OLIVER-HOLT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19475,34 +19503,6 @@
       "archived_at": "2026-03-31T19:33:34.721300",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "England's key questions ANSWERED after Uruguay draw: Ian Ladyman reveals which stars have boosted their World Cup claim, who is too much of a risk, and the lesson Thomas Tuchel must learn",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15684881/Englands-key-questions-ANSWERED-Uruguay-draw-Ian-Ladyman-reveals-stars-boosted-World-Cup-claim-risk-lesson-Thomas-Tuchel-learn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-28T09:41:41",
-      "description": "IAN LADYMAN AT WEMBLEY: This week Daily Mail Sport set out some of the questions Thomas Tuchel was hoping to answer during two friendlies against Uruguay and Japan.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/28/00/107486051-0-image-a-8_1774658155838.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/28/00/107486051-0-image-a-8_1774658155838.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721301",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hungary coach fires dig at Liverpool manager Arne Slot after Dominik Szoboszlai suggestion: 'Don't interfere with my work'",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15686237/Hungary-coach-fires-dig-Liverpool-manager-Arne-Slot-Dominik-Szoboszlai.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-28T08:33:45",
-      "description": "Szoboszlai has racked up 43 appearances for the Reds so far this campaign - with only Virgil van Dijk playing more - while he has also been forced to deputise at right back due to injuries.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/28/08/107489303-0-image-a-8_1774686617268.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/28/08/107489303-0-image-a-8_1774686617268.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721302",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
@@ -19827,6 +19827,39 @@
     }
   ],
   "Unherd": [
+    {
+      "title": "In defense of Lena Dunham",
+      "link": "https://unherd.com/2026/04/in-defence-of-lena-dunham/?edition=us",
+      "pubDate": "2026-04-15T23:03:19",
+      "description": "She understands your body horror",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-15T23:08:55.783740",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "What Ireland teaches us about Iran",
+      "link": "https://unherd.com/2026/04/what-ireland-teaches-us-about-iran/?edition=us",
+      "pubDate": "2026-04-15T23:02:28",
+      "description": "Martyrdom turns suffering into strength",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-15T23:08:55.783746",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
+    {
+      "title": "When will the Hormuz recession hit?",
+      "link": "https://unherd.com/2026/04/when-will-the-hormuz-recession-hit/?edition=us",
+      "pubDate": "2026-04-15T23:01:12",
+      "description": "Our buffer is running out",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-15T23:08:55.783748",
+      "feed_category": "Blogs",
+      "feed_visibility": "none"
+    },
     {
       "title": "The Pope versus the President",
       "link": "https://unherd.com/2026/04/the-pope-versus-the-president/?edition=us",
@@ -20998,6 +21031,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "A new cultural era: V&A East Museum opens with landmark Black British Music Exhibition",
+      "link": "https://www.music-news.com/news/UK/188359/A-new-cultural-era-V-A-East-Museum-opens-with-landmark-Black-British-Music-Exhibition",
+      "pubDate": "2026-04-15T21:54:00",
+      "description": "Stratford\u2019s skyline has a bold new addition as the V&amp;A East Museum officially launched this week at the Queen Elizabeth Olympic Park. The opening festivities",
+      "thumbnail": "https://www.music-news.com/images/news/James-Massiah.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/James-Massiah.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T23:08:57.571996",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Vinyl revival: Harry Styles and RAYE dominate the 2026 Q1 Charts",
       "link": "https://www.music-news.com/news/UK/188357/Vinyl-revival-Harry-Styles-and-RAYE-dominate-the-2026-Q1-Charts",
