@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Guler scores in opening minute after mistake from Neuer",
+      "link": "https://www.bbc.com/sport/football/videos/c2lwwlqpqzyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T21:01:03",
+      "description": "Arda Guler pounces on a loose pass from Manuel Neuer to level the tie between Real Madrid and Bayern Munich in the Champions League quarter-final second leg at the Allianz Arena.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd81/live/681ce270-3901-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T21:13:12.521218",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Man who felled Sycamore Gap tree released early",
       "link": "https://www.bbc.com/news/articles/cn0wwl4jjj2o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-15T19:23:25",
@@ -5488,20 +5499,163 @@
       "archived_at": "2026-04-09T06:19:44.289184",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'Titan of a man': Tributes to actor with MND who played Richard III in wheelchair",
-      "link": "https://www.bbc.com/news/articles/c04xg2xq9nno?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T19:20:59",
-      "description": "Michael Campbell, also known as Michael Patrick, died on Tuesday at NI Hospice.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d3e/live/291db6a0-3341-11f1-9f60-37eac42daa69.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T06:19:44.289188",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Moment crooks deal drugs INSIDE prison is revealed as smuggling gang that included corrupt officer are jailed",
+      "link": "https://www.dailymail.co.uk/news/article-15701139/Moment-crooks-deal-drugs-INSIDE-prison-revealed-smuggling-gang-included-corrupt-officer-jailed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-03T01:12:53",
+      "description": "Jason Thompson (pictured), 34, abused his position at HMP Isis to help an organised crime group ferry cannabis, mobile phones and other items into HMP Isis.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/17/107617507-0-image-m-63_1775146926271.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/02/17/107617507-0-image-m-63_1775146926271.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:19.882372",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "SNP set to unveil a new list of costly promises... while ignoring all the ones they failed to honour last time round",
+      "link": "https://www.dailymail.co.uk/news/article-15736567/SNP-set-unveil-new-list-costly-promises-ignoring-ones-failed-honour-time-round.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T21:09:48",
+      "description": "A litany of promises made to voters have been broken by the SNP in the last five years, opponents have claimed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/19/107922229-0-image-a-5_1776278064247.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/19/107922229-0-image-a-5_1776278064247.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:19.882377",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman checked night camera for raccoons then saw every homeowners worst nightmare STARING back at her",
+      "link": "https://www.dailymail.co.uk/news/article-15736139/raccoon-MASKED-rooftop-prowler-staring-2am.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T21:00:59",
+      "description": "Several witnesses in the Philadelphia neighborhood spotted the masked figure. 'It's very violating,' one resident said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/20/107920893-0-image-m-17_1776282295411.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/20/107920893-0-image-m-17_1776282295411.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:19.882379",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Labour's soft justice bill will put children at risk as sex offenders are left free to roam the streets, police watchdog warns",
+      "link": "https://www.dailymail.co.uk/news/article-15736589/Labours-soft-justice-bill-children-risk-sex-offenders.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T21:00:49",
+      "description": "The Chief Inspector of Constabulary has issued a dire warning that the Sentencing Act could even 'create opportunities for further reoffending' by paedophiles who will no longer be locked up.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/19/107922233-0-image-a-5_1776278047906.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/19/107922233-0-image-a-5_1776278047906.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:19.882380",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bombshell records reveal Eric Swalwell and Ruben Gallego splurged campaign cash in Puerto Rico during island wedding",
+      "link": "https://www.dailymail.co.uk/news/article-15735767/Bombshell-records-reveal-Eric-Swalwell-Ruben-Gallego-splurged-campaign-cash-Puerto-Rico-island-wedding.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T21:00:08",
+      "description": "Disgraced ex-Congressman Eric Swalwell and now-Senator Ruben Gallego both spent campaign funds at Puerto Rican resorts.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/21/107894149-0-Democrat_Representatives_Eric_Swalwell_of_California_left_and_Ru-a-13_1776284493582.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/21/107894149-0-Democrat_Representatives_Eric_Swalwell_of_California_left_and_Ru-a-13_1776284493582.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:19.882381",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Significant fire' breaks out at one of Australia's last oil refineries",
+      "link": "https://www.dailymail.co.uk/news/article-15736847/oil-refinery-fire-Viva-Geelong.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T20:56:55",
+      "description": "The Geelong Viva Energy refinery in Corio supplies 10 per cent of Australia's fuel.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/21/107924493-0-image-a-11_1776285440774.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/21/107924493-0-image-a-11_1776285440774.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:19.882383",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Furious dump truck driver empties trash he removed from customer back onto their lawn over unpaid bill",
+      "link": "https://www.dailymail.co.uk/news/article-15735591/dump-truck-driver-empties-trash-customer-lawn-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T20:54:06",
+      "description": "Shortly before dumping the trash back onto the California home, one of the two people handling the truck appeared to say in Spanish that the homeowners 'haven't paid' for the service.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/21/107923963-0-image-m-31_1776285205899.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/21/107923963-0-image-m-31_1776285205899.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:19.882384",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woke Boston mayor hands out $500 haircut and MASSAGE vouchers to migrants despite city's budget plunging $50m in red",
+      "link": "https://www.dailymail.co.uk/news/article-15736307/boston-massachusetts-mayor-michelle-wu-migrants-vouchers-city-budget.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T20:50:23",
+      "description": "Boston Mayor Michelle Wu has teamed up with the non-profit\u00a0OUTnewcomers to offer $250 to $500 vouchers to\u00a0LGBTQ+ migrants in the city. The group was founded by Sal Khan, a 'queer activist'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/19/107920949-0-image-m-9_1776279284960.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/19/107920949-0-image-m-9_1776279284960.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:19.882385",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "California sheriff's deputy 'caught scrolling through DATING APP' during intense SWAT operation",
+      "link": "https://www.dailymail.co.uk/news/article-15735717/california-sheriff-deputy-dating-app-swat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T20:45:46",
+      "description": "A deputy with the Riverside County Sheriff's Office was spotted looking for love during a standoff with an armed suspect on April 8.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/21/107923061-0-image-a-8_1776284566151.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/21/107923061-0-image-a-8_1776284566151.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:19.882386",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Locals flee California beach enclave over disgusting and dangerous gas amid sewage crisis",
+      "link": "https://www.dailymail.co.uk/news/article-15735599/san-diego-south-bay-toxic-gas-hydrogen-sulfide-sewage-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T20:31:27",
+      "description": "Those living in the South Bay and Imperial Beach area near the Tijuana River have been smelling hydrogen sulfide for a while now, leaving their communities smelling like rotten eggs.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/21/107923525-0-image-m-143_1776284069800.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/21/107923525-0-image-m-143_1776284069800.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:19.882387",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Iran is using ceasefire to 'dig for missile launchers trapped underground'",
+      "link": "https://www.dailymail.co.uk/news/article-15736517/Iran-using-ceasefire-dig-missile-launchers-trapped-underground.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T20:19:28",
+      "description": "Satellite images taken following the ceasefire's announcement appear to show rubble being taken away by trucks from bases in\u00a0Tabriz and Khomeyn.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/19/107921299-0-image-a-17_1776277817172.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/19/107921299-0-image-a-17_1776277817172.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:19.882389",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Reform UK leader Nigel Farage visits Crowborough after migrants moved into army barracks despite outcry from local residents",
       "link": "https://www.dailymail.co.uk/news/article-15736351/Reform-Nigel-Farage-Crowborough-migrants-army-barracks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12347,163 +12501,23 @@
       "archived_at": "2026-04-13T13:19:27.809811",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Minister faces MPs over 'dead' Chagos surrender deal after Starmer bows to opposition from Trump",
-      "link": "https://www.dailymail.co.uk/news/article-15728973/MPs-Chagos-surrender-Starmer-Trump-Diego-Garcia-base.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T13:07:32",
-      "description": "Foreign Office minister Stephen Doughty will run the gauntlet of the House of Commons as No10 tried to argue the plans are not 'dead'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/14/107857155-0-image-a-9_1776085201125.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/14/107857155-0-image-a-9_1776085201125.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T13:19:27.809812",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Chicago father, 25, who worked as model beaten to death outside bar weeks before arrival of second baby, as cops release photos of four suspects",
-      "link": "https://www.dailymail.co.uk/news/article-15728693/Alexander-Kazanowski-Chicago-father-beaten-death-bar-four-suspects.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T12:50:25",
-      "description": "Chicago model Alexander Kazanowski, 25, was found unresponsive outside the Tune Up bar last month after he was ambushed by four people who he 'exchanged words with', police said.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/13/107855185-0-image-m-36_1776084553423.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/13/107855185-0-image-m-36_1776084553423.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T13:19:27.809814",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Drivers take action against 'scam' shopping centre car park after they were handed \u00a3100 fines over misleading signs after change in rules",
-      "link": "https://www.dailymail.co.uk/news/article-15728713/scam-shopping-centre-car-park-fines-misleading-signs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T12:47:42",
-      "description": "Thousands of pounds worth of fines are thought to have been issued at Southampton's West Quay Retail Park since parking rules were changed last year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/13/107856221-0-image-m-13_1776082864594.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/13/107856221-0-image-m-13_1776082864594.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T13:19:27.809815",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Missing wife who vanished overboard during Bahamas trip fell into busy stretch of water, as it's revealed husband shared final route with cops",
-      "link": "https://www.dailymail.co.uk/news/article-15728701/brian-hooker-lynette-hooker-bahamas-route-busy-water.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T12:40:48",
-      "description": "Brian Hooker, 59, reportedly drew maps of the\u00a0route his dinghy took on April 4, the night his wife Lynette Hooker, 55, disappeared.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/13/107856427-0-image-m-18_1776083363257.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/13/107856427-0-image-m-18_1776083363257.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T13:19:27.809817",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Burger King vows to buck high street downturn with 30 new UK openings this year - despite being landed with higher costs amid inflation rises and wage hikes",
-      "link": "https://www.dailymail.co.uk/news/article-15728633/Burger-King-high-street-new-UK-openings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T12:14:51",
-      "description": "Its defiance came as the US-based fast food giant announced a \u00a360million financing deal to help support its growth in Britain.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/12/107855195-0-image-m-18_1776080915794.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/12/107855195-0-image-m-18_1776080915794.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T13:19:27.809818",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'I don't know where this war ends': Nigel Farage questions if Donald Trump has an 'exit strategy' in Iran - but dismisses claims US President is suffering 'cognitive decline'",
-      "link": "https://www.dailymail.co.uk/news/article-15728651/I-dont-know-war-ends-Nigel-Farage-questions-Donald-Trump-exit-strategy-Iran-dismisses-claims-US-President-suffering-cognitive-decline.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T12:08:56",
-      "description": "The Reform UK leader seemed to distance himself from Donald Trump, who he describes as a 'friend', over the US President's increasingly erratic actions in the Middle East.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/12/107854091-0-image-m-27_1776080905333.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/12/107854091-0-image-m-27_1776080905333.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T13:19:27.809819",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "CATHERINE BARNWELL investigates how Russia's shadow fleet tankers disguise their identities to evade tracking",
-      "link": "https://www.dailymail.co.uk/news/article-15728711/CATHERINE-BARNWELL-investigates-Russias-shadow-fleet-tankers-disguise-identities-evade-tracking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T12:08:43",
-      "description": "How Russia's shadow fleet of oil tankers change their identities to avoid being tracked",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/12/107854535-0-image-a-6_1776078022443.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/12/107854535-0-image-a-6_1776078022443.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T13:19:27.809821",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Notorious London gangster The General is jailed again - after all Home Office attempts to deport him fail",
-      "link": "https://www.dailymail.co.uk/news/article-15728529/london-gangster-general-jailed-home-office-attempts-deport-fail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T11:45:59",
-      "description": "A notorious London gangster dubbed 'The General' has been jailed again - after repeated\u00a0Home Office attempts to deport him failed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/12/107854437-0-image-m-13_1776080571386.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/12/107854437-0-image-m-13_1776080571386.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T13:19:27.809823",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Brazilian migrant wins immigration appeal after claiming he would be killed by Latin America's biggest drug cartel after having fling with gangster's ex-wife",
-      "link": "https://www.dailymail.co.uk/news/article-15728659/Brazilian-migrant-wins-immigration-appeal-claiming-killed-Latin-Americas-biggest-drug-cartel-having-fling-gangsters-ex-wife.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T11:44:38",
-      "description": "The Brazilian migrant said the woman's gangster ex-husband was part of the notorious Primeiro Comando da Capital (PCC), which is said to control a drug trade worth a billion dollars.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/12/107855479-0-image-m-13_1776080028588.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/12/107855479-0-image-m-13_1776080028588.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T13:19:27.809824",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Meghan's awkward night out at Netflix party: From an 'exaggerated' show of friendship with the boss's wife to dress code clash with star of the event Carey Mulligan",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15728403/Meghans-awkward-night-Netflix-party-exaggerated-friendship-bosss-wife-dress-code-clash-star-event-Carey-Mulligan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T11:25:46",
-      "description": "Meghan was all smiles as she held hands with Nicole Avant, the wife of Netflix boss Sarandos, before wrapping her in a tight hug at the Beef Season Two Tastemaker event in California.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/11/107852937-0-image-a-5_1776074495825.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/11/107852937-0-image-a-5_1776074495825.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T11:49:35.015545",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scientists call for an immediate BAN on boiling lobsters alive - as study confirms crustaceans can feel pain",
-      "link": "https://www.dailymail.co.uk/sciencetech/article-15728133/Scientists-call-BAN-boiling-lobsters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T11:11:57",
-      "description": "The traditional method of boiling lobsters alive causes extreme pain and should be immediately banned under UK law, according to the results of a new study.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/10/107852481-0-image-m-13_1776072921653.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/10/107852481-0-image-m-13_1776072921653.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T11:49:35.015553",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Arsenal's injury crisis worsens as another star is forced off against Sporting Lisbon in major blow ahead of title run-in",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15736961/Arsenals-injury-crisis-Champions-League-Sporting-Lisbon-Noni-Madueke.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T21:07:12",
+      "description": "Arsenal have suffered another injury blow, with Mikel Arteta left sweating on the fitness of a key man ahead of their crucial run-in this season.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/21/107924937-0-image-a-95_1776286462503.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/21/107924937-0-image-a-95_1776286462503.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T21:13:22.121372",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Jonjo Shelvey earns first managerial job of his career in the Middle East - and vows to get the best out of 'dopey' ex-Man United star",
       "link": "https://www.dailymail.co.uk/sport/football/article-15736453/Jonjo-Shelvey-earns-managerial-job-career-Middle-East-vows-best-dopey-ex-Man-United-star.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19487,20 +19501,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-03-31T19:33:34.721306",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Farcical refereeing decision sees Man United star escape red card despite being brandished TWO yellow cards in England's draw with Uruguay at Wembley - in new 'Graham Poll' moment",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15686437/Farcical-refereeing-decision-sees-Man-United-star-escape-red-card-despite-brandished-TWO-yellow-cards-Englands-draw-Uruguay-Wembley-new-Graham-Poll-moment.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-28T00:38:21",
-      "description": "England's friendly with Uruguay was marred by farcical refereeing, not least one incident in the second half at Wembley that recalled Graham Poll's infamous mistake at the 2006 World Cup.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/28/00/107485577-0-image-a-149_1774656054035.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/28/00/107485577-0-image-a-149_1774656054035.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721307",
       "feed_category": "Sport",
       "feed_visibility": "both"
     }
