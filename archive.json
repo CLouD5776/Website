@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Man who felled Sycamore Gap tree released early",
+      "link": "https://www.bbc.com/news/articles/cn0wwl4jjj2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T19:23:25",
+      "description": "Adam Carruthers is released after 10 months under the Home Detention Curfew Scheme.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f3c/live/7f9a15a0-38fa-11f1-88f0-7d03c2035921.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T20:13:25.067859",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Players told LIV Golf to run 'for many years' amid collapse rumours",
+      "link": "https://www.bbc.com/sport/golf/articles/cx2dd2jr0mgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T20:00:57",
+      "description": "Sergio Garcia says LIV Golf's players were told earlier this year the event would run for \"many years\" as rumours swirl the Saudi-backed venture is on the verge of collapse.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ede/live/afdd78f0-38fb-11f1-88f0-7d03c2035921.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T20:13:25.067865",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sheff Wed to start next season with 15-point penalty, bidder told",
+      "link": "https://www.bbc.com/sport/football/articles/cz0eekymmkko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-15T18:31:37",
+      "description": "The EFL has informed the preferred bidder for Sheffield Wednesday that the club will start next season in League One with a 15-point penalty.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30cd/live/b57d2550-244f-11f1-867b-39349a954f0b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-15T20:13:25.067867",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Three paramedics killed in successive Israeli strikes in Lebanon, officials say",
       "link": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-15T18:48:34",
@@ -5466,42 +5499,121 @@
       "archived_at": "2026-04-09T06:19:44.289188",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "How fluid PSG exposed Slot's back-five tweak",
-      "link": "https://www.bbc.com/sport/football/articles/c0j6ewp0577o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T06:14:01",
-      "description": "Arne Slot changed Liverpool's shape for their Champions League quarter-final first leg - but their tactics were still bested by European champions Paris St-Germain. Umir Irfan explains how.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c6b/live/48dbddc0-33b2-11f1-8b3a-fb8de2c68072.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T06:19:44.289191",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
-      "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T01:59:34",
-      "description": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbe/live/73b7fdc0-33ae-11f1-b174-9b4b999c11fc.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T04:34:35.986359",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Watch: BBC asks Artemis II crew a question in space",
-      "link": "https://www.bbc.com/news/videos/cgk0e12y1kgo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T04:06:36",
-      "description": "The BBC\u2019s Science Editor Rebecca Morelle has spoken to the Artemis II crew ahead of their likely splashdown on Saturday.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329c/live/e6c741d0-33c8-11f1-9d5c-8ba507d7dbde.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T04:34:35.986369",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Reform UK leader Nigel Farage visits Crowborough after migrants moved into army barracks despite outcry from local residents",
+      "link": "https://www.dailymail.co.uk/news/article-15736351/Reform-Nigel-Farage-Crowborough-migrants-army-barracks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T20:06:21",
+      "description": "The Reform UK leader was pictured grinning from ear-to-ear this afternoon as he met with supporters ahead of May's local elections.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/19/107919831-0-image-a-43_1776278903953.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/19/107919831-0-image-a-43_1776278903953.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T20:13:26.446366",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman and man are arrested over 'antisemitic' attempted arson attack at north London synagogue where 'balaclava-clad suspects hurled petrol bombs'",
+      "link": "https://www.dailymail.co.uk/news/article-15736827/Woman-man-arrested-antisemitic-attempted-arson-attack-north-London-synagogue-balaclava-clad-suspects-hurled-petrol-bombs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T20:04:36",
+      "description": "Balaclava-clad attackers were seen hurling petrol bombs at Finchley Reform Synagogue in Fallow Court Avenue, North Finchley, on CCTV last night.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/107914259-0-image-m-79_1776258947454.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/107914259-0-image-m-79_1776258947454.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T20:13:26.446373",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Melania Trump breaks silence for the first time since Epstein bombshell with bold message for lawmakers",
+      "link": "https://www.dailymail.co.uk/news/article-15736265/melania-trump-breaks-silence-epstein-capitol-hill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T19:53:40",
+      "description": "Melania Trump made a rare trip to Capitol Hill on Wednesday - breaking her silence for the first time since her Epstein comments.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/20/107923085-0-image-a-37_1776281882920.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/20/107923085-0-image-a-37_1776281882920.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T20:13:26.446375",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Scots pensioner is\u2028killed after 'stolen' Maserati supercar crashes into garden",
+      "link": "https://www.dailymail.co.uk/news/article-15736613/Scots-pensioner-killed-stolen-Maserati-supercar-crashes-garden.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T19:52:53",
+      "description": "A pensioner who died after he was struck by a car in a garden has been named as John Bell.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/19/107922271-0-image-m-16_1776278346794.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/19/107922271-0-image-m-16_1776278346794.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T20:13:26.446377",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Kristi and Bryon Noem's $2.6 MILLION debts revealed... and itemized list of his X-rated spending, leaving everyone in Washington asking the same alarming question",
+      "link": "https://www.dailymail.co.uk/news/article-15732793/kristi-noem-husband-bryon-debts-bimbo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T19:44:23",
+      "description": "Kristi Noem and her bimbo-loving husband Bryon have taken out more than $2.6 million in loans, the Daily Mail can exclusively reveal.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/19/107917303-0-image-a-26_1776278057468.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/19/107917303-0-image-a-26_1776278057468.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T20:13:26.446378",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "A healthy legacy? Commonwealth Games' beer deal leaves bitter taste",
+      "link": "https://www.dailymail.co.uk/news/article-15736651/A-healthy-legacy-Commonwealth-Games-beer-deal-leaves-bitter-taste.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T19:38:41",
+      "description": "A partnership between the Commonwealth Games, Coca-Cola and a beer company has been criticised for 'tarnishing' the 'legacy' of the event.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/20/107922891-0-image-a-26_1776280564222.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/20/107922891-0-image-a-26_1776280564222.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T20:13:26.446380",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How Bible stopped a bullet and saved squaddie's life amid hell-scape of Ypres",
+      "link": "https://www.dailymail.co.uk/news/article-15736573/How-Bible-stopped-bullet-saved-squaddies-life-amid-hell-scape-Ypres.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T19:37:23",
+      "description": "When Scottish squaddie Duncan MacFarlane was handed a Bible it is doubtful he knew just how important it would become.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/19/107922469-0-image-a-8_1776278946030.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/19/107922469-0-image-a-8_1776278946030.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T20:13:26.446381",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "JOHN MACLEOD: Of majesty, modesty and the great state occasion that will never be",
+      "link": "https://www.dailymail.co.uk/news/article-15736597/JOHN-MACLEOD-majesty-modesty-great-state-occasion-never-be.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T19:36:55",
+      "description": "It's hard not to imagine the scenes that might have enchanted us this weekend, and especially next Tuesday - the processions, the beacons, the marching bands.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/19/107922449-0-image-a-55_1776278828693.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/19/107922449-0-image-a-55_1776278828693.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-15T20:13:26.446383",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Are you still Keir? PM puts on awkward show of unity with rivals Rayner and Burnham - as he insists he WON'T quit if Labour suffers elections disaster",
       "link": "https://www.dailymail.co.uk/news/article-15728415/Keir-Starmer-PM-rivals-Rayner-Burnham-Labour-elections.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12387,118 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-13T11:49:35.015553",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Maura Higgins, Molly Smith and Vicky Pattison lead tributes to 'incredible, selfless and talented' celebrity hairstylist Milosz Pawlak following his 'unexpected' death",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15728085/Maura-Higgins-Molly-Smith-Vicky-Pattison-lead-tributes-incredible-selfless-talented-celebrity-hairstylist-Milosz-Pawlak-following-unexpected-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T10:40:15",
-      "description": "Maura Higgins, Vicky Pattison and Molly Smith have led tributes to 'incredible, selfless and talented' celebrity hairstylist Milosz Pawlak following his death.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/11/107853977-0-image-a-4_1776076805728.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/11/107853977-0-image-a-4_1776076805728.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T11:49:35.015555",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I was Madame Tussauds' biggest fan until this week... I despaired at what I saw - and Ariana Grande should be insulted!",
-      "link": "https://www.dailymail.co.uk/travel/article-15715299/I-Madame-Tussauds-fan-overpriced-tourist-attraction-slashed-value.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T09:53:16",
-      "description": "Hayley Minn became obsessed with Madame Tussauds when she first visited in 1999, aged eight. After a more recent visit, she reveals why she thinks the London tourist attraction is struggling.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/09/11/107766387-0-image-a-57_1775731754758.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/09/11/107766387-0-image-a-57_1775731754758.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T11:49:35.015557",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The EV that charges in FIVE MINUTES coming to Britain: We drive the Denza Z9GT - China's most expensive car yet costing \u00a3100,000",
-      "link": "https://www.dailymail.co.uk/money/electriccars/article-15724291/EV-charges-FIVE-MINUTES-Denza-Z9GT-China-expensive-car-yet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T08:44:59",
-      "description": "The Denza Z9GT is available to order this month and promises blistering performance and jaw-dropping charging times. We've driven it to find out if its worth the \u00a3100k price tag.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/11/107842067-0-Daily_Mail_and_This_is_Money_motoring_reporter_Freda_Lewis_Stemp-a-6_1776075521048.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/11/107842067-0-Daily_Mail_and_This_is_Money_motoring_reporter_Freda_Lewis_Stemp-a-6_1776075521048.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T11:49:35.015559",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Made In Chelsea fans left in shock as it's revealed Alex Mytton's model ex is having a baby with Issy Francis-Baum's father",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15728027/Made-Chelsea-fans-left-shock-revealed-Alex-Myttons-model-ex-having-baby-Issy-Francis-Baums-father.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T08:30:59",
-      "description": "Alex Mytton's ex-girlfriend Georgina Howard has announced she is expecting a baby with his\u00a0Made In Chelsea\u00a0alum Issy Francis-Baum's father.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/09/107851231-0-image-a-19_1776069023313.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/09/107851231-0-image-a-19_1776069023313.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T11:49:35.015561",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Royal photographer shares what was really going on behind iconic funeral photo of Kate Middleton",
-      "link": "https://www.dailymail.co.uk/lifestyle/article-15721125/Royal-photographer-surprising-confession-Queen-Elizabeth-Kate-Middleton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T08:02:04",
-      "description": "Chris Jackson's name may not be instantly familiar, but there's a good chance you'd recognise some of the iconic pictures he's taken of the British royal family .",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/01/107845135-0-image-a-3_1776040109564.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/01/107845135-0-image-a-3_1776040109564.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T11:49:35.015562",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Humiliated and full of regret: Ollie Locke reveals how trying to keep up his Made In Chelsea lifestyle left him broke, on the verge of a breakdown and his reputation in tatters",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15717945/ollie-locke-reputation-tatters-humiliation-unpaid-rent-bill-chelsea-lifestyle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T11:16:15",
-      "description": "Ollie Locke feels 'humiliated' and says his reputation is in tatters over a \u00a345,000 unpaid rent bill shared with husband Gareth.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/10/107789593-0-image-a-5_1775812000141.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/10/107789593-0-image-a-5_1775812000141.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T11:49:35.015570",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment crooks deal drugs INSIDE prison is revealed as smuggling gang that included corrupt officer are jailed",
-      "link": "https://www.dailymail.co.uk/news/article-15701139/Moment-crooks-deal-drugs-INSIDE-prison-revealed-smuggling-gang-included-corrupt-officer-jailed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-03T01:12:53",
-      "description": "Jason Thompson (pictured), 34, abused his position at HMP Isis to help an organised crime group ferry cannabis, mobile phones and other items into HMP Isis.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/17/107617507-0-image-m-63_1775146926271.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/17/107617507-0-image-m-63_1775146926271.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T11:49:35.015571",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Southport killer's parents could have stopped attack and autism was used as an excuse, inquiry finds",
-      "link": "https://www.dailymail.co.uk/news/article-15728359/Southport-attack-not-occurred-attackers-family-shared-concerns-damning-inquiry-report-concludes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T11:43:37",
-      "description": "The Southport attack 'would not have occurred' if his parents had flagged concerns about his escalating violent behaviour, a report into the atrocity concluded today.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/12/107854815-0-image-m-52_1776078796068.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/12/107854815-0-image-m-52_1776078796068.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T11:49:35.015572",
       "feed_category": "News",
       "feed_visibility": "both"
     }
