@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Police issue disorder warning after Epsom rape protest",
+      "link": "https://www.bbc.com/news/articles/c77m5nvyz7vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T10:19:15",
+      "description": "Riot police are deployed in Epsom after protesters gathered to demand descriptions of the suspects.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/546a/live/01472310-3967-11f1-a650-6399b8700755.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T10:45:40.091746",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Minister to propose \u00a3100 oil payment for lower income households in NI",
+      "link": "https://www.bbc.com/news/articles/cd9vv3y1n8vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T09:30:33",
+      "description": "The scheme, which would affect about 340,000 households, needs to be approved by the executive.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd6d/live/aca06b60-3974-11f1-b60c-af6bba5f6d25.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T10:45:40.091757",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "England's Botterman & Campbell out of Six Nations",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/c624x9rxvg7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T10:09:27",
+      "description": "England prop Hannah Botterman and hooker May Campbell will play no part in the Women's Six Nations as they require surgery.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bc0/live/8d2da180-3979-11f1-938f-a1cd4caec62f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T10:45:40.091761",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Spice Girls' outfits go on show in '90s exhibition",
       "link": "https://www.bbc.com/news/articles/cy411kjnv7go?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-16T05:04:13",
@@ -5466,42 +5499,93 @@
       "archived_at": "2026-04-09T16:47:04.984475",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Defence secretary interview on Russian submarine operation",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nbyvz1?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T13:24:00",
-      "description": "British warship and aircraft deployed to deter Russian submarine action.",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T16:47:04.984478",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Arsenal's big summer - Arteta contract, \u00a3100m for Nwaneri and Lewis-Skelly",
-      "link": "https://www.bbc.com/sport/football/articles/cn78kdymmvpo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T15:36:40",
-      "description": "Whatever happens this season, Arsenal are facing some big decisions in the summer over Mikel Arteta's contract and their transfer moves.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e94b/live/dd1767a0-342c-11f1-9d5c-8ba507d7dbde.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T16:47:04.984480",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "New Zealand rider Watts banned for mid-race punch",
-      "link": "https://www.bbc.com/sport/cycling/articles/cvg0j1478z1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T16:07:37",
-      "description": "New Zealander cyclist Kiaan Watts is banned for 25 days by cycling's global governing body after he punched a fellow rider in the head during a race last month.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0804/live/9ef277b0-3429-11f1-860a-2d19216ff63a.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T16:47:04.984482",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Fish restaurant boss is 'deeply disappointed' after animal rights activist was let off the hook for grabbing lobster and throwing it into harbour 'like a cricket ball'",
+      "link": "https://www.dailymail.co.uk/news/article-15738287/animal-rights-activist-lobster-harbour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T10:43:44",
+      "description": "Eco-warrior Emma Smart, 47, stormed into Catch at the Old Fish Market in Weymouth, Dorset, and 'freed' the lobster which she believed was going to be eaten.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/11/107938319-0-image-m-17_1776336134403.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/11/107938319-0-image-m-17_1776336134403.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T10:45:43.447552",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Council to prosecute historic hotel after death of 21-year-old woman whose windpipe 'was crushed by falling wardrobe following night out'",
+      "link": "https://www.dailymail.co.uk/news/article-15738057/Council-prosecute-historic-hotel-death-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T10:31:13",
+      "description": "Chloe Haynes, 21, was found dead under the heavy wooden wardrobe at the Britannia Adelphi Hotel in Liverpool after travelling to the city for a night out on September 10, 2022.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/11/107938589-0-image-m-8_1776334601575.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/11/107938589-0-image-m-8_1776334601575.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T10:45:43.447558",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Wellwishers donate more than \u00a325,000 to charity after ultra marathon runner died trying to beat record for 234-mile route in memory of his friend",
+      "link": "https://www.dailymail.co.uk/news/article-15738323/donate-charity-ultra-marathon-runner-died-record.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T10:30:36",
+      "description": "David Parrish, 35, was attempting to complete the fastest ever crossing of the Cape Wrath Trail in honour of his late friend, Luke Ireland. He was discovered in the remote Kintail mountains.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/11/107938455-0-image-m-31_1776334750182.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/11/107938455-0-image-m-31_1776334750182.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T10:45:43.447560",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Anthony Albanese cuts short his Malaysia trip and rushes back to Australia after emergency",
+      "link": "https://www.dailymail.co.uk/news/article-15738181/Anthony-Albanese-Australia-fuel-petrol.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T10:15:29",
+      "description": "His office confirmed about 7pm that the Prime Minister has boarded a plane and will fly overnight to Geelong.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/11/107938081-0-image-m-24_1776333879503.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/11/107938081-0-image-m-24_1776333879503.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T10:45:43.447562",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Dubai's famous Jumeirah Burj al Arab hotel closes for major refurbishments as tourists avoid UAE due to Iran war",
+      "link": "https://www.dailymail.co.uk/news/article-15738117/Dubais-famous-Jumeirah-Burj-al-Arab-hotel-closes-major-refurbishments-tourists-avoid-UAE-Iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T10:02:15",
+      "description": "The seven-star Burj Al Arab has announced a 'carefully phased' renovation programme, with a temporary closure expected to last 18 months.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/10/107937115-0-image-a-8_1776331798970.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/10/107937115-0-image-a-8_1776331798970.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T10:45:43.447564",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The cynical reason cops ambushed Ben Roberts-Smith in Sydney - and then threw the fallen SAS hero behind bars more than 900km from home",
+      "link": "https://www.dailymail.co.uk/news/article-15737307/ben-roberts-smith-war-crimes-nsw-arrest-forum-advantage-committal-hearing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T09:54:03",
+      "description": "The Victoria Cross recipient believes if he had been arrested in Queensland instead of NSW the evidence against him might be considered too weak for a war crimes trial to even go ahead.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/06/107929571-0-image-m-16_1776317326913.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/06/107929571-0-image-m-16_1776317326913.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T10:45:43.447566",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Devastated wife of newlywed shark attack victim accuses Maldives tour firm of 'serious negligence' after attack near fish processing plant left him fighting for life with amputated leg",
       "link": "https://www.dailymail.co.uk/news/article-15738159/wife-newlywed-shark-attack-victim-accuses-Maldives-tour-firm-negligence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12417,93 +12501,23 @@
       "archived_at": "2026-04-13T20:30:49.177725",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "The town hall fat cats: Now 369 council staff are paid over \u00a3100,000",
-      "link": "https://www.dailymail.co.uk/news/article-15729953/The-town-hall-fat-cats-369-council-staff-paid-100-000.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T19:48:33",
-      "description": "Soaring public sector wages have seen the number of Scots council staff earning six-figure sums reach almost 370 despite cuts to frontline services and some of the highest council tax hikes on record.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864461-0-image-a-64_1776106216997.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864461-0-image-a-64_1776106216997.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T20:30:49.177727",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tories have a plan to tackle pothole crisis that's ruining Scotland's roads",
-      "link": "https://www.dailymail.co.uk/news/article-15729931/Tories-plan-tackle-pothole-crisis-thats-ruining-Scotlands-roads.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T19:33:49",
-      "description": "The SNP's pothole epidemic has left parts of Scotland looking 'like a third world country', it was claimed yesterday.",
-      "thumbnail": "https://i.dailymail.co.uk/1/2026/04/13/19/107864227-0-image-a-8_1776105229798.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1/2026/04/13/19/107864227-0-image-a-8_1776105229798.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T20:30:49.177728",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "DC Insider Poll: Do you back President Trump or Pope Leo?",
-      "link": "https://www.dailymail.co.uk/news/article-15729567/poll-donald-trump-pope-leo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T19:32:09",
-      "description": "Donald Trump is in a high-profile skirmish with Pope Leo XIV, after the American-born Pontiff criticized the President for going to war with Iran.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861111-0-image-m-2_1776098101250.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861111-0-image-m-2_1776098101250.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T20:30:49.177729",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Speech and language therapist who claimed English was her native tongue - yet couldn't understand workmates - is sacked",
-      "link": "https://www.dailymail.co.uk/news/article-15702495/Speech-language-therapist-claimed-English-native-tongue-understand-workmates-sacked.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T19:27:37",
-      "description": "Sai Keerthana Sriperambuduru joined the York and Scarborough Teaching Hospitals NHS Foundation Trust in October 2023.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/03/01/107402679-0-image-m-32_1775177232918.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/03/01/107402679-0-image-m-32_1775177232918.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T20:30:49.177731",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "GRAHAM GRANT: Scotland's defence safer in the hands of the SNP? Sorry, but who do you think you are kidding Mr Flynn?",
-      "link": "https://www.dailymail.co.uk/news/article-15729883/GRAHAM-GRANT-Scotlands-defence-safer-hands-SNP-Sorry-you-think-you-kidding-Mr-Flynn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T19:16:44",
-      "description": "There haven't been many moments of levity in the election campaign - but Stephen Flynn managed to provide one the other day.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864179-0-image-a-50_1776104761773.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864179-0-image-a-50_1776104761773.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T20:30:49.177734",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woke Minneapolis lawmaker who condemned anti-gay Molotov cocktail attack on ice cream parlor goes VERY quiet after arsonist was identified",
-      "link": "https://www.dailymail.co.uk/news/article-15728783/minneapolis-lawmaker-silence-anti-gay-attacker-identified.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T19:10:46",
-      "description": "Minneapolis City Councilmember Jason Chavez denounced the Molotov cocktail attack on\u00a0Fletcher's Ice Cream & Caf\u00e9 in October.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864403-0-image-m-34_1776105968653.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/19/107864403-0-image-m-34_1776105968653.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T20:30:49.177735",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Arsenal are brutally mocked across Europe: 'Boring' Gunners dismissed as 'harmless' by rivals after 'Peugeot matched the Mercedes' to leave Atletico Madrid eyeing the Champions League final",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15738141/Champions-League-Arsenal-mocked-Sporting-Lisbon-drab-victory.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T10:13:27",
+      "description": "While Arsenal may have reached a second consecutive semi-final for the first time in their history, it has not come without scepticism from across Europe.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/11/107938377-0-image-a-2_1776334138225.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/11/107938377-0-image-a-2_1776334138225.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T10:45:46.793488",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "'It's killing me. You are just seeing it falling away': Arsenal legend Ian Wright despairs over Gunners' title run-in woes - and reveals who must 'take responsibility'",
       "link": "https://www.dailymail.co.uk/sport/football/article-15738011/Premier-League-title-race-Arsenal-Ian-Wright-hurts-watch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19489,20 +19503,6 @@
       "archived_at": "2026-03-31T19:33:34.721294",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Liverpool legends vs Borussia Dortmund legends RECAP: All the reaction as Reds throw away two-goal lead at Anfield with Jurgen Klopp making his return to the touchline plus Steven Gerrard and Peter Crouch in action",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15674627/Liverpool-vs-Borussia-Dortmund-legends-2025-26-Anfield-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-28T18:59:16",
-      "description": "Re-live Daily Mail Sport's live blog for the score, team news and updates as Liverpool's legends welcomed Borussia Dortmund's legends to Anfield for a charity game.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/28/17/107494753-0-image-a-31_1774717561166.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/28/17/107494753-0-image-a-31_1774717561166.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721295",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
@@ -21042,6 +21042,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Madonna reveals Confessions On A Dance Floor Part II release date",
+      "link": "https://www.music-news.com/news/UK/188371/Madonna-reveals-Confessions-On-A-Dance-Floor-Part-II-release-date",
+      "pubDate": "2026-04-16T09:00:00",
+      "description": "Madonna will drop her 15th studio album, Confessions On A Dance Floor: Part II, on July 3, 2026.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188371.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188371.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T10:45:53.128875",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Doechii teases 'more to come' with Lady Gaga as she reveals what it's like to work with her",
+      "link": "https://www.music-news.com/news/UK/188370/Doechii-teases-more-to-come-with-Lady-Gaga-as-she-reveals-what-it-s-like-to-work-with-her",
+      "pubDate": "2026-04-16T09:00:00",
+      "description": "Rapper and singer-songwriter Doechii has teased fans she has more music \"to come\" with pop megastar Lady Gaga, after the pair recently teamed up for original song Runway, which features in upcoming movie The Devil Wears Prada 2.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188370.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188370.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T10:45:53.128881",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "'He's scaled the highest heights of music' Ed Sheeran commends Luke Combs for Time 100 inclusion",
       "link": "https://www.music-news.com/news/UK/188368/He-s-scaled-the-highest-heights-of-music-Ed-Sheeran-commends-Luke-Combs-for-Time-100-inclusion",
