@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Mandelson Failed Security Vetting\u2026Who Knew What, When?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nd41j7?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T19:40:00",
+      "description": "Starmer did not know Mandelson failed vetting, government says",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T20:43:56.137284",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Lyse Doucet in Iran: Destruction shows huge civilian cost of the war",
       "link": "https://www.bbc.com/news/videos/c62j6d4n0wqo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-16T19:35:36",
@@ -5488,20 +5499,233 @@
       "archived_at": "2026-04-10T08:52:25.023851",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "This coat cost $248 in illegal tariffs. Will he ever get the money back?",
-      "link": "https://www.bbc.com/news/articles/ckgr67kgvdko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T06:41:40",
-      "description": "Importers are in line for tariff refunds. But whether everyone who paid the for the tariffs will get money back is a trickier question.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42b6/live/a74f1a50-343b-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T07:23:15.224936",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "FBI investigators discover 'potentially critical' HAIRS inside home of Nancy Guthrie whose DNA results could finally help crack abduction mystery",
+      "link": "https://www.dailymail.co.uk/news/article-15740287/nancy-guthrie-new-dna-fbi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:40:00",
+      "description": "The new genetic material has been sent to a lab in Florida.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107941551-0-image-a-3_1776370217261.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107941551-0-image-a-3_1776370217261.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.502989",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "MAGA voters deliver crushing verdict on the Pope after Trump's Jesus meme",
+      "link": "https://www.dailymail.co.uk/news/article-15739095/Pope-Leo-Trump-Jesus-comparison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:36:48",
+      "description": "According to the latest Daily Mail/JL Partners polls, 41 percent of Americans chose the Pope while 30 percent of respondents sided with Trump.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/20/107950521-0-image-a-10_1776366009860.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/20/107950521-0-image-a-10_1776366009860.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.502995",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "American Airlines pilot forced to slam on brakes after TRUCK drove in front of him in latest terrifying airport near-miss",
+      "link": "https://www.dailymail.co.uk/news/article-15739755/american-airlines-pilot-slam-brakes-truck-charlotte-airport.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:36:14",
+      "description": "An American Airlines was forced to 'slam on the brakes' after a truck drove by him on the taxiway at a Charlotte airport.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107952303-0-image-a-61_1776369748094.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107952303-0-image-a-61_1776369748094.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.502997",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Clip of Starmer insisting Mandelson was subject to 'security vetting' emerges as calls for PM's resignation continue mounting over US ambassador's failed screening",
+      "link": "https://www.dailymail.co.uk/news/article-15740243/Clip-Starmer-insisting-Mandelson-subject-security-vetting-emerges-calls-PMs-resignation-continue-mounting-amid-US-ambassadors-failed-screening.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:35:32",
+      "description": "In an astonishing development, No10 today confirmed the disgraced peer was given the go-ahead to take on the role against the recommendation of security vetting officials.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107952713-0-image-m-19_1776370738332.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107952713-0-image-m-19_1776370738332.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.502998",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Terrified Athena Strand repeatedly asked 'Are you a kidnapper?' during final drive with FedEx driver who abducted and killed her in video that made jurors sob",
+      "link": "https://www.dailymail.co.uk/news/article-15740253/Athena-Strand-jury-sobs-video-frightened-girl-7-asking-killer-FedEx-driver-Tanner-Horner-distressing-question.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:34:39",
+      "description": "Distressing new evidence was shown Thursday as part of Tanner Horner's death penalty sentencing.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/20/107719345-0-image-m-14_1776368463078.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/20/107719345-0-image-m-14_1776368463078.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.502999",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Airport owner to learn his fate after two skydivers were killed when their parachute became tangled mid-jump",
+      "link": "https://www.dailymail.co.uk/news/article-15740335/skydivers-fall-parachute-tangled-goulburn-nsw.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:33:43",
+      "description": "A rural airport owner is set to learn his fate over the deaths of two skydivers who fell 100metres after they were snagged on a plane in a horrifying mid-air accident.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107952893-0-image-a-7_1776371250806.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107952893-0-image-a-7_1776371250806.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.503000",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Alleged DUI driver struck and killed 14-month-old boy who wandered onto road after dad did not realize he had followed him outside, cops say",
+      "link": "https://www.dailymail.co.uk/news/article-15738747/DUI-killed-boy-south-carolina-david-metz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:32:55",
+      "description": "David Metz, 62, was arrested after allegedly hitting Christopher Rodrigo Perez Tapia with his truck. The accident happened outside El Latino Bar and Grill in Anderson, South Carolina.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/20/107950735-0-Christopher_Rodrigo_Perez_Tapia_died_on_Monday_after_being_struc-a-7_1776367700249.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/20/107950735-0-Christopher_Rodrigo_Perez_Tapia_died_on_Monday_after_being_struc-a-7_1776367700249.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.503001",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Burger chain collapses into administration after being forced to close all but three branches",
+      "link": "https://www.dailymail.co.uk/news/article-15740069/Burger-chain-administration-close-branches.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:30:35",
+      "description": "The burger joint was once considered a cult-favourite spot for Londoners seeking high-quality street food and beer.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107952351-0-image-m-19_1776369839392.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107952351-0-image-m-19_1776369839392.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.503002",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The most influential man in the US revealed: Trump's stunned reaction as DailyMail+ unveils the America 250 Power List ranking... that gives major clue about our NEXT president",
+      "link": "https://www.dailymail.co.uk/news/article-15710793/daily-mail-power-list-influential-men-trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:27:46",
+      "description": "Ahead of the nation's 250th birthday on July 4, DailyMail+ is today revealing America's biggest power players.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/18/107946689-0-image-a-8_1776359084122.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/18/107946689-0-image-a-8_1776359084122.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.503003",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Palestine Action activist told security guard Israeli defence firm's UK factory 'won't exist tomorrow' during protest raid, court told",
+      "link": "https://www.dailymail.co.uk/news/article-15739415/Palestine-Action-activist-told-security-guard-Israeli-defence-firms-UK-factory-wont-exist-tomorrow-protest-raid-court-told.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:24:50",
+      "description": "Charlotte Head, 29, Samuel Corner, 23, Leona Kamio, 30, Fatema Rajwani, 21, Zoe Rogers, 22, and Jordan Devlin, 31, are charged with criminal damage at Elbit Systems, Bristol, last August.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/20/107951187-0-image-m-11_1776366867625.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/20/107951187-0-image-m-11_1776366867625.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.503004",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "He was an internet sensation ten years ago at the Trump-Clinton debate... but what ever happened to Ken Bone, aka 'the Red Sweater Guy'?",
+      "link": "https://www.dailymail.co.uk/news/article-15719709/Ken-Bone-red-sweater-guy-trump-clinton-debate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:13:09",
+      "description": "The man who stole the 2016 presidential debate reflects on his viral moment, life after fame - and why, amid a new energy crisis a decade on, the answer to his question matters more than ever.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/14/107795619-0-image-a-13_1775827833877.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/14/107795619-0-image-a-13_1775827833877.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.503005",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Democrat reveals he snubbed Swalwell over 'womanizing' rumors but dodges role as 'morality police'",
+      "link": "https://www.dailymail.co.uk/news/article-15739911/Democrat-reveals-snubbed-Swalwell-womanizing-rumors-dodges-role-morality-police.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:11:16",
+      "description": "Eric Swalwell's supporters and donors had to know about his sexual misconduct with his subordinates, claims California Democrat Ro Khanna.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107950811-0-image-a-11_1776369653440.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107950811-0-image-a-11_1776369653440.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.503006",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teen accused of luring student to his violent death using instagram managed to hide gun INSIDE police station before being interrogated",
+      "link": "https://www.dailymail.co.uk/news/article-15739309/teen-lures-student-death-birmingham-alabama.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:10:11",
+      "description": "Ronald Martez Bennett Jr, 18, was fatally shot by several masked gunmen on February 1, 2025, in Birmingham, Alabama. He was struck three times in the neck and spinal cord.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/20/107951981-0-image-m-13_1776369132176.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/20/107951981-0-image-m-13_1776369132176.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.503006",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Secrets of DC's hottest new club: Trump world insiders lift lid on the elite's VERY heated encounters... their mystery women... and one unbreakable rule",
+      "link": "https://www.dailymail.co.uk/news/article-15736699/Ned-club-Washington-DC-secrets-Trump-Bessent.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:06:03",
+      "description": "In this city more than any other, politicians and reporters are the real celebrities - and now the\u00a0MAGA establishment has claimed this exclusive venue as their unofficial clubhouse.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/20/107952229-0-image-a-38_1776369295309.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/20/107952229-0-image-a-38_1776369295309.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.503007",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Commonwealth Games team models targets of 'blatant hate and racism'",
+      "link": "https://www.dailymail.co.uk/news/article-15740159/Commonwealth-Games-team-models-targets-blatant-hate-racism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T19:53:17",
+      "description": "A Scots model has condemned a torrent of racist abuse he suffered after revealing the country's Commonwealth Games ceremony outfits.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/20/107951307-0-image-a-24_1776368963858.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/20/107951307-0-image-a-24_1776368963858.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.503008",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Scots Motorists CAN sue Arnold Clark over dark web data leak",
+      "link": "https://www.dailymail.co.uk/news/article-15740141/Scots-Motorists-sue-Arnold-Clark-dark-web-data-leak.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T19:47:34",
+      "description": "A judge has given permission for 15,000 drivers to pursue a US style class action compensation claim against Arnold Clark over a dark web data breach.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/20/107951425-0-image-a-11_1776367022624.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/20/107951425-0-image-a-11_1776367022624.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T20:43:58.503009",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump renews war of words with Pope Leo over Iran as he accuses Pontiff of 'failing to understand the real world'",
       "link": "https://www.dailymail.co.uk/news/article-15740189/Trump-renews-war-words-Pope-Leo-Iran-accuses-Pontiff-failing-understand-real-world.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12275,230 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-14T10:44:05.174516",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Large magnitude 4.3 earthquake rocks NSW",
-      "link": "https://www.dailymail.co.uk/news/article-15731853/earthquake-NSW-Orange-Bathurst.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T10:34:18",
-      "description": "The earthquake struck about 8.20pm on Tuesday night.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/11/107880399-0-image-m-29_1776162808237.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/11/107880399-0-image-m-29_1776162808237.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174518",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Golf club's expansion plans are blocked after villagers feared works would send more than 42,000 lorries through narrow road",
-      "link": "https://www.dailymail.co.uk/news/article-15731461/Golf-club-expansion-plans-lorries-road.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T10:26:52",
-      "description": "Corhampton Golf Club, in the South Downs near Southampton, was denied its application to create four new holes on the course because it would 'significantly harm the character' of the area.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/11/107879297-0-image-a-8_1776162113285.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/11/107879297-0-image-a-8_1776162113285.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174520",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Influential Kremlin propagandist with 13 million followers turns on Putin over Russia's economic crisis and warns the public are ready to 'snap'",
-      "link": "https://www.dailymail.co.uk/news/article-15731719/Influential-Kremlin-propagandist-turns-Putin-Russias-economic-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T10:25:35",
-      "description": "Victoria Bonya, a former reality TV star, posted an extraordinary 18-minute video address to the Russian president, telling him the public are ready to 'snap'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/11/107879923-0-image-m-9_1776161459907.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/11/107879923-0-image-m-9_1776161459907.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174522",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Qantas and Jetstar scrap five routes and blame soaring jet fuel prices amid ongoing conflict in the Middle East",
-      "link": "https://www.dailymail.co.uk/news/article-15731409/Jetstar-Qantas-routes-cancelled-fuel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T10:24:34",
-      "description": "The airline group now expects to spend as much as $3.3 billion on jet fuel in the first half of 2025/26, up from an original estimate of $2.5 billion.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/10/107878887-0-image-a-32_1776159259993.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/10/107878887-0-image-a-32_1776159259993.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174523",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Let them NOT eat cake: Firm bars staff from sharing food including birthday treats at work due to health and safety",
-      "link": "https://www.dailymail.co.uk/news/article-15731607/Firm-bars-staff-sharing-food-birthday-work-health-safety.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T10:18:25",
-      "description": "Employees at exhibition stand designers Quadrant2Design were told that the fun tradition had to stop because of the risks of people getting allergic reactions or falling ill from sharing food.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/10/107879087-0-image-m-12_1776159707039.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/10/107879087-0-image-m-12_1776159707039.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174524",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "British heir to JCB threatens to relocate multibillion-pound firm to the US in protest over Rachel Reeves' inheritance tax raid",
-      "link": "https://www.dailymail.co.uk/news/article-15731629/British-heir-JCB-threatens-relocate-multibillion-pound-firm-US-protest-Rachel-Reeves-inheritance-tax-raid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T10:14:57",
-      "description": "Jo Bamford, son of JCB chairman Lord Bamford, said the Staffordshire-based company could relocate to the US to avoid\u00a0paying a 20 per cent tax on assets worth more than \u00a32.5m.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/10/107879509-0-image-m-11_1776160691810.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/10/107879509-0-image-m-11_1776160691810.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174526",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Alleged killer denies murdering student, 18, who was stabbed to death on way home from night out - while defendant's mother pleads not guilty to assisting offender by removing knife from scene",
-      "link": "https://www.dailymail.co.uk/news/article-15731539/alleged-killer-denies-murdering-student-18-stabbed-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T10:05:01",
-      "description": "An alleged killer has denied murdering an 'adored' 18-year-old student, who was stabbed to death on his way home from a night out with his new football teammates.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/10/104522559-0-image-m-13_1776159800595.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/10/104522559-0-image-m-13_1776159800595.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174527",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Deputy PM David Lammy holds talks with 'friend' JD Vance in Washington as he desperately tries to repair 'Special Relationship' after Iran meltdown",
-      "link": "https://www.dailymail.co.uk/news/article-15731543/Deputy-PM-David-Lammy-holds-talks-friend-JD-Vance-Washington-desperately-tries-repair-Special-Relationship-Iran-meltdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T09:59:28",
-      "description": "The Deputy Prime Minister met with the US Vice President in Washington DC amid the bitter spat between their two bosses, Keir Starmer and Donald Trump .",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/09/107878225-0-image-m-5_1776156672702.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/09/107878225-0-image-m-5_1776156672702.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174529",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "So much for getting a grip on benefits! Number of people claiming Universal Credit rises 63,000 in a MONTH including 25,000 not required to seek work",
-      "link": "https://www.dailymail.co.uk/news/article-15731623/Benefits-Universal-Credit-rises-63-000-MONTH.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T09:44:54",
-      "description": "The Department of Work and Pensions today revealed 8.40million people were receiving the welfare payment in February, up from 8.34million in January.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/10/107879053-0-image-a-9_1776159492880.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/10/107879053-0-image-a-9_1776159492880.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174530",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Pictured: Uni student, 21, found stabbed to death in garden - as housemate, 23, is charged with murder",
-      "link": "https://www.dailymail.co.uk/news/article-15731635/Pictured-Uni-student-21-stabbed-death-garden-housemate-23-charged-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T09:43:52",
-      "description": "The body of Jamie Collins, 21, was discovered in a house share in Filton, Bristol, after police were called to the property in the early hours of Thursday. Zack Coughlan, 23, was arrested on Sunday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/10/107879175-0-image-m-14_1776159436843.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/10/107879175-0-image-m-14_1776159436843.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174531",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Putin's 'poison empire' revealed, with thousands of scientists linked to secret laboratories accused of testing toxins on humans",
-      "link": "https://www.dailymail.co.uk/news/article-15731525/Putins-poison-empire-revealed-laboratories-accused-testing-toxins-humans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T09:43:38",
-      "description": "Experiments are conducted on humans in a sprawling network of secretive structures highlighting the evil underpinning his repressive rule.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/10/107878613-0-image-a-9_1776159160382.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/10/107878613-0-image-a-9_1776159160382.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174532",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Stunning 'conspiracy theory' blast at Dan Andrews - as the ex-premier is accused of 'malicious smear' in latest bike boy legal drama twist",
-      "link": "https://www.dailymail.co.uk/news/article-15730741/dan-andrews-defamation-ryan-meuleman-bike-boy-smear.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T09:32:33",
-      "description": "Former Victorian Premier Dan Andrews has been accused of a malicious smear campaign against a teenager dubbed 'Bike Boy'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/03/107871925-0-image-m-40_1776133412220.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/03/107871925-0-image-m-40_1776133412220.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174533",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Kemi Badenoch swipes at 'childish' Trump and his 'preposterous' Christ image post... but says US president is right on defence and Net Zero",
-      "link": "https://www.dailymail.co.uk/news/article-15731627/Kemi-Badenoch-Trump-childish-preposterous-Christ-president.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T09:31:34",
-      "description": "Kemi Badenoch has delivered some of her toughest criticism of the US president, saying his apparent foray into religious iconism was 'bizarre'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/10/107878665-0-image-a-8_1776158635460.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/10/107878665-0-image-a-8_1776158635460.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174534",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Paranoid Putin ramps up anti-drone defences at secluded mansion where secret lover and sons live",
-      "link": "https://www.dailymail.co.uk/news/article-15731391/Paranoid-Putin-ramps-anti-drone-defences-secluded-mansion-secret-lover-sons-live.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T09:13:09",
-      "description": "The Russian president has installed 27 towers armed with anti-aircraft systems at his Valdai fortress\u00a0in a remote forest area in the Novgorod region.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/09/107876983-0-image-m-15_1776155736521.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/09/107876983-0-image-m-15_1776155736521.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174536",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Migrants are hired by Greek cops to stop other migrants entering the country - and have been raping women, taking valuables and using extreme violence",
-      "link": "https://www.dailymail.co.uk/news/article-15731289/Migrants-hired-Greek-cops-stop-migrants-entering-country-raping-women-violence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T08:57:31",
-      "description": "Greek police have been hiring migrants to stop other foreigners from entering the country, a new investigation has reported.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/09/107877493-0-image-a-11_1776156310474.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/09/107877493-0-image-a-11_1776156310474.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T09:00:31.994313",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "School shooting rampage leaves at least 18 injured as pupil opens fire with hunting rifle in Turkey",
-      "link": "https://www.dailymail.co.uk/news/article-15731477/School-shooting-rampage-leaves-18-injured-pupil-opens-fire-hunting-rifle-Turkey.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T08:57:29",
-      "description": "Special security forces were deployed to the\u00a0Ahmet Koyuncu Vocational and Technical Anatolian High School\u00a0in the Siverek district of Sanliurfa province following the brutal attack.",
-      "thumbnail": "https://i.dailymail.co.uk/i/pix/m_logo_154x115px.png",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/i/pix/m_logo_154x115px.png",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T09:00:31.994320",
       "feed_category": "News",
       "feed_visibility": "both"
     }
