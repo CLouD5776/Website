@@ -1,6 +1,61 @@
 {
   "BBC News": [
     {
+      "title": "Migrants making false domestic abuse claims to stay in UK, BBC investigation finds",
+      "link": "https://www.bbc.com/news/articles/crl19dzdd38o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T04:58:15",
+      "description": "In the third part of an undercover investigation, the BBC reveals how rules aimed at protecting abuse victims are being exploited.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc15/live/6468de20-38e0-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T05:59:22.264546",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Watch: Reporter told to fake domestic abuse claim to remain in the UK",
+      "link": "https://www.bbc.com/news/videos/c0krryr1g22o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T05:00:34",
+      "description": "Some migrants are being encouraged to fabricate abuse allegations in order to stay in the UK.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb7/live/2f3a2c30-3904-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T05:59:22.264553",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Harry and Meghan join Aboriginal walking tour in Melbourne",
+      "link": "https://www.bbc.com/news/articles/c8r48l0kd2do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T04:16:42",
+      "description": "During their visit down under, the Duke and Duchess of Sussex have chosen to learn more about First Nations Australians' history.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c910/live/9cbd6710-393e-11f1-9601-b1fc19b05dea.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T05:59:22.264555",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chris Mason: The challenge of closing asylum loopholes while protecting genuine cases",
+      "link": "https://www.bbc.com/news/articles/c624xgx3g5ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T05:02:50",
+      "description": "There has been a stickiness to the electorate's concerns about issues of immigration and asylum, Chris Mason writes.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94fa/live/e5d6b1c0-3922-11f1-934c-29075e67c27d.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T05:59:22.264562",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Cool Hand Luke actress Joy Harmon dies aged 87",
+      "link": "https://www.bbc.com/news/articles/cvgkzpqnvd0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T05:52:12",
+      "description": "Harmon was best known for a car-washing scene in the Paul Newman prison drama.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde1/live/8345be40-3957-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T05:59:22.264566",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Russian attacks leave three dead in Ukraine",
       "link": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-16T03:26:59",
@@ -5444,64 +5499,135 @@
       "archived_at": "2026-04-09T15:05:55.093418",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "UK says Russia ran submarine operation over cables and pipelines",
-      "link": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T13:07:54",
-      "description": "Defence Secretary John Healey says there is \"no evidence\" of any damage to UK infrastructure in the Atlantic.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8200/live/9a0ba670-340d-11f1-8be7-8b0656c72753.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T13:19:09.614176",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Lebanon thought there was a ceasefire - then Israel unleashed deadly blitz",
-      "link": "https://www.bbc.com/news/articles/cgk0edynpmzo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T12:12:06",
-      "description": "Israel says Lebanon is not included in the ceasefire the US agreed to halt the war with Iran.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0a/live/36f35b50-3412-11f1-a058-4f0eff2075b9.png",
-      "enclosure": null,
-      "archived_at": "2026-04-09T13:19:09.614187",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'I want my heart attack story to inspire people to live life'",
-      "link": "https://www.bbc.com/news/articles/cgmej4yz0gzo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T05:35:16",
-      "description": "Faith Harrison survived a seven-hour heart attack at the age of 22.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c3/live/e73c1e30-2dea-11f1-bdc6-c5114fc788c9.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T13:19:09.614189",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Greens launch local election campaign with focus on housing",
-      "link": "https://www.bbc.com/news/articles/cj0v1qdd45no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T12:58:43",
-      "description": "Party leader Zack Polanski accuses Labour of failing to build enough social and affordable homes.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23d4/live/14d9ff50-3413-11f1-a058-4f0eff2075b9.png",
-      "enclosure": null,
-      "archived_at": "2026-04-09T13:19:09.614191",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "GB's Stojsavljevic, 17, set for Billie Jean King Cup debut",
-      "link": "https://www.bbc.com/sport/tennis/articles/cwydvj293rvo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T11:13:07",
-      "description": "17-year-old Mika Stojsavljevic will make her Billie Jean King Cup debut for Great Britain this week in a qualifying tie against Australia.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70c/live/b9d95b30-3400-11f1-a358-4371c0159520.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T13:19:09.614194",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Trump announces leaders of Israel and Lebanon will meet for the first time in 33 YEARS... with huge ramifications for war in Iran",
+      "link": "https://www.dailymail.co.uk/news/article-15737647/donald-trump-israel-lebanon-iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T05:53:54",
+      "description": "The president's late-night announcement comes after a meeting between Lebanese and Israeli officials in Washington DC.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/06/107933987-0-image-m-17_1776318275784.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/06/107933987-0-image-m-17_1776318275784.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:24.520188",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Meghan tells fans she was bullied online 'every day for 10 years' and became 'most trolled person in the world' as Prince Harry suffers awkward selfie moment with Australian TV reporter",
+      "link": "https://www.dailymail.co.uk/news/article-15737731/Meghan-tells-fans-bullied-online-day-10-years-trolled-person-world-Prince-Harry-suffers-awkward-selfie-moment-Australian-TV-reporter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T05:47:47",
+      "description": "On day three of the Duke and Duchess of Sussex's Australian tour, the couple spoke to students in Melbourne about the dangers of social media and its impact on mental health.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/06/107934001-0-image-m-10_1776317757344.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/06/107934001-0-image-m-10_1776317757344.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:24.520196",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Male massage therapist, 58, charged with rape after EIGHT women allege they were sexually assaulted by him",
+      "link": "https://www.dailymail.co.uk/news/article-15737487/Massage-therapist-alleged-sex-offences-diamond-valley.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T05:19:26",
+      "description": "A Queensland massage therapist has been slapped with a string of alleged sex offences after eight women claimed he sexually assaulted them.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/06/107933729-0-image-a-2_1776316758226.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/06/107933729-0-image-a-2_1776316758226.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:24.520197",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hit squad who murdered an Aussie in Bali hit by devastating new blow - after victim Zivan Radmanovic's family blasted their soft jail sentences",
+      "link": "https://www.dailymail.co.uk/news/article-15737319/Hit-squad-Bali-Zivan-Radmanovic-sentence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T05:18:56",
+      "description": "There is an update on the sentences of three Australian men who shot dead Melbourne father-of-six Zivan Radmanovic, 32, inside a luxury Bali villa.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/03/107929925-0-image-m-49_1776305289481.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/03/107929925-0-image-m-49_1776305289481.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:24.520199",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump takes a shot at the UN as he sends blunt 'America First' message to the world marking a major shift in the global order... and US businesses are expected to reap the benefits",
+      "link": "https://www.dailymail.co.uk/news/article-15737397/trump-sends-america-message-trade-global-aid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T05:16:56",
+      "description": "The United States wants to spread its de-emphasis on foreign aid to developing nations. Secretary of State Marco Rubio told US diplomats to push countries to back a 'trade over aid' initiative.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/05/107931911-0-The_Trump_administration_wants_to_convince_the_world_to_favor_su-a-62_1776313214484.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/05/107931911-0-The_Trump_administration_wants_to_convince_the_world_to_favor_su-a-62_1776313214484.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:24.520200",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fury from LGBTQ community as Tennessee declares June as 'Nuclear Family Month' and DROPS 'pride'",
+      "link": "https://www.dailymail.co.uk/news/article-15736435/Tennessee-nuclear-family-month-pride.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T05:06:18",
+      "description": "Tennessee Governor Bill Lee signed into law a controversial law declaring June as 'Nuclear Family Month' - and not Pride Month - on April 9.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/05/107932689-0-image-a-19_1776313762160.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/05/107932689-0-image-a-19_1776313762160.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:24.520201",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "US military obliterates vessel in Pacific Ocean and kills three 'narco-terrorists' as part of Operation Southern Spear",
+      "link": "https://www.dailymail.co.uk/news/article-15737583/Military-obliterates-drug-vessel-Pacific-kills-narco-terrorists.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T04:41:54",
+      "description": "The strike has brought the total number of vessels destroyed as part of Operation Southern Spear to 52, and it has brought the total number of people killed in the attacks to 174.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/05/107932161-0-image-m-14_1776312005917.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/05/107932161-0-image-m-14_1776312005917.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:24.520203",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "NSW nurses score pay rise of up to 28 per cent in major win",
+      "link": "https://www.dailymail.co.uk/news/article-15737679/nurse-pay-rise-28-cent-NSW.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T04:22:53",
+      "description": "The independent Industrial Relations Commission of NSW found the nearly 70,000 employees were entitled to a pay bump over three years.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/05/107932795-0-image-a-16_1776313113809.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/05/107932795-0-image-a-16_1776313113809.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:24.520205",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arsonist who attacked Sam Altman's home called for 'Luigi-ing Tech CEOs' in chilling Mangione copycat threat",
+      "link": "https://www.dailymail.co.uk/news/article-15737559/arsonist-molotov-cocktail-sam-altman-mangione.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T04:06:33",
+      "description": "Daniel Moreno-Gama, 20, spoke out against artificial intelligence in a podcast interview in January when he made the chilling remark referencing Luigi Mangione.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/04/107863127-0-image-m-49_1776311600790.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/04/107863127-0-image-m-49_1776311600790.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:24.520207",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Pilot fighting for life after his light plane crashed into a Berrima paddock in the NSW Southern Highlands",
       "link": "https://www.dailymail.co.uk/news/article-15737577/berrima-plane-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12375,135 +12501,23 @@
       "archived_at": "2026-04-13T17:37:53.554187",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Democrat who wants to be Florida's next governor is filmed being arrested after allegedly beating up two elderly people with a cane and phone",
-      "link": "https://www.dailymail.co.uk/news/article-15729211/florida-democrat-governor-kevin-cichowski-arrested.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T17:02:26",
-      "description": "Kevin Cichowski, 46, who\u00a0is listed as a Democratic candidate for governor, was arrested on Friday after police say he beat his elderly parents and threatened to kill them.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/16/107859493-0-image-m-9_1776093238611.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/16/107859493-0-image-m-9_1776093238611.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T17:37:53.554188",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Keir Starmer's former boss blasts plan to slash jury trial as a 'betrayal of Labour traditions and values'",
-      "link": "https://www.dailymail.co.uk/news/article-15728623/Keir-Starmers-former-boss-blasts-plan-slash-jury-trial-betrayal-Labour-traditions-values.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T17:02:24",
-      "description": "Geoffrey Robertson KC said legislation slashing the right to trial by jury risked being a 'cure worse than the disease'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861955-0-image-m-13_1776096464434.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861955-0-image-m-13_1776096464434.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T17:37:53.554190",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Here's how to get a PAY RISE (especially if you're a woman). A new survey shows a shocking discrepancy between how men and women conduct their financial affairs, but there are steps you can take to boost your confidence - and your bank balance...",
-      "link": "https://www.dailymail.co.uk/news/article-15729569/Heres-PAY-RISE-especially-youre-woman-new-survey-shows-shocking-discrepancy-men-women-conduct-financial-affairs-steps-you-boost-confidence-bank-balance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T16:39:40",
-      "description": "The survey found that men\u00a0report higher confidence levels than women in a gap is particularly evident when it comes to asking for a pay rise.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861989-0-image-a-4_1776097119971.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861989-0-image-a-4_1776097119971.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T17:37:53.554192",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "It really is a dog's life: Majority of Brits admit their pet has an assigned seat in the living room",
-      "link": "https://www.dailymail.co.uk/news/article-15729183/dogs-pet-assigned-seat-living-room-TV-sofa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T16:28:39",
-      "description": "It's time to let sleeping dogs lie - preferably in their own spot on the sofa.\nOne in five Britons believe  pets have as much right to loaf around on the furniture as their owners.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862205-0-image-a-4_1776097340008.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862205-0-image-a-4_1776097340008.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T17:37:53.554194",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Controlling boyfriend who hurled teenage girl 40ft from fourth-floor flat is jailed for five years",
-      "link": "https://www.dailymail.co.uk/news/article-15729119/Controlling-boyfriend-hurled-teenage-girl-jailed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T15:48:35",
-      "description": "Jordan Herring, 22, threw his girlfriend from the fourth floor of Merton House in Solihull, Birmingham, shortly after 11.20pm on November 12 2022.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/16/105903111-0-image-m-19_1776092637266.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/16/105903111-0-image-m-19_1776092637266.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T16:20:28.019977",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Kemi Badenoch signals she will stop Brits getting points on their licence if they break 20mph limits as Tory leader urges 'balance' over driving offences",
-      "link": "https://www.dailymail.co.uk/news/article-15729351/Kemi-Badenoch-signals-stop-Brits-getting-points-licence-break-20mph-limits-Tory-leader-urges-balance-driving-offences.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T15:32:33",
-      "description": "The Tory leader called for 'balance' in the enforcement of motoring offences as she said doing 22mph in a 20mph zone is 'very different from driving dangerously'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/15/107859783-0-image-m-50_1776092131344.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/15/107859783-0-image-m-50_1776092131344.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T16:20:28.019982",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump DELETES 'blasphemous' Jesus image after backlash from president's closest allies",
-      "link": "https://www.dailymail.co.uk/news/article-15729473/Trump-DELETES-blasphemous-Jesus-image-backlash-presidents-closest-allies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T16:18:16",
-      "description": "Donald Trump deleted a viral post comparing himself to Jesus Christ after it drew accusations of blasphemy from some of his right-wing supporters.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/16/107857595-0-image-a-2_1776094413331.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/16/107857595-0-image-a-2_1776094413331.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T16:20:28.019995",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Nurse branded a 'risk to the public' for refusing to use a paedophile's preferred pronouns wins settlement",
-      "link": "https://www.dailymail.co.uk/news/article-15729207/nurse-risk-public-refusing-paedophiles-preferred-pronouns-settlement.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T16:17:56",
-      "description": "Jennifer Melle (pictured), 41, from Croydon, was hit with a written warning\u00a0after refusing to adopt female pronouns for the six-foot convicted sex offender with a beard in May 2024.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/16/107861453-0-image-m-13_1776095728842.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/16/107861453-0-image-m-13_1776095728842.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T16:20:28.019997",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Newmarket jockey admits killing man, 71, who died 10 days after brawl outside town pub",
-      "link": "https://www.dailymail.co.uk/news/article-15729437/Newmarket-jockey-admits-killing-man-71-died-10-days-brawl-outside-town-pub.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T16:14:36",
-      "description": "Levi Williams, 26, pleaded guilty to the manslaughter of Richard Wingrove, 71, who died in hospital ten days after the altercation in the Suffolk town, known as the historic home of horse racing.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/16/107860745-0-image-a-4_1776094755572.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/16/107860745-0-image-a-4_1776094755572.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T16:20:28.019998",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Revealed: The embarrassing problem with the Socceroos' World Cup kits",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15737637/Embarrassing-problem-Socceroos-World-Cup-kits-shoulder-seams-bulging-2026.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T05:40:48",
+      "description": "The Socceroos have a problem ahead of the World Cup - and sportswear giant Nike has launched an investigation before a ball is kicked.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/05/107932449-0-image-a-47_1776312124397.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/05/107932449-0-image-a-47_1776312124397.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:27.910962",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Cristian Romero, Micky van de Ven and Xavi Simons gone, the rivals ready to poach their young stars, a \u00a3250m black hole and why promotion will be an uphill battle: This is what will happen if Tottenham get relegated",
       "link": "https://www.dailymail.co.uk/sport/football/article-15736237/Tottenham-relegated-stars-transfers-black-hole.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19489,23 +19503,20 @@
       "archived_at": "2026-03-31T19:33:34.721297",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Defiant Senegal stars PARADE the AFCON trophy - days after being controversially stripped of their crown",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15687575/Senegal-PARADE-AFCON-trophy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-28T16:26:00",
-      "description": "The Confederation of African Football appeal board took the unprecedented action to essentially disqualify Senegal earlier this month after their players walked off the field in protest.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/28/15/107493707-0-image-a-34_1774713228654.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/28/15/107493707-0-image-a-34_1774713228654.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721298",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
+    {
+      "title": "\u00a3124m spent but Newcastle no closer to striker solution",
+      "link": "https://www.bbc.com/sport/football/articles/c5yv6v2vrlyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T05:41:38",
+      "description": "Newcastle United spent \u00a3124m to replace departing Alexander Isak, but Eddie Howe's men now seem no closer to finding their striking solution.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50a9/live/8789da70-3800-11f1-9200-b31cdeb07b99.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T05:59:28.218249",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Bayern links and World Cup hopes - a big summer for Gordon",
       "link": "https://www.bbc.com/sport/football/articles/clyxx5j8408o?at_medium=RSS&at_campaign=rss",
@@ -21031,6 +21042,48 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "DJ Rezz pulls out of Coachella due to health issues",
+      "link": "https://www.music-news.com/news/UK/188364/DJ-Rezz-pulls-out-of-Coachella-due-to-health-issues",
+      "pubDate": "2026-04-16T03:00:00",
+      "description": "Electronic music artist Rezz has pulled out of Coachella weekend 2 due to health issues.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188364.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188364.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:31.587136",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bunbury welcomes fans who bought tickets thinking he was Bad Bunny",
+      "link": "https://www.music-news.com/news/UK/188363/Bunbury-welcomes-fans-who-bought-tickets-thinking-he-was-Bad-Bunny",
+      "pubDate": "2026-04-16T03:00:00",
+      "description": "Bunbury has reacted to a mix-up between himself and Bad Bunny.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188363.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188363.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:31.587143",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Adele to record new music - report",
+      "link": "https://www.music-news.com/news/UK/188362/Adele-to-record-new-music-report",
+      "pubDate": "2026-04-16T03:00:00",
+      "description": "Adele is making a surprise return to the recording studio.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188362.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188362.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T05:59:31.587144",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Billie Eilish's mum Maggie Baird wins inaugural Bobby Weir Sustainability Award",
       "link": "https://www.music-news.com/news/UK/188361/Billie-Eilish-s-mum-Maggie-Baird-wins-inaugural-Bobby-Weir-Sustainability-Award",
