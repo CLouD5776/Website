@@ -1,6 +1,105 @@
 {
   "BBC News": [
     {
+      "title": "'Breakthrough' Alzheimer's drugs unlikely to benefit patients, report suggests",
+      "link": "https://www.bbc.com/news/articles/cql77wlqlx7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T06:18:53",
+      "description": "A major review has provoked a backlash after concluding the medicines provide too little benefit to be noticed.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3aa/live/849c6fe0-38ef-11f1-af56-f16d2af863b9.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T07:59:35.561281",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Israeli demolitions levelling towns in south Lebanon, satellite images show",
+      "link": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T06:25:14",
+      "description": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f319/live/471bcbb0-38eb-11f1-879d-1b2f5c3919b8.png",
+      "enclosure": null,
+      "archived_at": "2026-04-16T07:59:35.561286",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "UK could face food shortages in worst case Iran war scenario",
+      "link": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T07:47:58",
+      "description": "The UK could face some food shortages by the summer under a worst case scenario drawn up by officials.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b31c/live/ad48bf80-3957-11f1-95f2-15992a243ca5.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T07:59:35.561287",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Economy grew faster than expected ahead of Iran war",
+      "link": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T07:38:33",
+      "description": "The economy saw its biggest monthly rise in more than two years just before the outbreak of the US-Israeli war with Iran.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b8d/live/c44c0390-3957-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T07:59:35.561292",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I feared my son had a brain tumour but he'd been poisoned with vitamin D",
+      "link": "https://www.bbc.com/news/articles/cpwj72nzrr1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T05:08:07",
+      "description": "Investigations found Roo had been accidentally poisoned with a dose of vitamin D prescribed for growing pains.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9991/live/c07337e0-3351-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T07:59:35.561294",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hippo bones and woolly rhino part of 'once-in-a-lifetime' find in medieval castle cave",
+      "link": "https://www.bbc.com/news/articles/c8ejjw7377jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T05:22:29",
+      "description": "Archaeologists have so far uncovered \"extremely rare\" evidence of early humans and animals at the cave.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b21/live/18d35840-37dd-11f1-a488-f5dec36f7fff.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T07:59:35.561296",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fake damage and imaginary watches - how AI images are being used in insurance scams",
+      "link": "https://www.bbc.com/news/articles/cm2rr9pg4jzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T05:17:53",
+      "description": "An insurer reports a 71% rise in fraudulent claims, driven partly by an increase in faked images.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2a2/live/d83a3450-38e7-11f1-af88-bb55454ebba2.png",
+      "enclosure": null,
+      "archived_at": "2026-04-16T07:59:35.561297",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Play-off pending? How draw at Etihad could set up thrilling finale",
+      "link": "https://www.bbc.com/sport/football/articles/c5yjr2ylqqzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T06:20:29",
+      "description": "Man City's meeting against Arsenal may go a long way to deciding the destination of the Premier League trophy in May, but how close a finish could it be?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c135/live/7cb52b90-37f1-11f1-bf98-335695df34d3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T07:59:35.561299",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "\u00a3124m spent but Newcastle no closer to striker solution",
+      "link": "https://www.bbc.com/sport/football/articles/c5yv6v2vrlyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T05:41:38",
+      "description": "Newcastle United spent \u00a3124m to replace departing Alexander Isak, but Eddie Howe's men now seem no closer to finding their striking solution.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24ee/live/164b51e0-395e-11f1-a650-6399b8700755.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T07:59:35.561301",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Migrants making false domestic abuse claims to stay in UK, BBC investigation finds",
       "link": "https://www.bbc.com/news/articles/crl19dzdd38o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-16T04:58:15",
@@ -5400,108 +5499,107 @@
       "archived_at": "2026-04-09T15:05:55.093403",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Woman killed sister and snatched Rolex, court told",
-      "link": "https://www.bbc.com/news/articles/c3v61920gneo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T11:48:03",
-      "description": "Nancy Pexton, 69, denies murdering her sister Jennifer Abbott Dauward and stealing her Rolex.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d08f/live/d66db2b0-50ed-11f0-80a0-b52754f7012d.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T15:05:55.093405",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Has US achieved its war objectives in Iran?",
-      "link": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T13:11:03",
-      "description": "Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e2/live/ece59190-33f8-11f1-a4ee-f9cebb92412a.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T15:05:55.093407",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "BTS battle torrential rain to kick off $1bn world tour",
-      "link": "https://www.bbc.com/news/articles/cq59qzzg93jo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T13:59:24",
-      "description": "The K-Pop band are battered by the elements as they launch their marathon world tour in Goyang.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e827/live/0614a490-3420-11f1-aa50-fd39c44a0779.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T15:05:55.093409",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man jailed after grooming girl he met on gaming platform Roblox",
-      "link": "https://www.bbc.com/news/articles/cgqkl8j75k3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T15:00:44",
-      "description": "Carlo Tritta, now aged 19, encouraged the teenage girl to send sexually explicit images of herself.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b628/live/843fa4b0-341f-11f1-aa50-fd39c44a0779.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T15:05:55.093411",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Britain's 'most beautiful coin' sold for \u00a3110,000",
-      "link": "https://www.bbc.com/news/articles/c2evpw74l4po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T13:03:57",
-      "description": "Fewer than 300 of the gold \"Una and the Lion\" coins were produced, with one found in a Bangor estate.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45ff/live/7ea49ca0-3419-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T15:05:55.093412",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Canada's Mark Carney 'so proud' of astronauts in call to Artemis II",
-      "link": "https://www.bbc.com/news/videos/cwykpw99ed2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T14:31:57",
-      "description": "Jeremy Hansen received a call from the prime minister as Canada's first astronaut to travel into deep space as part of the Artemis II mission.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a66/live/3eb56870-3420-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T15:05:55.093414",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "US plans to automatically register men for military draft eligibility",
-      "link": "https://www.bbc.com/news/articles/cd6lx2lpl9xo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T14:22:30",
-      "description": "The proposed new rule would end decades of mandatory self-registration for Selective Service in the US.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85cf/live/e998f110-3418-11f1-9fad-db21ae1095d5.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T15:05:55.093415",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Seven games to go - how will De Zerbi try to save Spurs?",
-      "link": "https://www.bbc.com/sport/football/articles/cvg3kxy221xo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T13:36:31",
-      "description": "Clubs at risk of relegation tend to hire pragmatic coaches - but Spurs have not done that by appointing Roberto de Zerbi.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/593b/live/46f3de10-3419-11f1-879d-1b2f5c3919b8.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-09T15:05:55.093417",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Cardoso takes record nine wickets in T20 international",
-      "link": "https://www.bbc.com/sport/cricket/articles/cly7dgp8x7jo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T13:22:49",
-      "description": "Brazil's Laura Cardoso becomes the first player ever to take nine wickets in a T20 international, recording figures of 9-4 against Lesotho.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe9/live/a7115100-341a-11f1-9fad-db21ae1095d5.png",
-      "enclosure": null,
-      "archived_at": "2026-04-09T15:05:55.093418",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Brace for summer of shortages: Chicken and pork among products facing crunch from Middle East crisis as ministers 'plan for rationing CO2'",
+      "link": "https://www.dailymail.co.uk/news/article-15737899/Summer-shortages-chicken-pork-products-Middle-East-rationing-CO2.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T07:51:12",
+      "description": "A 'reasonable worst case' scenario drawn up by the Government suggested that disruption to carbon dioxide supplies from the Middle East could have major impacts.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/08/107934989-0-image-m-6_1776323528835.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/08/107934989-0-image-m-6_1776323528835.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T07:59:37.825307",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Male and female migrants are falsely claiming to be victims of domestic abuse after being encouraged to dupe authorities by rogue legal advisers",
+      "link": "https://www.dailymail.co.uk/news/article-15737785/migrants-domestic-abuse-rogue-legal-advisers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T07:48:15",
+      "description": "Rogue lawyers are charging \u00a3900 to help migrants, both male and female, to fabricate domestic abuse claims to fast track a permanent stay in Britain.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/08/107935149-0-image-a-19_1776324591813.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/08/107935149-0-image-a-19_1776324591813.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T07:59:37.825314",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Latin Gang' who sliced off man's fingertips as they hacked him to death in London machete fight face life in jail",
+      "link": "https://www.dailymail.co.uk/news/article-15737805/Latin-Gang-sliced-mans-fingertips-hacked-death-London-machete-fight-face-life-jail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T07:41:35",
+      "description": "Giovanny Rendon Bedoya, 21, died in a 'vicious' onslaught from a South American gang in Hillingdon Street, Walworth, last April.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/08/107934615-0-image-m-22_1776325231440.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/08/107934615-0-image-m-22_1776325231440.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T07:59:37.825316",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump's Department of War 'not being honest' about scale of damage from Iran conflict as satellite images lay bare billions of dollars worth of equipment losses, claims new Daily Mail show",
+      "link": "https://www.dailymail.co.uk/news/article-15735687/iran-war-damage-department-war-satellite-images-losses-photo-evidence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T07:10:00",
+      "description": "Looking at one air base on just one day of the Iran war, it appears probable that the US lost over a billion dollars worth of equipment.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107916419-0-image-a-4_1776263445569.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107916419-0-image-a-4_1776263445569.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T07:59:37.825318",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Australia secures 100million diesel lifeline after Anthony Albanese flew to Asia for crisis talks",
+      "link": "https://www.dailymail.co.uk/news/article-15737833/fuel-prices-australia-albanese-100-million-diesel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T06:47:59",
+      "description": "Australia has secured an extra 100million litres of diesel shipments to help deal with the global fuel crisis after a series of leaders' meetings in Asia.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/07/107934599-0-image-m-65_1776320656996.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/07/107934599-0-image-m-65_1776320656996.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T07:59:37.825320",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "I'm an Aussie farmer - and this is why the war in Iran might actually be a GOOD thing for our country",
+      "link": "https://www.dailymail.co.uk/news/article-15737353/Matthew-Evans-farmer-war-Iran-electric.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T06:43:34",
+      "description": "A pig farmer believes the fuel crisis could be the catalyst for cheaper groceries in the future if growers make these two key changes.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/07/107934793-0-image-m-13_1776321752685.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/07/107934793-0-image-m-13_1776321752685.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T07:59:37.825322",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Controversial anti-protest laws introduced in the wake of the Bondi massacre are STRUCK DOWN",
+      "link": "https://www.dailymail.co.uk/news/article-15737787/bondi-laws-protest-chris-minns-nsw-massacre.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T06:12:46",
+      "description": "A major court ruling has struck down protest laws that were enacted in Sydney in the wake of the Bondi shooting.",
+      "thumbnail": "https://i.dailymail.co.uk/1/2026/04/16/06/107933969-0-image-a-50_1776317767013.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1/2026/04/16/06/107933969-0-image-a-50_1776317767013.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T07:59:37.825324",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump announces leaders of Israel and Lebanon will meet for the first time in 33 YEARS... with huge ramifications for war in Iran",
       "link": "https://www.dailymail.co.uk/news/article-15737647/donald-trump-israel-lebanon-iran-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12403,107 +12501,23 @@
       "archived_at": "2026-04-13T17:37:53.554174",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "French police at it again as small boats rammed with migrants set off unchallenged for Britain from Dunkirk beach",
-      "link": "https://www.dailymail.co.uk/news/article-15729637/French-police-small-boats-rammed-migrants-set-unchallenged-Britain-Dunkirk-beach.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T17:24:15",
-      "description": "Despite their specialist uniforms with riot helmets, waterproof body-worn cameras, non-lethal handguns and pistol-grip pepper spray, the gendarmerie stood and watched as boats left.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/18/107862363-0-image-m-12_1776100817413.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/18/107862363-0-image-m-12_1776100817413.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T17:37:53.554177",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Mother loses both her daughters in horrific car crash",
-      "link": "https://www.dailymail.co.uk/news/article-15729231/north.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T17:23:06",
-      "description": "Melissa Battle's two daughters, Carmen Poland, 24, and Lillian Davis, six, died in a car crash in Rocky Mount, North Carolina.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862599-0-image-m-26_1776098853598.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862599-0-image-m-26_1776098853598.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T17:37:53.554178",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Disgraceful excuse of FedEx driver who abducted and killed Athena Strand, 7, while delivering her Barbie Christmas present... as his self-pitying letters to her family are revealed",
-      "link": "https://www.dailymail.co.uk/news/article-15729463/Tanner-Horner-Athena-Strand-letters-suicide-trial-death-penalty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T17:20:47",
-      "description": "Tanner Horner, 34, wrote a disgraceful letter to the seven-year-old's grieving family from his jail cell months after he killed her in November 2022, blaming FedEx for the little girl's murder.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107719345-0-image-m-80_1776098091300.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107719345-0-image-m-80_1776098091300.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T17:37:53.554180",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Mother, 37, kills herself, her two teenage children and family friend after car vaulted off road 'while traveling at high rate of speed'",
-      "link": "https://www.dailymail.co.uk/news/article-15728851/kara-beagle-texas-four-people-dead-car-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T17:18:40",
-      "description": "Kara Beagle, 37, her kids Markel and Makhia Beagle, and their 19-year-old family friend Jay'Shawn Godfrey, died in a tragic high speed car crash on Friday in Texas.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861621-0-Kara_Beagle_37_her_children_Markel_and_Makhia_Beagle_they_died_i-a-10_1776097536158.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107861621-0-Kara_Beagle_37_her_children_Markel_and_Makhia_Beagle_they_died_i-a-10_1776097536158.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T17:37:53.554181",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Baby-faced stepbrother, 16, of Anna Kepner unmasked as he's formally charged as an adult in her cruise ship murder",
-      "link": "https://www.dailymail.co.uk/news/crime-desk/article-15658223/anna-kepner-murder-timothy-hudson-charges-florida.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T17:17:02",
-      "description": "Timothy Hudson will be tried as an adult in federal court, although he cannot face the death penalty because he was a juvenile at the time of the alleged slaying.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/18/16/107237355-0-image-a-29_1773850327616.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/18/16/107237355-0-image-a-29_1773850327616.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T17:37:53.554183",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Muslims complain it is RACIST to tow their cars for being parked illegally outside Maine mosque... as nearby business blares national anthem and What Does the Fox Say? during services",
-      "link": "https://www.dailymail.co.uk/news/article-15728759/Muslims-complain-RACIST-tow-cars-parked-illegally-outside-Maine-mosque-nearby-business-blares-national-anthem-Does-Fox-Say-services.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T17:04:59",
-      "description": "The Masjidu Salaam Mosque in Lewiston has hit out at a recent spate of ticketing and towing - but locals say it is unfair of worshippers to park illegally.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/18/107862035-0-image-m-16_1776099657780.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/18/107862035-0-image-m-16_1776099657780.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T17:37:53.554185",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Two brothers used a 'high level of violence' as they attacked armed police officer in Manchester Airport brawl, court hears",
-      "link": "https://www.dailymail.co.uk/news/article-15729499/Two-brothers-used-high-level-violence-attacked-armed-police-officer-Manchester-Airport-brawl-court-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T17:03:55",
-      "description": "Mohammed Fahir Amaaz,21, and his elder brother Muhammad Amaad, 26, rained 'repeated blows' on PC Zachary Marsden as he tried to arrest Amaaz at Manchester airport.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862359-0-image-m-15_1776098697950.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/13/17/107862359-0-image-m-15_1776098697950.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-13T17:37:53.554187",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Jude Bellingham is told 'shut your mouth' by Real Madrid team-mate Vinicius Jnr in furious row as stars went into meltdown during bad-tempered Champions League exit",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15737839/Real-Madrid-Champions-League-Vinicius-Junior-Jude-Bellingham-spat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T07:53:00",
+      "description": "Real Madrid were dumped out of the Champions League by Bayern Munich on Wednesday night in a game in which emotions among those in white threatened to boil over.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/08/107935049-0-image-a-26_1776323507749.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/08/107935049-0-image-a-26_1776323507749.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T07:59:41.066736",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Revealed: The embarrassing problem with the Socceroos' World Cup kits",
       "link": "https://www.dailymail.co.uk/sport/football/article-15737637/Embarrassing-problem-Socceroos-World-Cup-kits-shoulder-seams-bulging-2026.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19489,20 +19503,6 @@
       "archived_at": "2026-03-31T19:33:34.721296",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Jurgen Klopp brings back iconic fist pump celebration on Anfield return with Liverpool legend back in the dugout for legends' draw against Dortmund - while one star fights back tears during Diogo Jota tribute",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15687739/jurgen-klopp-anfield-liverpool-dortmund.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-28T18:27:59",
-      "description": "Jurgen Klopp was back in his happy place on Saturday - in front of the Kop punching three glorious fist pumps in their direction for the first time in nearly two years.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/28/18/107495851-0-image-a-4_1774722117686.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/28/18/107495851-0-image-a-4_1774722117686.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721297",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
@@ -21042,6 +21042,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Harmonies for habitats: G4 to headline RSPB\u2019s immersive \u2018Night of Nature\u2019",
+      "link": "https://www.music-news.com/news/UK/188365/Harmonies-for-habitats-G4-to-headline-RSPB-s-immersive-Night-of-Nature",
+      "pubDate": "2026-04-16T06:32:00",
+      "description": "The RSPB is set to prove that the call of the wild sounds best when accompanied by a soaring tenor. On August 15, 2026, the conservation",
+      "thumbnail": "https://www.music-news.com/images/news/NightofNature.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/NightofNature.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T07:59:45.309592",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Adele to record new music",
+      "link": "https://www.music-news.com/news/UK/188362/Adele-to-record-new-music",
+      "pubDate": "2026-04-16T03:00:00",
+      "description": "Adele is making a surprise return to the recording studio.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188362.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188362.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T07:59:45.309598",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "DJ Rezz pulls out of Coachella due to health issues",
       "link": "https://www.music-news.com/news/UK/188364/DJ-Rezz-pulls-out-of-Coachella-due-to-health-issues",
