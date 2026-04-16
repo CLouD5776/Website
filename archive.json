@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
+      "link": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T17:24:46",
+      "description": "The armed men reportedly evaded capture by escaping through the city's sewer system.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd89/live/fb48e460-39b8-11f1-879d-1b2f5c3919b8.png",
+      "enclosure": null,
+      "archived_at": "2026-04-16T21:39:34.688747",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "School shootings a new trauma for Turkey as nation mourns",
+      "link": "https://www.bbc.com/news/articles/cwyv21q9y1go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T21:09:34",
+      "description": "An expert tells the BBC the attack in Kahramanmaras was a tragedy but \"not a surprise\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1755/live/9b48f7a0-39cf-11f1-8e60-cba08815e4da.png",
+      "enclosure": null,
+      "archived_at": "2026-04-16T21:39:34.688753",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Clayton beats Littler in Rotterdam to extend lead",
+      "link": "https://www.bbc.com/sport/darts/articles/c2k32z8qwxgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T21:02:35",
+      "description": "Jonny Clayton delights the Rotterdam crowd as he beats Luke Littler 6-4 to extend his lead at the top of the Premier League table.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c7c/live/ffe303f0-39ce-11f1-8e60-cba08815e4da.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-16T21:39:34.688756",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Mandelson Failed Security Vetting\u2026Who Knew What, When?",
       "link": "https://www.bbc.co.uk/sounds/play/p0nd41j7?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-16T19:40:00",
@@ -5466,42 +5499,135 @@
       "archived_at": "2026-04-10T10:05:57.038380",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "How the cost of holidays, food and clothes is rising - despite the Iran ceasefire",
-      "link": "https://www.bbc.co.uk/news/resources/idt-8ea95b22-220c-44be-8704-c41cdff0df66?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T00:00:00",
-      "description": "Fuel costs have already soared, flights and mortgages are also rising - and food could soon do the same.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a8/live/3891a4f0-34b5-11f1-9d5c-8ba507d7dbde.png",
-      "enclosure": null,
-      "archived_at": "2026-04-10T08:52:25.023837",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Travellers told to allow more time for journeys as Irish fuel protests continue",
-      "link": "https://www.bbc.com/news/articles/cy814wypp5go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T08:50:49",
-      "description": "The Irish military will be deployed to move vehicles \"blocking critical infrastructure\".",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c344/live/d4b47d40-3437-11f1-a18c-d7e9f5df98a8.png",
-      "enclosure": null,
-      "archived_at": "2026-04-10T08:52:25.023848",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "MacIntyre faces action after angry Masters gesture",
-      "link": "https://www.bbc.com/sport/golf/articles/c4gxpdkvp3mo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T08:41:31",
-      "description": "Scotland's Robert MacIntyre could face disciplinary action at The Masters after an angry gesture at the 15th green during a quadruple bogey.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a29/live/c8c79770-34b3-11f1-a676-6ff4dfb1e8ec.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T08:52:25.023851",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "'I'm not happy with them': Donald Trump launches his most blistering attack on Australia yet as war rages on",
+      "link": "https://www.dailymail.co.uk/news/article-15740327/trump-albo-middle-east-conflict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T21:31:08",
+      "description": "The US President lashed out at Australia when he was asked about the Albanese government's latest defence pledge.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107953059-0-image-a-3_1776372492945.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107953059-0-image-a-3_1776372492945.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:35.927321",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Lauren Boebert asks why politicians are 'so horny' amid sexual misconduct allegations... and the responses were inevitable",
+      "link": "https://www.dailymail.co.uk/news/article-15740419/Lauren-Boebert-asks-politicians-horny-amid-sexual-misconduct-allegations-responses-inevitable.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T21:28:27",
+      "description": "Congresswoman Lauren Boebert wants to know why everyone on Capitol Hill is so rife and randy.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/22/107953883-0-image-m-38_1776374556450.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/22/107953883-0-image-m-38_1776374556450.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:35.927327",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Starmer 'is going to set the record straight over Mandelson failing his security vetting'... next week",
+      "link": "https://www.dailymail.co.uk/news/article-15740383/Keir-Starmer-record-straight-Mandelson-security-vetting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T21:25:12",
+      "description": "The Prime Minister is expected to break his silence next week after No10 today confirmed the former ambassador to the US had in fact failed his security checks.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107953445-0-image-m-12_1776372869415.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107953445-0-image-m-12_1776372869415.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:35.927329",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "RFK Jr. squirms as he denies he said some medicated black kids need 're-parenting': 'You absolutely said it'",
+      "link": "https://www.dailymail.co.uk/news/article-15740161/RFK-Jr-squirms-denies-said-medicated-black-kids-need-parenting-You-absolutely-said-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T21:19:51",
+      "description": "During Thursday's hearing, Kennedy was also spotted visibly shaking while trying to turn a page in his notes.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107952391-0-image-a-6_1776370043505.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107952391-0-image-a-6_1776370043505.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:35.927330",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Brit, 75, dies after 'going swimming in choppy seas' in Thailand",
+      "link": "https://www.dailymail.co.uk/news/article-15740015/Brit-75-dies-going-swimming-choppy-seas-Thailand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T21:15:59",
+      "description": "A 75-year-old British pensioner found himself caught up in deep waves as his Thai girlfriend helplessly watched from the beach in the coastal city of Hua Hin, on Wednesday afternoon.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/22/107953553-0-image-m-18_1776373538028.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/22/107953553-0-image-m-18_1776373538028.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:35.927332",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fuel theft on the rise: Police release CCTV of woman in pyjamas 'filling up car before driving off without paying' amid soaring petrol prices",
+      "link": "https://www.dailymail.co.uk/news/article-15739541/Fuel-theft-rising-woman-drives-without-paying-petrol.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T21:00:57",
+      "description": "Police have released CCTV footage of a woman in her pyjamas filling up her car at two petrol stations before 'driving off without paying' in Gwyedd, north Wales.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107953199-0-image-m-15_1776372383564.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107953199-0-image-m-15_1776372383564.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:35.927334",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Anthony Albanese flies home early from Asia to visit site of oil refinery blaze - as scrutiny grows over what sparked the 'very unusual' fire",
+      "link": "https://www.dailymail.co.uk/news/article-15740403/Anthony-Albanese-viva-energy-oil-refinery-fire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:59:00",
+      "description": "Anthony Albanese is due to tour the Viva Energy Geelong refinery after flying home early from a trade mission to Malaysia, as questions remain over what sparked the blaze.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107953367-0-image-a-22_1776372750559.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107953367-0-image-a-22_1776372750559.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:35.927336",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chicago home of Pope Leo's brother is hit by bomb threat as Trump continues his war with pontiff",
+      "link": "https://www.dailymail.co.uk/news/article-15739381/Pope-Leo-brother-bomb-threat-home-Chicago-Trump-feud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:57:32",
+      "description": "John Prevost, the brother of the papal leader Robert Prevost, had his home in the Chicago suburb of New Lenox targeted by a bomb threat on Wednesday evening.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/19/107950231-0-image-m-31_1776363412978.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/19/107950231-0-image-m-31_1776363412978.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:35.927337",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Relief for Gentleman's Relish! Pungent anchovy paste may not be toast after all",
+      "link": "https://www.dailymail.co.uk/news/article-15740091/Gentlemans-Relish-anchovy-paste.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T20:44:03",
+      "description": "The anchovy paste has outlasted six monarchs and two world wars and has been a staple of traditional pantries since 1849.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107783115-0-image-m-29_1776372006696.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107783115-0-image-m-29_1776372006696.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:35.927339",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "FBI investigators discover 'potentially critical' HAIRS inside home of Nancy Guthrie whose DNA results could finally help crack abduction mystery",
       "link": "https://www.dailymail.co.uk/news/article-15740287/nancy-guthrie-new-dna-fbi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12375,135 +12501,65 @@
       "archived_at": "2026-04-14T11:55:31.072678",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Council that declared climate emergency in bid to 'recover' nature is forced to apologise after felling historic lime tree",
-      "link": "https://www.dailymail.co.uk/news/article-15731753/Council-climate-emergency-recover-nature-forced-apologise-felling-historic-lime-tree.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T11:26:09",
-      "description": "The tree was the largest of a cluster of evergreens which are believed to have lined a leafy street in Dorchester, Dorset, for over 100 years.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/12/107880705-0-image-m-28_1776164501838.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/12/107880705-0-image-m-28_1776164501838.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T11:55:31.072680",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Distraught family of 'gentle giant' chef, 29, who was killed with one punch by Royal Marine launch appeal against 'lenient' three-year jail term - labelling it 'a disgrace'",
-      "link": "https://www.dailymail.co.uk/news/article-15731471/family-chef-killed-Royal-Marine-appeal-lenient-jail-term.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T11:26:06",
-      "description": "Commando Joseph Jones, 22, delivered the 'fast, jab-style punch' to 29-year-old Cemal John Yilmaz outside a bar on Lower Fore Street in Exmouth, Devon, on December 13.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/11/107879485-0-image-m-13_1776163564465.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/11/107879485-0-image-m-13_1776163564465.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T11:55:31.072681",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man accused of 13 counts of attempted murder including 11 on two trains will be fit to plead, court told",
-      "link": "https://www.dailymail.co.uk/news/article-15731291/Man-accused-13-counts-attempted-murder-including-two-trains-fit-plead-court-told.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T11:25:46",
-      "description": "Anthony Williams, 32, was psychotic and had been transferred to a psychiatric intensive unit, a hearing was told in February. But Cambridge Crown Court heard today that he is now able to enter pleas.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/10/107877131-0-image-m-12_1776160516686.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/10/107877131-0-image-m-12_1776160516686.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T11:55:31.072682",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'It's not his job to be offended': Legal expert challenges Cheshire Police chief's 'striking' decision to accuse MP David Davis of misleading parliament over Lucy Letby conviction comments",
-      "link": "https://www.dailymail.co.uk/news/crime-desk/article-15729723/lucy-letby-david-davis-cheshire-police-misleading-parliament-trial-podcast-joshua-rozenberg.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T11:16:04",
-      "description": "The letter, sent to Cheshire MPs, the Police and Crime Commissioner and Commons Speaker Sir Lindsay Hoyle, alleged that Sir David had failed to check 'basic facts'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/09/107878271-0-image-a-1_1776156853631.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/09/107878271-0-image-a-1_1776156853631.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T11:55:31.072684",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Teachers at school who went on strike over pupil behaviour are blamed by Ofsted for 'low expectations' and says classes 'lacking challenge' CAUSED 'disruptive' and 'behavioural incidents'",
-      "link": "https://www.dailymail.co.uk/news/article-15731669/Teachers-school-strike-pupil-behaviour-blamed-Ofsted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T11:08:30",
-      "description": "Staff at Ravensfield Primary School in Greater Manchester staged a walkout in January after complaining of being violently assaulted by the children in their care.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/11/105388357-0-image-m-15_1776164261891.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/11/105388357-0-image-m-15_1776164261891.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T11:55:31.072685",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Single question cops are refusing to answer about Dezi Freeman's body after fugitive was shot dead in dramatic end to seven-month manhunt",
-      "link": "https://www.dailymail.co.uk/news/article-15730765/cops-Dezi-Freeman-shot-family-Victoria.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T11:02:58",
-      "description": "Authorities are refusing to answer a key question about Dezi Freeman's body.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/12/107874943-0-image-m-82_1776164517738.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/12/107874943-0-image-m-82_1776164517738.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T11:55:31.072687",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "POLL OF THE DAY: Should drivers get points for minor speeding offences in 20mph zones?",
-      "link": "https://www.dailymail.co.uk/news/article-15731343/Poll-drivers-points-minor-speeding-offences-20mph-zones.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T11:01:25",
-      "description": "Conservative leader Kemi Badenoch has suggested that drivers should not get points on their licence for minor speeding offences in 20mph zones.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/09/107877045-0-image-a-39_1776153743449.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/09/107877045-0-image-a-39_1776153743449.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T11:55:31.072688",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Police charge second man in connection with murder of film student Finbar Sullivan, 21, on Primrose Hill",
-      "link": "https://www.dailymail.co.uk/news/article-15731827/Police-charge-second-man-connection-murder-film-student-Finbar-Sullivan-21-Primrose-Hill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T10:38:49",
-      "description": "Police have charged a second man in connection with the murder of 21-year-old film student Finbar Sullivan on Primrose Hill.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/11/107754879-0-image-m-13_1776162437548.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/11/107754879-0-image-m-13_1776162437548.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174508",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump's Strait of Hormuz blockade is 'dangerous and irresponsible', Beijing warns as Chinese tanker ignores the threat and Saudi Arabia calls on US to let ships pass",
-      "link": "https://www.dailymail.co.uk/news/article-15731665/Trumps-Strait-Hormuz-blockade-dangerous-irresponsible-Beijing-warns-Chinese-tanker-ignores-threat-Saudi-Arabia-calls-US-let-ships-pass.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T10:38:18",
-      "description": "The US President threatened to stop 'any and all ships' from using the strait from Monday in an attempt to regain control over the shipping route after peace talks with Iran failed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/11/107879765-0-image-a-9_1776161231244.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/11/107879765-0-image-a-9_1776161231244.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T10:44:05.174516",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Aston Villa 4-0 Bologna (7-1 agg): Unai Emery's side dominate Italians to book place in Europa League last four as Ollie Watkins brings up his century",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15738447/Aston-Villa-4-0-Bologna-6-1-agg-Europa-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T21:22:30",
+      "description": "JAMES SHARPE AT VILLA PARK: But right when it matters, with Villa in search of Champions League football via either European glory or domestic success, Watkins has found it again.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/21/107953219-0-image-a-5_1776372943877.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/21/107953219-0-image-a-5_1776372943877.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:39.254432",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Nottingham Forest 1-0 Porto (2-1 agg): Hosts set up Europa League semi-final against Aston Villa but injuries to three key men deal Premier League survival hopes a huge blow",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15738409/nottingham-forest-porto-europa-league-result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T21:21:24",
+      "description": "TOM COLLOMOSSE: Nottingham Forest moved a step closer to reviving their glorious European history as they prepare to meet Aston Villa.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/22/107953961-0-image-a-55_1776374482434.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/22/107953961-0-image-a-55_1776374482434.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:39.254439",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The making of\u00a0Rayan Cherki: The 'little a**hole' who has become the Premier League's biggest wind-up merchant",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15728495/Rayan-Cherki-wind-merchant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T21:16:42",
+      "description": "While Arsenal look like a team shackled by the weight of the world on their shoulders, Manchester City are leaning into the pressure of the title race. Nobody reflects that more clearly than Rayan Cherki.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/08/107876241-0-image-a-14_1776152138447.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/14/08/107876241-0-image-a-14_1776152138447.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:39.254440",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fiorentina 2-1 Crystal Palace (2-4 agg): Eagles go into their FIRST-ever European semi-final but suffer key injuries - and here's why they should savour Oliver Glasner's final weeks despite recent fall-out",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15738449/Fiorentina-Crystal-Palace-Conference-League.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-16T21:11:41",
+      "description": "You wonder, when the floodlights switch off on Oliver Glasner's reign this summer, how much he and Crystal Palace will regret their divorce.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/22/107953483-0-image-a-10_1776373439516.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/22/107953483-0-image-a-10_1776373439516.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-16T21:39:39.254442",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Elliot Anderson ruled out of Nottingham Forest's Europa League clash with Porto after tragic death of his mother",
       "link": "https://www.dailymail.co.uk/sport/football/article-15739987/Elliot-Anderson-Nottingham-Forest-Europa-League-mum.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19447,62 +19503,6 @@
       "archived_at": "2026-03-31T19:33:34.721264",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Who is the most stylish Premier League manager? Fashion expert ranks all 20 football bosses - from Pep's polo necks to Arteta's Armani",
-      "link": "https://www.dailymail.co.uk/sport/article-15671811/Who-stylish-Premier-League-manager-Fashion-expert-ranks-20-football-bosses-Peps-polo-necks-Artetas-Armani.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T07:38:39",
-      "description": "A football manager's sense of style can convey power and help create a distinctive image for the team. That being said, some are...much better at putting together pitchside outfits than others.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/27/17/107476943-0-image-a-114_1774631092096.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/27/17/107476943-0-image-a-114_1774631092096.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721266",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Sean Dyche breaks silence on Tottenham links after rumours former Nottingham Forest boss could replace Igor Tudor: 'They're a brilliant club'",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15687409/Sean-Dyche-breaks-silence-Tottenham-links-Igor-Tudor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-29T17:04:06",
-      "description": "Sean Dyche\u00a0has addressed speculation he could take charge at Tottenham amid doubts over the Igor Tudor's future at the relegation threatened club.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/28/14/107492757-0-image-a-5_1774708103332.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/28/14/107492757-0-image-a-5_1774708103332.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721267",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Richard Keys, 68, insists his ex-wife didn't have cancer when he left her for new wife 31 years his junior as he reveals he wants to become a dad again",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15688885/Richard-Keys-68-insists-ex-wife-didnt-cancer-left-new-wife-31-years-junior-reveals-wants-dad-again.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-29T17:02:13",
-      "description": "Richard Keys has opened up on his infamous split from his ex-wife that saw him later marry a friend of his daughter who is 31 years his junior.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/29/12/107506085-0-image-a-25_1774782863353.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/29/12/107506085-0-image-a-25_1774782863353.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721268",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Thomas Tuchel's comments about Harry Maguire were extraordinary - here's why it would be outrageous if he doesn't take Man United defender to the World Cup, writes CRAIG HOPE",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15687329/thomas-tuchel-harry-maguire-world-cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-29T16:54:45",
-      "description": "In the 97th minute at Wembley, Harry Maguire made a goalmouth block to protect what was a fairly meaningless 1-1 draw against Uruguay. At a World Cup, it would mean everything.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/29/17/107494063-0-image-a-4_1774803255888.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/29/17/107494063-0-image-a-4_1774803255888.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721269",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
@@ -25207,6 +25207,17 @@
     }
   ],
   "ENV": [
+    {
+      "title": "Are We at Another Lema\u00eetre Moment? Cosmological Evidence Suggests So",
+      "link": "https://scienceandculture.com/2026/04/are-we-at-another-lemaitre-moment-cosmological-evidence-suggests-so/",
+      "pubDate": "2026-04-16T20:55:46",
+      "description": "The universe is not large in spite of us \u2014 it is large, in part, because of what it takes to produce us.\n<p><a href=\"https://scienceandculture.com/2026/04/are-we-at-another-lemaitre-moment-cosmological-evidence-suggests-so/\" rel=\"nofollow\">Source</a></p>",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-16T21:39:44.628508",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Retroactive Confessions Permeate Around Science Paper on Ediacaran \u201cBilaterians\u201d",
       "link": "https://scienceandculture.com/2026/04/retroactive-confessions-permeate-around-science-paper-on-ediacaran-bilaterians/",
