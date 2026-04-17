@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Kensington Gardens shut as police 'assess discarded items'",
+      "link": "https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T13:07:41",
+      "description": "It comes after a video is shared in which a group claims to have targeted the nearby Embassy of Israel.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aff/live/5a00fde0-3a5d-11f1-b0fd-19d0757b0008.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T13:11:27.850131",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66",
+      "link": "https://www.bbc.com/news/articles/cn9qprx2ljlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T12:08:18",
+      "description": "The broadcaster was known for his eclectic taste and for helping champion world music on BBC Radio 1.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3302/live/215f4fa0-3a5d-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T13:11:27.850138",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "What we know about Mandelson's vetting and security clearance",
+      "link": "https://www.bbc.com/news/articles/cj0n5700nrpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T12:20:04",
+      "description": "The former US ambassador was given a security clearance despite concerns being raised during checks.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c90/live/1faea180-027a-11f1-853d-351197b9900b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T13:11:27.850144",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Woman arrested over death of girl found in pond",
+      "link": "https://www.bbc.com/news/articles/cd7jp7jvgxro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T12:43:14",
+      "description": "South Yorkshire Police say a woman in her 30s has been arrested following Nyla May Bradshaw's death.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52e2/live/f0d7bec0-3a58-11f1-a214-6193255d1a38.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T13:11:27.850146",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "UK petrol and diesel prices fall after weeks of rises",
       "link": "https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-17T11:42:41",
@@ -5455,53 +5499,149 @@
       "archived_at": "2026-04-10T22:34:11.979691",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'I was living in the toilet' - sick Li moves into Masters contention",
-      "link": "https://www.bbc.com/sport/golf/articles/c9d4vl49jyqo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T21:49:51",
-      "description": "China's Li Haotong didn't think he would be able to play at the Masters on Friday because of illness - then moved into contention for the Green Jacket.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15ef/live/3d6c2b70-3524-11f1-97c3-37d4b169f11a.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T22:34:11.979693",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "West Ham thrash Wolves to move out of relegation zone",
-      "link": "https://www.bbc.com/sport/football/videos/c33l8ej03dxo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T21:34:00",
-      "description": "Taty Castellanos and Konstantinos Mavropanos both score twice as West Ham beat Wolves to move out of the relegation zone in the Premier League.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7316/live/e8405120-3524-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T22:34:11.979694",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump's blunt attack on former allies exposes splintered MAGA coalition",
-      "link": "https://www.bbc.com/news/articles/cz0ep709pr2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T20:36:35",
-      "description": "His criticism of four conservative commentators who have spoken out against the Iran war highlights the tension in his base.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab8/live/aab32bd0-350a-11f1-ba51-4930b617bc5b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T21:33:38.556203",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The five big sticking points in US-Iran talks",
-      "link": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T18:13:25",
-      "description": "Peace talks between the US and Iran are due to begin in Pakistan on Saturday.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf52/live/fd4ff070-3501-11f1-b057-1d9fee7490d8.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T20:32:00.818134",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Strange mystery of canine corpses that eerily washed ashore on remote island is finally solved",
+      "link": "https://www.dailymail.co.uk/news/article-15725225/mystery-canine-corpses-island-solved-washington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T22:30:28",
+      "description": "The carcasses were roughly around the same size, with some about the length of a woman's size 9.5 shoe and others slightly larger.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107822675-0-image-m-110_1775939493738.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107822675-0-image-m-110_1775939493738.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:29.204999",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fur flies over plans for dog hotel in posh area of London - as locals fear 'torturous' noise of howling animals would be 'unbearable' at night",
+      "link": "https://www.dailymail.co.uk/news/article-15725375/dog-hotel-London-locals-torturous-noise-howling.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T21:29:37",
+      "description": "Fido's of Fitzrovia, which describes itself as a 'health and wellness centre for dogs and cats', submitted an application for a change of use of its ground floors and basement levels.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823233-0-image-m-18_1775940211619.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/21/107823233-0-image-m-18_1775940211619.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:29.205006",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sleek \u00a3334million superyacht turns heads on Britain's south coast on its way to secretive new Chinese billionaire owner",
+      "link": "https://www.dailymail.co.uk/news/article-15724841/334million-superyacht-Britains-south-coast-secretive-Chinese-billionaire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T17:23:29",
+      "description": "German-built Deep Blue is a 439ft, 9000 tonne, five-deck superyacht equipped with a helipad and two swimming pools.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/17/107820223-0-image-m-11_1775926033997.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/17/107820223-0-image-m-11_1775926033997.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:29.205007",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Government to revive WW1-era manual helping British people to prepare for the next war",
+      "link": "https://www.dailymail.co.uk/news/article-15724895/Government-WW1-era-manual-British-people-prepare-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T16:44:43",
+      "description": "A war book first conceived over a hundred years ago could be revived to prepare the nation for possible war, the head of the armed forces has said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/17/107819667-0-image-m-12_1775924682558.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/17/107819667-0-image-m-12_1775924682558.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:29.205009",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Two men, both 25, appear in court accused of murdering film student Finbar Sullivan, 21, in 'eruption of extreme violence' at Primrose Hill",
+      "link": "https://www.dailymail.co.uk/news/article-15742141/Two-men-25-appear-court-accused-murdering-film-student-Finbar-Sullivan-21-eruption-extreme-violence-Primrose-Hill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T13:02:11",
+      "description": "Finbar Sullivan, 21, was allegedly kicked, punched and fatally stabbed in the early evening on Tuesday April 7 at the beauty spot's viewpoint in north London .",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/13/107754879-0-image-m-14_1776430421180.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/13/107754879-0-image-m-14_1776430421180.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:29.205011",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Shameful moment laughing British tourists film themselves hurling sickening abuse at Israelis",
+      "link": "https://www.dailymail.co.uk/news/article-15741653/Shameful-moment-laughing-British-tourists-film-hurling-sickening-abuse-Israelis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T12:58:52",
+      "description": "In the video that has gone viral on X, the British women can be heard calling the couple 'murderers', 'savages', 'monsters' and 'rats', and ordering them to 'scurry' away.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/12/107966873-0-image-m-10_1776424882012.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/12/107966873-0-image-m-10_1776424882012.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:29.205013",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Violence erupts between right and left-wing protesters in Spanish city days after socialist government approved plans to give 500,000 migrants legal status",
+      "link": "https://www.dailymail.co.uk/news/article-15741731/Violence-erupts-right-left-wing-protesters-Spanish-city-days.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T12:52:29",
+      "description": "The clashes broke out at a rally held by hard-right party Vox in Plaza de las Pasiegas.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/13/107968081-0-image-a-17_1776429806014.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/13/107968081-0-image-a-17_1776429806014.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:29.205014",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "D4vd's home raided by LAPD cops in tactical gear as he's cuffed and thrown in jail on suspicion of murder of 14-year-old girl found in trunk of his Tesla",
+      "link": "https://www.dailymail.co.uk/news/article-15741911/d4vd-arrested-murder-los-angeles-raid-mansion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T12:51:33",
+      "description": "LAPD officers clad in tactical gear and carrying rifles swarmed the Hollywood Hills home of D4vd, real name David Anthony Burke, on Thursday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/13/107967585-0-image-m-6_1776429100604.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/13/107967585-0-image-m-6_1776429100604.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:29.205015",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Breathtaking moment Ben Roberts-Smith is AMBUSHED at a crossroads - as photographers working for his nemesis POUNCE after the SAS hero facing war crime charges was freed on bail",
+      "link": "https://www.dailymail.co.uk/news/article-15741683/Ben-Roberts-Smith-AMBUSHED-freed-bail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T12:17:26",
+      "description": "Accused war criminal Ben Roberts-Smith left prison on Friday evening after being granted bail and was mobbed on the way out.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/12/107966377-0-image-m-33_1776424003014.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/12/107966377-0-image-m-33_1776424003014.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:29.205016",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Richard Desmond loses \u00a31.3billion lotto jackpot claim that The National Lottery bid was unfair and now faces huge legal costs after a judge ruled there was 'really no basis' for his complaints",
+      "link": "https://www.dailymail.co.uk/news/article-15742009/Richard-Desmond-loses-lotto-jackpot-claim-National-Lottery-bid-unfair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T11:51:55",
+      "description": "Richard Desmond and his lottery firms faces a legal bill running into tens of millions after losing a High Court claim that he was owed \u00a31.3billion for failing to win the competition to run The National Lottery.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/12/102812941-0-image-m-11_1776426012118.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/12/102812941-0-image-m-11_1776426012118.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:29.205018",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "The world's deadliest countries: From terror attacks to muggings, rape and kidnap - the threat levels around the globe and holiday hotspots now deemed too dangerous to visit",
       "link": "https://www.dailymail.co.uk/news/article-15658459/The-worlds-deadliest-countries-terror-attacks-muggings-rape-kidnap-threat-levels-globe-holiday-hotspots-deemed-dangerous-visit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12361,149 +12501,23 @@
       "archived_at": "2026-04-14T21:27:25.798667",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "LGBT charity boss quits after 'Walter Mitty' false CV row... SNP-backed group got \u00a313m from taxpayer",
-      "link": "https://www.dailymail.co.uk/news/article-15733341/LGBT-charity-boss-quits-Walter-Mitty-false-CV-row-SNP-backed-group-got-13m-taxpayer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T20:28:28",
-      "description": "A senior figure in a charity for gay and trans teenagers which has received millions in public funding has quit amid claims he is a 'Walter Mitty character' with a false CV.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893847-0-image-m-13_1776195256825.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893847-0-image-m-13_1776195256825.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T21:27:25.798669",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Outlander star loses battle with council over renting out flat",
-      "link": "https://www.dailymail.co.uk/news/article-15733343/Outlander-star-loses-battle-council-renting-flat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T20:26:29",
-      "description": "Her famous on-screen character has survived numerous battles in the Jacobite era. But now Outlander star Caitriona Balfe has lost a planning battle over a bid to rent out her flat in Glasgow.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107892803-0-image-m-4_1776198177651.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107892803-0-image-m-4_1776198177651.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T20:30:05.939448",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Texas man sentenced to JAIL for wandering off trail at Yellowstone to get a closer look at hot springs",
-      "link": "https://www.dailymail.co.uk/news/article-15732229/Texas-eric-bedient-sentenced-jail-Yellowstone.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T20:26:11",
-      "description": "Eric Bedient, 50, was handed five days in jail after 'thermal trespassing.' Officials warned the dangerous offense could have turned him into 'thermal soup.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107892321-0-image-m-13_1776196654544.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107892321-0-image-m-13_1776196654544.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T20:30:05.939454",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Rachel Reeves FINALLY addresses the day she cried at PMQs... and says she won't apologise for it",
-      "link": "https://www.dailymail.co.uk/news/article-15733367/Rachel-Reeves-addresses-day-cried-PMQs-apologise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T20:22:28",
-      "description": "Rachel Reeves spoke out about the 'stressful time' in an interview with Mumsnet today, where she was also probed on benefits handouts and sluggish economic growth.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/99944343-0-image-m-10_1776196994540.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/99944343-0-image-m-10_1776196994540.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T20:30:05.939456",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "EUAN McCOLM: A free bag for every child? Maybe they can use them to carry the free laptops they were promised in 2021...",
-      "link": "https://www.dailymail.co.uk/news/article-15733337/EUAN-McCOLM-free-bags.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T20:09:43",
-      "description": "Appearing on ITV's Loose Women chat show after stepping down as FM, Sturgeon was asked to name the achievement in Government of which she was proudest.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/19/107893035-0-image-a-5_1776192628565.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/19/107893035-0-image-a-5_1776192628565.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T20:30:05.939458",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Now SNP's \u00a325m school bags giveaway branded a 'shameful election bribe'",
-      "link": "https://www.dailymail.co.uk/news/article-15733345/Now-SNPs-25m-school-bags-giveaway-branded-shameful-election-bribe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T20:09:26",
-      "description": "The SNP has been slammed for offering voters \u00a3130 school bags in a pre-election 'bribe'. The 'goodie-bag gimmick' could cost taxpayers more than \u00a325million in the next parliament.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893973-0-image-m-15_1776196142404.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893973-0-image-m-15_1776196142404.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T20:30:05.939459",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Come to the cabernet! Exclusive glimpse inside Nancy Pelosi's six-acre, $25M Napa Valley wine empire that makes her up to $1M a year",
-      "link": "https://www.dailymail.co.uk/news/article-15732257/nancy-pelosi-napa-valley-25m-wine-empire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T20:07:50",
-      "description": "The San Francisco Democrat and Speaker Emerita 86, is one of Washington's wealthiest politicians and has the swank properties to prove it.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888159-0-image-a-63_1776179615191.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888159-0-image-a-63_1776179615191.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T20:30:05.939461",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "British fighter jets 'scrambled after Russian bomber approached UK airspace'",
-      "link": "https://www.dailymail.co.uk/news/article-15733467/British-fighter-jets-scrambled-Russian-bomber-approached-UK-airspace.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T19:55:52",
-      "description": "Two Typhoon fighter jets were flown from RAF Lossiemouth, in Scotland, along with a Voyager refuelling jet from RAF Brize Norton in Oxfordshire.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893929-0-image-m-33_1776195696689.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893929-0-image-m-33_1776195696689.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T20:30:05.939462",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Beloved hog farmer killed and wife assaulted by disgruntled madman who was going through a divorce",
-      "link": "https://www.dailymail.co.uk/news/article-15732339/nebraska-hog-farmer-killed-man-attack-wife-divorce.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T19:35:26",
-      "description": "Brian Gabel, 44, was shot and killed at his hog farm by a man who was searching for his wife, according to police.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893303-0-image-m-17_1776194105269.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893303-0-image-m-17_1776194105269.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T20:30:05.939464",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "NJ Transit to gouge World Cup spectators traveling to upcoming matches, charging OVER $100 for a typical $13 ride",
-      "link": "https://www.dailymail.co.uk/news/article-15733005/nj-transit-price-gouge-train-tickets-world-cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T19:15:40",
-      "description": "A typical round-trip ticket between New York's Pennsylvania Station and MetLife is $12.90.\u00a0When the Garden State hosted the FIFA Club World Cup last summer, the ticket price did not change.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893493-0-image-a-62_1776193858147.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/20/107893493-0-image-a-62_1776193858147.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T20:30:05.939465",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "How six teams emerged from the pack to challenge for Europe: The staggering stat that shows the power shift in the Premier League, why the contenders NEED to capitalise - and the club best placed to pounce",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15735419/Barlow-PL-power-shift.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T11:57:46",
+      "description": "MATT BARLOW: Sixth guarantees a place in next season's Europa League if they finish with a flourish. Seventh or eighth might be good enough, depending who wins the FA Cup and the Europa League.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/12/107967035-0-image-a-4_1776424514146.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/12/107967035-0-image-a-4_1776424514146.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:30.567153",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Iconic former Premier League referee Uriah Rennie leaves incredible seven-figure fortune to family following his death aged 65",
       "link": "https://www.dailymail.co.uk/sport/football/article-15741777/Premier-League-referee-Uriah-Rennie-family-inheritance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19489,20 +19503,6 @@
       "archived_at": "2026-03-31T19:33:34.721251",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Inside Igor Tudor's 43 days of chaos: Why Tottenham players railed against him, the sliding doors moment that could have changed things, his bizarre tactical blunders - and the wildly different bosses Spurs are now targeting",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15689505/Inside-Igor-Tudors-44-days-chaos-did-players-railed-against-one-thing-changed-things-wildly-differing-coaches-Spurs-targeting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-29T21:33:44",
-      "description": "MATT BARLOW: Igor Tudor's arrival was meant to mark the end of an error. Instead, it seems to have made everything worse. And now that is over, too, and the next move is critical.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/29/19/107510801-0-image-a-10_1774810093760.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/29/19/107510801-0-image-a-10_1774810093760.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721252",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
@@ -21097,6 +21097,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Prince loved showing off his room of fan mail after he shot to fame",
+      "link": "https://www.music-news.com/news/UK/188401/Prince-loved-showing-off-his-room-of-fan-mail-after-he-shot-to-fame",
+      "pubDate": "2026-04-17T11:00:00",
+      "description": "In an interview to mark the upcoming 10th anniversary of the singer\u2019s death, Prince\u2019s cousin has revealed the performer loved showing off his room of fan mail after he shot to fame.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188401.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188401.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:34.834129",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Raye doubles down on pledge not to write another album until she falls in love",
+      "link": "https://www.music-news.com/news/UK/188399/Raye-doubles-down-on-pledge-not-to-write-another-album-until-she-falls-in-love",
+      "pubDate": "2026-04-17T11:00:00",
+      "description": "Even if it takes 10 years, singer Raye has doubled down on her pledge not to write another album until she falls in love.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188399.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188399.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T13:11:34.834135",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Barbra Streisand thrilled to see 'Hello, Gorgeous!' sign installed in New York City",
       "link": "https://www.music-news.com/news/UK/188397/Barbra-Streisand-thrilled-to-see-Hello-Gorgeous-sign-installed-in-New-York-City",
