@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Kanye West concert in Poland cancelled over antisemitic comments",
+      "link": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T18:19:10",
+      "description": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810c/live/db3a3a80-3a7f-11f1-850e-07c4418cf86c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T18:55:41.851135",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "UK and France to lead defensive mission in Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/c5yjz819vmgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T18:27:55",
+      "description": "Sir Keir Starmer has said further details of the plan will come after a meeting in London next week.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cef6/live/2f8ca090-3a86-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T18:55:41.851142",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "A man wrongfully served 17 years for rape. Now another man has been convicted",
+      "link": "https://www.bbc.com/news/articles/cq6jq12dmmro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T16:39:42",
+      "description": "Malkinson had his rape conviction quashed in 2023 after fresh DNA analysis linked a new suspect to the offence.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef44/live/ec800d50-37fb-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T18:55:41.851145",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fans being fleeced by \u00a3111 World Cup train tickets - FSA",
+      "link": "https://www.bbc.com/sport/football/articles/clyjp404w87o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T17:47:36",
+      "description": "The Football Supporters' Association says fans are being \"fleeced\" and \"gouged\" by the high cost of train tickets to World Cup games in New Jersey.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244f/live/03738810-39ab-11f1-ba5b-c578881f2eba.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T18:55:41.851149",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Irish fugitive and alleged crime boss Daniel Kinahan arrested in Dubai",
       "link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-17T17:12:38",
@@ -5455,53 +5499,93 @@
       "archived_at": "2026-04-11T08:39:08.268095",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Is a 'Super El Ni\u00f1o' on the way and how will it affect the UK?",
-      "link": "https://www.bbc.com/weather/articles/cj94nzj33m0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T13:46:02",
-      "description": "El Ni\u00f1o is expected to develop later this year, but how strong will it be and what will this mean for the weather in the UK and around the world?",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ac8/live/32d02b40-26dc-11f1-934f-036468834728.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T07:50:36.297518",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump administration unveils 250-foot 'Triumphal Arch' design",
-      "link": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T01:49:47",
-      "description": "The new arch, if approved, would be taller than the US Capitol building and the Lincoln Memorial.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72ec/live/6f2f3c30-356d-11f1-a6a2-19218019c16f.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T07:50:36.297524",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Concerns after satellite provider restricts Iran images following US pressure",
-      "link": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T05:40:51",
-      "description": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab0/live/319b5a60-34f6-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T06:57:09.112524",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Six-year-old who called 999 to save mum hailed a hero",
-      "link": "https://www.bbc.com/news/articles/c624vz993lro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T05:01:08",
-      "description": "Pearl's mother Carole suffered a bleed on the brain at their home in Croydon last summer.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd7b/live/c1708390-3415-11f1-a058-4f0eff2075b9.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T06:57:09.112531",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "French woman moved to US aged 85 to marry Army sweetheart - only to end up ripped from her bed in nightgown and hurled into ICE custody thanks to her scheming stepson",
+      "link": "https://www.dailymail.co.uk/news/article-15742543/french-woman-deported-alabama-inheritance-ice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T18:50:37",
+      "description": "Marie-Therese Helene Claire Ross-Mah\u00e9, 86, moved to Alabama to marry her US Army sweetheart William 'Bill' Ross. But a plot from her scheming stepson Tony landed her in ICE custody.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/19/107974175-0-image-m-7_1776449326928.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/19/107974175-0-image-m-7_1776449326928.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T18:55:43.185240",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sainsbury's threatens shoplifters with prosecution if they are caught swapping premium eggs into cheaper boxes",
+      "link": "https://www.dailymail.co.uk/news/article-15742973/Sainsburys-threatens-shoplifters-prosecution-caught-swapping-premium-eggs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T18:49:26",
+      "description": "Sainsbury's is threatening to prosecute thieves who swap premium eggs into cheaper boxes, amid a growing trend of the practice and rising food prices.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/19/107977269-0-image-m-24_1776451713513.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/19/107977269-0-image-m-24_1776451713513.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T18:55:43.185246",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Outraged CNBC star blasts woke NYC mayor for filming threatening video outside billionaire's condo while announcing new taxes on the rich",
+      "link": "https://www.dailymail.co.uk/news/article-15742987/Mamdani-tax-Ken-Griffin-penthouse-Sara-Eisen-criticism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T18:48:48",
+      "description": "Mamdani, 34, drew backlash for filming a promo video for his proposed 'pied-a-terre tax' outside the Manhattan apartment of hedge fund manager Ken Griffin this week.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/19/107976075-0-image-m-57_1776451265406.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/19/107976075-0-image-m-57_1776451265406.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T18:55:43.185248",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Farmer vows to crossbreed his Highland cows to make them 'less photogenic' in bid to stop influencers hugging them and taking selfies",
+      "link": "https://www.dailymail.co.uk/news/article-15742753/Farmer-crossbreed-highland-cows-influencers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T18:47:46",
+      "description": "Alex Birch, a cattle farmer from Derbyshire, has taken the situation by the horns and is attempting to make his cows less appealing by altering their genetic makeup.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/19/107976933-0-image-m-10_1776449586986.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/19/107976933-0-image-m-10_1776449586986.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T18:55:43.185249",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teenager, 18, is the fourth person to be charged over arson attack on four Jewish community ambulances in Golders Green",
+      "link": "https://www.dailymail.co.uk/news/article-15743165/Teenager-fourth-person-charged-arson-Jewish-ambulances-Golders-Green.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T18:45:24",
+      "description": "A fourth person has been charged in connection with an arson attack on volunteer-led ambulances run by the Jewish community in Golders Green.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/19/107341665-0-image-m-14_1776449853333.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/19/107341665-0-image-m-14_1776449853333.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T18:55:43.185250",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Killer FedEx driver Tanner Horner filmed cleaning his van after abducting and murdering Athena Strand, 7",
+      "link": "https://www.dailymail.co.uk/news/article-15742477/athena-strand-killer-driver-cleaning-van-video-tanner-horner.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T18:18:34",
+      "description": "A photo displayed last week showed Athena kneeling near Horner in the van before he killed her.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/18/107976119-0-image-m-39_1776446956045.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/18/107976119-0-image-m-39_1776446956045.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T18:55:43.185253",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump reveals Iran agrees to FREEZE nuclear program as he races to make deal to END the war this weekend",
       "link": "https://www.dailymail.co.uk/news/article-15742995/Trump-reveals-Iran-agrees-FREEZE-nuclear-program-races-make-deal-END-war-weekend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12415,90 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-15T00:05:46.831945",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Besotted prison officer who was thrown behind bars for smuggling \u00a335,000 of drugs into jail for her gangster lover is flaunting her freedom on TikTok after early release",
-      "link": "https://www.dailymail.co.uk/news/article-15733553/Prison-officer-thrown-bars-smuggling-inmate-free.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:49:05",
-      "description": "Olivia Johnson, 28, was jailed for three-and-a-half years last July after attempting to smuggle \u00a335,000-worth of the synthetic drug Spice into HMP Highpoint in Suffolk for her inmate lover.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107893673-0-image-m-23_1776198583085.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107893673-0-image-m-23_1776198583085.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T00:05:46.831946",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Husband whose wife vanished overboard in the Bahamas bursts into TEARS as lawyer halts interview after he was released from police custody",
-      "link": "https://www.dailymail.co.uk/news/article-15733555/bahamas-wife-overboard-husband-interview.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:45:59",
-      "description": "Brian Hooker, 58, was released from police custody in the Bahamas after his wife, Lynette, 55, went overboard on their dinghy and disappeared on April 4.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/00/107898141-0-image-m-16_1776207879340.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/00/107898141-0-image-m-16_1776207879340.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T00:05:46.831947",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Families say police showed 'unconscious bias' towards driver who killed two eight-year-olds in Wimbledon prep school crash - because she was a wealthy white woman in \u00a370,000 car",
-      "link": "https://www.dailymail.co.uk/news/article-15732723/Police-biased-female-killed-girls-crash-Wimbledon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:44:49",
-      "description": "It has now emerged that the families of both girls and other surviving victims have complained to the Independent Office for Police Conduct (IOPC) alleging 'unconscious bias'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/15/107887651-0-image-m-31_1776178241601.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/15/107887651-0-image-m-31_1776178241601.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T00:05:46.831949",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Nat Barr rips into the Albanese government and demands answers about 77,000 illegal migrants living in Australia: 'How are you finding them?'",
-      "link": "https://www.dailymail.co.uk/news/article-15733757/Nat-Barr-Albanese-government-immigration-illegal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:35:05",
-      "description": "More than 77,000 people are living in Australia despite their visas either being cancelled or passing their expiry dates.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/00/107898403-0-image-m-19_1776208247438.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/00/107898403-0-image-m-19_1776208247438.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T00:05:46.831950",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Midwest couple sneaked into hotel room at Palm Beach's iconic Breakers hotel and stole the most coveted purse of them all, cops say",
-      "link": "https://www.dailymail.co.uk/news/article-15733297/Palm-Beach-Breakers-stolen-Hermes-purse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:27:37",
-      "description": "The suspects, both from Illinois, allegedly broke into a room where the door had been left ajar and walked out ten minutes later with tens of thousands of dollars worth of designer goods.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/00/107896925-0-image-m-17_1776207602855.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/00/107896925-0-image-m-17_1776207602855.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T00:05:46.831951",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "D-day for Gina Rinehart after mining magnate was forced to defend claim to her multi-billion dollar iron ore empire",
-      "link": "https://www.dailymail.co.uk/news/article-15733937/gina-rinehart-hancock-prospecting-billionaire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:16:51",
-      "description": "Judgment day has arrived in a bitter multibillion-dollar legal stoush that forced Australia's richest person, Gina Rinehart, to defend her iron ore empire.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/00/107898443-0-image-m-8_1776208431295.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/00/107898443-0-image-m-8_1776208431295.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T00:05:46.831952",
       "feed_category": "News",
       "feed_visibility": "both"
     }
@@ -21109,6 +21109,34 @@
   "Tucker Carlson": [],
   "Music News": [
     {
+      "title": "Jack Savoretti lands fifth Top 10 album with 'We Will Always Be The Way We Were'",
+      "link": "https://www.music-news.com/news/UK/188404/Jack-Savoretti-lands-fifth-Top-10-album-with-We-Will-Always-Be-The-Way-We-Were",
+      "pubDate": "2026-04-17T16:55:00",
+      "description": "The UK Official Albums Chart has seen a significant shake-up this week as several artists reach new career heights. Jack Savoretti leads the charge of new releases",
+      "thumbnail": "https://www.music-news.com/images/news/Jack-Savoretti4.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Jack-Savoretti4.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T18:55:50.784868",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Coachella fever: Justin Bieber and KATSEYE rocket up the Official UK Singles Chart",
+      "link": "https://www.music-news.com/news/UK/188403/Coachella-fever-Justin-Bieber-and-KATSEYE-rocket-up-the-Official-UK-Singles-Chart",
+      "pubDate": "2026-04-17T16:54:00",
+      "description": "The \"Coachella Effect\" has officially taken hold of the UK Official Singles Chart this week, as standout performances from the California desert send",
+      "thumbnail": "https://www.music-news.com/images/news/Justin-Bieber4.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/Justin-Bieber4.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T18:55:50.784873",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Cher files for conservatorship of son Elijah Blue Allman's estate for second time",
       "link": "https://www.music-news.com/news/UK/188408/Cher-files-for-conservatorship-of-son-Elijah-Blue-Allman-s-estate-for-second-time",
       "pubDate": "2026-04-17T16:00:00",
@@ -25522,6 +25550,17 @@
     }
   ],
   "ENV": [
+    {
+      "title": "Brian Miller: From Physics to Filmmaking",
+      "link": "https://scienceandculture.com/2026/04/brian-miller-from-physics-to-filmmaking/",
+      "pubDate": "2026-04-17T18:35:00",
+      "description": "Scientific arguments can take a long time to percolate through the culture, especially when the scientific establishment and media push another narrative.\n<p><a href=\"https://scienceandculture.com/2026/04/brian-miller-from-physics-to-filmmaking/\" rel=\"nofollow\">Source</a></p>",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-17T18:55:52.834738",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Harvard Geneticist Proposes Neanderthals Are Descended from Humans",
       "link": "https://scienceandculture.com/2026/04/harvard-geneticist-proposes-neanderthals-are-descended-from-humans/",
