@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
+      "link": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T16:23:47",
+      "description": "The PM is facing calls to resign over the revelation that Lord Mandelson did not pass security checks.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2716/live/25b6f680-3a48-11f1-b0ac-b54021fa6ada.png",
+      "enclosure": null,
+      "archived_at": "2026-04-17T16:56:04.602358",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "No evidence Epsom rape took place as reported, say police",
+      "link": "https://www.bbc.com/news/articles/clyxp4q5k93o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T15:54:00",
+      "description": "The reported attack had caused concern and prompted protests calling for more details from police.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a9/live/072c8670-3a71-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T16:56:04.602368",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Thousands celebrate open-air Mass with Pope Leo in Cameroon - in pictures",
+      "link": "https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T16:32:46",
+      "description": "Pope Leo XIV is on his third day in Cameroon before he heads to Angola on Saturday.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63e/live/71bfe540-3a67-11f1-88e7-17b97289f7a3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T16:56:04.602405",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arteta lights fire at training ground to inspire Arsenal players",
+      "link": "https://www.bbc.com/sport/football/articles/ckge7n0lgkzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T16:23:06",
+      "description": "Arsenal boss Mikel Arteta lights a fire at their London Colney training ground to motivate players before crucial week.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/8a3918c0-3a6d-11f1-9368-ddaac8cf7f1d.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T16:56:04.602411",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Key questions facing government over Mandelson checks",
       "link": "https://www.bbc.com/news/articles/c9qd2gjrv4ro?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-17T14:07:05",
@@ -5455,53 +5499,65 @@
       "archived_at": "2026-04-11T06:57:09.112538",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Dart and Burrage send GB to BJK Cup finals",
-      "link": "https://www.bbc.com/sport/tennis/articles/cge0zgrz0ezo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T06:15:58",
-      "description": "Harriet Dart and Jodie Burrage win the decisive doubles match in straight-sets to send Great Britain through to September's Billie Jean King Cup finals with an impressive 3-0 win against Australia.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b2/live/df3ed070-3569-11f1-bb09-df6eda711785.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T06:57:09.112540",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "A tough season, playing angry, and messaging Michael Owen",
-      "link": "https://www.bbc.com/sport/football/articles/c87w429w3j5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T05:06:33",
-      "description": "Ollie Watkins speaks to Kelly Somers about Aston Villa, England and his World Cup dream.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8185/live/0c8a03f0-335e-11f1-879d-1b2f5c3919b8.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T05:44:01.502090",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "MacIntyre could face more Masters wrath after gnome picture",
-      "link": "https://www.bbc.com/sport/golf/articles/crl1e35r3xyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T23:45:06",
-      "description": "Robert MacIntyre fails to deliver on the course at the Masters - but provides one of the best known moments from this year's tournament. Or rather, one of its best gnome moments.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7880/live/2ec44b20-352e-11f1-8913-efd3b937f532.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T04:24:58.210739",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Back to Earth: What happens to the Artemis II astronauts now?",
-      "link": "https://www.bbc.com/news/articles/cpwjvgv2d4no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T00:38:27",
-      "description": "The astronauts will have medical checks and will be reunited with their families.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca4a/live/ae932730-3430-11f1-a207-8b959fccb503.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T01:57:56.772936",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Manchester Airport engineer 'lucky to be alive' after plunging 35ft out of open Jet2 plane door due to 'mix-up with steps'",
+      "link": "https://www.dailymail.co.uk/news/article-15725677/Manchester-Airport-engineer-fall-Jet2-plane-door.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T00:08:05",
+      "description": "The man, believed to be in his 60s, plunged\u00a0from the back of the Jet2 aircraft when he mistakenly believed there would steps on the other side of the door.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/12/00/107818327-0-The_man_believed_to_be_an_aircraft_engineer_is_said_to_have_fall-a-47_1775950722537.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/12/00/107818327-0-The_man_believed_to_be_an_aircraft_engineer_is_said_to_have_fall-a-47_1775950722537.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T16:56:07.810096",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Daniel Kinahan is ARRESTED in Dubai: 'Cartel leader' faces extradition back to Ireland over 'serious organised crime offences'",
+      "link": "https://www.dailymail.co.uk/news/article-15742899/Daniel-Kinahan-ARRESTED-Dubai.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T16:51:04",
+      "description": "Dubai Police said they had arrested an 'Irish fugitive for his alleged role in an international organised crime network'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/17/107974975-0-image-m-29_1776443921550.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/17/107974975-0-image-m-29_1776443921550.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T16:56:07.810104",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment RFK Jr confronted with Trump's viral Jesus meme as he's grilled over his 'mental fitness'",
+      "link": "https://www.dailymail.co.uk/news/article-15742839/Moment-RFK-Jr-confronted-Trumps-viral-Jesus-meme-hes-grilled-mental-fitness.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T16:45:09",
+      "description": "A California Democrat berated Health and Human Services Secretary Robert F. Kennedy Jr over Donald Trump's health during a Capitol Hill hearing on Friday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/17/107974619-0-image-a-70_1776443667011.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/17/107974619-0-image-a-70_1776443667011.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T16:56:07.810106",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "We're about to be top dogs in Europe, but despite tough talk on Putin's bloody invasion of Ukraine Ireland STILL hasn't made it a criminal offence to flout EU sanctions on Russia. Now red-faced officials fear a worst case scenario...",
+      "link": "https://www.dailymail.co.uk/news/article-15742685/Were-dogs-Europe-despite-tough-talk-Putins-bloody-invasion-Ukraine-Ireland-criminal-offence-flout-EU-sanctions-Russia-red-faced-officials-fear-worst-case-scenario.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T15:54:38",
+      "description": "A politically awkward scenario could occur where Ireland assumes the leadership of the European Union despite failing to introduce laws to prosecute those who violate sanctions.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/16/107972441-0-image-m-9_1776438753373.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/16/107972441-0-image-m-9_1776438753373.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T16:56:07.810108",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Epsom police say they are yet to find evidence of reported rape or that asylum seekers were involved",
       "link": "https://www.dailymail.co.uk/news/article-15742657/Epsom-police-say-evidence-reported-rape-asylum-seekers-involved.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12445,65 +12501,65 @@
       "archived_at": "2026-04-14T23:10:28.673943",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Trump fear mongers Republicans into backing controversial spy bill with stunning Iran claim",
-      "link": "https://www.dailymail.co.uk/news/article-15733647/Trump-fear-mongers-Republicans-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T22:32:02",
-      "description": "Donald Trump is urging reluctant Republicans to renew a surveillance measure.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/22/107891559-0-image-m-85_1776203188526.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/22/107891559-0-image-m-85_1776203188526.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673944",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Divorced Republican finds love again with 21-year-old as he launches comeback after nude 'sex tape' with male staffer destroyed his career",
-      "link": "https://www.dailymail.co.uk/news/article-15730017/Republican-love-21-year-old-sex-tape-male.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T22:30:25",
-      "description": "Former Florida Congressman Madison Cawthorn,\u00a030, announced his engagement over the weekend.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897253-0-image-a-10_1776204818338.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897253-0-image-a-10_1776204818338.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673946",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Letby case is as bad as the Birmingham Six and Post Office scandals, claims Tory grandee",
-      "link": "https://www.dailymail.co.uk/news/article-15733035/Letby-case-bad-Birmingham-Six-Post-Office-scandals-claims-Tory-grandee.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T22:29:34",
-      "description": "In a memo to Cheshire Police's Chief Constable, Sir David Davis compared Lucy Letby's case to another Post Office scandal or Birmingham Six.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/23/107890611-0-Lucy_Letby_is_serving_15_whole_life_terms_after_being_found_guil-m-26_1776205563282.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/23/107890611-0-Lucy_Letby_is_serving_15_whole_life_terms_after_being_found_guil-m-26_1776205563282.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673947",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "EDEN CONFIDENTIAL: 'Peacock of Savile Row' Ozwald Boateng's firm saddled by \u00a31.6million of debt",
-      "link": "https://www.dailymail.co.uk/news/article-15733421/EDEN-CONFIDENTIAL-Peacock-Savile-Row-million-debt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T22:16:47",
-      "description": "When Ozwald Boateng took New York's Met Gala by storm last year, producing no fewer than 16 outfits - including for Will Smith's son, Jaden - he had every reason to be in a bullish mood.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894311-0-image-m-18_1776197166105.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894311-0-image-m-18_1776197166105.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673948",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Man United's defensive crisis deepens with ANOTHER star 'set to miss Chelsea game after picking up injury' - leaving Michael Carrick with just ONE senior centre back for huge clash",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742759/Man-Uniteds-defensive-crisis-deepens-star-set-miss-Chelsea-game-picking-injury-leaving-Michael-Carrick-just-ONE-senior-centre-huge-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T16:45:51",
+      "description": "Red Devils boss Carrick is without first choice centre backs Harry Maguire and Lisandro Martinez with the pair serving suspensions.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/17/107975235-0-image-a-2_1776444334039.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/17/107975235-0-image-a-2_1776444334039.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T16:56:11.042635",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Inside West Brom's potential 'heartbreaking' points deduction: How fans are leading the fight, why experts think probe is 'unfair', how any breach is marginal and why the fault lies with despised former owner Guochuan Lai",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742045/West-Brom-points-deduction-fans-Guochuan-Lai.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T16:43:25",
+      "description": "Fans of West Brom are leading the public fight against an alleged breach of EFL spending rules, which could relegate the club, insisting such a judgement would be one of the most grievous ever.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/13/107968033-0-image-a-46_1776429376871.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/13/107968033-0-image-a-46_1776429376871.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T16:56:11.042646",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Why Neil Lennon and Dunfermline are a match made in heaven... and how a data-driven approach could lift the Fife club out of the doldrums",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15741953/Why-Neil-Lennon-Dunfermline-match-heaven-data-driven-approach-lift-Fife-club-doldrums.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T16:13:15",
+      "description": "At the start of last season, Neil Lennon found himself at a crossroads in his career.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/17/107974227-0-image-a-65_1776442375948.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/17/107974227-0-image-a-65_1776442375948.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T16:56:11.042647",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Why St Mirren's no-nonsense Cypriot sensation Alex Gogic is the cult hero EVERY club needs",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15741995/Why-St-Mirrens-no-nonsense-Cypriot-sensation-Alex-Gogic-cult-hero-club-needs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T16:00:46",
+      "description": "A clip went viral earlier this week of a Celtic fan watching last weekend's match against St Mirren and loudly complaining that a booking was long overdue for visiting defender Alex Gogic.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/15/107970889-0-image-a-34_1776435506138.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/15/107970889-0-image-a-34_1776435506138.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T16:56:11.042649",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Is someone at Man City selling off their Treble-winners' medals? Mystery as FULL SET from club's iconic season set for auction - with collection expected to fetch \u00a380,000",
       "link": "https://www.dailymail.co.uk/sport/football/article-15742353/Man-City-selling-Treble-winners-medals-Mystery-iconic-season.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19447,62 +19503,6 @@
       "archived_at": "2026-03-31T19:33:34.721241",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Man United target Elliot Anderson insists he is not distracted by transfer speculation as Man City and Arsenal also circle - and sets sights on World Cup success with England",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15691375/Man-United-target-Elliot-Anderson-insists-not-distracted-transfer-speculation-Man-City-Arsenal-circle-sets-sights-World-Cup-success-England.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T16:06:00",
-      "description": "Anderson, 23, is likely to be one of the most sought-after players this summer following a superb season, with Man United, Man City and Arsenal all holding an interest in him.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/13/107525809-0-image-a-17_1774873669532.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/13/107525809-0-image-a-17_1774873669532.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721242",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Revealed: Incredible details of Roberto De Zerbi's Tottenham deal - which hands him relegation get-out clause and puts him SECOND on Premier League best-paid bosses list behind Pep Guardiola",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15690711/tottenham-roberto-zerbi-manager.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T14:28:35",
-      "description": "Tottenham want Roberto De Zerbi to take over as their manager immediately and are making moves to convince the former Marseille and Brighton boss.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/09/107521103-0-image-a-7_1774859984280.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/09/107521103-0-image-a-7_1774859984280.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721243",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Inside Mesut Ozil's new life in Istanbul: Living in a $10m mega-mansion, how Turkish president Recep Tayyip Erdogan became 'grandpa' to his children, and why Real Madrid row means he hasn't spoken to his father in 13 years",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15691147/Inside-Mesut-Ozils-new-life-Istanbul-Living-10m-mega-mansion-Turkish-president-Recep-Erdogan-grandpa-children-Real-Madrid-row-means-spoken-father-13-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T12:51:28",
-      "description": "The former Germany international was born to two Turkish immigrant parents in Gelsenkirchen, but has always felt deep ties to his ancestral homeland.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/13/107526115-0-image-a-29_1774874373665.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/13/107526115-0-image-a-29_1774874373665.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721244",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Why Man United have turned to club legend BRYAN ROBSON to deliver harsh warning to their young stars. Plus, his England squad for the World Cup with a major United omission",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15688855/How-England-legend-BRYAN-ROBSON-warning-Man-United-stars-dangers-evil-artists-opportunistic-chancers-crusade-protect-footballers-financial-ruin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T09:21:06",
-      "description": "Saddened at seeing so many contemporaries fall into financial ruin, many at the hands of unscrupulous agents or opportunist chancers, Robson just had to act.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/29/11/107505391-0-image-a-11_1774779987758.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/29/11/107505391-0-image-a-11_1774779987758.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721245",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
@@ -25199,6 +25199,17 @@
   ],
   "Crev": [
     {
+      "title": "Chimpanzee Violence Is Not Human War",
+      "link": "https://crev.info/2026/04/chimpanzee-violence-is-not-human-war/?utm_source=rss&utm_medium=rss&utm_campaign=chimpanzee-violence-is-not-human-war",
+      "pubDate": "2026-04-17T15:57:35",
+      "description": "Humans may descend to animal-like behavior. But animals do not \u201cascend\u201d to human war.",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-17T16:56:15.597652",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
+    {
       "title": "Nature Used Quantum Mechanics First",
       "link": "https://crev.info/2026/04/sbr-nature-used-quantum-mechanics-first/?utm_source=rss&utm_medium=rss&utm_campaign=sbr-nature-used-quantum-mechanics-first",
       "pubDate": "2026-04-17T04:19:06",
@@ -25497,6 +25508,17 @@
     }
   ],
   "ENV": [
+    {
+      "title": "Harvard Geneticist Proposes Neanderthals Are Descended from Humans",
+      "link": "https://scienceandculture.com/2026/04/harvard-geneticist-proposes-neanderthals-are-descended-from-humans/",
+      "pubDate": "2026-04-17T16:21:00",
+      "description": "Humans and Neanderthals are so similar that Neanderthals provide no evidence we are closely related to some type of primitive non-human.\n<p><a href=\"https://scienceandculture.com/2026/04/harvard-geneticist-proposes-neanderthals-are-descended-from-humans/\" rel=\"nofollow\">Source</a></p>",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-17T16:56:15.907494",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "A Big Deal: In Wall Street Journal, Peter Robinson Welcomes Story of Everything",
       "link": "https://scienceandculture.com/2026/04/a-big-deal-in-wall-street-journal-peter-robinson-welcomes-story-of-everything/",
