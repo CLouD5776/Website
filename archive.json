@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Japan comes up with new word for days hotter than 40C after blistering summer",
+      "link": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T18:19:43",
+      "description": "The term - kokushobi - translates to \"cruelly hot\", \"brutally hot\" or \"severely hot\", and comes after Japan's hottest summer on record.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce3/live/7537af70-3a7e-11f1-850e-07c4418cf86c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T19:57:35.302589",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mental stress led to anti-doping charge - Vondrousova",
+      "link": "https://www.bbc.com/sport/tennis/articles/c0q9ydk2wg9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T19:28:37",
+      "description": "Former Wimbledon champion Marketa Vondrousova is charged with refusing a doping test by the ITIA in an incident the Czech player said happened as she had \"reached a breaking point after months of physical and mental stress\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eaf/live/a44577f0-3a8a-11f1-b7a0-978d05a9e26f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T19:57:35.302596",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Kanye West concert in Poland cancelled over antisemitic comments",
       "link": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-17T18:19:10",
@@ -5477,31 +5499,65 @@
       "archived_at": "2026-04-11T08:39:08.268090",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Hundreds of Irish forecourts run out of fuel as protests continue",
-      "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T08:30:42",
-      "description": "Hundreds of forecourts have run out of petrol and diesel due to the protests involving slow-moving convoys",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48c5/live/a67f8d70-357c-11f1-8c7e-43c32073e8a3.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T08:39:08.268092",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Is Defence Secretary Pete Hegseth waging a holy war against Iran?",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T09:47:00",
-      "description": "And his purge of top generals at the Pentagon",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T08:39:08.268095",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Social care 'in crisis' as 4,000 die every year awaiting place",
+      "link": "https://www.dailymail.co.uk/news/article-15743203/Social-care-crisis-4-000-die-year-awaiting-place.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T19:36:35",
+      "description": "Up to 4,000 people a year are dying while waiting for a social care place, a leading industry figure claimed yesterday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/19/107977421-0-image-m-13_1776451021417.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/19/107977421-0-image-m-13_1776451021417.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T19:57:37.676006",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "SNP's price caps on food will not be legally possible, says Kemi... but Starmer can't be trusted to block them",
+      "link": "https://www.dailymail.co.uk/news/article-15743207/SNPs-price-caps-food-not-legally-possible-says-Kemi-Starmer-trusted-block-them.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T19:35:49",
+      "description": "Price caps on food items proposed by the SNP will not be legally possible - but Sir Keir Starmer can't be trusted to block them, Kemi Badenoch claimed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/19/107977671-0-image-a-10_1776451864653.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/19/107977671-0-image-a-10_1776451864653.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T19:57:37.676015",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Wanted... a new owner for the last shop in Scotland",
+      "link": "https://www.dailymail.co.uk/news/article-15743253/Wanted-new-owner-shop-Scotland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T19:33:59",
+      "description": "With overbearing noise, polluted air and crammed conditions, it is little wonder many Scots dream of escaping the hustle and bustle of the big city.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978159-0-image-a-31_1776453346638.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978159-0-image-a-31_1776453346638.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T19:57:37.676016",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment small boat migrant leapt up a fence and 'tried to break into London's Israeli embassy to carry out knife terror attack'",
+      "link": "https://www.dailymail.co.uk/news/article-15742985/small-boat-migrant-Israeli-embassy-knife-terror-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T19:20:46",
+      "description": "Kuwait-born Abdullah Albadri was captured by police after leaping on an eight-foot fence surrounding the embassy armed with two knives and a martyrdom note.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/18/107975399-0-image-m-17_1776445546943.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/18/107975399-0-image-m-17_1776445546943.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T19:57:37.676018",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "French woman moved to US aged 85 to marry Army sweetheart - only to end up ripped from her bed in nightgown and hurled into ICE custody thanks to her scheming stepson",
       "link": "https://www.dailymail.co.uk/news/article-15742543/french-woman-deported-alabama-inheritance-ice.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12445,65 +12501,23 @@
       "archived_at": "2026-04-15T00:05:46.831940",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Villagers in year-long fight to close traveller site after bank holiday land grab: Residents' fury after family moved onto horse's field overnight, set up camp - and are refusing to leave",
-      "link": "https://www.dailymail.co.uk/news/article-15731397/Villagers-year-long-fight-close-traveller-site.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T00:03:05",
-      "description": "The group made their way onto the land south of Woodville Road in Overseal, Derbyshire, during the August bank holiday in an early morning 'land grab'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/11/107879983-0-image-m-19_1776162077648.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/11/107879983-0-image-m-19_1776162077648.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T00:05:46.831941",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump says Iran war is OVER as Vance prepares for second round of peace talks in Pakistan",
-      "link": "https://www.dailymail.co.uk/news/article-15734019/Trump-Iran-war-peace-talks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T00:02:40",
-      "description": "President Donald Trump declared that the war in Iran is over in an interview with Fox Business' Maria Bartiromo, scheduled to air Wednesday morning.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/00/107899401-0-image-a-28_1776210629705.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/00/107899401-0-image-a-28_1776210629705.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T00:05:46.831942",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "How Britain became a paradise for freeloaders: Cut-price treats for benefits claimants. Big discounts at gyms and swimming pools. And even holidays and travel are covered. MICHAEL SIMMONS' rage-inducing investigation",
-      "link": "https://www.dailymail.co.uk/news/article-15733623/How-Britain-paradise-freeloaders-Cut-price-treats-benefits-claimants-Big-discounts-gyms-swimming-pools-holidays-travel-covered-MICHAEL-SIMMONS-rage-inducing-investigation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T00:01:33",
-      "description": "Easter-holiday treats can be expensive for hard-working families. For those on benefits they're a breeze.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896009-0-image-a-9_1776200880973.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/22/107896009-0-image-a-9_1776200880973.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T00:05:46.831944",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Virgin air steward is arrested in Florida for 'shoving' a teenage girl he accused of queue jumping at Disney's Magic Kingdom",
-      "link": "https://www.dailymail.co.uk/news/article-15733533/steward-arrested-Florida-shoving-girl-queue-Disney.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:52:24",
-      "description": "Keith Newman, who works as cabin crew for Virgin Atlantic, is said to have pushed the 18-year-old when she went around him, causing her to spill her water over her friend.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894501-0-image-m-34_1776197061110.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107894501-0-image-m-34_1776197061110.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T00:05:46.831945",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Megan Rapinoe announces shock split from longtime partner Sue Bird",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15743353/megan-rapinoe-sue-bird-split.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T19:54:14",
+      "description": "USA soccer legend Megan Rapinoe and former WNBA star Sue Bird have announced that they have split.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978315-0-image-a-11_1776453966166.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978315-0-image-a-11_1776453966166.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T19:57:40.088131",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Man United's defensive crisis deepens with ANOTHER star 'set to miss Chelsea game after picking up injury' - leaving Michael Carrick with just ONE senior centre back for huge clash",
       "link": "https://www.dailymail.co.uk/sport/football/article-15742759/Man-Uniteds-defensive-crisis-deepens-star-set-miss-Chelsea-game-picking-injury-leaving-Michael-Carrick-just-ONE-senior-centre-huge-clash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19487,20 +19501,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-03-31T19:33:34.721240",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Thomas Tuchel is 'really insulting' Trent Alexander-Arnold by playing Ben White - and it's 'something personal', says Gary Lineker",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15691333/Thomas-Tuchel-really-insulting-Trent-Alexander-Arnold-playing-Ben-White-personal-says-Gary-Lineker.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T16:22:19",
-      "description": "Alexander-Arnold was a surprising omission from Tuchel's England group for the current international break, with the once-exiled Ben White getting the nod.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/16/107530207-0-image-a-3_1774884182636.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/16/107530207-0-image-a-3_1774884182636.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721241",
       "feed_category": "Sport",
       "feed_visibility": "both"
     }
