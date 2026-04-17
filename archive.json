@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Chris Mason: Mandelson saga is a messy palaver - and the questions continue to swirl",
+      "link": "https://www.bbc.com/news/articles/cwydex228vko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T21:17:43",
+      "description": "Sir Keir and the top official at the Foreign Office at the time are expected to face questions from MPs next week.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c64/live/d07bb670-3a96-11f1-8c60-37b411324010.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T21:38:13.413985",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How Coventry earned Premier League return after 25 years",
+      "link": "https://www.bbc.com/sport/football/articles/cy814339170o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T21:08:52",
+      "description": "Coventry City are back in the Premier League after 25 years. Here's how they achieved promotion under the guidance of Frank Lampard.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa87/live/e5723990-3aa1-11f1-8adf-2b9a8c4a4695.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T21:38:13.413998",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "O'Sullivan chasing eighth Crucible title aged 50",
+      "link": "https://www.bbc.com/sport/snooker/articles/c4g5ywe38dno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T20:55:03",
+      "description": "In 2001, Ronnie O'Sullivan won his first World Snooker Championship. Now, a quarter of a century later, the Rocket is aiming for a record-breaking eighth title.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc25/live/557444d0-3a94-11f1-8c60-37b411324010.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T21:38:13.414000",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Japan comes up with new word for days hotter than 40C after blistering summer",
       "link": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-17T18:19:43",
@@ -5466,42 +5499,107 @@
       "archived_at": "2026-04-11T10:30:35.432311",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Man charged over deaths of four people who drowned crossing Channel",
-      "link": "https://www.bbc.com/news/articles/cy519pv15lyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T10:28:23",
-      "description": "A man is charged over the deaths of two men and two women who drowned trying to cross the Channel on Thursday.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a760/live/374b5220-358d-11f1-a435-63ce6dcfbc51.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T10:30:35.432316",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Artemis crew home safely after completing historic mission to the Moon",
-      "link": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T07:53:46",
-      "description": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8295/live/86e6de50-357c-11f1-9d5c-8ba507d7dbde.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T08:39:08.268078",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "NHS to offer second MenB vaccine after deadly Kent outbreak",
-      "link": "https://www.bbc.com/news/articles/cqxlyepd09no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T08:35:32",
-      "description": "Vaccines were offered to thousands of people who may have been exposed, including university students and school pupils in the area.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a62/live/bd7f7e80-356e-11f1-8695-1dc4ba7083b8.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T08:39:08.268090",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Missing nuclear official becomes TENTH person tied to dark pattern surrounding US secrets",
+      "link": "https://www.dailymail.co.uk/sciencetech/article-15722375/missing-nuclear-official-new-mexico-secrets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-11T20:45:29",
+      "description": "Another key official who reportedly had access to America's nuclear secrets has gone missing, as a disturbing web of deaths and disappearances grows.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/22/107804473-0-image-m-8_1775857683607.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/22/107804473-0-image-m-8_1775857683607.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:15.869803",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Jewish leaders warn of Green candidates' views as eco warriors spout hate for Israel, but love Putin",
+      "link": "https://www.dailymail.co.uk/news/article-15743397/Jewish-leaders-warn-Green-candidates-views-eco-warriors-spout-hate-Israel-love-Putin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:31:14",
+      "description": "Former doctor Philip Brookes suggested victims of the terror attacks on Israel on October 7, 2023 'were not innocent', while Tony Gair has defended Vladimir Putin and spread pro-Kremlin conspiracies.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978695-0-image-m-13_1776455971567.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978695-0-image-m-13_1776455971567.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:15.869810",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Green Party candidate described convicted murderer as having a 'good sense of right and wrong' after he poisoned couple and planted fake will",
+      "link": "https://www.dailymail.co.uk/news/article-15743387/Green-Party-candidate-convicted-murderer-right-wrong-poisoned.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:31:11",
+      "description": "Heidi Cornish, who is standing for Colchester City Council, was a character witness for Luke D'Wit, 36, as he faced charges of murdering Carol and Stephen Baxter in Essex in 2023.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/22/107979747-0-image-m-17_1776459715452.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/22/107979747-0-image-m-17_1776459715452.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:15.869811",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'A mockery of Helen's Law': Fury as husband who killed his wife is set to walk free despite never revealing whereabouts of her body",
+      "link": "https://www.dailymail.co.uk/news/article-15743301/Fury-husband-killed-wife-free-whereabouts-body.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:31:02",
+      "description": "Glyn Razzell was jailed for life for killing the mother of his four children, Linda, 41, who vanished on her way to work in Swindon, Wiltshire, in 2002.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978139-0-image-m-14_1776453370038.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978139-0-image-m-14_1776453370038.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:15.869813",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Teenager, 17, is crushed by concrete pipe while working at newbuild estate",
+      "link": "https://www.dailymail.co.uk/news/article-15743485/Teenager-17-crushed-concrete-pipe-working-newbuild-estate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:25:20",
+      "description": "The 17-year-old suffered head and neck injuries when the heavy item toppled onto him while he was working at a building site in County Durham.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/22/107980179-0-image-m-21_1776460781318.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/22/107980179-0-image-m-21_1776460781318.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:15.869815",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sir Keir Starmer is on borrowed time even if he survives latest Lord Mandelson crisis, Labour MPs say",
+      "link": "https://www.dailymail.co.uk/news/article-15743041/Keir-Starmer-Lord-Mandelson-crisis-Labour-MPs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:14:18",
+      "description": "After it emerged that Peter Mandelson had been appointed US ambassador despite failing security vetting, Sir Keir tried to shore up his position after firing senior Foreign Office official Sir Olly Robbins.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/18/107976099-0-image-a-8_1776446497027.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/18/107976099-0-image-a-8_1776446497027.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:15.869816",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Donald Trump mocks 'useless' plan by Starmer to patrol Strait of Hormuz as Iran says it is now 'completely open'",
+      "link": "https://www.dailymail.co.uk/news/article-15743497/Trump-mocks-Starmer-Strait-Hormuz-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:07:35",
+      "description": "As Iran declared the waterway 'completely open', Sir Keir Starmer and French president Emmanuel Macron on Friday said they would send warships to keep it safe.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/22/107979547-0-image-m-10_1776459643103.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/22/107979547-0-image-m-10_1776459643103.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:15.869817",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "The three key words defining Trump's second term and illuminating America's divide",
       "link": "https://www.dailymail.co.uk/news/article-15743201/three-words-define-trump-polling.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12403,107 +12501,149 @@
       "archived_at": "2026-04-15T03:47:06.827751",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "We confront prosecutor Vanessa O'Bryan after she was accused of sex with prisoners. She unleashes",
-      "link": "https://www.dailymail.co.uk/news/article-15733933/Prosecutor-Vanessa-Obryan-alleged-sex-confront.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T02:54:24",
-      "description": "A prosecutor accused of having sex with prisoners, accessing hundreds of confidential documents, and receiving $5000 in proceeds of crime has lashed out while reporting for bail.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/03/107901923-0-image-m-12_1776219286091.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/03/107901923-0-image-m-12_1776219286091.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T03:47:06.827752",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussie landlords admit to dog act as they reveal the reasons why they would reject a renter",
-      "link": "https://www.dailymail.co.uk/news/article-15733833/Aussie-landlords-admit-dog-act-reveal-reasons-reject-renter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T02:46:44",
-      "description": "Gemma had no luck after applying for 12 properties until recently despite seeing houses advertised as family areas and still available months after her application.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/02/107898105-0-image-m-3_1776218066951.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/02/107898105-0-image-m-3_1776218066951.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T03:47:06.827753",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Kmart, Target, Bunnings, Priceline: Retail giant freezes delivery fees to help Aussies save during fuel crisis",
-      "link": "https://www.dailymail.co.uk/news/article-15734043/free-delivery-kmart-target-bunnings-priceline.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T02:31:55",
-      "description": "The retail giant\u00a0behind Bunnings, Kmart and Target has temporarily paused its delivery fees to allow customers to shop online and save on fuel.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/02/107599081-0-image-a-4_1776218272181.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/02/107599081-0-image-a-4_1776218272181.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T03:47:06.827755",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Virgin Australia to join Qantas and hike prices to cope with fuel crisis",
-      "link": "https://www.dailymail.co.uk/news/article-15734117/Virgin-Australia-price-rise-Qantas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T02:04:15",
-      "description": "Two major airlines lift the prices of some airfares to offset rising fuel costs amid the war in Iran.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/02/107901049-0-image-m-51_1776215361388.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/02/107901049-0-image-m-51_1776215361388.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T03:47:06.827756",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussie truckies share urgent warning industry faces wipeout - and it will make life worse for EVERYONE",
-      "link": "https://www.dailymail.co.uk/news/article-15733767/Aussie-truckies-urgent-warning-wipeout.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T02:02:19",
-      "description": "Australian truck drivers have warned they won't last another six months if the war in the Middle East continues.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/02/107900801-0-image-m-8_1776214833681.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/02/107900801-0-image-m-8_1776214833681.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T03:47:06.827758",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "No money for you: Jim Chalmers is told NOT to give Aussies a handout in the next budget",
-      "link": "https://www.dailymail.co.uk/news/article-15733761/jim-chalmers-budget-australia-iran-fuel-price.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T01:49:39",
-      "description": "The Albanese Government has been warned there is a good reason it should not hand out cash in the next federal budget.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/00/107899167-0-image-a-5_1776210633145.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/00/107899167-0-image-a-5_1776210633145.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T03:47:06.827759",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Huge change in one state to make it easier for millions to buy a popular drug without a GP appointment",
-      "link": "https://www.dailymail.co.uk/news/article-15733969/Pill-contraception-millions-GP-appointment.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T01:11:34",
-      "description": "NSW is the latest state to join the growing trend towards expanding access the popular drug beyond the GP's office.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/02/107900335-0-Pharmacists_are_prepared_to_offer_their_services_to_millions_of_-a-18_1776215068186.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/02/107900335-0-Pharmacists_are_prepared_to_offer_their_services_to_millions_of_-a-18_1776215068186.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T03:47:06.827760",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Party time for Frank Lampard's Sky Blues! Coventry City end 25-YEAR Premier League exile with a 1-1 draw at Blackburn after dramatic late equaliser",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15741881/Frank-Lampard-Coventry-City-Premier-League-promotion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:28:46",
+      "description": "Coventry City sealed a breathtaking return to the Premier League after a 25-year exile thanks to an 85th-minute equaliser from defender Bobby Thomas at Blackburn.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/21/107979739-0-image-a-5_1776459340425.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/21/107979739-0-image-a-5_1776459340425.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:17.110184",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Coventry City are back in the Premier League - this is how they plan to stay there: New deal for Frank Lampard on cards, their transfer plans with Hayden Hackney on radar, wage ceiling for new players and Jack Rudoni's plan to fix shoulder agony",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15721529/Coventry-City-Premier-League-Lampard-transfers-Hackney-Rudoni.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T20:57:33",
+      "description": "It was after Coventry City lost at QPR on the last day of January that Frank Lampard made his most important intervention in the season that ended the club's 25-year exile from the Premier League.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/13/107793493-0-image-a-28_1775824565975.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/10/13/107793493-0-image-a-28_1775824565975.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:17.110190",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Roberto De Zerbi names the TWO Tottenham stars he wants to step up in battle to avoid Premier League relegation",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742661/Roberto-Zerbi-names-TWO-Tottenham-stars-step-relegation-battle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:34:20",
+      "description": "Roberto De Zerbi wants his Tottenham players to forge a band of brothers in the fight to escape relegation as his Spurs side face Brighton in a huge clash in their battle to avoid the drop.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/18/107976571-0-image-a-18_1776448012650.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/18/107976571-0-image-a-18_1776448012650.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:17.110194",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Marcus Rashford's future up in the air with Man United and Barcelona set to step up talks before the World Cup",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15743291/Marcus-Rashford-Man-United-Barcelona-talks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:31:08",
+      "description": "Marcus Rashford's future is up in the air going into a World Cup summer as Barcelona consider their options of keeping the on-loan Manchester United star.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978501-0-image-a-6_1776454919131.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978501-0-image-a-6_1776454919131.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:17.110195",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'We are hungry for more': Erling Haaland fires ominous warning to Arsenal ahead of crunch Etihad clash on Sunday - weeks after defeating Gunners in Carabao Cup final",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742281/man-city-erling-haalad-arsenal-warning-premier-league-title-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:30:58",
+      "description": "JACK GAUGHAN: Manchester City can go top of the Premier League with a victory over Mikel Arteta's side and then three points at Burnley on Wednesday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/17/107973973-0-image-a-10_1776441815234.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/17/107973973-0-image-a-10_1776441815234.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:17.110197",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Celtic skipper Callum McGregor must be cornerstone of new era, says interim boss Martin O'Neill",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742959/Celtic-skipper-Callum-McGregor-cornerstone-new-era-says-interim-boss-Martin-ONeill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:30:55",
+      "description": "Martin O'Neill believes it's essential that Callum McGregor remains a cornerstone for a new-look Celtic side next season.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/19/107977123-0-image-a-15_1776450245084.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/19/107977123-0-image-a-15_1776450245084.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:17.110198",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Forget your egos! Liam Rosenior tells Chelsea stars they can win all SIX games to make Champions League - if they channel John Terry, Didier Drogba and Co and fight for the shirt",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15741839/Forget-egos-Liam-Rosenior-tells-Chelsea-stars-win-SIX-games-make-Champions-League-channel-John-Terry-Didier-Drogba-fight-shirt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:30:52",
+      "description": "The pressure is being piled on Rosenior from fans, though the Blues boss answered this by saying he was 'questioned after three minutes of joining this club, let alone three months'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/13/107967913-0-image-a-11_1776427462843.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/13/107967913-0-image-a-11_1776427462843.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:17.110199",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Thrill of the chase is not for Celtic as interim boss Martin O'Neill pinpoints key reason for club's malaise",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15743029/Thrill-chase-not-Celtic-interim-boss-Martin-ONeill-pinpoints-key-reason-clubs-malaise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:30:49",
+      "description": "When you've looked for something for so long in vain, there inevitably comes a point where you start to doubt its very existence.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/19/107977665-0-image-a-36_1776452294765.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/19/107977665-0-image-a-36_1776452294765.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:17.110200",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Everton's David Moyes defends under-fire rival Arne Slot ahead of historic Merseyside Derby.. but says Liverpool boss has to stop blaming referees!",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742637/Evertons-David-Moyes-defends-fire-rival-Arne-Slot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:30:46",
+      "description": "Everton boss David Moyes says he has sympathy for his struggling city rival Arne Slot - but insists he is 'not having' the Liverpool head coach using refereeing decisions as an excuse.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/22/107980301-0-image-a-2_1776461166386.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/22/107980301-0-image-a-2_1776461166386.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:17.110202",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Falkirk boss John McGlynn 'should be in the conversation' for next Celtic manager, says former Parkhead idol Neil Lennon",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742993/Falkirk-boss-John-McGlynn-conversation-Celtic-manager-says-former-Parkhead-idol-Neil-Lennon.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T21:13:22",
+      "description": "Dunfermline manager Neil Lennon believes that John McGlynn should be considered for the Celtic job when it becomes available in the summer.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/22/107979999-0-image-a-114_1776460323539.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/22/107979999-0-image-a-114_1776460323539.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T21:38:17.110203",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Cole Palmer breaks silence on Man United transfer speculation and opens up on Chelsea future after talks with club owners",
       "link": "https://www.dailymail.co.uk/sport/football/article-15743381/Cole-Palmer-breaks-silence-Man-United-transfer-speculation-opens-Chelsea-future-talks-club-owners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19361,146 +19501,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-03-31T19:33:34.721226",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Italy in 'spy-gate row ahead of Bosnia World Cup play-off - as Bosnian media accuse four-time champions of having a SOLDIER film rivals' training session'",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15692627/Italy-spy-gate-Bosnia-World-Cup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T21:28:23",
-      "description": "Bosnia will host the four-time world champions at the Bilino Polje Stadium in Zenica on Tuesday night, following their dramatic penalty shootout win over Wales in the play-off semi-final last week.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/21/107536111-0-image-a-4_1774903894291.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/21/107536111-0-image-a-4_1774903894291.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721227",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tartan Army booing was not a problem for us, insists John McGinn... after all, we've heard much worse!",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15692397/Tartan-Army-booing-not-problem-insists-John-McGinn-weve-heard-worse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T19:40:52",
-      "description": "Scotland midfielder John McGinn insists the booing at the end of Saturday's defeat to Japan at Hampden has been blown out of proportion.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/20/107534993-0-image-a-149_1774899342241.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/20/107534993-0-image-a-149_1774899342241.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721228",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Steve Clarke will pick mammoth 55-MAN initial squad for World Cup as he looks for perfect blend to shine on global stage",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15692501/Steve-Clarke-pick-mammoth-55-MAN-initial-squad-World-Cup-looks-perfect-blend-shine-global-stage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T19:36:00",
-      "description": "Scotland boss Steve Clarke has revealed that he will name a bumper 55-man squad initially for the World Cup.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/20/107534799-0-image-a-182_1774898091308.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/20/107534799-0-image-a-182_1774898091308.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721229",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Thomas Tuchel admits England's attacking stars need to step up, writes IAN LADYMAN as Three Lions face a nervous countdown to the World Cup after a string of limp performances",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15691159/Thomas-Tuchel-England-attacking-stars-IAN-LADYMAN-Three-Lions-nervous-countdown-World-Cup-limp-performances.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T19:09:16",
-      "description": "IAN LADYMAN: Delivered amid the crisis-gripped environs of Tottenham Hotspur's training ground, the England head coach's words pointed to problems of his own.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/16/107530777-0-image-a-47_1774885658905.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/16/107530777-0-image-a-47_1774885658905.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721230",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The nerves are understandable... now Scots MUST ease fans' fears about freezing on the big stage",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15692477/The-nerves-understandable-Scots-ease-fans-fears-freezing-big-stage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T19:01:52",
-      "description": "On the banks of the River Mersey at Bramley-Moore Dock, Steve Clarke is less than three months out from a World Cup yet finds himself having to steer Scotland's ship through choppy waters.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/19/107534497-0-image-a-129_1774897117579.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/19/107534497-0-image-a-129_1774897117579.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721232",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "IAN HERBERT: Cardiff's utterly unsuccessful pursuit of \u00a3100m for plane crash victim Emiliano Sala was madness - and football has failed to act on the real scandal of this case",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15692117/IAN-HERBERT-Cardiff-unsuccessful-pursuit-100m-plane-crash-victim-Emiliano-Sala-madness-football-failed-act-real-scandal-case.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T18:18:13",
-      "description": "COMMENT BY IAN HERBERT: It's nearly four months since I pointed out that the League One club's case in the latest chapter of their interminable attempt to recoup cash was 'delusional.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/19/104543763-0-image-a-6_1774894175762.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/19/104543763-0-image-a-6_1774894175762.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721233",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Thomas Tuchel sends stern message to England boo boys after former exile Ben White was ruthlessly jeered against Uruguay",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15692049/Thomas-Tuchel-message-England-boo-boys-Ben-White.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T18:11:24",
-      "description": "IAN LADYMAN: England manager Tuchel says he is considering starting White against Japan at Wembley tomorrow night.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/18/107533183-0-image-a-12_1774892603854.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/18/107533183-0-image-a-12_1774892603854.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721234",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Roy Hodgson, 78, rules out long-term stay at Bristol City after his shock return to management as former England boss insists 'I'm too OLD'",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15692227/Roy-Hodgson-Bristol-City-return-England.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T17:51:16",
-      "description": "Hodgson, 78, was appointed manager of the Championship team until the end of the season last week, taking over from Gerhard Struber, who was sacked after a poor run of results.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/18/107532955-0-image-a-96_1774892612058.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/18/107532955-0-image-a-96_1774892612058.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721235",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Egypt football chief names two huge European clubs who have made offers to Mohamed Salah - and tells him to avoid America when he leaves Liverpool with contract torn up this summer",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15691989/Egypt-football-European-club-Mohamed-Salah.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T17:43:01",
-      "description": "The forward revealed the news in a video last week, as he missed jetting off to Egypt for international duty, where his side have taken on Saudi Arabia before a clash with Spain on Tuesday, due to injury.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/17/107530633-0-image-a-48_1774887778250.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/17/107530633-0-image-a-48_1774887778250.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721236",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "British Olympics star, 32, retires from athletics to take up surprise new role at Premier League football club",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15692125/British-Olympics-star-retires-athletics-Premier-Leagu.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T17:24:30",
-      "description": "The star, 32, represented Great Britain at the 2012 and 2016 Olympics, and is also a 2017 world champion, when he was part of the GB team that beat the likes of Usain Bolt's Jamaica.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/17/107532119-0-image-a-65_1774889692775.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/17/107532119-0-image-a-65_1774889692775.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721237",
       "feed_category": "Sport",
       "feed_visibility": "both"
     }
