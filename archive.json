@@ -1,6 +1,50 @@
 {
   "BBC News": [
     {
+      "title": "Irish fugitive and alleged crime boss Daniel Kinahan arrested in Dubai",
+      "link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T17:12:38",
+      "description": "Kinahan, in his 40s, was arrested in Dubai on foot of an arrest warrant issued by the Irish courts.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9732/live/99b991e0-3a7b-11f1-8606-05fe34b06e1b.png",
+      "enclosure": null,
+      "archived_at": "2026-04-17T17:48:28.894689",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ultra-marathon champion died running Cape Wrath trail two weeks before wedding",
+      "link": "https://www.bbc.com/news/articles/c393ykz2w73o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T15:37:37",
+      "description": "Jade Lau said her partner David Parrish was \"full of life, funny and loving\" and that he was \"buzzing\" in the weeks leading up to the run.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/770e/live/2eef70d0-3a73-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T17:48:28.894698",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bournemouth close to appointing Rose",
+      "link": "https://www.bbc.com/sport/football/articles/c5ywz3x4r2eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T17:11:56",
+      "description": "Bournemouth are close to appointing Marco Rose as Andoni Iraola's replacement as head coach.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/453e/live/15409b20-3a7b-11f1-850e-07c4418cf86c.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T17:48:28.894700",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "One of Arsenal's greatest unsung heroes - Keown's tribute to Manninger",
+      "link": "https://www.bbc.com/sport/football/articles/ckgxpklxj5wo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T17:36:46",
+      "description": "Former Arsenal defender Martin Keown pays tribute to his old friend and former Gunners team-mate Alex Manninger, who has died at the age of 48.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0984/live/03ae2330-3a73-11f1-a972-552682926a9b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T17:48:28.894701",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
       "link": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-17T16:23:47",
@@ -5455,53 +5499,149 @@
       "archived_at": "2026-04-11T06:57:09.112531",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Repair Shop restores Britain's first black ballerina's shoes",
-      "link": "https://www.bbc.com/news/articles/cp3lxp1ex61o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T14:49:19",
-      "description": "Julie Felix has now had her shoes repaired 40 years after her first professional solo performance.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5235/live/1ffd74e0-333a-11f1-bf11-9546df991775.png",
-      "enclosure": null,
-      "archived_at": "2026-04-11T06:57:09.112533",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Bored retiree creates supersized household objects",
-      "link": "https://www.bbc.com/news/articles/cn78e1vzk5vo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-09T05:17:13",
-      "description": "He lives in his home among huge objects including a giant pencil, clothes peg and a 13-amp plug.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b20/live/293fc0c0-3345-11f1-9f60-37eac42daa69.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T06:57:09.112534",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Miracle' as lost cat returned home after five years",
-      "link": "https://www.bbc.com/news/articles/c208rznp60do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-07T05:19:26",
-      "description": "Danielle Arme says she \"burst into tears\" when she heard the news that Bodhi was safe and well.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4321/live/9696fae0-2ea3-11f1-aa0c-dd9a23733a84.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T06:57:09.112536",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Could Guardiola's best and Arteta's worst month decide title?",
-      "link": "https://www.bbc.com/sport/football/articles/cy81j3dd7m5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T06:01:12",
-      "description": "As the Premier League season approaches its finale, April could be the defining month for leaders Arsenal and closest challengers Manchester City. BBC Sport looks at the stats to explain why.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/113d/live/180bfcd0-33fc-11f1-a4ee-f9cebb92412a.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T06:57:09.112538",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Trump reveals Iran agrees to FREEZE nuclear program as he races to make deal to END the war this weekend",
+      "link": "https://www.dailymail.co.uk/news/article-15742995/Trump-reveals-Iran-agrees-FREEZE-nuclear-program-races-make-deal-END-war-weekend.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T17:40:50",
+      "description": "Donald Trump said Iran has agreed to suspend its nuclear program and that a deal with the Islamic regime could be finalized in the coming days to end the war.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/18/107955747-0-image-a-6_1776445345319.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/18/107955747-0-image-a-6_1776445345319.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T17:48:30.038757",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "What could possibly have made Lord Mandelson fail his security vetting? REBECCA CAMBER investigates",
+      "link": "https://www.dailymail.co.uk/news/article-15742859/Lord-Mandelson-security-vetting-REBECCA-CAMBER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T17:37:58",
+      "description": "REBECCA CAMBER: Over three decades as an MP, government minister, privy councillor, peer and Labour grandee. Yet officials still said Lord Mandelson couldn't be trusted.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/18/107965549-0-image-m-10_1776446916757.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/18/107965549-0-image-m-10_1776446916757.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T17:48:30.038764",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Family wins huge payout after little girl, 2, survives vicious OTTER attack",
+      "link": "https://www.dailymail.co.uk/news/article-15742143/otter-attack-video-lawsuit-settlement-payout.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T17:32:45",
+      "description": "The family's encounter with the animal was captured on a surveillance camera. The otter dragged the little girl underwater before being rescued by her mother.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/17/107973313-0-image-m-29_1776444150190.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/17/107973313-0-image-m-29_1776444150190.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T17:48:30.038766",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Outrage as embattled Arizona sheriff makes VERY unfortunate 'Nancy' tweet as hunt for Savannah's mother continues",
+      "link": "https://www.dailymail.co.uk/news/article-15742797/pima-county-sheriff-nancy-guthrie-savannah.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T17:25:37",
+      "description": "Pima County Sheriff's Department were condemned for the X post as the hunt for Today star Savannah's mother continues.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/18/107976017-0-image-m-18_1776446607992.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/18/107976017-0-image-m-18_1776446607992.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T17:48:30.038767",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Jill Biden's $35,000 gambit to guest star in red hot gay hockey show is quashed by 'heated' rivals",
+      "link": "https://www.dailymail.co.uk/news/article-15742701/jill-biden-heated-rivalry-auction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T17:22:43",
+      "description": "Former First Lady Jill Biden's quest to guest star on a red hot gay hockey show was quashed Thursday night by heated rivals.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/17/107973871-0-image-m-25_1776441977853.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/17/107973871-0-image-m-25_1776441977853.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T17:48:30.038769",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Police sergeant feared her spine 'shattered' after Palestine Action activist struck her back with a sledgehammer, trial hears",
+      "link": "https://www.dailymail.co.uk/news/article-15742735/sergeant-feared-spine-shattered-Palestine-Action-activist-sledgehammer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T17:21:38",
+      "description": "Sergeant Kate Evans was allegedly hit by an activist who broke into a defence firm's factory in 2024 while she tried to arrest another trespasser.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/18/107975947-0-image-a-9_1776446038372.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/18/107975947-0-image-a-9_1776446038372.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T17:48:30.038771",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Gay dad defends video that showed him 'mocking' his surrogate baby asking for 'mama': Why he stands by clip that shocked America",
+      "link": "https://www.dailymail.co.uk/news/article-15741905/Gay-dads-baby-mama-Shane-McAnally-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T17:10:56",
+      "description": "Grammy Award winner Shane McAnally, 51, shared a video this week showing his husband Michael Baum playing with their baby boy born via surrogacy at their $5.3 million Nashville mansion.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/16/107973585-0-image-m-32_1776441012990.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/16/107973585-0-image-m-32_1776441012990.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T17:48:30.038772",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Distraught mayor's secretary claims he tried to pull down her pants and assault her while she was pregnant, as she reveals disgusting nickname he gave her",
+      "link": "https://www.dailymail.co.uk/news/article-15742073/matthew-doc-dantzer-magnolia-texas-mayor-assault-arrest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T17:09:45",
+      "description": "Magnolia Mayor Matthew 'Doc' Dantzer allegedly sexually assaulted his employee, Christian Gable, in October after they attended a conference.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/17/107974293-0-image-m-16_1776443045574.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/17/107974293-0-image-m-16_1776443045574.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T17:48:30.038773",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Belgian Dominique Pelicot' who drugged and raped three partners is jailed as cops find 100,000 images of unsuspecting victims including underaged stepdaughter",
+      "link": "https://www.dailymail.co.uk/news/article-15742669/Belgian-Dominique-Pelicot-drugged-raped-three-partners-jailed-cops-100-000-images-unsuspecting-victims-including-underaged-stepdaughter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T17:09:06",
+      "description": "A Belgian man will spend 10 years behind bars after he was found guilty of drugging and raping three of his ex-partners.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/18/107975571-0-image-a-14_1776445693069.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/18/107975571-0-image-a-14_1776445693069.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T17:48:30.038774",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Meghan Markle is criticised for selling outfit she wore when she met Bondi beach terror attack survivors",
+      "link": "https://www.dailymail.co.uk/news/article-15741909/Meghan-Markle-criticised-selling-outfit-wore-met-Bondi-beach-terror-attack-survivors.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T16:55:11",
+      "description": "Harry is also featured on the OneOff page advertising his wife's 'look' at the Sydney beach on Friday, although he is largely covered by links to her clothing.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/12/107967797-0-image-m-49_1776426823408.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/12/107967797-0-image-m-49_1776426823408.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T17:48:30.038776",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Manchester Airport engineer 'lucky to be alive' after plunging 35ft out of open Jet2 plane door due to 'mix-up with steps'",
       "link": "https://www.dailymail.co.uk/news/article-15725677/Manchester-Airport-engineer-fall-Jet2-plane-door.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12359,146 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-15T00:05:46.831952",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Beijing condemns 'irresponsible and dangerous' US bid to halt cargo as\u00a0Chinese tankers run the blockade",
-      "link": "https://www.dailymail.co.uk/news/article-15733827/Beijing-condemns-irresponsible-dangerous-US-bid-halt-cargo-Chinese-tankers-run-blockade.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:05:05",
-      "description": "China's President Xi Jinping took a thinly veiled swipe at Mr Trump, warning the world cannot risk reverting 'to the law of the jungle'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/23/107898167-0-image-a-38_1776207301814.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/23/107898167-0-image-a-38_1776207301814.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T00:05:46.831954",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Australia's divided reception of Harry and Meghan becomes a 'sore point' as couple begin second day of whirlwind tour and mystery surrounds Duchess of Sussex's plans",
-      "link": "https://www.dailymail.co.uk/news/article-15733681/Harry-Meghan-Australia-tour-divided-response.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:02:38",
-      "description": "Follow Daily Mail's live coverage here.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897501-0-image-a-4_1776205821670.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897501-0-image-a-4_1776205821670.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673924",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Erika Kirk backs out of TPUSA event with JD Vance at last minute due to unknown 'threats', vice president says",
-      "link": "https://www.dailymail.co.uk/news/article-15733867/Erika-Kirk-skips-TPUSA-event-JD-Vance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:02:21",
-      "description": "Erika Kirk backed out of a planned Turning Point USA tour stop at the University of Georgia because of threats, according to Vice President JD Vance, the headliner at the event.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897461-0-image-a-5_1776205342945.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897461-0-image-a-5_1776205342945.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673931",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Elon Musk's social media platform X is pushing pornographic content to children as young as 13, study finds",
-      "link": "https://www.dailymail.co.uk/news/article-15731727/Elon-Musks-social-media-platform-X-pushing-pornographic-content-children-young-13-study-finds.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:01:52",
-      "description": "Children using X - formerly known as Twitter - were exposed to images and videos of sexual acts and exposed genitals.Adults were also able to message them directly with one sent a video of masturbation.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/17/107879863-0-image-a-9_1776182631075.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/17/107879863-0-image-a-9_1776182631075.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673934",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "JD Vance expected to lead a potential second round of peace talks with Iran after negotiations fell apart last week",
-      "link": "https://www.dailymail.co.uk/news/article-15733903/JD-Vance-peace-talks-second-round-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:00:47",
-      "description": "Vice President JD Vance is reportedly being tapped to lead a potential second round of peace talks with Iranians.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897849-0-image-a-5_1776206424453.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897849-0-image-a-5_1776206424453.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673935",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Israel and Lebanon hold their first direct talks in more than 30 YEARS - and they were 'positive'",
-      "link": "https://www.dailymail.co.uk/news/article-15733837/Israel-Lebanon-direct-talks-positive.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T23:00:45",
-      "description": "Ambassadors from the Middle Eastern nations met for a summit in Washington hosted by US Secretary of State Marco Rubio.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897703-0-image-m-25_1776206106720.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897703-0-image-m-25_1776206106720.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673936",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Joe Biden ridiculed for singling out black man as Barack Obama ... but there's a twist",
-      "link": "https://www.dailymail.co.uk/news/article-15733751/cringe-moment-joe-biden-black-man-barack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T22:56:35",
-      "description": "Former President Joe Biden gave a shout-out to a tall, slender African-American man while delivering a speech on Tuesday, announcing to the audience that he looked like 'Barack.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897559-0-image-a-21_1776205963519.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897559-0-image-a-21_1776205963519.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673938",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Courtroom shocked as Athena Strand killer Tanner Horner is accused of child rape by TWO victims who turned up to death penalty hearing",
-      "link": "https://www.dailymail.co.uk/news/article-15733589/Athena-Strand-killer-Tanner-Horner-child-rape.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T22:42:43",
-      "description": "Two separate women testified on Tuesday that Tanner Horner, 34, who abducted and killed seven-year-old Athena Strand raped them when they were teenagers.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/23/107896769-0-image-a-14_1776204817347.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/23/107896769-0-image-a-14_1776204817347.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673940",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tragedy as Aussie cop is found dead in his home - as his last message to a colleague is revealed",
-      "link": "https://www.dailymail.co.uk/news/article-15733861/Tragedy-Aussie-cop-dead-home-message-colleague-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T22:42:02",
-      "description": "Sergeant Anthony Baillie, known by his family as 'Bails', was found deceased in his Bateau Bay home on April 6,\u00a0with a gunshot wound from a police-issue firearm.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897403-0-image-m-75_1776205369230.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/23/107897403-0-image-m-75_1776205369230.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673941",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Worker demands $100,000 in backpay from his bosses after refusing to do 'high stress' duties, work two days in a row or meet with HR",
-      "link": "https://www.dailymail.co.uk/news/article-15699731/aditya-singhal-reserve-bank.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T22:34:43",
-      "description": "A senior Reserve Bank employee will not receive $100,000 in backpay after the Fair Work Commission found a series of bizarre restrictions meant he had not been 'ready and willing' to work like he claimed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/10/03/107785089-0-image-m-121_1775787811578.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/10/03/107785089-0-image-m-121_1775787811578.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T23:10:28.673943",
       "feed_category": "News",
       "feed_visibility": "both"
     }
@@ -21108,6 +21108,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Cher files for conservatorship of son Elijah Blue Allman's estate for second time",
+      "link": "https://www.music-news.com/news/UK/188408/Cher-files-for-conservatorship-of-son-Elijah-Blue-Allman-s-estate-for-second-time",
+      "pubDate": "2026-04-17T16:00:00",
+      "description": "Elijah Blue Allman is currently incarcerated following a string of arrests.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188408.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188408.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T17:48:36.700170",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Prince loved showing off his room of fan mail after he shot to fame",
       "link": "https://www.music-news.com/news/UK/188401/Prince-loved-showing-off-his-room-of-fan-mail-after-he-shot-to-fame",
