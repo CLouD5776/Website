@@ -1,6 +1,72 @@
 {
   "BBC News": [
     {
+      "title": "What we know about the ceasefire between Lebanon and Israel",
+      "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T05:34:48",
+      "description": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21b/live/08e16200-3a27-11f1-ae6d-5b9ff237458e.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T07:09:47.217955",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Rain set to ease for the weekend as sunshine returns",
+      "link": "https://www.bbc.com/weather/articles/c4gl5r32q6ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T05:11:46",
+      "description": "After April showers and thunderstorms this week, the weather will settle down this weekend and into next week as Simon King explains.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f59f/live/ca896220-3989-11f1-a2bb-f5510bc30f8a.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T07:09:47.217963",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chinese carmaker patents voice-controlled 'in-vehicle toilet'",
+      "link": "https://www.bbc.com/news/articles/c1l92yv4mydo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T06:35:57",
+      "description": "Seres' plans show how stiff competition in the EV space is putting pressure on carmakers to innovate.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a0/live/1b561a10-3a23-11f1-a008-0b28622386db.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T07:09:47.217965",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'I'd run the M4 naked' - Williams targets snooker history",
+      "link": "https://www.bbc.com/sport/snooker/articles/cgmeerx9pxwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T05:08:08",
+      "description": "Mark Williams could cause traffic chaos on the motorway if he surpasses Ronnie O'Sullivan as the oldest ever world champion.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b48f/live/94911d80-38cf-11f1-897a-bdd15f22bdb0.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T07:09:47.217967",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arsenal are judged on perception, partly because of Guardiola - Balague",
+      "link": "https://www.bbc.com/sport/football/articles/cd6lld4q57po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T05:50:06",
+      "description": "As Manchester City prepare to host Arsenal in Sunday's crucial Premier League meeting between the top two, European football expert Guillem Balague looks at how the two managers have evolved.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c01e/live/2edb1ec0-3a21-11f1-a008-0b28622386db.png",
+      "enclosure": null,
+      "archived_at": "2026-04-17T07:09:47.217969",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sutton's predictions v boxer Molly McCann & the Boo Radleys",
+      "link": "https://www.bbc.com/sport/football/articles/c78lxvzl3d4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T17:39:32",
+      "description": "Chris Sutton takes on boxer Molly McCann and The Boo Radley's frontman Sice Rowbottom plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bede/live/469456a0-3803-11f1-879d-1b2f5c3919b8.png",
+      "enclosure": null,
+      "archived_at": "2026-04-17T07:09:47.217970",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
       "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-17T01:34:22",
@@ -5433,75 +5499,107 @@
       "archived_at": "2026-04-10T15:48:22.266969",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Man arrested over deaths of four people trying to cross Channel",
-      "link": "https://www.bbc.com/news/articles/c208k07em0mo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T15:17:16",
-      "description": "Two men and two women, whose identities have not yet been released, died when they tried to board a water taxi off the coast of Saint Etienne au Mont, near Calais.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/485f/live/2f34ba80-340d-11f1-879d-1b2f5c3919b8.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T15:48:22.266979",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Man accused of coercing wife into sex with 120 men goes on trial in Sweden",
-      "link": "https://www.bbc.com/news/articles/cx24pdwx588o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T15:06:40",
-      "description": "The 61-year-old denies threatening physical violence and plying his wife with drugs to force her into having sex with strangers.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2212/live/a6860d70-34c9-11f1-b079-8d85ad9c406e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T15:48:22.266983",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Parents' fury at Army's delay to report missing son",
-      "link": "https://www.bbc.com/news/articles/cly7d9px7leo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T07:58:43",
-      "description": "L/Cpl Ryan Rudd was not reported missing until two weeks after he was last seen in Selby.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/420e/live/49ba61f0-34e6-11f1-9d5c-8ba507d7dbde.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T14:44:29.646487",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The high-stakes diplomacy that led to Pakistan hosting US-Iran peace talks",
-      "link": "https://www.bbc.com/news/articles/c3dl0g4rgn5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T14:07:20",
-      "description": "Critical minerals, cryptocurrency, and CIA co-operation - how Asim Munir, Trump\u2019s \u201cfavourite field marshal\u201d, may have pulled off the diplomatic coup of the century.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edaf/live/c82393a0-34d1-11f1-9d5c-8ba507d7dbde.png",
-      "enclosure": null,
-      "archived_at": "2026-04-10T14:44:29.646500",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I'm not better than Frank or Tudor - Spurs boss De Zerbi",
-      "link": "https://www.bbc.com/sport/football/articles/cdxde1g4dvqo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T14:21:19",
-      "description": "Tottenham boss Roberto de Zerbi says he is \"not better\" than predecessors Thomas Frank or Igor Tudor as he prepares to take charge of his first game at the Premier League strugglers.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf26/live/95e0c390-34e0-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T14:44:29.646506",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Gold Dancer put down after winning at Aintree",
-      "link": "https://www.bbc.com/sport/horse-racing/articles/c3v614gk1g4o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T14:14:07",
-      "description": "Gold Dancer is put down after he suffers a broken back when winning the Mildmay Novices' Chase on day two of the Grand National Meeting.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ab/live/27a00670-34e5-11f1-bce2-613d63bea84f.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T14:44:29.646508",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Mystery over how teens drove off M1 bridge in crash that killed the pair as images show how minibus was struck by car in thousand-to-one twist of fate",
+      "link": "https://www.dailymail.co.uk/news/article-15724307/Two-teenagers-die-car-plunges-bridge-minibus-motorway-Easter-holiday-pile-closed-motorway.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-12T08:46:54",
+      "description": "The pair, who have not been named, were travelling in a blue car along Gilmorton Lane, towards Lutterworth, Leicestershire, when the vehicle careered off a bridge.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814329-0-image-m-17_1775897795998.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/11/09/107814329-0-image-m-17_1775897795998.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T07:09:49.663134",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Meghan prepares for \u00a31,700-a-head hotel meet-and-greet with fans after Australian taxpayer-funded police surround her and Prince Harry as they meet Bondi massacre heroes",
+      "link": "https://www.dailymail.co.uk/news/article-15741173/Meghan-prepares-1-700-head-hotel-meet-greet-fans-Australian-taxpayer-funded-police-surround-Prince-Harry-meet-Bondi-massacre-heroes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T07:03:38",
+      "description": "On a day where the Duke and Duchess of Sussex spoke to survivors of the\u00a0Bondi terrorist attack in December, Meghan will meet women who have paid $3200 for VIP photos with her.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/06/107961135-0-image-m-24_1776404622416.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/06/107961135-0-image-m-24_1776404622416.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T07:09:49.663144",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Airlines cancel hundreds of flights as jet fuel prices soar amid fears Europe has just 'six weeks' of supply left",
+      "link": "https://www.dailymail.co.uk/news/article-15741221/Airlines-cancel-flights-jet-fuel-prices-six-weeks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T06:26:04",
+      "description": "Germany carrier Lufthansa said on Thursday that a regional subsidiary, Lufthansa CityLine, will suspend operations from Saturday due to high kerosene prices and labour disputes.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/07/107961405-0-image-m-8_1776406162050.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/07/107961405-0-image-m-8_1776406162050.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T07:09:49.663147",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Surprise result in dramatic South Australian election recount after a box of missing ballots was discovered",
+      "link": "https://www.dailymail.co.uk/news/article-15741105/One-Nation-South-Australia-Chantelle-Thomas.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T05:53:52",
+      "description": "The Electoral Commission of South Australia ordered a recount after discovering 81 overlooked votes, only weeks after the razor\u2011thin result had been declared.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/06/107960721-0-image-m-80_1776402746592.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/06/107960721-0-image-m-80_1776402746592.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T07:09:49.663149",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Celebrations in Lebanon as ceasefire with Israel goes into effect and Trump hails 'historic' peace effort with Iran: 'Good things are happening!'",
+      "link": "https://www.dailymail.co.uk/news/article-15741051/Celebrations-Lebanon-ceasefire-Israel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T05:46:57",
+      "description": "Celebrations swept through Lebanon on Friday as a 10-day ceasefire with Israel took effect, in what US President Donald Trump hailed as a 'historic day.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/06/107959855-0-image-a-5_1776403746630.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/06/107959855-0-image-a-5_1776403746630.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T07:09:49.663150",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Aussies rip into lacklustre menu in invitation-only Qantas Chairman's Lounge: 'It's like a bad RSL'",
+      "link": "https://www.dailymail.co.uk/news/article-15740707/qantas-chairmans-lounge-menu-neil-perry-sydney.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T05:39:08",
+      "description": "Aussies have likened an exclusive, invitation-only Qantas lounge to a 'bad RSL' after a photo of its menu went viral this week.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/06/107960907-0-image-a-80_1776404164611.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/06/107960907-0-image-a-80_1776404164611.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T07:09:49.663152",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Confused, losing relevance, doomed? One political party that echoes that description: PETER VAN ONSELEN",
+      "link": "https://www.dailymail.co.uk/news/article-15741079/confused-losing-relevance-doomed-political-party.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T05:35:53",
+      "description": "They are ideologically confused and losing relevance in different parts of the electorate for different reasons.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/06/107960697-0-image-a-8_1776403184860.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/06/107960697-0-image-a-8_1776403184860.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T07:09:49.663153",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Phoenix teen AMBUSHED by group of boys while walking home describes moment she realized she was being followed",
       "link": "https://www.dailymail.co.uk/news/article-15738865/phoenix-teen-assaulted-teenagers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12403,107 +12501,23 @@
       "archived_at": "2026-04-14T16:17:47.601730",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Bulldozers demolish three houses in erosion hit Norfolk village: Cliff-top properties - including home of pensioner 'Granny Canute' - are knocked down before they crumble into sea",
-      "link": "https://www.dailymail.co.uk/news/article-15732543/Bulldozers-demolish-houses-erosion-Norfolk-village.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T15:55:15",
-      "description": "Work to remove the perilous homes in Happisburgh, Norfolk began on Tuesday and is expected to\u00a0last up to two weeks subject to weather conditions.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888409-0-image-m-63_1776179629603.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888409-0-image-m-63_1776179629603.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T16:17:47.601732",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump's Cabinet fixer exits White House amid upheaval to lead $100 million midterm machine",
-      "link": "https://www.dailymail.co.uk/news/article-15732545/Trumps-White-House-amid-upheaval-machine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T15:47:56",
-      "description": "Donald Trump's White House staff is seeing a shake-up before the midterm elections later this year.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/15/107887339-0-image-a-61_1776178734999.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/15/107887339-0-image-a-61_1776178734999.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T16:17:47.601733",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "French woman, 86, is locked up by ICE after moving to US to marry long-lost love she dated in 1960s... and her new husband dies",
-      "link": "https://www.dailymail.co.uk/news/article-15732195/French-woman-86-locked-ICE-moving-US-marry-long-lost-love.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T15:47:46",
-      "description": "Her new husband died just months later, leaving her alone in the US before she was arrested earlier this month following a fallout with his son.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888979-0-image-a-14_1776180267489.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888979-0-image-a-14_1776180267489.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T16:17:47.601735",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Hunt for Rolex rippers who targeted man as he walked through King Charles' model town Poundbury",
-      "link": "https://www.dailymail.co.uk/news/article-15732169/Hunt-Rolex-rippers-targeted-man-walked-King-Charles-model-town-Poundbury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T15:31:12",
-      "description": "A manhunt is underway for two robbers who snatched a man's Rolex at knifepoint from King Charles' model community.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/16/107887621-0-image-m-16_1776179685167.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/16/107887621-0-image-m-16_1776179685167.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T16:17:47.601736",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "New alleged victim of Eric Swalwell details horrifying hotel room encounter as more women come forward: 'He didn't stop'",
-      "link": "https://www.dailymail.co.uk/news/article-15732451/New-victim-Eric-Swalwell-hotel-room-encounter-didnt-stop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T15:20:59",
-      "description": "Even an announcement of California Congressman Eric Swalwell's imminent departure from Congress doesn't seem to be stemming the flow of accusations of sexual improprieties being hurled his way.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888163-0-image-m-13_1776179294528.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888163-0-image-m-13_1776179294528.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T16:17:47.601738",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "JP Morgan traders rake in record revenues as Iran war sparks turmoil on financial markets",
-      "link": "https://www.dailymail.co.uk/money/markets/article-15732157/JP-Morgan-traders-rake-record-revenues-Iran-war-sparks-turmoil-financial-markets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T14:16:36",
-      "description": "he US banking giant said trading revenues jumped 20 per cent to \u00a38.5billion in the first quarter of the year as turmoil triggered by conflict in the Middle East boosted business.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/13/107883057-0-image-a-100_1776168612598.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/13/107883057-0-image-a-100_1776168612598.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T15:00:00.312365",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "This Morning fans gasp 'just because you can, doesn't mean you should!' as couple brag about welcoming their FOURTEENTH child - and reveal eye-watering cost of their supersized brood",
-      "link": "https://www.dailymail.co.uk/tv/article-15731713/this-morning-couple-brag-fourteenth-child-itv.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T13:13:29",
-      "description": "Parents of 13 Natalie and Oliver Jackson appeared on today's (April 14) edition of the ITV show.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/11/107881213-0-image-m-6_1776164117771.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/11/107881213-0-image-m-6_1776164117771.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T15:00:00.312371",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Predictor picks: Find out who our expert is backing this weekend... and play the game with \u00a31,000 up for grabs",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15735271/Predictor-picks-matchweek-33.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T06:00:46",
+      "description": "It's that time of the week again: Daily Mail's popular predictor game is back for gameweek 33.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/13/107940979-0-image-a-25_1776341529777.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/13/107940979-0-image-a-25_1776341529777.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T07:09:51.003271",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Revealed: Why THOUSANDS of loyal football fans could be locked out of the A-League grand final",
       "link": "https://www.dailymail.co.uk/sport/football/article-15740783/Why-thousands-fans-miss-soccer-grand-final-Newcastle-Jets-2026.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19489,20 +19503,6 @@
       "archived_at": "2026-03-31T19:33:34.721260",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'We're going to Wembley twice!': Inside Southend United's revival - how the club were rescued from their 'death spiral' under Ron Martin and why supporters finally feel the Shrimpers are alive and kicking once again, writes IAN HERBERT",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15689233/Southend-United-Ron-Martin-Shrimpers-Southport-victory-Ian-Herbert.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-29T16:01:58",
-      "description": "IAN HERBERT: Gifts from the heavens have not generally been bestowed upon Southend United in their benighted past ten years or more, but a scoreboard malfunction put them 5-1 up.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/29/15/107507945-0-image-a-22_1774796004772.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/29/15/107507945-0-image-a-22_1774796004772.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721261",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
@@ -21097,6 +21097,34 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Lana Del Rey records theme song for James Bond video game",
+      "link": "https://www.music-news.com/news/UK/188387/Lana-Del-Rey-records-theme-song-for-James-Bond-video-game",
+      "pubDate": "2026-04-17T05:00:00",
+      "description": "The title sequence will be showcased via social media on Friday.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188387.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188387.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T07:09:55.561368",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "D4vd arrested for murder of Celeste Rivas Hernandez",
+      "link": "https://www.music-news.com/news/UK/188386/D4vd-arrested-for-murder-of-Celeste-Rivas-Hernandez",
+      "pubDate": "2026-04-17T05:00:00",
+      "description": "Singer D4vd has been arrested for the murder of Celeste Rivas Hernandez.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188386.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188386.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T07:09:55.561375",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Meghan Trainor cancels Get In Girl tour",
       "link": "https://www.music-news.com/news/UK/188385/Meghan-Trainor-cancels-Get-In-Girl-tour",
