@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "BBC in Iran: 'Tehran does not think it has lost this war'",
+      "link": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T09:19:23",
+      "description": "Lyse Doucet says Iranians want a solution to the long-running animosity with the US, but leaders is not willing to make a deal on Washington's terms.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b2/live/9d32f210-3a37-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T10:40:56.610444",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "What it's really like to try to make it to F1",
+      "link": "https://www.bbc.com/sport/formula1/articles/cgld6r0e73go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T09:41:19",
+      "description": "BBC Sport explores the financial reality of two drivers with experience of trying to climb the motorsport ladder to reach Formula 1.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8689/live/b8b56260-3a47-11f1-879d-1b2f5c3919b8.png",
+      "enclosure": null,
+      "archived_at": "2026-04-17T10:40:56.610454",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "McGlynn should be 'in the conversation' to be Celtic manager - Lennon",
+      "link": "https://www.bbc.com/sport/football/articles/cj94pzery9ro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T07:31:32",
+      "description": "Neil Lennon reckons John McGlynn should be \"in the conversation\" to become the next Celtic manager as the Dunfermline Athletic boss aims to get the better of his Falkirk counterpart in Saturday's Scottish Cup semi-final.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b6f/live/2cc43490-3a40-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-17T10:40:56.610456",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Lamborghini among 160,000 cars seized as uninsured driving reaches 17-year high",
       "link": "https://www.bbc.com/news/articles/clyr7dmry5mo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-17T07:01:16",
@@ -5466,42 +5499,135 @@
       "archived_at": "2026-04-10T18:46:10.897191",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Prince Harry sued for defamation by charity Sentebale he co-founded",
-      "link": "https://www.bbc.com/news/articles/cr517n2v7myo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T17:07:46",
-      "description": "Prince Harry left the charity last year in an acrimonious dispute over how Sentebale was being managed.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea2/live/fe0f4930-71fb-11f0-88cf-791e5d4bcee3.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T17:43:58.290585",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Epstein survivors' calls to meet King and Queen harder to ignore as US visit approaches",
-      "link": "https://www.bbc.com/news/articles/cly6xjy3ddeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T15:59:09",
-      "description": "The King and Queen's state visit to the US faces more questions about sex offender Jeffrey Epstein.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/124d/live/5df1d6a0-34f8-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-10T17:43:58.290595",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Chimpanzees in Uganda locked in vicious 'civil war', say researchers",
-      "link": "https://www.bbc.com/news/articles/cr71lkzv49po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T16:52:55",
-      "description": "The once close-knit community of Ngogo chimpanzees have been at loggerheads for the last eight years.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a41/live/068357f0-34fc-11f1-9d5c-8ba507d7dbde.png",
-      "enclosure": null,
-      "archived_at": "2026-04-10T17:43:58.290598",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Bride covered in black paint moments before she was due to walk down the aisle in 'revenge' attack by sister-in-law",
+      "link": "https://www.dailymail.co.uk/news/article-15741321/Sister-law-hurled-paint-bride-moments-walk-aisle.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T10:01:31",
+      "description": "Gemma Monk, 35, was forced to change dresses last minute after\u00a0Antonia Eastwood launched the 'revenge' attack on May 24, 2024.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/09/107963497-0-image-m-38_1776415647210.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/09/107963497-0-image-m-38_1776415647210.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:40:59.898574",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fergie on the run: How sofa-surfing Sarah Ferguson was spotted in Cork and Zurich before breaking cover in Austria - as royal insider says: 'Sooner or later she'll have to face the music'",
+      "link": "https://www.dailymail.co.uk/news/article-15741409/Fergie-run-sofa-surfing-Sarah-Ferguson-spotted-Cork-Zurich-breaking-cover-Austria-royal-insider-says-Sooner-later-shell-face-music.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T09:59:59",
+      "description": "The former Duchess of York's secret sofa-surfing world tour has now taken her to\u00a0a \u00a32,000-a-night ski lodge in the Alps, it was revealed today.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/10/107964341-0-image-m-10_1776417788746.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/10/107964341-0-image-m-10_1776417788746.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:40:59.898580",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Meghan Markle leaves Sydney hotel with Prince Harry after she posed for photos for just over two hours with adoring fans who had paid \u00a31,700 for the privilege",
+      "link": "https://www.dailymail.co.uk/news/article-15741763/Meghan-Markle-leaves-Sydney-hotel-Prince-Harry-posed-photos-just-two-hours-adoring-fans-paid-1-700-privilege.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T10:38:18",
+      "description": "The Duchess of Sussex will reportedly net up to \u00a3130,000 for going to\u00a0the Her Best Life retreat on the final day of her Australian tour with Prince Harry .",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/11/107965909-0-image-m-12_1776421540073.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/11/107965909-0-image-m-12_1776421540073.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:40:59.898591",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Off-duty cop accused of using excessive force after shocking footage showed him pinning down an Indigenous teen on a train",
+      "link": "https://www.dailymail.co.uk/news/article-15741247/Perth-cop-indigenous-teen-excessive-force.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T10:36:50",
+      "description": "Social media users have accused an off-duty traffic cop of using excessive force on a 13-year-old girl.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/09/107962773-0-image-m-25_1776413019815.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/09/107962773-0-image-m-25_1776413019815.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:40:59.898593",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Lamborghini is seized because driver didn't have insurance - as figures show 160,000 cars were towed away last year",
+      "link": "https://www.dailymail.co.uk/news/article-15741605/Lamborghini-seized-driver-no-insurance-figures-cars-towed-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T10:34:56",
+      "description": "It is estimated that 300,000 motorists a day are driving without insurance costing the UK economy an eye-watering \u00a31billion a year.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/11/107965903-0-image-m-6_1776421562737.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/11/107965903-0-image-m-6_1776421562737.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:40:59.898594",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Couple who ran 'drugs supermarket' from their suburban home after stashing bags of cocaine in their pantry despite having two young children are jailed for 10 years",
+      "link": "https://www.dailymail.co.uk/news/article-15741647/Couple-drugs-supermarket-cocaine-pantry-despite-children-jailed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T10:34:20",
+      "description": "Brooke Marshall, 35, and Grant Putman, 33, dealt cocaine out of the pantry of their \u00a3330,000 house in the market town of Wimborne, Dorset.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/11/107964439-0-image-m-25_1776420700466.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/11/107964439-0-image-m-25_1776420700466.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:40:59.898595",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Hundreds of thousands of flights could be axed in 'existential crisis' for airlines as jet fuel shortage caused by Iran war bites, expert says",
+      "link": "https://www.dailymail.co.uk/news/article-15741665/Hundreds-thousands-flights-axed-existential-crisis-airlines-jet-fuel-shortage-caused-Iran-war-bites-expert-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T10:17:06",
+      "description": "Passengers are already facing higher fares after the cost of jet fuel doubled since the start of Donald Trump's war with Iran.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/10/107965323-0-image-m-15_1776419857327.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/10/107965323-0-image-m-15_1776419857327.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:40:59.898597",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Patriotic pub landlord wins battle to keep giant St George's cross on venue - after ONE person complained",
+      "link": "https://www.dailymail.co.uk/news/article-15741439/pub-landlord-wins-giant-st-georges-cross.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T10:00:45",
+      "description": "A patriotic pub landlord has won his fight to keep a giant St George's cross on the front of his pub after someone complained it looked racist.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/10/107854097-0-image-m-14_1776416762807.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/10/107854097-0-image-m-14_1776416762807.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:40:59.898598",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Husband who killed his wife and never revealed where her body is will be FREED from prison",
+      "link": "https://www.dailymail.co.uk/news/article-15741465/Husband-killed-wife-body-FREED-prison.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T09:41:12",
+      "description": "Glyn Razzell was sentenced to a minimum of 16 years imprisonment for the death of mum-of-four Linda Razzell in 2002.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/10/74684873-0-image-m-8_1776416493831.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/10/74684873-0-image-m-8_1776416493831.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:40:59.898600",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Anthony Albanese shrugs off Donald Trump's latest attack with two-word response",
       "link": "https://www.dailymail.co.uk/news/article-15741223/Albanese-Trump-Iran-Strait-Hormuz.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12375,135 +12501,65 @@
       "archived_at": "2026-04-14T17:41:50.076836",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Final words of boy, 14, before he shot his goth mom dead for calling him the r-word, according to prosecutor",
-      "link": "https://www.dailymail.co.uk/news/article-15732433/havoc-leone-theresa-mcintosh-calling-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T16:48:09",
-      "description": "Havoc\u00a0Leone allegedly fatally shot his mother inside their Wyoming home in March after she allegedly called him ret***ed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890257-0-image-m-38_1776183390485.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890257-0-image-m-38_1776183390485.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T17:41:50.076838",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Disgraced biotech executives ordered to pay professor enormous amount after they faked crime and had him arrested to punish him for suing them",
-      "link": "https://www.dailymail.co.uk/news/article-15732037/Disgraced-biotech-executives-ordered-pay-professor-enormous-faked-crime-arrested-punish-suing-them.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T16:42:41",
-      "description": "Dr James Quinn has won $58 million after a Georgia jury found medical adhesive firm Chemence acted in bad faith by having him arrested during a deposition in a long-running dispute.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890371-0-image-a-2_1776183162819.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/17/107890371-0-image-a-2_1776183162819.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T17:41:50.076839",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment Albanian burglary gang\u00a0haul safe over garden fence amid \u00a33million crime spree ransacking luxury homes",
-      "link": "https://www.dailymail.co.uk/news/article-15732669/Moment-Albanian-burglary-gang-haul-safe-garden-fence-amid-3million-crime-spree-ransacking-luxury-homes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T16:39:11",
-      "description": "Police linked the mob to at least 59 burglaries in Derbyshire, Cheshire, Cleveland, Leicestershire, Nottinghamshire, Staffordshire, Warwickshire and West Mercia.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888315-0-CCTV_from_one_of_the_raids_shows_two_masked_burglars_stumbling_i-a-4_1776181950800.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/16/107888315-0-CCTV_from_one_of_the_raids_shows_two_masked_burglars_stumbling_i-a-4_1776181950800.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T17:41:50.076840",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Teen sisters violently beaten by classmate 'bullies' in savage caught-on-camera attack",
-      "link": "https://www.dailymail.co.uk/news/article-15732245/arizona-teen-sister-beaten-bullying-attack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T16:22:31",
-      "description": "Two teen girls were attacked\u00a0during an Arizona school walkout protesting ICE.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/16/107889873-0-image-m-34_1776182294014.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/16/107889873-0-image-m-34_1776182294014.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T17:41:50.076841",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The world's deadliest countries: From terror attacks to muggings, rape and kidnap - the threat levels around the globe and holiday hotspots now deemed too dangerous to visit",
-      "link": "https://www.dailymail.co.uk/news/article-15658459/The-worlds-deadliest-countries-terror-attacks-muggings-rape-kidnap-threat-levels-globe-holiday-hotspots-deemed-dangerous-visit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-13T14:41:11",
-      "description": "Since 2019 the list of countries deemed safe to visit by the Foreign Office (FCDO) has drastically shrunk.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/02/16/107611971-0-image-m-9_1775142987364.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/02/16/107611971-0-image-m-9_1775142987364.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T16:17:47.601705",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The King's bank Coutts raises the minimum amount to open an account from \u00a31m to \u00a33m",
-      "link": "https://www.dailymail.co.uk/news/article-15724683/The-Kings-bank-Coutts-turns-millionaires-Minimum-clients-need-open-account-rises-1m-3m.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-12T08:19:47",
-      "description": "This unprecedented hike marks the largest wealth-test increase in the bank's history, signalling a strategic pivot toward 'ultra-high-net-worth' clientele.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/15/107817835-0-image-a-1_1775917095092.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/15/107817835-0-image-a-1_1775917095092.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T16:17:47.601712",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Council will take down Union and St George's flags citing safety fears - and say they will pursue the people who put them up for costs of their removal",
-      "link": "https://www.dailymail.co.uk/news/article-15724763/Council-Union-St-Georges-flags-citing-safety-fears-pursue-people-costs-removal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T16:53:20",
-      "description": "Shropshire Council said that it supports and 'does not prohibit' residents from expressing their British patriotism and added that it recognises the flag as a 'national emblem'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/16/107819203-0-image-a-80_1775922660300.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/16/107819203-0-image-a-80_1775922660300.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T16:17:47.601718",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "It will take more than 50 years to sort out a future for the Chagos Islands after Keir Starmer abandoned plan to hand it to Mauritius because Trump was 'openly hostile', ex-diplomat says",
-      "link": "https://www.dailymail.co.uk/news/article-15724571/It-50-years-sort-future-Chagos-Islands-Keir-Starmer-abandoned-plan-hand-Mauritius-Trump-openly-hostile.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-11T13:56:16",
-      "description": "Lord Simon McDonald (pictured), who was in charge at the Foreign and Commonwealth Office when the UK was advised to hand back the islands, said the plans would now go 'into the deep freeze'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/11/14/107817129-0-image-m-42_1775914575573.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/11/14/107817129-0-image-m-42_1775914575573.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T16:17:47.601720",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Florida doctor charged with manslaughter over claims he killed patient by removing the wrong organ during surgery",
-      "link": "https://www.dailymail.co.uk/news/article-15731991/doctor-thomas-shaknovsky-bill-bryan-wrong-organ-surgery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-14T16:06:46",
-      "description": "Dr Thomas Shaknovsky was charged with second-degree manslaughter on Monday for the August 2024 death of\u00a0Bill Bryan , a 70-year-old man from Alabama.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/15/107885649-0-image-m-16_1776177266763.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/15/107885649-0-image-m-16_1776177266763.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-14T16:17:47.601723",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "I've got the fire! Eddie Howe vows to carry on at Newcastle amid doubt over his future... as Arne Slot says Hugo Ekitike injury proves Liverpool made the right calls in transfer market: PREMIER LEAGUE LIVE",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15741337/Hugo-Ekitike-injury-proves-right-calls-transfer-market-summer-says-Liverpool-boss-Arne-Slot-PREMIER-LEAGUE-LIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T10:14:19",
+      "description": "As we get to the business end of the Premier League season, all 20 clubs are in action over the next three days and a\u00a0host of managers are talking today. Keep track of all the news here...",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/11/107965639-0-image-a-6_1776420834974.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/11/107965639-0-image-a-6_1776420834974.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:41:01.188879",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Revealed: Arsenal lit a REAL fire during Mikel Arteta's crunch meeting with Gunners stars at club's training ground after boss' bizarre press conference comments as he looks to avoid disastrous title failure",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15741565/arsenal-mikel-arteta-team-meeting-fire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T09:54:47",
+      "description": "A recent Arsenal team meeting reportedly involved the lighting of a real fire following Mikel Arteta's bizarre press conference comments encouraging his flailing stars.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/10/107964659-0-image-a-12_1776418376181.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/10/107964659-0-image-a-12_1776418376181.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:41:01.188884",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Supercomputer reveals what a Man City win over Arsenal would do to the title race\u2026 and it's still GOOD NEWS for the Gunners!",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15740531/Supercomputer-Man-City-Arsenal-title-race.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T09:09:46",
+      "description": "Like many Arsenal fans, Ian Wright has been despairing at watching his side's Premier League title hopes 'falling away'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/08/107962621-0-image-a-2_1776412094903.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/08/107962621-0-image-a-2_1776412094903.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:41:01.188886",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Manchester City suffer blow ahead of title showdown with Arsenal as it emerges they will be without injured key man",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15741521/Manchester-City-injured-man-title-showdown-Arsenal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-17T09:00:49",
+      "description": "City know a win at the Etihad on Sunday would take them three points behind the Gunners - and with a crucial game in hand.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/09/107963415-0-image-a-4_1776415124826.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/09/107963415-0-image-a-4_1776415124826.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:41:01.188900",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Crystal Palace stars enjoy BIG night out in Florence after Conference League win - with squad partying just days before huge Premier League clash that could impact Tottenham's relegation fight",
       "link": "https://www.dailymail.co.uk/sport/football/article-15741325/Crystal-Palace-enjoy-BIG-night-Florence-Conference-League-win-partying-Premier-League-Tottenham-relegation-fight.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19447,62 +19503,6 @@
       "archived_at": "2026-03-31T19:33:34.721254",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Andy Carroll opens up on taking surprise job as  Dagenham & Redbridge manager after being appointed by YouTuber KSI: 'It just fell into my lap'",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15689547/Andy-Carroll-manager-Dagenham-KSI.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-29T20:59:30",
-      "description": "Carroll, 37, was appointed as the Daggers' caretaker manager last Wednesday after new minority owner KSI decided to sack former boss Lee Bradbury, and he has so far won both of his games in charge.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/29/21/107511933-0-image-a-37_1774816540047.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/29/21/107511933-0-image-a-37_1774816540047.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721255",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Revealed: The shock name in the frame to become next Spurs boss, despite not having managed in 20 YEARS, with Man United target among other contenders after Igor Tudor's exit",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15689411/Glenn-Hoddle-Tottenham-Spurs-Igor-Tudor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-29T20:14:17",
-      "description": "MATT BARLOW: Chief executive Vinai Venkatesham and sporting director Johan Lange will be wary of options from the same mould as Tudor, who was unfamiliar with the club or English football.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/29/17/107509481-0-image-a-58_1774803319500.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/29/17/107509481-0-image-a-58_1774803319500.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721256",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "USA's abysmal World Cup warmup descends into farce after kit clash... as it emerges officials considered fetching new jerseys from HOTEL",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15689461/usa-belgium-world-cup-kit-clash-atlanta.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-29T19:59:17",
-      "description": "JAKE FENNER IN ATLANTA: Fans and players were left confused in a friendly matchup between the United States and Belgium on Saturday after there was a clear kit clash on the pitch.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/29/20/107511443-0-image-a-16_1774813941761.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/29/20/107511443-0-image-a-16_1774813941761.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721257",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Glasgow City 2-1 Rangers: Lisa Forrest inspires Sky Sports Cup triumph with two goals for the family scrapbook",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15689517/Glasgow-City-2-1-Rangers-Lisa-Forrest-inspires-Sky-Sports-Cup-triumph-two-goals-family-scrapbook.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-29T19:27:05",
-      "description": "Lisa Forrest inspired Glasgow City to the first silverware of the season as the Petershill side claimed the Sky Sports Cup at Fir Park against Leanne Crichton's Rangers.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/29/20/107511093-0-image-a-5_1774811933266.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/29/20/107511093-0-image-a-5_1774811933266.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721258",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
@@ -21097,6 +21097,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Barry Can\u2019t Swim, Kamille and Mark \u201cSpike\u201d Stent win MPG Awards",
+      "link": "https://www.music-news.com/news/UK/188392/Barry-Can-t-Swim-Kamille-and-Mark-Spike-Stent-win-MPG-Awards",
+      "pubDate": "2026-04-17T08:25:00",
+      "description": "The recorded music industry gathered in London last night for a sold-out celebration at the 2026 Music Producers Guild (MPG) Awards.",
+      "thumbnail": "https://www.music-news.com/images/news/BarryCantSwim.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/BarryCantSwim.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-17T10:41:05.633389",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Charli XCX declares 'The dance floor is dead'",
       "link": "https://www.music-news.com/news/UK/188390/Charli-XCX-declares-The-dance-floor-is-dead",
