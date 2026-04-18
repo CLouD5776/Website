@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
+      "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T08:52:48",
+      "description": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b12/live/a384fdc0-3af0-11f1-9961-936cc21d3655.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T09:43:34.445976",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "How Lampard's own revival ended Coventry's 25-year wait",
+      "link": "https://www.bbc.com/sport/football/articles/cm2kj1lv91xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T08:46:47",
+      "description": "Frank Lampard and Coventry City are back in the big time. This is how the former England international guided the Sky Blues to the Premier League.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a39/live/1fce19f0-3aad-11f1-9db2-09bac26854ac.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T09:43:34.445986",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Have the Democrats found a new strategy to scare Trump?",
       "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-17T10:55:00",
@@ -5477,31 +5499,65 @@
       "archived_at": "2026-04-11T23:30:03.991438",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "I've been a sex educator for six years. Why did I start doubting my contraception choices?",
-      "link": "https://www.bbc.com/news/articles/cwyvw9pgjveo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T23:15:17",
-      "description": "Misinformation about contraception has been spreading on social media, alongside the \"very real frustrations\" of women complaining about side effects.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36c5/live/6e6dbf30-34e4-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T23:30:03.991440",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The prophet and the mysterious death of Charmain Speirs",
-      "link": "https://www.bbc.com/news/articles/cevk1jrg4g8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T23:14:11",
-      "description": "A BBC Disclosure investigation has uncovered significant questions about what happened at the hotel where Charmain died.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8c/live/aa743190-329a-11f1-8cba-9df81803c83c.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T23:30:03.991442",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "One dead and another critical after car mowed down a group of fans outside a popular Comic Con event in Melbourne",
+      "link": "https://www.dailymail.co.uk/news/article-15744329/One-dead-critical-car-Comic-event-Melbourne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T09:40:38",
+      "description": "A car has driven into a group of people at a convention at Melbourne Showgrounds, killing one and seriously injuring another.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/10/107985933-0-image-m-31_1776504152685.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/10/107985933-0-image-m-31_1776504152685.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T09:43:37.931896",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Starmer faces TWO judgment days to save his job: Prime Minister will face MPs over Mandelson scandal on Monday before sacked Foreign Office boss sticks the knife in on Tuesday",
+      "link": "https://www.dailymail.co.uk/news/article-15744319/Starmer-faces-TWO-judgment-days-save-job-Prime-Minister-face-MPs-Mandelson-scandal-Monday-sacked-Foreign-Office-boss-sticks-knife-Tuesday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T09:29:26",
+      "description": "The Prime Minister will appear before MPs on Monday ahead of Sir Olly Robbins's own Parliament appearance the next day to explain his department's role in Lord Mandelson's failed security clearance.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/10/107985875-0-image-m-35_1776503811850.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/10/107985875-0-image-m-35_1776503811850.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T09:43:37.931903",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Confronting scenes as soccer player dies mid-match in front of shocked onlookers",
+      "link": "https://www.dailymail.co.uk/news/article-15744279/Sydney-soccer-player-dies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T09:23:47",
+      "description": "The 32-year-old man collapsed mid-match and could not be resuscitated.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/09/107985743-0-image-m-19_1776502778118.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/09/107985743-0-image-m-19_1776502778118.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T09:43:37.931905",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Inside the family feud that saw sister-in-law hurl black paint onto tearful bride's dress in wedding from hell",
+      "link": "https://www.dailymail.co.uk/news/article-15744253/Inside-family-feud-sister-black-paint-wedding.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T09:18:36",
+      "description": "Gemma Monk, 35, (pictured) was subjected to the 'revenge' attack by\u00a0Antonia Eastwood as she tied the knot in front of stunned guests to her now-husband Ken in May 2024.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/09/107963509-0-image-m-12_1776500937626.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/09/107963509-0-image-m-12_1776500937626.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T09:43:37.931906",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Fears for a man who jumped off a Carnival cruise ship just hours after a fellow passenger died",
       "link": "https://www.dailymail.co.uk/news/article-15744207/Carnival-Splendor-cruise-passenger-jumps-overboard.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12445,65 +12501,23 @@
       "archived_at": "2026-04-15T10:42:07.306612",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Cause of death of ex boyfriend of Rivals and Inbetweeners star Emily Atack still unknown, inquest told",
-      "link": "https://www.dailymail.co.uk/news/article-15735085/Cause-death-ex-boyfriend-Emily-Atack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:32:02",
-      "description": "In a touching tribute last month, the TV personality, 36, said\u00a0she 'can only hope and pray that you have found some peace' as she paid tribute to her 'friend'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/11/107444707-0-image-m-8_1776248793433.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/11/107444707-0-image-m-8_1776248793433.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306614",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "INSIDE RORY'S FORTRESS: The tight-knit inner circle pulling the strings of double Masters champion Rory McIlroy's \u20ac470m golfing EMPIRE... and how one gatekeeper even confiscated his phone during the VERY public Wozniacki split",
-      "link": "https://www.dailymail.co.uk/news/article-15732115/INSIDE-RORYS-FORTRESS-tight-knit-inner-circle-pulling-strings-double-Masters-champion-Rory-McIlroys-470m-golfing-EMPIRE-one-gatekeeper-confiscated-phone-public-Wozniacki-split.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:29:39",
-      "description": "In a sport that rewards reinvention, where coaches are swapped mid-season, agents are fired by text, and loyalty is measured in percentage points, Team McIlroy has built something unique.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/11/107889747-0-image-m-7_1776248389597.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/11/107889747-0-image-m-7_1776248389597.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306615",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Five Brits receive share of \u00a31m fortune left by reclusive tailor they never knew after he died in Switzerland and turned out to be a long-lost relative",
-      "link": "https://www.dailymail.co.uk/news/article-15735001/Five-surprised-Brits-receive-share-fortune-left-reclusive-tailor-never-knew-died-Switzerland.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:29:21",
-      "description": "J\u00fcrg Jakob Defatz (pictured) tragically died alone in 2021 having spent his life living in Zurich. Over the course of his life the 87-year-old had accumulated assets worth \u00a31million",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/11/107909429-0-image-m-11_1776247849617.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/11/107909429-0-image-m-11_1776247849617.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306616",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Global elite gather in Washington for 'world's secret government': Leaders and billionaires discuss AI, war and crypto at shadowy Bilderberg meeting",
-      "link": "https://www.dailymail.co.uk/news/article-15734869/Global-elite-gather-Washington-worlds-secret-government-Leaders-billionaires-discuss-AI-war-crypto-shadowy-Bilderberg-meeting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:14:46",
-      "description": "With no minutes recorded, press reports published or interviews given to the media, the infamous conference is shrouded in mystery.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/10/107908287-0-image-a-11_1776246481526.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/10/107908287-0-image-a-11_1776246481526.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306618",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Former Arsenal and Chelsea star accuses Kylian Mbappe of 'filling Real Madrid's dressing room with selfishness' after club's Champions League exit - and insists he and one other player are 'to blame' for bad run",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15744233/emmanuel-petit-accuses-kylian-mbappe-selfishness-real-madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T09:26:06",
+      "description": "The former Arsenal and Chelsea midfielder, working as a pundit for French broadcaster RMC, launched into a scathing attack on Mbappe after Real's quarter-final defeat by Bayern Munich.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/09/107985737-0-image-a-13_1776502453353.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/09/107985737-0-image-a-13_1776502453353.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T09:43:39.253654",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "From Harrogate to Haiti? Don't rule out a World Cup call-up for Calvin Miller as Falkirk Bairn comes of age",
       "link": "https://www.dailymail.co.uk/sport/football/article-15742427/From-Harrogate-Haiti-Dont-rule-World-Cup-call-Calvin-Miller-Falkirk-Bairn-comes-age.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19487,20 +19501,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-03-31T19:33:34.721213",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Meet the England wonderkid, 17, handed shock call-up to Sarina Wiegman's Lionesses squad who was born in Singapore and speaks four languages!",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15694485/Lionesses-Erica-Meg-Parkinson-World-Cup-qualifiers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:53:05",
-      "description": "TARA ANSON-WALSH: Sarina Wiegman rarely springs a surprise, but her latest call-up to the Lionesses, of 17-year-old Erica Meg Parkinson, is probably one of her biggest curveballs yet.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/12/107551811-0-image-a-14_1774957890682.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/12/107551811-0-image-a-14_1774957890682.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721216",
       "feed_category": "Sport",
       "feed_visibility": "both"
     }
