@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Items found near Israeli embassy are non-hazardous, police say",
+      "link": "https://www.bbc.com/news/articles/cpqx33y5lljo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T21:29:00",
+      "description": "Nearby Kensington Gardens was closed on Friday and specialist emergency services units were deployed to the site.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11d1/live/c1765a80-3b69-11f1-82d7-e5c9d3ef5ba2.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T21:31:08.109090",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Watch: Match of the Day",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-19T08:00:00",
+      "description": "Highlights of five Premier League matches, including Manchester United\u2019s trip to Chelsea.",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0ndz1c8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T21:31:08.109098",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Miettinen dies in seven-car crash during Nurburgring race featuring Verstappen",
+      "link": "https://www.bbc.com/sport/motorsport/articles/crl1wwdegkno?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T20:37:01",
+      "description": "Racing driver Juha Miettinen dies following a seven-car crash during the qualifiers for a race in Germany.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b5/live/d493cb20-3b64-11f1-8926-95b031f2fc7a.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T21:31:08.109100",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Building of Trump's White House ballroom can resume in full, appeals court says",
       "link": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-18T19:18:40",
@@ -5466,42 +5499,177 @@
       "archived_at": "2026-04-12T11:05:21.973010",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
-      "link": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-12T09:19:47",
-      "description": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f639/live/b14356e0-3650-11f1-9d5c-8ba507d7dbde.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-12T11:05:21.973013",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "US-Iran talks ending without deal disappointing, Streeting says",
-      "link": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-12T09:28:04",
-      "description": "The health secretary says the UK - which is not involved in the talks - wants to see a deal that ends Iran's nuclear ambitions.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44dd/live/ee5bf930-364e-11f1-837e-77d669b4895f.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-12T10:05:50.480553",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Legendary Bollywood singer Asha Bhosle dies aged 92",
-      "link": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-12T08:24:01",
-      "description": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbda/live/0f5c1ea0-ffdf-11ef-b50e-9d086302645f.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-12T09:11:03.075617",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Spice Girl, ready! Mel C looks exactly like a gladiator in a plunging leotard as she reveals 'huge and expensive risk' of new album Sweat",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15734937/Spice-Girl-ready-Mel-C-looks-exactly-like-gladiator-plunging-leotard-reveals-huge-expensive-risk-new-album-Sweat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T10:20:55",
+      "description": "Mel C showed off her Sporty Spice physique as she posed in a red leotard in\u00a0behind the scenes Instagram snaps from her new album Sweat.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/11/107910093-0-image-a-17_1776247789733.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/11/107910093-0-image-a-17_1776247789733.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342614",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump's inner circle rushes to emergency Situation Room briefing as Iran chokes off the world's oil supply",
+      "link": "https://www.dailymail.co.uk/news/article-15744987/donald-trump-iran-strait-hormuz-situation-room.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T21:25:15",
+      "description": "President Trump convened with his most trusted advisors on Saturday to discuss the ongoing tensions with Iran as the deadline until the ceasefire deal collapses draws nearer.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993327-0-image-a-2_1776545021562.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993327-0-image-a-2_1776545021562.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342622",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "New BBC director-general Matt Brittin urged to axe 24-hour news channel, BBC3 and even Radio 2 as part of drive to save \u00a3500million over next two years",
+      "link": "https://www.dailymail.co.uk/news/article-15745231/BBC-director-general-urged-axe-news-channel-BBC3-Radio2.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T21:09:21",
+      "description": "Insiders are urging Matt Brittin, a former Google executive who takes over next month, to resist the temptation to 'salami slice' BBC departments and channels to achieve the drastic cuts.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/20/107992855-0-image-m-15_1776540801817.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/20/107992855-0-image-m-15_1776540801817.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342625",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Investigation ordered into British Army's 'use of Chinese 3D printers' to make weapons",
+      "link": "https://www.dailymail.co.uk/news/article-15745305/Investigation-British-Armys-Chinese-3D-printers-weapons.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T21:08:37",
+      "description": "The Defence Secretary has ordered an investigation into the British Army's use of Chinese 3D printers to build weapons.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/21/103915717-0-image-m-20_1776544829650.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/21/103915717-0-image-m-20_1776544829650.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342626",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ex-master arrested on suspicion of historic sex crimes at \u00a353,000-a-school attended by Richard Branson and Henry Cavill",
+      "link": "https://www.dailymail.co.uk/news/article-15745047/Ex-master-arrested-suspicion-historic-sex-crimes-Stowe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T21:05:24",
+      "description": "An ex-master in his 80s, who taught for several decades at Stowe School in Buckinghamshire, has been arrested on suspicion of rape and indecent assault at the \u00a353,000-a-year school.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/20/107990613-0-image-m-41_1776541057298.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/20/107990613-0-image-m-41_1776541057298.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342627",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Green Party candidate's property firm convicted of 'environmental vandalism' after illegally burning building site waste to save money",
+      "link": "https://www.dailymail.co.uk/news/article-15745261/Green-Party-environmental-vandalism-illegally-burning-waste.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T21:04:02",
+      "description": "Mohammed Suleman admitted that Fenham Properties Ltd, a company he directs and co-owns, burnt large amounts of wood in a skip that had been converted into a 'makeshift incinerator'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993423-0-image-m-43_1776544409275.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993423-0-image-m-43_1776544409275.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342629",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Cadet suspended from RAF officer-training course for saying Islam is main threat to UK",
+      "link": "https://www.dailymail.co.uk/news/article-15745201/Cadet-suspended-RAF-training-Islam-threat-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T21:03:26",
+      "description": "The cadet made the comment during a question-and-answer session in which he and other cadets were asked about dangers to British security.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/20/107992737-0-image-m-14_1776540035016.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/20/107992737-0-image-m-14_1776540035016.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342630",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Foreign Office chief sacked by PM for 'not telling Downing Street that Mandelson had failed security vetting' could wreak revenge as he faces grilling from MPs",
+      "link": "https://www.dailymail.co.uk/news/article-15745327/Foreign-Office-chief-sacked-PM-grilling-MPs-Mandelson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T21:03:01",
+      "description": "Sacked Foreign Office chief Sir Olly Robbins is furious at the way he has been treated over the Peter Mandelson controversy, a key ally has revealed.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/21/107991923-0-image-m-10_1776545386243.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/21/107991923-0-image-m-10_1776545386243.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342631",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Senior Met Police officer who gave emotional TV address after Wimbledon prep school crash 'is one of 11 cops being investigated for \"racism\"'",
+      "link": "https://www.dailymail.co.uk/news/article-15745215/Met-Police-TV-Wimbledon-school-crash-investigated-racism.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T21:00:58",
+      "description": "Clair Kelland is among 11 cops now under probe by the Independent Office for Police Conduct (IOPC) following a complaint by the parents of Nuria Sajjad and Selena Lau.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993257-0-image-m-14_1776545874100.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993257-0-image-m-14_1776545874100.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342633",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Andrew Mountbatten-Windsor's team blocked FBI Epstein probe after being told he was a suspect, not a witness",
+      "link": "https://www.dailymail.co.uk/news/article-15745163/Andrew-team-blocked-Epstein-probe-suspect-not-witness.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T21:00:49",
+      "description": "Emails buried in the Epstein Files expose how, from January 2020, Andrew's legal team became embroiled in nine months of fraught negotiations with US authorities.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993333-0-image-m-13_1776543808540.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993333-0-image-m-13_1776543808540.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342634",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "The public's overwhelming verdict on Meghan and Harry cashing in by using their titles for commercial gain",
+      "link": "https://www.dailymail.co.uk/news/article-15745159/public-verdict-Meghan-Harry-using-titles-commercial-gain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T21:00:43",
+      "description": "An exclusive poll for The Mail on Sunday also shows strong public appetite for Prince William to be more transparent amid criticism of his refusal to disclose how much income tax he pays.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993401-0-image-m-18_1776544089658.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993401-0-image-m-18_1776544089658.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342635",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Adorable little girl dies in front of her shellshocked family after freak electric seat accident in the back of family's brand new Hyundai Palisade SUV",
+      "link": "https://www.dailymail.co.uk/news/article-15740347/little-girl-killed-seat-accident-hyundai-palisade-suv-ohio.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T20:39:39",
+      "description": "Harrowing bodycam shows the aftermath of a devastating accident that left a two-year-old girl dead in the back of her parents' brand new SUV.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/17/107952899-0-image-m-12_1776442075731.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/17/107952899-0-image-m-12_1776442075731.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:11.342636",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Starmer's not fit to run the country: Kemi launches blistering attack on 'weak, lazy and incompetent' PM as Mandelson crisis threatens to force him out of No10",
       "link": "https://www.dailymail.co.uk/news/article-15745293/Starmer-Kemi-blistering-attack-Mandelson-crisis-threatens-out.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12333,177 +12501,23 @@
       "archived_at": "2026-04-15T16:02:44.167920",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Vile American YouTube star Johnny Somali is sent to PRISON after defiling monument to sex slaves in South Korea",
-      "link": "https://www.dailymail.co.uk/news/article-15735845/johnny-somali-prison-south-korea-youtube-star.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T15:44:41",
-      "description": "Somali had also been accused of harassing staff and visitors at an amusement park and disrupting a convenience store by blasting music and upending noodles onto a table.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/16/107917167-0-image-m-31_1776265388465.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/16/107917167-0-image-m-31_1776265388465.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167921",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Plain-clothed police grapple with topless drug dealer suspect as he sends white powder swirling everywhere in the struggle",
-      "link": "https://www.dailymail.co.uk/news/article-15736057/Plain-clothed-police-drug-dealer-white-powder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T15:40:23",
-      "description": "The man, 34, was stopped by officers from the Metropolitan police outside a Screwfix store in Brixton, south London.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/16/107917767-0-image-a-28_1776267107114.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/16/107917767-0-image-a-28_1776267107114.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167923",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Harry and Meghan meet Australian radio host behind campaign to ban social media for under 16s in latest stop of quasi-royal tour",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15735537/harry-meghan-radio-summit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T15:32:43",
-      "description": "The Duke and Duchess of Sussex joined guests including local radio star Michael Wipfli and his wife Lisa, an influencer - who are helming calls to ban social media for under 16s.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/13/107913173-0-image-m-9_1776255852679.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/13/107913173-0-image-m-9_1776255852679.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167924",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Jeremy Kyle sparks HUNDREDS of Ofcom complaints with explosive rant about junior doctors striking",
-      "link": "https://www.dailymail.co.uk/tv/article-15735817/Jeremy-Kyle-Ofcom-complaints-rant-junior-doctors-strike.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T15:16:56",
-      "description": "The broadcasting regulator revealed that the show had received 311 complaints following the episode of The Jeremy Kyle Breakfast Show that aired on Saturday (April 11).",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107916667-0-image-m-174_1776264019771.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107916667-0-image-m-174_1776264019771.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167926",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Iran propaganda video trolls Trump showing him being thrown into Hell by Jesus",
-      "link": "https://www.dailymail.co.uk/news/article-15735911/Iran-propaganda-video-trolls-Trump-showing-thrown-Hell-Jesus.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T15:11:22",
-      "description": "The Iranian Embassy in Tajikistan shared the clip on Wednesday as Trump continues to receive backlash for posting an AI-generated image of himself as Jesus following a row with the Pope.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107916991-0-image-m-20_1776265020562.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107916991-0-image-m-20_1776265020562.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167927",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ben Stokes reveals he is 'lucky' to be alive after horror cricket injury left England captain's face a 'mess' and requiring major surgery: 'Thankfully I'm still here'",
-      "link": "https://www.dailymail.co.uk/sport/cricket/article-15735889/ben-stokes-lucky-alive-facial-injury.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:59:00",
-      "description": "LAWRENCE BOOTH: Ben Stokes has said he is 'lucky' to be alive after a ball broke his cheekbone during a net session at Durham in February.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107497503-0-image-m-13_1776263329803.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107497503-0-image-m-13_1776263329803.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167929",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "UK's Pier of the Year 2026 revealed - beating 62 other seafront icons to the top spot",
-      "link": "https://www.dailymail.co.uk/travel/article-15735823/UKs-Pier-Year-2026-revealed-beating-62-seafront-icons-spot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:46:15",
-      "description": "The Pier of the Year has been announced for 2026 by the National Piers Society.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107916289-0-image-a-8_1776263326556.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107916289-0-image-a-8_1776263326556.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167930",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Eight-week-old baby died after 'nanny gave him antihistamine' to make him sleep through the night",
-      "link": "https://www.dailymail.co.uk/health/article-15734873/baby-died-nanny-antihistamine-police.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:42:50",
-      "description": "An inquest is calling for mandatory safe-guarding checks after a baby died after being administered antihistamine by a nanny who likely wanted to 'sedate' him.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/107914175-0-image-a-14_1776258679385.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/107914175-0-image-a-14_1776258679385.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167932",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Wayne Lineker, 63, packs on the PDA with Brazilian model after saying finding love was 'the last piece in my puzzle' following eight months of sobriety and healing 17-year rift with brother Gary",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15735519/Wayne-Lineker-63-goes-public-new-Brazilian-model-girlfriend-saying-finding-love-piece-puzzle-following-eight-months-sobriety-healing-17-year-rift-brother-Gary.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:33:38",
-      "description": "He looked smitten as the pair smooched on Bond Street in the capital in between their visits to luxurious boutiques including Prada.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/13/107913865-0-image-a-286_1776257957903.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/13/107913865-0-image-a-286_1776257957903.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167933",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The European airports where Brits are facing hours-long queues and missed flights due to the new Entry/Exit System rules",
-      "link": "https://www.dailymail.co.uk/travel/article-15734785/European-airports-long-queues-missed-flights-Entry-Exit-rules.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:30:42",
-      "description": "As the new EES system is fully implemented across Europe, reports have spread of long queues and delays as a result. Here's a rundown of the affected hubs...",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/09/107857835-0-image-m-20_1776242022980.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/09/107857835-0-image-m-20_1776242022980.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167934",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I investigated one of New York's most infamous murders... a chilling detail from a Dirty Dancing star's death still haunts me",
-      "link": "https://www.dailymail.co.uk/crime-desk/article-15733511/barbara-butcher-carnegie-deli-massacre-jennifer-stahl.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:16:36",
-      "description": "The first thing that struck Barbara Butcher when she stepped inside the loft-style apartment above Manhattan's famous Carnegie Deli was the stench of marijuana, red wine and blood.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/21/107893403-0-image-m-21_1776197409339.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/21/107893403-0-image-m-21_1776197409339.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167936",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Norway's future King defends wife Mette-Marit, saying 'we've been through a lot' - amid backlash over her friendship with Epstein and her son's rape trial",
-      "link": "https://www.dailymail.co.uk/news/royals/article-15734877/Norways-future-King-defends-wife-Mette-Marit-saying-weve-lot-amid-backlash-friendship-Epstein-sons-rape-trial.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T13:43:05",
-      "description": "Crown Prince Haakon, 52, said his family had\u00a0'been through a lot' after he was asked about\u00a0Crown Princess Mette-Marit's association with Jeffrey Epstein.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/12/107912509-0-image-m-19_1776253933980.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/12/107912509-0-image-m-19_1776253933980.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167938",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "THIS ONE'S FOR YOU, DAD: Neil Lennon pays tribute to his late father after guiding Dunfermline to Scottish Cup final",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15745157/THIS-ONES-YOU-DAD-Neil-Lennon-pays-tribute-late-father-guiding-Dunfermline-Scottish-Cup-final.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T21:16:03",
+      "description": "Neil Lennon fought back the tears after his Dunfermline side booked their place in the Scottish Cup Final - dedicating the result to his late father and wider family.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/22/107993907-0-image-a-10_1776546725638.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/22/107993907-0-image-a-10_1776546725638.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:13.487002",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Roberto De Zerbi sends defiant message to Spurs stars after Brighton draw and warns players who sulk will be sent home",
       "link": "https://www.dailymail.co.uk/sport/football/article-15745289/Roberto-Zerbi-Tottenham-Brighton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19489,23 +19503,20 @@
       "archived_at": "2026-03-31T19:33:34.721185",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Florian Wirtz opens up on 'difficult' start to life at Liverpool and reveals crucial role Germany boss Julian Nagelsmann played during struggles after \u00a3116m move",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15691963/Florian-Wirtz-difficult-start-Liverpool-crucial-role-Germany-boss-Julian-Nagelsmann.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T19:29:51",
-      "description": "The German international joined Liverpool for a club record \u00a3116million from Bayer Leverkusen last June, although the fee was later eclipsed when the Reds spent \u00a3125m on Alexander Isak.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/20/107563193-0-image-a-2_1774985389575.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/20/107563193-0-image-a-2_1774985389575.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721191",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
+    {
+      "title": "Bournemouth extend unbeaten run with victory at Newcastle",
+      "link": "https://www.bbc.com/sport/football/videos/c6251dnn9j7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T21:29:40",
+      "description": "Bournemouth extend their unbeaten run in the Premier League to 13 games after beating Newcastle 2-1 at St. James' Park.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a86/live/890d0080-3b4c-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T21:31:14.308335",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Howe's biggest Newcastle challenge yet as questions grow on his future",
       "link": "https://www.bbc.com/sport/football/articles/c203y3ykv6no?at_medium=RSS&at_campaign=rss",
@@ -21152,6 +21163,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Vinyl revival: Fans queue across the South East for Record Store Day 2026",
+      "link": "https://www.music-news.com/news/UK/188414/Vinyl-revival-Fans-queue-across-the-South-East-for-Record-Store-Day-2026",
+      "pubDate": "2026-04-18T19:30:00",
+      "description": "Music enthusiasts across the South East proved that the physical record remains a cornerstone of British culture, as hundreds braved the early morning",
+      "thumbnail": "https://www.music-news.com/images/news/RecordStore2.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/RecordStore2.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T21:31:17.800704",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Madonna's surprise Coachella performance",
       "link": "https://www.music-news.com/news/UK/188411/Madonna-s-surprise-Coachella-performance",
