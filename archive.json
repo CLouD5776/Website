@@ -1,6 +1,39 @@
 {
   "BBC News": [
     {
+      "title": "Swinney predicts SNP majority at Holyrood election",
+      "link": "https://www.bbc.com/news/articles/c9wq2jvqqxvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T05:00:24",
+      "description": "The first minister has told BBC News that his party will return at least 65 seats at next month's vote.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c47a/live/47ea93a0-3a7b-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T06:11:39.135920",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "What people in power think the impact of the Iran war will be",
+      "link": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T05:00:15",
+      "description": "I have been chatting with some of the world's most powerful people about the conflict and the economy. Here's what they said.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f2/live/0268f3a0-3a60-11f1-bab3-e3881342f552.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T06:11:39.135932",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'My partner died a hero saving our daughter's life'",
+      "link": "https://www.bbc.com/news/articles/cj60p6ggd74o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T05:15:19",
+      "description": "Chris Tuczemskyi says his daughter Autumn is still alive because of her late mother's heroics.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef02/live/c9afc490-37d4-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T06:11:39.135935",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "British man pleads guilty to conspiring to steal $8m in virtual currency",
       "link": "https://www.bbc.com/news/articles/c145yxjrllko?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-18T03:37:04",
@@ -5466,42 +5499,79 @@
       "archived_at": "2026-04-11T21:55:56.545195",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Watch: Match of the Day",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-12T08:00:00",
-      "description": "Highlights from five Premier League games as the season enters the final stretch.",
-      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0ncsg0c.png",
-      "enclosure": null,
-      "archived_at": "2026-04-11T21:55:56.545208",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Fortune favours the brave - will Slot start Ngumoha against PSG?",
-      "link": "https://www.bbc.com/sport/football/articles/cddqgqgyerjo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T20:52:09",
-      "description": "Liverpool's 17-year-old star Rio Ngumoha stole the show against Fulham - will Arne Slot now start him against PSG?",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b495/live/cfef02d0-35e0-11f1-879d-1b2f5c3919b8.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T21:01:03.540673",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Knifeman calling himself 'Lucifer' slashes three at NYC's Grand Central",
-      "link": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T18:08:46",
-      "description": "Police fatally shot the assailant after he ignored at least 20 demands to drop the weapon, said NYPD.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d402/live/d0298e10-35d0-11f1-8c7c-0fd6b3a59753.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T20:28:59.247817",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Trump 'to sign executive order' that will ease access to psychedelic drug used to treat PTSD",
+      "link": "https://www.dailymail.co.uk/news/article-15743893/donald-trump-psychadelic-drug-use.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T06:07:14",
+      "description": "President Donald Trump is reportedly planning to sign a new executive order that will increase research into psychedelic drugs used to treat mental illnesses.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/07/107984883-0-image-m-17_1776492100769.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/07/107984883-0-image-m-17_1776492100769.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T06:11:41.424107",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Panicked' top Republicans sound the alarm as they identify three key threats to GOP's chances ahead of midterm elections and urge major changes... with even deep red states at risk",
+      "link": "https://www.dailymail.co.uk/news/article-15744039/Panicked-Republicans-sound-alarm-identify-three-key-threats-GOPs-chances-ahead-midterm-elections-urge-major-changes-deep-red-states-risk.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T06:00:27",
+      "description": "Top Republicans are warning their party faces serious risks ahead of the midterm elections. Leaders are urging major changes as concerns grow that the GOP could suffer significant losses.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/06/107984771-0-image-m-33_1776491234486.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/06/107984771-0-image-m-33_1776491234486.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T06:11:41.424113",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Huge queues snaking around Vinnies Wedding Expo a sign of the times for Aussies on a budget",
+      "link": "https://www.dailymail.co.uk/news/article-15744029/Vinnies-Wedding-Expo-Sydney-brides.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T05:45:53",
+      "description": "Aussies could be seen forming a lengthy queue outside an op shop bright and early on Saturday, with some even brining camping chairs.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/06/107984263-0-image-m-104_1776488637774.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/06/107984263-0-image-m-104_1776488637774.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T06:11:41.424115",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Pilot who miraculously escaped certain death in horror helicopter crash that killed three passengers recalls harrowing moments just seconds before disaster",
+      "link": "https://www.dailymail.co.uk/news/article-15743937/pilot-hawaii-helicopter-crash-ntsb-report.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T05:36:03",
+      "description": "The pilot of the doomed helicopter that plunged into the ocean off the coast of a Hawaiian island last month told federal investigators that the aircraft vibrated and spun out before impact.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/06/107470309-0-image-a-28_1776490444078.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/06/107470309-0-image-a-28_1776490444078.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T06:11:41.424117",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Struggling Spirit Airlines 'pleads for help from Trump' as financial collapse looms",
+      "link": "https://www.dailymail.co.uk/news/article-15744047/spirit-airlines-pleads-trump-administration-bailout.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T05:08:19",
+      "description": "Spirit Airlines has reportedly pleaded with the Trump administration for bailout emergency funding as financial collapse looms while fuel prices soar amid the war in Iran.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/05/107984223-0-image-m-19_1776487271918.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/05/107984223-0-image-m-19_1776487271918.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T06:11:41.424118",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Gas price hope in sight as sanction exemptions on Russian oil are extended for a month in sudden reversal... while Democrats slam 'shameful' decision",
       "link": "https://www.dailymail.co.uk/news/article-15744051/gas-price-russian-oil-sanctions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12431,79 +12501,37 @@
       "archived_at": "2026-04-15T09:22:21.647879",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Freight train fire tiggers widespread delays across Sydney network",
-      "link": "https://www.dailymail.co.uk/news/article-15734889/Sydney-west-train-Warwick-Farm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T08:33:16",
-      "description": "A fire on a freight train has caused significant delays across Sydney trains.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907689-0-image-m-16_1776240839426.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907689-0-image-m-16_1776240839426.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T09:22:21.647880",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Europe draws up plans for a new NATO without US",
-      "link": "https://www.dailymail.co.uk/news/article-15734705/Europe-draws-plans-new-NATO-without-US.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T08:24:21",
-      "description": "Officials working on the plans, dubbed 'European Nato', are reportedly attempting to supplement US military assets with European ones.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907699-0-image-a-7_1776240992301.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907699-0-image-a-7_1776240992301.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T09:22:21.647882",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Angela Rayner cools Starmer coup bid plans (for now) despite poll showing Labour is set to be SMASHED by Reform and Greens in local elections",
-      "link": "https://www.dailymail.co.uk/news/article-15734841/Angela-Rayner-cools-Starmer-coup-bid-local-elections.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T08:23:23",
-      "description": "Rayner, the former deputy PM, is widely seen as one of the frontrunners to replace Sir Keir if he was ousted by MPs after the May 7 poll.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907267-0-image-m-13_1776240696670.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907267-0-image-m-13_1776240696670.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T09:22:21.647883",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment JD Vance is heckled as he condemns the Pope over Iran and says he 'needs to be careful when he talks",
-      "link": "https://www.dailymail.co.uk/news/article-15734707/Moment-JD-Vance-heckled-condemns-Pope-Iran-says-needs-careful-talks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T08:09:48",
-      "description": "Speaking at a Turning Point USA event in Georgia, Vance was interrupted by a shouting member of the audience.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/08/107907187-0-image-a-8_1776239212679.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/08/107907187-0-image-a-8_1776239212679.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T09:22:21.647884",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Explosive finale for AVO drama involving BondiBoost mogul, her fianc\u00e9 and his ex-lover: Wild sex questions, a 'lost' recording... and the promise outside court that it's FAR from over: LUCY MANLY",
-      "link": "https://www.dailymail.co.uk/news/article-15734167/AVO-BondiBoost-Alexandra-Jakob-Michael-Burn-Geoffrey-Williams-Lucy-Manly.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T07:58:10",
-      "description": "Don't be fooled by the smiles outside court - this was an unpleasant saga from start to finish. LUCY MANLY has the inside story on the break-up from hell - and the wild allegations that followed.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/07/107906211-0-image-a-82_1776235094139.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/07/107906211-0-image-a-82_1776235094139.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T09:22:21.647886",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "From Harrogate to Haiti? Don't rule out a World Cup call-up for Calvin Miller as Falkirk Bairn comes of age",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742427/From-Harrogate-Haiti-Dont-rule-World-Cup-call-Calvin-Miller-Falkirk-Bairn-comes-age.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T06:01:02",
+      "description": "The feeling of scoring on a big occasion at Hampden is one which Calvin Miller will recall only too well.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978385-0-image-a-60_1776455184391.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/20/107978385-0-image-a-60_1776455184391.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T06:11:44.629004",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Flock of seagulls causes chaos at footy match in Melbourne - 'hope they all paid for their tickets'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15743639/Flock-seagulls-causes-chaos-match-Melbourne-Victory-Newcastle-Jets-AAMI-Park.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T05:41:41",
+      "description": "Seagulls interrupting footy matches at AAMI Park in Melbourne is nothing new - but they were out in force on Friday night during an A-League men's match.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/04/107983775-0-image-a-64_1776484007500.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/04/107983775-0-image-a-64_1776484007500.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T06:11:44.629011",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Iranian footballers who sought asylum and STAYED in Australia break their silence - 'we are overwhelmed'",
       "link": "https://www.dailymail.co.uk/sport/football/article-15743685/Iranian-footballers-Fatemah-Pasandideh-Atefeh-Ramezanisadeh-sought-asylum-Australia-Asian-Cup-2026-break-silence.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19475,34 +19503,6 @@
       "archived_at": "2026-03-31T19:33:34.721216",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "The furious touchline row Roberto De Zerbi had at Tottenham that insiders thought had scuppered any chances of becoming manager",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15694019/The-furious-touchline-row-Roberto-Zerbi-Tottenham-insiders-thought-scuppered-chances-manager.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T11:01:34",
-      "description": "Roberto De Zerbi is closing in on becoming the new Tottenham boss, but an incident from three years ago when he was Brighton manager almost scuppered his chances.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/11/107549815-0-image-a-4_1774953573481.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/11/107549815-0-image-a-4_1774953573481.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721217",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Football's youngest country on brink of World Cup fairytale: Tiny nation who were only allowed to play unofficial friendlies until a decade ago can qualify TONIGHT - and they boast Europe's sixth best striker!",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15694013/Footballs-youngest-country-brink-World-Cup-qualification.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T10:09:52",
-      "description": "Football's youngest nation are on the brink of qualifying for their first ever World Cup and will achieve the remarkable feat with victory in tonight's playoff final.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/10/107548333-0-image-a-32_1774951039773.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/10/107548333-0-image-a-32_1774951039773.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721219",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
@@ -21141,6 +21141,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Barbie Ferreira reflects on working with 'cool girl' Charli XCX",
+      "link": "https://www.music-news.com/news/UK/188410/Barbie-Ferreira-reflects-on-working-with-cool-girl-Charli-XCX",
+      "pubDate": "2026-04-18T05:00:00",
+      "description": "Barbie Ferreira has revealed that she has seen Charli XCX perform live approximately 17 times.",
+      "thumbnail": "https://www.music-news.com/images/news/cover/188410.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/cover/188410.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T06:11:48.201667",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "PinkPantheress worried about how her looks would affect her career",
       "link": "https://www.music-news.com/news/UK/188409/PinkPantheress-worried-about-how-her-looks-would-affect-her-career",
