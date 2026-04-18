@@ -1,6 +1,83 @@
 {
   "BBC News": [
     {
+      "title": "Senior official ousted over Mandelson security row to face MPs",
+      "link": "https://www.bbc.com/news/articles/c0kryzd8l7no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T07:35:19",
+      "description": "Former Former Office chief Sir Olly Robbins is expected to be grilled by the Foreign Affairs Committee on Tuesday.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca87/live/49127490-3af9-11f1-be03-8bbe7ad91075.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T07:40:18.874994",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sinatra fan Jimmy does it his way to keep promise to late wife",
+      "link": "https://www.bbc.com/news/articles/cly7pnpp27wo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T05:16:41",
+      "description": "Jimmy Moir went to L.A. to see where his idol made his music - and ended up with a few surprises.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/651d/live/4b5cc750-39c8-11f1-ae0f-b9a8d6dfceb4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T07:40:18.875006",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Boy donates lockdown locks to children's charity",
+      "link": "https://www.bbc.com/news/articles/c3r3zxvy89xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-14T13:24:04",
+      "description": "Noah braves the scissors and gets a short do after growing out his hair for six years.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2940/live/89d80d20-3674-11f1-9d5c-8ba507d7dbde.png",
+      "enclosure": null,
+      "archived_at": "2026-04-18T07:40:18.875008",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "People assume I can't speak Welsh because I'm not white",
+      "link": "https://www.bbc.com/news/articles/cr71911795go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-13T05:10:03",
+      "description": "Seren Jones says some Welsh speakers have switched to English when talking to her.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b225/live/9d433770-34e1-11f1-bce2-613d63bea84f.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T07:40:18.875009",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'My sister loved to party and turned her life around' - the nun on the way to sainthood",
+      "link": "https://www.bbc.com/news/articles/c5yjjzjgvm6o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-16T09:10:32",
+      "description": "Thousands attend a retreat in Derry named after Sister Clare, 10 years after her death in an earthquake in Ecuador.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb0f/live/a8b36c40-38d0-11f1-897a-bdd15f22bdb0.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T07:40:18.875011",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Fitzpatrick's wild birdie and superb 63 puts him in Heritage lead",
+      "link": "https://www.bbc.com/sport/golf/articles/c62k160k831o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T06:33:32",
+      "description": "Former US Open champion Matt Fitzpatrick has a one-shot lead over Viktor Hovland at the RBC Heritage in South Carolina.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aed/live/31bfce70-3aed-11f1-98f3-01328d2508d7.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T07:40:18.875013",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "From FA ban to double Euros winners -  Lionesses reach 500 games",
+      "link": "https://www.bbc.com/sport/football/articles/ce844m5yzgvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T06:43:43",
+      "description": "BBC Sport takes a look at 11 defining moments in the history of England women before their milestone 500th official fixture on Saturday.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3e/live/94da8b00-3a6e-11f1-879d-1b2f5c3919b8.png",
+      "enclosure": null,
+      "archived_at": "2026-04-18T07:40:18.875014",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Swinney predicts SNP majority at Holyrood election",
       "link": "https://www.bbc.com/news/articles/c9wq2jvqqxvo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-18T05:00:24",
@@ -5422,86 +5499,79 @@
       "archived_at": "2026-04-11T23:30:03.991443",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Messy and unpredictable: What I learned from election tour of the UK",
-      "link": "https://www.bbc.com/news/articles/c4gxw5dw8vwo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T23:19:57",
-      "description": "BBC Radio 5 Live's Matt Chorley talks to voters in England, Scotland and Wales to get the real story on May's elections.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6272/live/2bcc4af0-3338-11f1-bf11-9546df991775.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T23:30:03.991444",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Golden eagles' return to English skies gets government backing",
-      "link": "https://www.bbc.com/news/articles/cje4zlxqkqdo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T23:19:46",
-      "description": "The birds could be reintroduced as early as next year following a \u00a31m injection from the government.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a56/live/93b50d30-3420-11f1-aa50-fd39c44a0779.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T23:30:03.991446",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scottish election 2026: How tax and welfare are shaping the vote",
-      "link": "https://www.bbc.com/news/articles/c8ej9nj9773o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T23:19:34",
-      "description": "In recent years Scotland has struck out on a different path to the rest of the UK when it comes to income tax and social security.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3df/live/62c40c10-34e0-11f1-9d5c-8ba507d7dbde.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T23:30:03.991447",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "What will the Southport Inquiry tell us and what are next steps?",
-      "link": "https://www.bbc.com/news/articles/cp86e615j68o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T23:19:13",
-      "description": "The public inquiry was set up following a knife attack which led to the deaths of three young girls.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac9/live/4e438860-bb28-11f0-b296-27a0423599e8.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T23:30:03.991448",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Are these the 30 minutes that saved Hearts' title bid?",
-      "link": "https://www.bbc.com/sport/football/articles/cx2ew8q0g7go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T20:40:21",
-      "description": "As Heart of Midlothian fight back to beat Motherwell, it could prove to be the 30 minutes that saved their Scottish title chances.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbe6/live/63a3ad10-35e5-11f1-9d5c-8ba507d7dbde.png",
-      "enclosure": null,
-      "archived_at": "2026-04-11T23:30:03.991451",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Fury dominates Makhmudov and calls out Joshua next",
-      "link": "https://www.bbc.com/sport/boxing/articles/cwy3ww0rkylo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T22:22:57",
-      "description": "Tyson Fury marks his return to the heavyweight mix with a composed points win over Arslanbek Makhmudo, before immediately turning ringside to call out Anthony Joshua.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/539e/live/8094efa0-35f5-11f1-a57a-1188f82f73cf.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T22:30:54.311830",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
-      "link": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T21:23:07",
-      "description": "The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07b8/live/bc22ec90-35ee-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T21:55:56.545195",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Accused war criminal Ben Roberts-Smith is spotted on the Gold Coast after being granted bail in a Sydney court - as his support network assembles",
+      "link": "https://www.dailymail.co.uk/news/article-15744179/Ben-Roberts-Smith-bail-Gold-Coast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T07:34:50",
+      "description": "Roberts-Smith spent 10 days in Silverwater prison after he was charged with murdering or ordering the murders of five unarmed detainees while deployed in Afghanistan between 2009 and 2012.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/07/107984893-0-image-m-11_1776492532539.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/07/107984893-0-image-m-11_1776492532539.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T07:40:21.492787",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Oil tankers pass through Strait of Hormuz as Britain vows strong military contribution\u00a0and Trump says peace deal 'very close': live updates",
+      "link": "https://www.dailymail.co.uk/news/article-15744237/Oil-Strait-Hormuz-Britain-strong-military-contribution-Trump-peace-deal-close.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T07:33:31",
+      "description": "LIVE: The latest updates on the Middle East as Iran declares the Strait of Hormuz 'completely open'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/08/107985123-0-Tracking_site_MarineTraffic_shows_several_ships_appearing_to_be_-a-4_1776496183534.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/08/107985123-0-Tracking_site_MarineTraffic_shows_several_ships_appearing_to_be_-a-4_1776496183534.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T07:40:21.492792",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "MAGA v the Pope: How Trump and his supporters are gunning for woke, left-wing, pro-immigration pontiff",
+      "link": "https://www.dailymail.co.uk/news/article-15738177/MAGA-woke-Pope-Trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T07:32:35",
+      "description": "It took less than a year for Trump to dramatically turn on the pontiff - claiming credit for his ascent from Chicago to the Vatican and launching a bizarre diatribe against the Pope",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/16/107946425-0-image-m-13_1776351860335.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/16/107946425-0-image-m-13_1776351860335.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T07:40:21.492794",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "CATHERINE BARNWELL reveals how open source tools help journalists uncover the truth when official information is restricted",
+      "link": "https://www.dailymail.co.uk/news/article-15743843/CATHERINE-BARNWELL-reveals-open-source-tools-help-journalists-uncover-truth-official-information-restricted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T06:38:26",
+      "description": "When access to information is restricted, journalists increasingly turn to open source intelligence to understand what's really happening on the ground.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/00/107981621-0-image-a-26_1776468883746.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/00/107981621-0-image-a-26_1776468883746.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T07:40:21.492796",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Women living under Hamas rule in Gaza describe to the Mail how they are sexually abused by the terror group's fighters and forced to have sex in return for food aid",
+      "link": "https://www.dailymail.co.uk/news/article-15732903/Women-living-Hamas-rule-Gaza-Mail-sexually-abused-terror-groups-fighters-forced-sex-return-food-aid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T06:12:59",
+      "description": "Gazans living under Hamas rule are beginning to break their silence, describing\u00a0sexual abuse by multiple men, sexual blackmail for aid or money and abuse by people in positions of power.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/16/14/107917633-0-image-a-7_1776346943775.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/16/14/107917633-0-image-a-7_1776346943775.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T07:40:21.492797",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Trump 'to sign executive order' that will ease access to psychedelic drug used to treat PTSD",
       "link": "https://www.dailymail.co.uk/news/article-15743893/donald-trump-psychadelic-drug-use.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12429,76 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-15T10:42:07.306623",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Private club Raffles beloved by celebrities and royals is trashed by 20 squatters during illegal rave",
-      "link": "https://www.dailymail.co.uk/news/article-15734839/Private-club-Raffles-beloved-celebrities-royals-trashed-20-squatters-illegal-rave.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T09:38:32",
-      "description": "Around 20 squatters were believed to have broken into Raffles in Chelsea, a venue once frequented by Prince Harry .",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/10/107907967-0-image-m-15_1776245526597.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/10/107907967-0-image-m-15_1776245526597.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306625",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Army nurse sues MoD for \u00a31.2million after leaving the services in depression after colleague's 'blackface' gesture to him",
-      "link": "https://www.dailymail.co.uk/news/article-15734755/Army-nurse-sues-MoD-1-2million-leaving-services-depression-colleagues-blackface-gesture-him.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T09:20:49",
-      "description": "Paul Erhahiemen, 43, spent four years guarding Queen Elizabeth II as a soldier of the Household Cavalry Mounted Regiment before serving at RAF Brize Norton.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907305-0-image-m-17_1776240349853.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907305-0-image-m-17_1776240349853.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T09:22:21.647869",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Moment crooked legal adviser tells migrants to pose as gay and claim their wives are lesbians to stay in Britain",
-      "link": "https://www.dailymail.co.uk/news/article-15734623/Moment-crooked-legal-adviser-tells-migrants-pose-gay-claim-wives-lesbians-stay-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T09:20:41",
-      "description": "Migrants whose visas are running out are being given cover stories and told how to falsify evidence, including supporting letters, photos from LGBT nightclubs and medical reports.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907939-0-image-m-11_1776242353906.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907939-0-image-m-11_1776242353906.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T09:22:21.647875",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Iranian Christian who had his leg broken by regime thugs because of his religion describes horrors endured during five-year prison hell",
-      "link": "https://www.dailymail.co.uk/news/article-15734709/Iranian-Christian-leg-broken-regime-thugs-religion-describes-horrors-endured-five-year-prison-hell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T09:09:51",
-      "description": "For 361 days, Farshid Fahti was held in solitary confinement in a two-metre cell, part of a five-year stretch where his leg was broken in one of many beatings.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/08/107906937-0-image-m-8_1776238137785.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/08/107906937-0-image-m-8_1776238137785.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T09:22:21.647878",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Two more men charged with murder over stabbing of 21-year-old Finbar Sullivan in Primrose Hill",
-      "link": "https://www.dailymail.co.uk/news/article-15734881/Two-men-charged-murder-stabbing-21-year-old-Finbar-Sullivan-Primrose-Hill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T09:09:37",
-      "description": "Alexis Bidace, 25, of Fore Street, Edmonton, and Ernest Boateng, 25, of Keswick Drive, Enfield, were arrested and are due to appear at Wimbledon Magistrates Court later today.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/09/107754879-0-image-m-12_1776240402759.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/09/107754879-0-image-m-12_1776240402759.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T09:22:21.647879",
       "feed_category": "News",
       "feed_visibility": "both"
     }
@@ -21141,6 +21141,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "The Verve set for reunion?",
+      "link": "https://www.music-news.com/news/UK/188412/The-Verve-set-for-reunion",
+      "pubDate": "2026-04-18T05:00:00",
+      "description": "Richard Ashcroft could reunite with his The Verve bandmates to celebrate 30 years of Urban Hymns next year.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188412.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188412.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T07:40:29.280606",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "Barbie Ferreira reflects on working with 'cool girl' Charli XCX",
       "link": "https://www.music-news.com/news/UK/188410/Barbie-Ferreira-reflects-on-working-with-cool-girl-Charli-XCX",
