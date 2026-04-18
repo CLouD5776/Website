@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Building of Trump's White House ballroom can resume in full, appeals court says",
+      "link": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T19:18:40",
+      "description": "Construction at the White House is expected to continue until the next hearing, due in June.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/122a/live/db7b91e0-39d2-11f1-a1b6-b76b3bf64711.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T20:32:46.332859",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Howe's biggest Newcastle challenge yet as questions grow on his future",
+      "link": "https://www.bbc.com/sport/football/articles/c203y3ykv6no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T19:43:02",
+      "description": "Newcastle are languishing in 14th place in the Premier League following defeat by Bournemouth. Will manager Eddie Howe turn it around?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a8/live/c333ea00-3b5e-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T20:32:46.332867",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Spurs' survival hopes dealt late blow by Brighton",
       "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-18T18:33:07",
@@ -5477,31 +5499,51 @@
       "archived_at": "2026-04-12T09:11:03.075617",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "What is going on with Garnacho?",
-      "link": "https://www.bbc.com/sport/football/articles/c8x71741kkdo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-12T05:50:40",
-      "description": "Alejandro Garnacho is struggling to stand out at Chelsea - so can the \u00a340m signing from Manchester United still realise his potential at Stamford Bridge?",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e7a/live/4880f450-3335-11f1-bf11-9546df991775.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-12T09:11:03.075629",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "I'm the only medic on the island \u2013 but I wish I'd brought some trousers",
-      "link": "https://www.bbc.com/news/articles/cgld98z7nn9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-04T05:23:44",
-      "description": "Tammy Hine says she wanted to live somewhere remote and have one last adventure before turning 50.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2da/live/afcc30e0-2852-11f1-937e-1d8f354c3b9a.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-12T08:10:54.981288",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Starmer's not fit to run the country: Kemi launches blistering attack on 'weak, lazy and incompetent' PM as Mandelson crisis threatens to force him out of No10",
+      "link": "https://www.dailymail.co.uk/news/article-15745293/Starmer-Kemi-blistering-attack-Mandelson-crisis-threatens-out.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T20:26:05",
+      "description": "Sir Keir Starmer is a man unfit to run the country who has lost the moral right to govern after the Peter Mandelson vetting scandal, Conservative leader Kemi Badenoch has said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993131-0-image-m-15_1776543521804.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993131-0-image-m-15_1776543521804.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T20:32:49.837646",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Chaos as 100 cars descend on sleepy New York neighborhood turning it into fiery Mad Max-style hellscape",
+      "link": "https://www.dailymail.co.uk/news/article-15744887/cars-street-takeover-neighborhood-queens-new-york.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T20:11:01",
+      "description": "Officers in New York were dispatched at approximately 1.49am on Saturday following reports of drag racing.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/20/107992471-0-image-a-88_1776539078821.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/20/107992471-0-image-a-88_1776539078821.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T20:32:49.837651",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "London park reopens after police investigated 'video of drones carrying cancer-causing materials towards Israeli embassy'",
+      "link": "https://www.dailymail.co.uk/news/article-15745167/London-park-reopens-police-investigated-video-drones-carrying-cancer-causing-materials-Israeli-embassy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T19:43:32",
+      "description": "The Metropolitan Police were made aware of the video posted online and blocked off public access to Kensington Gardens as they investigated the incident while wearing protective hazmat suits.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/19/107968617-0-image-m-39_1776538786134.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/19/107968617-0-image-m-39_1776538786134.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T20:32:49.837653",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Traveller who bought field in stockbroker belt village, tarmacked over it and moved in caravans can live there because moving him would breach HIS human rights",
       "link": "https://www.dailymail.co.uk/news/article-15734629/Traveller-bought-field-stockbroker-belt-village-tarmacked-moved-caravans-live-moving-breach-human-rights.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12459,51 +12501,23 @@
       "archived_at": "2026-04-15T16:02:44.167938",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Do YOU have middle class furniture regret? The fixtures that cost the most and never live up to the hype - from white sofas to \u00a310,000 bookcases",
-      "link": "https://www.dailymail.co.uk/lifestyle/article-15735121/Do-YOU-middle-class-furniture-regret-fixtures-cost-never-live-hype-white-sofas-10-000-bookcases.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T12:17:52",
-      "description": "Speaking to the Daily Mail, Jordana Ashkenazi, London-based\u00a0founder and design director of Element One House, revealed the middle class furniture that most people eventually come to regret.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/12/107911937-0-image-m-44_1776251894433.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/12/107911937-0-image-m-44_1776251894433.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167939",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Scott Mills shows the strain as he is seen for the first time since being sacked by BBC over historical allegation of serious sexual offences as he walks dog with husband Sam Vaughan",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15735055/Scott-Mills-seen-time-sacked-BBC-Radio-2-star-walk-husband.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T11:23:18",
-      "description": "Scott Mills has been pictured for the first time since he was sacked from the BBC.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/10/107909275-0-image-a-6_1776245462844.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/10/107909275-0-image-a-6_1776245462844.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167941",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Spice Girl, ready! Mel C looks exactly like a gladiator in a plunging leotard as she reveals 'huge and expensive risk' of new album Sweat",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15734937/Spice-Girl-ready-Mel-C-looks-exactly-like-gladiator-plunging-leotard-reveals-huge-expensive-risk-new-album-Sweat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:20:55",
-      "description": "Mel C showed off her Sporty Spice physique as she posed in a red leotard in\u00a0behind the scenes Instagram snaps from her new album Sweat.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/11/107910093-0-image-a-17_1776247789733.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/11/107910093-0-image-a-17_1776247789733.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167942",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Roberto De Zerbi sends defiant message to Spurs stars after Brighton draw and warns players who sulk will be sent home",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15745289/Roberto-Zerbi-Tottenham-Brighton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T20:23:15",
+      "description": "Tottenham sensed their first victory of 2026 when a wonder strike by Xavi Simons fired them ahead late on against Brighton, only for Georginio Rutter to make it 2-2 in the 95th minute.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993285-0-image-a-17_1776543116194.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/21/107993285-0-image-a-17_1776543116194.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T20:32:51.192388",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Tottenham are hurtling towards the Championship: Fear of the drop has spread a paralysis over Spurs stars, writes OLIVER HOLT, as traumatic season takes another twist",
       "link": "https://www.dailymail.co.uk/sport/football/article-15742089/Tottenham-Brighton-Premier-League-Championship-relegation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19489,23 +19503,20 @@
       "archived_at": "2026-03-31T19:33:34.721191",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Tottenham appoint Roberto De Zerbi on eye-watering five-year deal - with NO relegation clause - but arrival is met with huge backlash by 'seriously concerned' fans over Mason Greenwood support",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15694585/Tottenham-appoint-Roberto-Zerbi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T19:26:15",
-      "description": "Tottenham have entrusted their Premier League survival in the hands of Roberto De Zerbi after officially appointing the Italian manager on a huge five-year contract.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/13/107553349-0-image-a-40_1774961836729.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/13/107553349-0-image-a-40_1774961836729.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721192",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
+    {
+      "title": "Howe's biggest Newcastle challenge yet as questions grow on his future",
+      "link": "https://www.bbc.com/sport/football/articles/c203y3ykv6no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T19:43:02",
+      "description": "Newcastle are languishing in 14th place in the Premier League following defeat by Bournemouth. Will manager Eddie Howe turn it around?",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a8/live/c333ea00-3b5e-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T20:32:52.207155",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "What does PIF's change in approach mean for Newcastle?",
       "link": "https://www.bbc.com/sport/football/articles/cz902873dnko?at_medium=RSS&at_campaign=rss",
