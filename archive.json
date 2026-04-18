@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Spurs' survival hopes dealt late blow by Brighton",
+      "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T18:33:07",
+      "description": "Tottenham's hopes of achieving Premier League survival are dealt a devastating late blow as Georginio Rutter scores a 95th-minute equaliser for European-hopefuls Brighton.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5d/live/c9fcf420-3b4b-11f1-8394-1d74d10268c4.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T18:42:29.509189",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Iraola bowing out in style - where will he go next?",
+      "link": "https://www.bbc.com/sport/football/articles/c20dyjd604qo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T18:00:58",
+      "description": "Any suggestion of distraction following Andoni Iraola's decision to leave Bournemouth was firmly dismissed by his players in their statement victory against Newcastle.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ac/live/767a5d00-3b4c-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T18:42:29.509194",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Pope says 'tyrants' speech was not aimed at Trump",
       "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-18T16:44:39",
@@ -5477,31 +5499,121 @@
       "archived_at": "2026-04-12T08:10:54.981288",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Girl's 'mammoth' bone find may be 500,000 years old",
-      "link": "https://www.bbc.com/news/articles/cvglk92pqq5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T04:47:43",
-      "description": "A scientist says the discovery by seven-year-old Nina Evans could possibly come from a mammoth.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5029/live/06741390-3429-11f1-a207-8b959fccb503.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-12T08:10:54.981293",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Couple hitchhike to their wedding ceremony",
-      "link": "https://www.bbc.com/news/articles/c8ej9pe5d1no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-10T04:58:41",
-      "description": "Chloe and George Gardner were driven to their ceremony by a stranger passing by.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116c/live/44b99020-34b6-11f1-a676-6ff4dfb1e8ec.png",
-      "enclosure": null,
-      "archived_at": "2026-04-12T08:10:54.981295",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Americans urged to avoid stunning Caribbean cruise destination over terror and crime threat",
+      "link": "https://www.dailymail.co.uk/news/article-15744465/Americans-travel-advisory-Caribbean-Trinidad-Tobago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T18:39:17",
+      "description": "The US warned travelers of a drastic increase in violent crime. At least three American citizens have been killed at the popular vacation spot in the last year.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/19/107991331-0-image-a-16_1776535580715.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/19/107991331-0-image-a-16_1776535580715.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T18:42:31.673489",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "SNP run like a 'ruthless crime gang' says Russell Findlay",
+      "link": "https://www.dailymail.co.uk/news/article-15744999/SNP-run-like-ruthless-crime-gang-says-Russell-Findlay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T18:37:41",
+      "description": "Former crime reporter turned politician Russell Findlay has likened the SNP to a group of gangsters who rule with 'ruthlessness' and 'demand blind loyalty'.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990023-0-image-m-34_1776531887313.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990023-0-image-m-34_1776531887313.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T18:42:31.673496",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Just 40 miles away... but Starmer and Sarwar are worlds apart",
+      "link": "https://www.dailymail.co.uk/news/article-15745011/Just-40-miles-away-Starmer-Sarwar-worlds-apart.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T18:34:26",
+      "description": "Sir Keir Starmer steered clear of his party's Scottish leader Anas Sarwar during a visit north of the Border today - despite being just 40 miles away.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990777-0-image-a-47_1776532721829.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990777-0-image-a-47_1776532721829.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T18:42:31.673497",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Sarah Ferguson 'turns down interview offer from NEWSNIGHT' - after her ex Andrew's appearance on the BBC show caused his ejection from Royal Family",
+      "link": "https://www.dailymail.co.uk/news/article-15744899/Sarah-Ferguson-interview-offer-NEWSNIGHT-Andrew-appearance-BBC.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T18:30:00",
+      "description": "Sarah Ferguson has been inundated with interview offers - including from BBC's Newsnight, the same show that led to Andrew Mountbatten-Windsor's disastrous 'car crash' interview in 2019.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/18/107483393-0-Austria_has_previously_been_a_haven_for_the_former_Duchess_of_Yo-a-9_1776534184057.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/18/107483393-0-Austria_has_previously_been_a_haven_for_the_former_Duchess_of_Yo-a-9_1776534184057.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T18:42:31.673499",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Two men killed in head-on crash after 'car drove wrong way down motorway'",
+      "link": "https://www.dailymail.co.uk/news/article-15745113/Two-men-killed-crash-car-wrong-motorway.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T18:28:44",
+      "description": "A grey Ford Kuga was seen driving northbound on the southbound carriageway on the M90 near junction seven at around 10.30pm on Friday, Police Scotland said.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/19/107991745-0-image-m-24_1776536255303.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/19/107991745-0-image-m-24_1776536255303.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T18:42:31.673500",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Traitors winner\u2028Alan Carr turns Faithful as he looks to win village over to his \u00a33million castle dream",
+      "link": "https://www.dailymail.co.uk/news/article-15744997/Traitors-winner-Alan-Carr-turns-Faithful-looks-win-village-3million-castle-dream.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T18:21:34",
+      "description": "As the ultimate Traitor, he famously plotted, schemed and connived his way to beating 18 of his fellow competitors to become celebrity king of the castle.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/18/107991359-0-image-a-74_1776533976405.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/18/107991359-0-image-a-74_1776533976405.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T18:42:31.673501",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Why the St John of God order was able to cover up the crimes of serial paedophile\u00a0Brother Aidan Clohessy - allowing him to keep ABUSING vulnerable children - and how I was able to expose a MONSTER... despite his superiors' best efforts",
+      "link": "https://www.dailymail.co.uk/news/article-15745009/Why-St-John-God-religious-order-able-cover-crimes-serial-paedophile-Brother-Aidan-Clohessy-allowing-ABUSING-vulnerable-children-able-expose-OGRE-despite-superiors-best-efforts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T18:19:05",
+      "description": "Long before I went to Malawi, I had to prove the St John of God order knew Br Aidan was a danger to children before they sent him to Africa...",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/18/107991523-0-image-m-21_1776535143020.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/18/107991523-0-image-m-21_1776535143020.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T18:42:31.673503",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bespoke fashion! Chaps and chapesses don their favourite check weaves to cycle through London in annual Tweed Run",
+      "link": "https://www.dailymail.co.uk/news/article-15744811/cycle-London-annual-Tweed-Run.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T18:16:45",
+      "description": "Once a tradition that started among a small group of friends in 2008, the event has since expanded to around 800 people riding across the capital in their finest woolly weaves.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/18/107991283-0-image-m-13_1776534169777.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/18/107991283-0-image-m-13_1776534169777.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T18:42:31.673504",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "The pong-tiff! Pope looks dismayed after shaking hands with boy scout and ending up covered in muck",
       "link": "https://www.dailymail.co.uk/news/article-15735313/Pope-looks-dismayed-shaking-hands-boy-scout-ending-covered-muck.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12389,121 +12501,37 @@
       "archived_at": "2026-04-15T16:02:44.167945",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Moment middle-aged woman steals pub's lucky wooden monkey as outraged landlady appeals for its safe return",
-      "link": "https://www.dailymail.co.uk/news/article-15735877/Moment-middle-aged-woman-steals-pubs-wooden-monkey-landlady-appeals-safe-return.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T15:49:20",
-      "description": "Lesley Wood, the landlady at the Shoulder of Mutton pub in Hebden Bridge in West Yorkshire, discovered one of her monkey statues was missing on Sunday morning.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/16/107916533-0-image-m-16_1776267858834.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/16/107916533-0-image-m-16_1776267858834.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167953",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Lorry with unsecured crane is caught on CCTV moments before machine swung out and killed young mother as she pushed toddler in pram",
-      "link": "https://www.dailymail.co.uk/news/article-15735073/Killed-sake-10-strap-Footage-shows-lorry-driver-failed-secure-crane-hit-young-mum-pram.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T15:46:11",
-      "description": "Rebecca Ableman, 30, had just visited a farm shop with her then two-year-old daughter, Autumn, when she was struck on the head and died.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/16/107917373-0-image-a-16_1776265750407.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/16/107917373-0-image-a-16_1776265750407.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167954",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Retired police chief condemns old force for its 'beyond a joke' shoplifting record after watching have-a-go hero confronting brazen shoplifter",
-      "link": "https://www.dailymail.co.uk/news/article-15735353/police-chief-condemns-force-joke-shoplifting-record.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T15:43:43",
-      "description": "Chris Amey, who retired from the police in 2022 after 30 years service, has spoken out against Dorset Police following the incident in Bournemouth.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107915595-0-image-m-15_1776265100697.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107915595-0-image-m-15_1776265100697.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167956",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Defiant Republican Cory Mills denies he'll face Swalwell downfall despite nude video threat: 'I'm not married'",
-      "link": "https://www.dailymail.co.uk/news/article-15735771/Defiant-Republican-Cory-Mills-denies-hell-face-Swalwell-downfall-despite-nude-video-threat-Im-not-married.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T15:41:50",
-      "description": "Congressman Cory Mills is combatting claims that he should be expelled from Congress over misconduct allegations from problematic financial disclosures to sexual extortion.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/16/107916891-0-image-m-28_1776267393571.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/16/107916891-0-image-m-28_1776267393571.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167957",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "New jails fiasco as Ministry of Justice confirms it freed 179 prisoners by mistake in the last year",
-      "link": "https://www.dailymail.co.uk/news/article-15736047/New-jails-fiasco-Ministry-Justice-confirms-freed-179-prisoners-mistake-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T15:28:36",
-      "description": "The Ministry of Justice freed 179 prisoners by mistake in the year to March, official new figures show.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/106678167-0-image-a-13_1776265024058.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/106678167-0-image-a-13_1776265024058.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167958",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woke Oakland lawmaker says it is RACIST for city to fine Nigerian man $1m after he sparked outrage by cutting down 38 protected trees",
-      "link": "https://www.dailymail.co.uk/news/article-15735451/oakland-council-caroll-fife-race-fine-nigerian-trees.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:55:21",
-      "description": "Oakland\u00a0Council Member Carroll Fife\u00a0has alleged it would be racist for the city to issue a $1 million fine to a Nigerian immigrant who chopped down 38 protected trees without a permit.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107914459-0-image-m-71_1776264031522.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107914459-0-image-m-71_1776264031522.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167960",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Major blow for Australia's richest woman after two rival mining dynasties won parts of a bitter legal stoush over Gina Rinehart's multi-billion dollar iron ore empire",
-      "link": "https://www.dailymail.co.uk/news/article-15734611/Gina-Rinehart-Hancock-Prospecting-lawsuit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:51:36",
-      "description": "Australia's richest person, Gina Rinehart, lost parts of her legal battle against the heirs of mining pioneer Peter Wright and engineer Don Rhodes on Wednesday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107898443-0-image-m-99_1776264632563.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107898443-0-image-m-99_1776264632563.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T16:02:44.167962",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Adorable Colorado toddler aged just one will die on FRIDAY after flu infection, devastated family says",
-      "link": "https://www.dailymail.co.uk/news/article-15731945/colorado-toddler-death-friday-hospital-flu-croup.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:45:13",
-      "description": "Eric Ryan and Maegan Coffin are facing every parent's worst nightmare as they prepare to say goodbye to their son Alastor.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/14/16/107885095-0-image-m-17_1776180355773.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/14/16/107885095-0-image-m-17_1776180355773.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566193",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Chelsea vs Manchester United - Premier League LIVE: Latest score, team news and updates as fourth and sixth place meet in race for Champions League qualification",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742097/Chelsea-vs-Manchester-United-2025-26-Premier-League-LIVE-result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T18:36:47",
+      "description": "Follow Daily Mail Sport's live blog for the latest score, team news and updates as Chelsea host Manchester United at Stamford Bridge in the Premier League.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/15/107970745-0-image-a-13_1776435120664.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/15/107970745-0-image-a-13_1776435120664.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T18:42:34.918976",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Iceland 0-1 England: Sarina Wiegman's Lionesses hold nerve as Hannah Hampton produces late heroics once again to secure crucial win in World Cup qualifier",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742103/England-World-Cup-qualifier-Hannah-Hampton.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T18:36:38",
+      "description": "TARA ANSON-WALSH: England made sure not to waste the hard-earned advantage they claimed over Spain in their World Cup qualifying group earlier this week, backing it up with a crucial 1-0 win.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/19/107991941-0-image-a-16_1776536927478.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/19/107991941-0-image-a-16_1776536927478.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T18:42:34.918983",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Leeds have unearthed their biggest star since Raphinha and gave Chelsea reasons to be fearful in FA Cup showdown after dispatching Wolves, writes JAMES SHARPE",
       "link": "https://www.dailymail.co.uk/sport/football/article-15742075/Leeds-Wolves-Premier-League-Raphinha-Noah-Okafor-Chelsea.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19473,34 +19501,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-03-31T19:33:34.721194",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Newcastle's bombshell briefing - CRAIG HOPE reveals the truth behind the headlines: What it all means for transfers, Eddie Howe and Sandro Tonali's futures, big stars leaving this summer, St James' Park sale... and why they should expect a UEFA fine",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15693715/newcastle-transfer-plans-eddie-howe-sandro-tonali-st-james-park-future.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T17:44:07",
-      "description": "Our chief football reporter, CRAIG HOPE, was in the room, and here he brings you the headlines and breaks down exactly what all of it means on a hugely significant day.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/08/107545093-0-image-a-37_1774941211941.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/08/107545093-0-image-a-37_1774941211941.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721195",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Tottenham's move for Roberto De Zerbi is a desperate U-turn: This is why they had reservations about hiring Italian in the past, and what latest gamble reveals about Johan Lange and Vinai Venkatesham's leadership, writes MATT BARLOW",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15692275/Tottenhams-Roberto-Zerbi-desperate-U-turn-reservations-hiring-Italian-past-latest-gamble-reveals-Johan-Lange-Vinai-Venkateshams-leadership-writes-MATT-BARLOW.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T16:56:12",
-      "description": "Let's not pretend the late swerve for Roberto De Zerbi is any sort of triumph for Tottenham 's incredible powers of persuasion.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/17/107560561-0-image-a-6_1774976168926.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/17/107560561-0-image-a-6_1774976168926.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721197",
       "feed_category": "Sport",
       "feed_visibility": "both"
     }
