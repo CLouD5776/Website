@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Have the Democrats found a new strategy to scare Trump?",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T10:55:00",
+      "description": "Why an oyster fisherman with a controversial past is splitting the Democrats",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T08:43:24.515173",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Senior official ousted over Mandelson security row to face MPs",
       "link": "https://www.bbc.com/news/articles/c0kryzd8l7no?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-18T07:35:19",
@@ -5488,20 +5499,65 @@
       "archived_at": "2026-04-11T23:30:03.991442",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "The Papers: 'Le Humiliation' and 'US and Iran start historic peace talks'",
-      "link": "https://www.bbc.com/news/articles/cn0wywl5dx2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T22:54:01",
-      "description": "Some of the UK papers today follow Sir Keir Starmer shelving his Chagos Islands deal, and the historic Iran-US peace talks in Pakistan.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94a/live/9e017a80-35f6-11f1-9d5c-8ba507d7dbde.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T23:30:03.991443",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Fears for a man who jumped off a Carnival cruise ship just hours after a fellow passenger died",
+      "link": "https://www.dailymail.co.uk/news/article-15744207/Carnival-Splendor-cruise-passenger-jumps-overboard.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T08:42:24",
+      "description": "A search is underway after a man in his 70s jumped over the railings of his cruise ship in Queensland on Friday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/07/107985157-0-image-m-23_1776495442189.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/07/107985157-0-image-m-23_1776495442189.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T08:43:25.772246",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment woman catches brazen thief sat inside her car on dashcam after she woke up to find vehicle had vanished from her home",
+      "link": "https://www.dailymail.co.uk/news/article-15741403/Moment-woman-thief-car-dashcam-vanished.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T08:37:53",
+      "description": "Anna Kierat was shocked to discover that her car had disappeared from her road when she woke up on Tuesday, April 14.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/09/107985457-0-image-m-14_1776500296638.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/09/107985457-0-image-m-14_1776500296638.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T08:43:25.772252",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Scientist who 'killed' lobster by snatching it from restaurateur's tank and throwing it in sea is a globe trotting eco hypocrite who travelled 80,000 miles in a gas-guzzling four-by-four",
+      "link": "https://www.dailymail.co.uk/news/article-15741429/Woman-murdered-lobster-snatching-restaurateur-tank-throwing-sea-eco-warrior-hypocrite-travelled-globe-gas-guzzling-car.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T08:37:05",
+      "description": "Emma Smart (pictured), 47, stormed into Catch at the Old Fish Market in Weymouth, Dorset, and freed the crustacean, which she believed was going to be eaten.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/17/11/107938323-0-image-m-34_1776422104066.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/17/11/107938323-0-image-m-34_1776422104066.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T08:43:25.772254",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "London Underground users face misery next week as drivers announce two 24-hour strikes over TFL plans for new four-day working week",
+      "link": "https://www.dailymail.co.uk/news/article-15744247/London-Underground-drivers-announce-two-24-hour-strikes-TFL-plans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T08:18:14",
+      "description": "The Rail, Maritime and Transport union (RMT) confirmed today that its members will walk out from midday for 24 hours on Tuesday 21st and Thursday 23rd April.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/09/107985387-0-image-m-19_1776499484877.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/09/107985387-0-image-m-19_1776499484877.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T08:43:25.772256",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Accused war criminal Ben Roberts-Smith is spotted on the Gold Coast after being granted bail in a Sydney court - as his support network assembles",
       "link": "https://www.dailymail.co.uk/news/article-15744179/Ben-Roberts-Smith-bail-Gold-Coast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12443,62 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-15T10:42:07.306618",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Lesbian Action Group can now EXCLUDE transgender women from its events after dramatic court ruling",
-      "link": "https://www.dailymail.co.uk/news/article-15734673/Lesbian-action-group-transgender.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:14:23",
-      "description": "A lesbian rights group won its appeal regarding the Sex Discrimination Act in the Federal Court on Wednesday.",
-      "thumbnail": "https://i.dailymail.co.uk/1/2026/04/15/10/107908631-0-image-m-32_1776244222896.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1/2026/04/15/10/107908631-0-image-m-32_1776244222896.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306619",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Former Notts police chief criticised for taking new serious cases review job after stabbing scandal turns it down following backlash from victims' families",
-      "link": "https://www.dailymail.co.uk/news/article-15735099/Former-Notts-police-chief-criticised-taking-new-cases-review-job-stabbing-scandal-turns-following-backlash-victims-families.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:14:21",
-      "description": "The victims' families said 'common sense has prevailed' after it emerged Kate Meynell would no longer be taking the new job as the head of a regional review unit.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/10/107403829-0-Former_Nottinghamshire_Police_Chief_Constable_Kate_Meynell_pictu-a-6_1776246936500.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/10/107403829-0-Former_Nottinghamshire_Police_Chief_Constable_Kate_Meynell_pictu-a-6_1776246936500.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306621",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "A community in fear. A distraught wife's grief. The most horrific death imaginable: How vicious 'Merino Mafia' sheep war is tearing country Victoria apart",
-      "link": "https://www.dailymail.co.uk/news/article-15734151/ouyen-farmer-murder-sheep-theft-middle-eastern-gang.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:11:21",
-      "description": "Victorian farmers are terrified a Middle Eastern crime gang have resorted to murdering sheep grazers to maintain their illicit trade.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/03/107902325-0-image-a-117_1776221158794.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/03/107902325-0-image-a-117_1776221158794.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306622",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Diversity chief at school that blocked Jewish MP's visit is sacked after she said Hamas terrorists who massacred Israelis on October 7 massacre were 'heroes fighting for justice'",
-      "link": "https://www.dailymail.co.uk/news/article-15734929/Diversity-chief-school-Jewish-MP-sacked-Hamas-terrorists-Israelis-October.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T09:53:02",
-      "description": "Saima\u00a0Akhtar was the diversity and inclusion coordinator at Cabot Learning Federation (CLF), a multi-academy trust which runs Bristol Brunel Academy.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/10/107909129-0-image-m-12_1776246635515.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/10/107909129-0-image-m-12_1776246635515.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306623",
       "feed_category": "News",
       "feed_visibility": "both"
     }
@@ -21141,6 +21141,20 @@
   ],
   "Tucker Carlson": [],
   "Music News": [
+    {
+      "title": "Madonna's surprise Coachella performance",
+      "link": "https://www.music-news.com/news/UK/188411/Madonna-s-surprise-Coachella-performance",
+      "pubDate": "2026-04-18T07:00:00",
+      "description": "Madonna thrilled the crowd at Coachella weekend two with a surprise performance during Sabrina Carpenter's set.",
+      "thumbnail": "https://www.music-news.com/images/news/bang/188411.jpg",
+      "enclosure": {
+        "link": "https://www.music-news.com/images/news/bang/188411.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T08:43:32.710217",
+      "feed_category": "Music",
+      "feed_visibility": "both"
+    },
     {
       "title": "The Verve set for reunion?",
       "link": "https://www.music-news.com/news/UK/188412/The-Verve-set-for-reunion",
