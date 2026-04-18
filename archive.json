@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Otter mayhem after 'challenging beast' sneaks into garden centre",
+      "link": "https://www.bbc.com/news/articles/c30ry3y9g92o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T08:28:20",
+      "description": "A fishing net had to be used to capture the \"challenging beast\" in a south of Scotland store.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/561b/live/ba475490-3a69-11f1-88e7-17b97289f7a3.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T10:36:56.064273",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
       "link": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-18T08:52:48",
@@ -5488,20 +5499,37 @@
       "archived_at": "2026-04-11T23:30:03.991433",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Balamory is back - Miss Hoolie and PC Plum lift the lid on what to expect",
-      "link": "https://www.bbc.com/news/articles/cjenek89l97o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T23:15:54",
-      "description": "The cast of the Balamory reboot coming soon to our screens say it's a 'love letter to the original' children's TV hit.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c294/live/d10662d0-340a-11f1-8606-05fe34b06e1b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T23:30:03.991438",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Meghan tells \u00a31,700-a-head superfans 'I've spent all my life investing in women, can I finally invest in me?' on money-spinning Australia trip",
+      "link": "https://www.dailymail.co.uk/news/article-15744331/Meghan-superfans-investing-women-finally-invest-me.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T10:33:23",
+      "description": "Meghan Markle was speaking to a private audience at\u00a0Her Best Life retreat on Friday as her four-day trip to Australia with Prince Harry came to an end.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/11/107986331-0-image-a-29_1776508052997.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/11/107986331-0-image-a-29_1776508052997.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T10:36:58.606913",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Arsonists attack Jewish building in London as Islamist group that launched drones at Israeli Embassy claims responsibility",
+      "link": "https://www.dailymail.co.uk/news/article-15744391/Arsonists-attack-Jewish-building-London-Islamist-group-launched-drones-Israeli-Embassy-claims-responsibility.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T10:32:15",
+      "description": "Police said a man was seen approaching a row of shops with a plastic bag containing what was later found to be three bottles containing fluid.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/11/107986441-0-image-a-13_1776507997284.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/11/107986441-0-image-a-13_1776507997284.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T10:36:58.606919",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "One dead and another critical after car mowed down a group of fans outside a popular Comic Con event in Melbourne",
       "link": "https://www.dailymail.co.uk/news/article-15744329/One-dead-critical-car-Comic-event-Melbourne.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12473,37 +12501,23 @@
       "archived_at": "2026-04-15T10:42:07.306609",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Summer holiday chaos as experts warn Mediterranean flights will suffer most from jet fuel crisis - while 15 major European airports hit with 'very bad' delays due to new EU border system",
-      "link": "https://www.dailymail.co.uk/news/article-15735127/Summer-holiday-chaos-experts-warn-Mediterranean-flights-suffer-jet-fuel-crisis-15-major-European-airports-hit-bad-delays-new-EU-border-system.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:34:54",
-      "description": "Jet fuel prices have surged since Iran began blocking the Strait of Hormuz on February 28 - choking a crucial supply route for around 20 per cent of the world's oil and liquefied natural gas.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/11/107857835-0-image-m-32_1776248960656.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/11/107857835-0-image-m-32_1776248960656.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306611",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Love Island star's \u00a31,000 Louis Vuitton bag 'stolen off her shoulder' during girls' day out in Lawless London",
-      "link": "https://www.dailymail.co.uk/news/article-15734997/love-island-stars-louis-vuitton-bag-stolen-london.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:33:39",
-      "description": "Lauren Wood (pictured), 27, was left in 'sheer panic' after her luxury Louis Vuitton bag disappeared from under her nose.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/10/107909327-0-image-m-14_1776245946053.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/10/107909327-0-image-m-14_1776245946053.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306612",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Former Arsenal favourite opens up on 'spotlight' Gunners stars are under - as he reveals Arsene Wenger warning after attending house party three days before a game",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15744235/Former-Arsenal-star-spotlight-Gunners-Arsene-Wenger-warning-attending-house-party.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T10:23:18",
+      "description": "His former side are currently bidding to secure the Premier League title for the first time in 22 years, with the club six points clear of Man City heading into a crunch clash on Sunday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/11/107986261-0-image-a-2_1776506611403.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/11/107986261-0-image-a-2_1776506611403.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T10:36:59.943827",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Former Arsenal and Chelsea star accuses Kylian Mbappe of 'filling Real Madrid's dressing room with selfishness' after club's Champions League exit - and insists he and one other player are 'to blame' for bad run",
       "link": "https://www.dailymail.co.uk/sport/football/article-15744233/emmanuel-petit-accuses-kylian-mbappe-selfishness-real-madrid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19487,20 +19501,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-03-31T19:33:34.721212",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Landon Donovan slams 'brutal' USA struggles ahead of home World Cup... and reveals how he 'fell in love' with little-known English team",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15692805/Landon-Donovan-slams-brutal-USA-struggles-ahead-home-World-Cup-reveals-fell-love-little-known-English-team.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T14:10:34",
-      "description": "Former United States men's national team (USMNT) striker Landon Donovan had just a single word to describe his country's performance against Belgium in Atlanta over the weekend: 'Brutal.'",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/23/107538469-0-image-a-37_1774910486375.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/23/107538469-0-image-a-37_1774910486375.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721213",
       "feed_category": "Sport",
       "feed_visibility": "both"
     }
