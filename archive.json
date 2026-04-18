@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "British man pleads guilty to conspiring to steal $8m in virtual currency",
+      "link": "https://www.bbc.com/news/articles/c145yxjrllko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T03:37:04",
+      "description": "The Scottish 24-year-old admits defrauding at least a dozen companies and their employees across the US.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84d9/live/7171e250-3ad5-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T04:43:59.165294",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Have the Democrats found a new strategy to scare Trump?",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T10:55:00",
+      "description": "Why an oyster fisherman with a controversial past is splitting the Democrats",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T04:43:59.165300",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%",
       "link": "https://www.bbc.com/news/articles/c4g84nxwz8wo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-17T23:35:23",
@@ -5477,31 +5499,135 @@
       "archived_at": "2026-04-11T20:28:59.247817",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Scotland celebrate hard-fought victory over Wales",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/c9vlxj83dnwo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T18:09:53",
-      "description": "Scotland begin a new era under Sione Fukofuka with a 24-19 victory over Wales in Cardiff in the opening round of the Women's Six Nations.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3914/live/8470c6e0-35cc-11f1-aa65-43b95e4e356e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T19:34:56.042850",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'The older I get, the more I enjoy it' - Mullins etches name in Aintree folklore",
-      "link": "https://www.bbc.com/sport/horse-racing/articles/cj40llvykz2o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T18:28:55",
-      "description": "It is a Grand National to savour for Irish trainer Willie Mullins as he celebrates his third consecutive victory in the race at Aintree - equalling the record set by legendary trainer Vincent O'Brien.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d404/live/6bc16400-35cd-11f1-aa65-43b95e4e356e.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T18:56:29.291585",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Gas price hope in sight as sanction exemptions on Russian oil are extended for a month in sudden reversal... while Democrats slam 'shameful' decision",
+      "link": "https://www.dailymail.co.uk/news/article-15744051/gas-price-russian-oil-sanctions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T04:40:07",
+      "description": "The Treasury Department announced authorized the delivery and sale of Russian oil products on Friday. Several Democratic leaders called the decision 'shameful.'",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/04/107983929-0-image-m-21_1776483280571.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/04/107983929-0-image-m-21_1776483280571.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T04:44:01.482869",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Homeowner appalled by mystery man's disgusting act on his front lawn",
+      "link": "https://www.dailymail.co.uk/news/article-15743819/Berwick-Springs-man-defecates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T04:29:37",
+      "description": "The gross act in a Melbourne front yard was caught on CCTV.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/02/107983015-0-image-m-58_1776475234246.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/02/107983015-0-image-m-58_1776475234246.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T04:44:01.482875",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "UPS cargo plane has near miss at airport where one of firm's jets crashed in fireball last year and killed 14",
+      "link": "https://www.dailymail.co.uk/news/article-15743461/UPS-cargo-plane-near-miss-airport-one-firms-jets-crashed-fireball-year-killed-14.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T04:24:32",
+      "description": "A UPS cargo plane was forced to abort its landing in Louisville after a small aircraft crossed the runway. Air traffic control ordered a last-second go-around, narrowly avoiding a potential disaster.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/00/107982037-0-image-m-13_1776468827925.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/00/107982037-0-image-m-13_1776468827925.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T04:44:01.482877",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Trump reveals 'maybe he WON'T extend ceasefire with Iran' as it's set to expire in just days: 'Start dropping bombs again'",
+      "link": "https://www.dailymail.co.uk/news/article-15744067/trump-reveals-WONT-extend-ceasefire-Iran-expire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T04:07:27",
+      "description": "President Donald Trump hints at not extending the ceasefire with Iran, and threatens dropping MORE bombs instead.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/04/107983927-0-image-a-79_1776483090876.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/04/107983927-0-image-a-79_1776483090876.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T04:44:01.482879",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Screams and sobs as packed passenger plane was stuck for HOURS on runway after fog shuttered its original destination",
+      "link": "https://www.dailymail.co.uk/news/article-15741993/westjet-flight-plane-stuck-hours-fog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T03:53:23",
+      "description": "Passengers chanted 'let us off,' and children cried as airport staff waited for customs personnel to arrive due to a fog detour.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/03/107981881-0-image-m-10_1776480765956.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/03/107981881-0-image-m-10_1776480765956.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T04:44:01.482881",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Muslim student filmed screaming as she was detained by ICE issues scathing blast against the US as she returns to her native Turkey",
+      "link": "https://www.dailymail.co.uk/news/article-15743451/rumeysa-ozturk-returns-turkey-ICE-blasts-US.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T03:52:23",
+      "description": "Rumeysa Ozturk, who spent 45 days in ICE custody last year, announced that she returned to Turkey, saying she was subjected to 'state-imposed violence' in the United States.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/03/107980451-0-image-m-16_1776479205511.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/03/107980451-0-image-m-16_1776479205511.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T04:44:01.482882",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Republican 'fighter' who served in Congress for six terms and made history with political comeback dies aged 79",
+      "link": "https://www.dailymail.co.uk/news/article-15743829/republican-david-mckinley-congressman-dies-west-virginia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T03:51:30",
+      "description": "He died peacefully at his home in Wheeling after spending decades serving his state.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/03/107983359-0-image-m-70_1776478549077.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/03/107983359-0-image-m-70_1776478549077.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T04:44:01.482883",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Anthony Albanese warns reopening of the Strait of Hormuz is 'fragile' with 46 days of fuel to spare",
+      "link": "https://www.dailymail.co.uk/news/article-15744019/Albanese-Hormuz-Strait-fuel-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T02:56:53",
+      "description": "'We want to see this hold,' Anthony Albanese told reporters as he acknowledged the 'fragile' reopening of the Strait of Hormuz on Saturday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/03/107983599-0-image-m-89_1776480244426.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/03/107983599-0-image-m-89_1776480244426.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T04:44:01.482885",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Dire warning for Aussie homeowners if Iran war continues to drags on",
+      "link": "https://www.dailymail.co.uk/news/article-15743989/Australia-mortgage-rate-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T02:46:53",
+      "description": "Mortgage holders could be hit by five more interest rate hikes by Christmas, experts have warned.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/03/107983509-0-image-a-69_1776478960926.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/03/107983509-0-image-a-69_1776478960926.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T04:44:01.482886",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Ilhan Omar gives astonishing excuse while saying she's not a multimillionaire despite claiming up to $30m in assets... as Trump pushes 'fraud' investigation",
       "link": "https://www.dailymail.co.uk/news/article-15743895/Ilhan-Omar-excuse-multimillionare-fraud-investigation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12373,132 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-15T09:22:21.647886",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump declares war is 'close to over' and wants 'grand bargain' in Iran talks as US claims\u00a0blockade on Strait of Hormuz 'fully implemented' - Updates",
-      "link": "https://www.dailymail.co.uk/news/article-15734711/Trump-declares-war-close-wants-grand-bargain-Iran-talks-US-claims-blockade-Strait-Hormuz-fully-implemented-Updates.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T07:52:33",
-      "description": "Read the Daily Mail's coverage of the ongoing Middle East crisis as Donald Trump declares the war is 'close to over' and his blockade of the Strait of Hormuz is 'fully implemented'.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/08/107906847-0-image-a-4_1776237441281.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/08/107906847-0-image-a-4_1776237441281.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T07:57:19.608736",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump threatens to downgrade Britain's trade deal in retaliation for Starmer's refusal to back Iran War",
-      "link": "https://www.dailymail.co.uk/news/article-15734719/Trump-Starmer-downgrade-Britain-trade-deal-PM-drug-dealers-mental-patients.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T07:51:17",
-      "description": "Donald Trump has vented fury at the PM for refusing to back his Iran War in his latest impromptu interview.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/07/107906459-0-image-m-5_1776236142554.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/07/107906459-0-image-m-5_1776236142554.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T07:57:19.608742",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump lashes out at the Pope again for his Iran war views, saying it is 'unacceptable' for Tehran to have a nuclear bomb and pointing out the regime 'has killed 42,000 innocent protesters'",
-      "link": "https://www.dailymail.co.uk/news/article-15734615/Trump-lashes-Pope-Iran-war-views-saying-unacceptable-Tehran-nuclear-bomb-pointing-regime-killed-42-000-innocent-protesters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T07:04:51",
-      "description": "It comes amid a growing row between Trump and the head of the Catholic Church, who has in recent weeks condemned rhetoric coming out of the White House.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/07/107880157-0-image-a-10_1776236305619.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/07/107880157-0-image-a-10_1776236305619.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T07:57:19.608744",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Camp Mystic chief sobs as he admits he doesn't know what happened to girl, 8... but 900 kids already registered for reopening",
-      "link": "https://www.dailymail.co.uk/news/article-15734203/Camp-Mystic-director-sobs-court-reopening.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T06:49:23",
-      "description": "Edward Eastland, the director of Camp Mystic, broke down in court on Monday as he admitted he does not know what happened to one young girl in last year's massive flooding.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/07/107904999-0-image-a-80_1776233223455.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/07/107904999-0-image-a-80_1776233223455.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T07:57:19.608746",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Brisbane car repair business Panel House sparks outrage after sharing video mocking the Holocaust",
-      "link": "https://www.dailymail.co.uk/news/article-15734257/panel-house-slacks-creek-antisemitic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T06:48:00",
-      "description": "A\u00a0panel beating business has sparked outrage after it shared videos promoting Holocaust denial, Nazi symbols, and open antisemitism",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/06/107905003-0-image-m-41_1776231329975.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/06/107905003-0-image-m-41_1776231329975.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T07:57:19.608747",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussies divided over Pauline Hanson's bold call to overhaul home ownership laws: 'Common sense'",
-      "link": "https://www.dailymail.co.uk/news/article-15734407/Pauline-Hanson-home-ownership-foreigners-homes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T06:46:20",
-      "description": "Aussies have largely sided with Pauline Hanson after she made a controversial call about who should be able to own a home in Australia.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/06/107904801-0-image-m-97_1776230639117.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/06/107904801-0-image-m-97_1776230639117.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T07:57:19.608748",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Top cop breaks ranks to slam bail laws for youth offenders in his own state in candid chat with ex-criminal",
-      "link": "https://www.dailymail.co.uk/news/article-15734351/Top-cop-slams-bail-laws-Victoria.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T06:35:04",
-      "description": "Victoria Police Chief Commissioner Mike Bush didn't hold back when speaking on the youth crime podcast Lead Good.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/07/107904211-0-image-m-7_1776234691980.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/07/107904211-0-image-m-7_1776234691980.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T07:57:19.608750",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Prince Harry admits his 'struggles' of being a father and his 'disconnection' to son Archie as he opens up on parenting at talk on men's mental health on second day of quasi royal tour of Australia",
-      "link": "https://www.dailymail.co.uk/news/article-15734517/Prince-Harry-tells-struggle-son-Archie-born.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T05:57:06",
-      "description": "The Duke of Sussex spoke candidly at a Movember mental health event at the Whitten Oval, home of AFL club the Western Oval, in Melbourne .",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/06/107904751-0-image-m-11_1776229922764.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/06/107904751-0-image-m-11_1776229922764.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T05:58:31.546775",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Trump says blockade of Iranian ports 'fully implemented' amid tense showdown",
-      "link": "https://www.dailymail.co.uk/news/article-15734555/Trump-says-blockade-Iranian-ports-fully-implemented-amid-tense-showdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T05:51:56",
-      "description": "At least two tankers approaching the strait Monday turned around soon after the US.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/06/107905211-0-image-m-2_1776231747810.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/06/107905211-0-image-m-2_1776231747810.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T05:58:31.546781",
       "feed_category": "News",
       "feed_visibility": "both"
     }
@@ -25287,6 +25287,17 @@
     }
   ],
   "Crev": [
+    {
+      "title": "Chimpanzee Violence Is Not Human War",
+      "link": "https://crev.info/2026/04/jw-chimpanzee-violence-is-not-human-war/?utm_source=rss&utm_medium=rss&utm_campaign=jw-chimpanzee-violence-is-not-human-war",
+      "pubDate": "2026-04-17T15:57:35",
+      "description": "Humans may descend to animal-like behavior. But animals do not \u201cascend\u201d to human war.",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-18T04:44:08.992175",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Chimpanzee Violence Is Not Human War",
       "link": "https://crev.info/2026/04/chimpanzee-violence-is-not-human-war/?utm_source=rss&utm_medium=rss&utm_campaign=chimpanzee-violence-is-not-human-war",
