@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T16:44:39",
+      "description": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa10/live/0a6cce30-3b3e-11f1-8606-05fe34b06e1b.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T17:33:59.313865",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Have the Democrats found a new strategy to scare Trump?",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-17T10:55:00",
+      "description": "Why an oyster fisherman with a controversial past is splitting the Democrats",
+      "thumbnail": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T17:33:59.313871",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "At least five killed in Kyiv as gunman opens fire and takes hostages",
       "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-18T16:08:42",
@@ -5477,31 +5499,121 @@
       "archived_at": "2026-04-12T08:10:54.981295",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "The construction boss who built a new life after three years in prison",
-      "link": "https://www.bbc.com/news/articles/ckge155rz10o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-08T23:04:10",
-      "description": "Traci Quinn, who was jailed for a drugs offence, has transformed herself and set up a successful firm.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a667/live/f8c2d1a0-2cc6-11f1-9585-1177e44a7ea1.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-12T08:10:54.981297",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Union Berlin appoint first female head coach",
-      "link": "https://www.bbc.com/sport/football/articles/cq59yvy6v0eo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-12T07:37:10",
-      "description": "Marie-Louise Eta becomes the first woman appointed to manage a men's team in one of Europe's top five leagues as she is named interim head coach of Bundesliga side Union Berlin.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95eb/live/661f3a20-3642-11f1-9e53-c1f9d2562c19.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-12T08:10:54.981300",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "The pong-tiff! Pope looks dismayed after shaking hands with boy scout and ending up covered in muck",
+      "link": "https://www.dailymail.co.uk/news/article-15735313/Pope-looks-dismayed-shaking-hands-boy-scout-ending-covered-muck.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-15T14:00:24",
+      "description": "The pontiff recoiled slightly after shaking hands with the boy, who had been planting an olive tree, leaving his hands smeared with dirt.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/107913365-0-image-a-9_1776261547120.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/107913365-0-image-a-9_1776261547120.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:00.630349",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Caitlyn Jenner begs Trump for help correcting the gender on her passport after trans policy change",
+      "link": "https://www.dailymail.co.uk/news/article-15744483/caitlyn-jenner-trump-passport-gender.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T17:31:14",
+      "description": "The 76-year-old former Olympian said her identification listed her sex as 'M' despite\u00a0 having all of her legal documents updated to reflect her transition.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/17/107989879-0-image-m-68_1776530560755.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/17/107989879-0-image-m-68_1776530560755.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:00.630358",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'Hypocrite' Flynn's \u00a314,000 US junket courtesy of Trump... despite call to cancel President's UK visit",
+      "link": "https://www.dailymail.co.uk/news/article-15744995/Hypocrite-Flynns-14-000-US-junket-courtesy-Trump-despite-call-cancel-Presidents-UK-visit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T17:27:57",
+      "description": "SNP Commons leader Stephen Flynn has been branded a 'hypocrite' after he enjoyed a \u00a314,000 junket paid for by Donald Trump's government, despite criticism of the President.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/17/107990383-0-image-a-18_1776531320719.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/17/107990383-0-image-a-18_1776531320719.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:00.630360",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "United Airlines flight diverts and passengers escape on emergency slides amid 'bomb threat' after pilots 'hear beeping device'",
+      "link": "https://www.dailymail.co.uk/news/article-15745001/United-Airlines-flight-makes-dramatic-diversion-bomb-threat-pilots-heard-beeping-device.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T17:25:15",
+      "description": "The New York City-bound plane was rerouted to Pittsburg International Airport on Saturday.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990683-0-image-a-1_1776532402411.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990683-0-image-a-1_1776532402411.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:00.630362",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Labour 'says working class don't care about dogs' claims new Green MP Hannah Spencer as she backs greyhound racing ban",
+      "link": "https://www.dailymail.co.uk/news/article-15744875/Labour-working-class-dogs-Green-Hannah-Spencer-greyhound-racing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T17:24:52",
+      "description": "Labour has been 'offensively caricaturing' the working class by suggesting they do not want to ban greyhound racing, Green Party\u00a0MP Hannah Spencer.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990469-0-image-a-8_1776532085972.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990469-0-image-a-8_1776532085972.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:00.630363",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "'I'm finally going to be free.' Wife of top pol told best friend divorce would get her away from abusive husband before he shot her dead her in murder suicide",
+      "link": "https://www.dailymail.co.uk/news/article-15744657/justin-fairfax-estranged-wife-shooting.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T17:12:59",
+      "description": "Cerina Fairfax believed she was days from being 'finally free,' her best friend Glennetta White told Daily Mail, saying she felt hopeful and unafraid despite her husband's past erratic behavior.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/16/107941257-0-image-m-19_1776526246348.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/16/107941257-0-image-m-19_1776526246348.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:00.630365",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "South African safari park owner who said he'd rather be killed by charging elephant than shoot one dead is killed by charging elephant",
+      "link": "https://www.dailymail.co.uk/news/article-15744765/South-African-safari-park-owner-killed-charging-elephant.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T17:11:54",
+      "description": "Gary Freeman, 65, was leading a group of tourists on a guided hike when an elephant attacked - he brandished his revolver to try to scare it off but did not pull the trigger.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990457-0-image-m-11_1776531961709.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990457-0-image-m-11_1776531961709.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:00.630366",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "All businesses face being targeted by hackers using AI tools doubling in power every four months, Technology Secretary warns",
+      "link": "https://www.dailymail.co.uk/news/article-15744937/businesses-targeted-hackers-AI-tools-Technology-Secretary-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T16:53:13",
+      "description": "Liz Kendall said UK businesses of all sizes and in any sector were under threat from cyber attacks, not just government agencies or high-profile companies.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/17/107990131-0-image-m-14_1776529864094.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/17/107990131-0-image-m-14_1776529864094.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:00.630368",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Suspect on the run after allegedly killing his eight months pregnant girlfriend and their unborn son",
       "link": "https://www.dailymail.co.uk/news/article-15744595/kevin-faux-suspect-ashanti-allen-death-pregnant-houston.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12389,121 +12501,65 @@
       "archived_at": "2026-04-15T14:53:07.566193",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Massive fire breaks out at one of only two oil refineries in Australia",
-      "link": "https://www.dailymail.co.uk/news/article-15735917/Victoria-Corio-oil-refinery.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:38:37",
-      "description": "The facility supplies 50 per cent of Victoria's fuel.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107916005-0-image-a-83_1776263010269.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107916005-0-image-a-83_1776263010269.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566200",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Comical AI: Israel suggests Iranian military spokesman who mocks Trump is actually a computer-generated FAKE",
-      "link": "https://www.dailymail.co.uk/news/article-15735691/Comical-AI-Israel-suggests-Iranian-military-spokesman-mocks-Trump-actually-computer-generated-FAKE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:37:56",
-      "description": "Zolfaghari gained notoriety for his mocking of the US, likening him to 'Comical Ali' - the infamously inaccurate Iraqi Minister of Information.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107915609-0-image-a-7_1776262807599.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107915609-0-image-a-7_1776262807599.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566201",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "The mystery of WHO is bankrolling Ben Roberts-Smith's legal defence is solved... and the answer is truly surprising",
-      "link": "https://www.dailymail.co.uk/news/article-15734485/The-mystery-bankrolling-Ben-Roberts-Smiths-legal-defence-solved-answer-truly-surprising.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:34:32",
-      "description": "Gina Rinehart has long been a fierce supporter of Roberts-Smith and rumours have swirled that Australia's richest person would fund the accused war criminal's biggest legal fight.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907119-0-image-m-14_1776240248774.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/09/107907119-0-image-m-14_1776240248774.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566202",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Woke Chicago lawmakers vote to name playground after armed gunman killed by police in 'justified' shooting",
-      "link": "https://www.dailymail.co.uk/news/article-15735331/chicago-playground-gunman-killed-police-shooting-justified.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:33:32",
-      "description": "Prosecutors said that Johnson ignored orders to drop a gun, knocked an officer to the ground while refusing to be taken into custody and fled the scene.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107913403-0-image-a-11_1776262771621.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107913403-0-image-a-11_1776262771621.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566204",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Seven adorable kittens are found living on top shelf of Lowe's store after their moms tried to find safe place to give birth to them",
-      "link": "https://www.dailymail.co.uk/news/article-15735399/kittens-living-Lowes-pennsylvania-rescue.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:18:39",
-      "description": "Two litters of kittens were discovered in cardboard boxes on the top shelf of the Pennsylvania hardware store. It took a forklift to bring them to safety.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/107913275-0-image-m-25_1776260023082.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/107913275-0-image-m-25_1776260023082.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566205",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Midwest veterinarian, 36, her husband, 37, and their one-year-old son are all killed after semi slammed into their car during traffic jam",
-      "link": "https://www.dailymail.co.uk/news/article-15735409/veterinarian-family-killed-ohio-semitruck-crash.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:14:42",
-      "description": "Lynnea Soposki, her husband Luke, and their baby Logan died on Saturday in a nine-car crash on Saturday while in their 2016 Chevy Silverado.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/107914641-0-image-a-1_1776260290500.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/107914641-0-image-a-1_1776260290500.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566207",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Now top Welsh nationalist MP demands horseracing is BANNED after Greens' Polanski calls for sport enjoyed by millions to be outlawed",
-      "link": "https://www.dailymail.co.uk/news/article-15732935/Welsh-nationalist-MP-demands-horseracing-BANNED-Greens-Polanski.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:07:07",
-      "description": "Liz Saville Roberts, Plaid Cymru's leader in Westminster, suggested Britain should follow the example of Australian states that have banned jump racing.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/11/107890233-0-image-a-6_1776248091752.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/11/107890233-0-image-a-6_1776248091752.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566209",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Male passenger, 29, and boy companion, 15, accused of throwing a tantrum causing packed plane to turnaround - then it got really weird",
-      "link": "https://www.dailymail.co.uk/news/article-15735641/Melbourne-Airport-arrest-boarding-pass.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:06:11",
-      "description": "When federal police checked their boarding passes they realised something was off.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/15/107914631-0-image-m-75_1776261848522.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/15/107914631-0-image-m-75_1776261848522.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566210",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Leeds have unearthed their biggest star since Raphinha and gave Chelsea reasons to be fearful in FA Cup showdown after dispatching Wolves, writes JAMES SHARPE",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742075/Leeds-Wolves-Premier-League-Raphinha-Noah-Okafor-Chelsea.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T17:28:46",
+      "description": "JAMES SHARPE AT ELLAND ROAD: By the time Dominic Calvert-Lewin tucked away his stoppage-time penalty, Leeds United were playing with swagger.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/17/107990193-0-image-a-23_1776531093661.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/17/107990193-0-image-a-23_1776531093661.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:02.999938",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bizarre moment YouTube star sets FIRE to yellow card in Sidemen charity match at Wembley - after being booked by ex-Premier League referee",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15744943/Max-FOsh-Sidemen-fire-yellow-card.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T17:26:12",
+      "description": "Footballers will often protest when booked by referees - but how often do you see a player set their yellow card on FIRE?",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990675-0-image-a-11_1776532697035.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/18/107990675-0-image-a-11_1776532697035.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:02.999944",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Newcastle's season could yet get worse before the relief of summer, writes CRAIG HOPE, with Eddie Howe's side barely resembling a team at all in defeat to Bournemouth",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15742081/Newcastle-season-worse-relief-summer-CRAIG-HOPE-Eddie-Howe-defeat-Bournemouth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T17:25:10",
+      "description": "CRAIG HOPE: Their season could yet get worse before the relief of summer, because it sure does not look like getting any better. Right now, they are a team who have forgotten how to win.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/17/107990343-0-image-a-82_1776531094495.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/17/107990343-0-image-a-82_1776531094495.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:02.999946",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Dunfermline 0-0 Falkirk (AET; Dunfermline win 4-2 on penalties): Pars get the better of Bairns to reach Scottish Cup final",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15744897/Dunfermline-0-0-Falkirk-AET-Dunfermline-win-4-2-penalties-Pars-better-Bairns-reach-Scottish-Cup-final.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T17:23:46",
+      "description": "Given the similarities between these two clubs, both in terms of stature and fanbase, nobody could ever describe this as some kind of seismic upset to rival David and Goliath.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/18/107991021-0-image-a-59_1776533011785.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/18/107991021-0-image-a-59_1776533011785.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T17:34:02.999947",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Leicester star who earns \u00a390K-a-week involved in X-rated confrontation with furious fans as Foxes sit on the brink of BACK-TO-BACK relegations to League One - 10 years on from Premier League title",
       "link": "https://www.dailymail.co.uk/sport/football/article-15744775/Leicester-star-X-rated-confrontation-furious-fans-brink-relegation-League-One.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19445,62 +19501,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-03-31T19:33:34.721197",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'You feel discouraged. I wouldn't have made this decision': Chelsea star Marc Cucurella attacks club's owners for their youth policy, sacking Enzo Maresca - and his team-mates for PSG head loss",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15694035/You-feel-discouraged-wouldnt-decision-Chelsea-star-Marc-Cucurella-attacks-clubs-owners-youth-policy-sacking-Enzo-Maresca-team-mates-PSG-head-loss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:05:56",
-      "description": "Cucurella, 27, has become a key player for the Blues since joining from Brighton in 2022, and the left back has featured regularly in recent months amid a difficult spell for Liam Rosenior's side.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/16/107557171-0-image-a-9_1774969330332.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/16/107557171-0-image-a-9_1774969330332.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721198",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Former \u00a336m Man United star Anthony Martial hits new low as he is BANISHED by his latest club over touchline tantrum - and scoring just once in 21 matches",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15694041/Former-36m-Man-United-star-Anthony-Martial-hits-new-low-BANISHED.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T15:05:03",
-      "description": "Former Manchester United forward Anthony Martial has been banished by his club Monterrey after throwing a touchline tantrum in Mexico, according to reports.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/11/107550347-0-image-a-12_1774954265029.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/11/107550347-0-image-a-12_1774954265029.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721199",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Napoli consider disciplinary action after former Man United star goes AWOL by failing to turn up for training",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15694679/Napoli-consider-disciplinary-action-former-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T14:31:35",
-      "description": "The player has reportedly not to returned to training with the club after pulling out of Belgium duty due to poor fitness. Furious, Napoli released a statement on Tuesday.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/15/107556143-0-image-a-52_1774967379753.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/15/107556143-0-image-a-52_1774967379753.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721200",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Eddie Howe's Newcastle future in doubt ahead of turbulent summer - and club could sell Sandro Tonali or Anthony Gordon to raise funds if they don't make Champions League",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15693657/eddie-howe-newcastle-future-doubt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T10:22:12",
-      "description": "CRAIG HOPE: Eddie Howe's long-term future at Newcastle is in doubt as the club enters a period of uncertainty on and off the pitch.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/07/107544609-0-image-a-16_1774938192861.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/07/107544609-0-image-a-16_1774938192861.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721201",
       "feed_category": "Sport",
       "feed_visibility": "both"
     }
