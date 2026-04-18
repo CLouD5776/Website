@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "At least five killed in Kyiv as gunman opens fire and takes hostages",
+      "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T16:08:42",
+      "description": "The country's interior minister says the attacker has been killed after a shoot-out with police.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b94/live/bfc8dcf0-3b3a-11f1-97f2-b74de1623710.png",
+      "enclosure": null,
+      "archived_at": "2026-04-18T16:35:32.507327",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Starmer accused of 'skulking' and shunning Sarwar in Scotland",
+      "link": "https://www.bbc.com/news/articles/ckgr54407wxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T15:46:43",
+      "description": "It is the first time the prime minister has been north of the border since the Scottish Labour leader Anas Sarwar called for him to step down in February.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d984/live/f73f08b0-3b28-11f1-9d5c-8ba507d7dbde.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T16:35:32.507338",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "French peacekeeper killed in southern Lebanon",
       "link": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-18T14:53:17",
@@ -5477,31 +5499,79 @@
       "archived_at": "2026-04-12T08:10:54.981300",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "The decade-long struggle to get AJ & Fury together",
-      "link": "https://www.bbc.com/sport/boxing/articles/c3dlm3pgjn1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-12T06:45:26",
-      "description": "Tyson Fury and Anthony Joshua shared a moment on Saturday, but getting the British heavyweights together this year may not be as straightforward as many suspected.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f5c/live/98eefd30-360d-11f1-b068-bbb6f8a6fe5b.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-12T07:09:41.018538",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Ulberg stuns Prochazka despite knee injury as Trump watches",
-      "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/c87wrv92392o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-12T06:21:45",
-      "description": "Carlos Ulberg shocks Jiri Prochazka in the first round to win the vacant light-heavyweight title at UFC 327 in Miami, Florida, despite injuring his knee.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1afe/live/1d511f80-362d-11f1-85b7-0b0da335d370.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-12T07:09:41.018545",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Suspect on the run after allegedly killing his eight months pregnant girlfriend and their unborn son",
+      "link": "https://www.dailymail.co.uk/news/article-15744595/kevin-faux-suspect-ashanti-allen-death-pregnant-houston.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T16:31:48",
+      "description": "Concerned relatives went over to check on Ashanti Allen after not hearing from her for a while and discovered her house empty with her hospital baby bag packed by the door.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/16/107989163-0-image-m-102_1776525294515.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/16/107989163-0-image-m-102_1776525294515.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T16:35:35.978063",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "French soldier is killed in Lebanon as Macron blames Hezbollah for ambush that also wounded three other troops",
+      "link": "https://www.dailymail.co.uk/news/article-15744755/French-soldier-killed-Lebanon-Macron-blames-Hezbollah.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T15:45:12",
+      "description": "The French soldier suffered a 'direct gunshot' wound after the patrol came under 'small-arms fire' on Saturday morning, with three others injured in the attack.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/16/107989387-0-image-m-39_1776525964548.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/16/107989387-0-image-m-39_1776525964548.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T16:35:35.978083",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Bully probe cop back at work after legal threat",
+      "link": "https://www.dailymail.co.uk/news/article-15744507/Bully-probe-cop-work-legal-threat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T15:44:20",
+      "description": "A senior officer who was suspended from Police Scotland over bullying claims threatened to take her bosses to court in a bid to be allowed to work again.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/14/107987719-0-image-a-31_1776517873454.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/14/107987719-0-image-a-31_1776517873454.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T16:35:35.978084",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Nigel Farage vows Reform will hammer Labour in 'electoral earthquake' at local elections saying Keir Starmer's party is 'dying'",
+      "link": "https://www.dailymail.co.uk/news/article-15744787/Nigel-Farage-Reform-hammer-Labour-electoral-earthquake-local-elections-Keir-Starmers-party-dying.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T15:43:39",
+      "description": "The Reform UK leader says his party will take even more seats in Labour's heartland territory than Boris Johnson famously did in 2019.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/16/107989491-0-image-m-83_1776526893811.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/16/107989491-0-image-m-83_1776526893811.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T16:35:35.978086",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Mia McKenna-Bruce says she finds it hard 'to be sexy' as she prepares to play Ringo Starr's wife in new Beatles biopic",
+      "link": "https://www.dailymail.co.uk/news/article-15742327/Mia-McKenna-Bruce-says-finds-hard-sexy-prepares-play-Ringo-Starrs-wife-new-Beatles-biopic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T15:43:36",
+      "description": "Her career is in the ascendancy thanks to her high-profile roles playing an Agatha Christie sleuth, a murderer linked to the Royals and the wife of a Beatle.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/11/107986605-0-image-a-13_1776509602137.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/11/107986605-0-image-a-13_1776509602137.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T16:35:35.978087",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Grim update in search for missing mother last seen picking mushrooms with a 'strange man'",
       "link": "https://www.dailymail.co.uk/news/article-15744425/missing-mother-hailey-athay-washington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12431,79 +12501,23 @@
       "archived_at": "2026-04-15T14:53:07.566210",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "The pong-tiff! Pope looks dismayed after shaking hands with boy scout and ending up covered in muck",
-      "link": "https://www.dailymail.co.uk/news/article-15735313/Pope-looks-dismayed-shaking-hands-boy-scout-ending-covered-muck.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T14:00:24",
-      "description": "The pontiff recoiled slightly after shaking hands with the boy, who had been planting an olive tree, leaving his hands smeared with dirt.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/107913365-0-image-a-9_1776261547120.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/107913365-0-image-a-9_1776261547120.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566211",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "'Violent' pro-Palestine activist wrote he wanted to 'establish Islamic State in Britain', court hears",
-      "link": "https://www.dailymail.co.uk/news/article-15735493/pro-Palestine-supporter-wrote-wanted-Islamic-State-Britain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T13:59:35",
-      "description": "Feras Al-Jayoosi, 38, is on trial at Winchester Crown Court this week accused of three counts of terrorism relating to posts on X, then known as Twitter, in July 2022.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/107913685-0-image-a-43_1776258735044.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/107913685-0-image-a-43_1776258735044.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566212",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Aussie found dead in Bali hotel after a friend called staff to check his room when he didn't reply to calls",
-      "link": "https://www.dailymail.co.uk/news/article-15735057/Australian-Bali-Sanur-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T13:56:38",
-      "description": "An Australian man was found unresponsive in his hotel bed on the holiday island on Tuesday night.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/107914897-0-image-m-61_1776261290488.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/107914897-0-image-m-61_1776261290488.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566213",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Elderly woman discovered in her chest freezer after GP requested police carry out a welfare check, inquest hears",
-      "link": "https://www.dailymail.co.uk/news/article-15735315/Elderly-woman-discovered-chest-freezer-GP-requested-police-carry-welfare-check-inquest-hears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T13:50:00",
-      "description": "Retired company secretary Sylvia Phillips - who died in her 80s - was discovered by police after they attended a welfare check at her seaside property.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/107912083-0-image-m-16_1776259265161.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/107912083-0-image-m-16_1776259265161.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566215",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Met officers are charged after pregnant woman and her unborn baby were killed by 80mph unmarked police car a week before she was due to give birth",
-      "link": "https://www.dailymail.co.uk/news/article-15735707/Met-officers-charged-pregnant-woman-baby-killed-80mph-police-car.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T13:43:46",
-      "description": "Mariam Ahmed, 38, died after the police Volvo ploughed into her car on the A20 in Eltham, southeast London on October 17, 2024.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/91015821-0-image-m-37_1776260087055.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/91015821-0-image-m-37_1776260087055.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566216",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Leicester star who earns \u00a390K-a-week involved in X-rated confrontation with furious fans as Foxes sit on the brink of BACK-TO-BACK relegations to League One - 10 years on from Premier League title",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15744775/Leicester-star-X-rated-confrontation-furious-fans-brink-relegation-League-One.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T16:27:17",
+      "description": "With the Foxes only having nine points to play for, the club appear destined for back-to-back relegations after dropping out of the top flight last season.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/16/107989029-0-image-a-53_1776526911934.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/16/107989029-0-image-a-53_1776526911934.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T16:35:37.282981",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Sidemen star Tobi Brown scores INSANE free-kick in annual charity match against YouTube Allstars - as MILLIONS watch Wembley live stream",
       "link": "https://www.dailymail.co.uk/sport/football/article-15744719/Sidemen-Tobi-Brown-free-kick-Youtube-Allstars-Wembley.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19487,20 +19501,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-03-31T19:33:34.721201",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Myles Lewis-Skelly needs to take a step back to move forward - but here's how he's going the right way about getting his career back on track, writes NATHAN SALT",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15691669/Myles-Lewis-Skelly-England-NATHAN-SALT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T10:13:20",
-      "description": "NATHAN SALT: Progress and success are not always linear. Lewis-Skelly has had to take a step backwards at both Arsenal and with England. His mental toughness has been put to the test.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/16/107530229-0-image-a-10_1774884260818.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/16/107530229-0-image-a-10_1774884260818.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721202",
       "feed_category": "Sport",
       "feed_visibility": "both"
     }
