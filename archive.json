@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "French peacekeeper killed in southern Lebanon",
+      "link": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T14:53:17",
+      "description": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c4/live/2d66f5a0-3b2f-11f1-879d-1b2f5c3919b8.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T15:34:21.963774",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "England score 12 tries in huge win over Scotland",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cwyx0lv9le4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T14:34:20",
+      "description": "Dominant England spoil Scotland's record-breaking afternoon at Murrayfield with a 12-try win which keeps them on course for another Six Nations title.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b79/live/40534a80-3b32-11f1-97f2-b74de1623710.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T15:34:21.963782",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "What life is like when you have an unfortunate surname",
       "link": "https://www.bbc.com/news/articles/cql7eennngvo?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-18T13:11:06",
@@ -5477,31 +5499,23 @@
       "archived_at": "2026-04-12T07:09:41.018545",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
-      "link": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-12T04:20:37",
-      "description": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9267/live/5ce7f850-3617-11f1-879d-1b2f5c3919b8.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-12T05:52:05.275950",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "What next for heavyweight division after Fury's win?",
-      "link": "https://www.bbc.com/sport/boxing/articles/cx240p2ynn0o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-12T05:27:00",
-      "description": "What does Tyson Fury's comeback win mean for the heavyweight scene? And who could the Gypsy King fight next?",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/108f/live/a9122420-3609-11f1-ad2c-033f10e2d2ef.png",
-      "enclosure": null,
-      "archived_at": "2026-04-12T05:52:05.275966",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Grim update in search for missing mother last seen picking mushrooms with a 'strange man'",
+      "link": "https://www.dailymail.co.uk/news/article-15744425/missing-mother-hailey-athay-washington.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T15:24:28",
+      "description": "Hailey Athay, 33, went missing in 2024 just a few days before Thanksgiving. She told friend at the time that she was going to pick mushrooms with a man they did not know.",
+      "thumbnail": "https://i.dailymail.co.uk/1/2026/04/18/16/107987549-0-image-m-24_1776524671519.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1/2026/04/18/16/107987549-0-image-m-24_1776524671519.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T15:34:25.410100",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "'Inspirational' ultra-marathon runner, 35, dies while trying to beat world record on Highlands trail in honour of friend",
       "link": "https://www.dailymail.co.uk/news/article-15734995/Inspirational-ultra-marathon-runner-35-dies-trying-beat-world-record-Highlands-trail.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12487,23 +12501,51 @@
       "archived_at": "2026-04-15T14:53:07.566216",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "Cocaine and heroin addict magistrate part of major drugs gang while sitting on court cases, trial told",
-      "link": "https://www.dailymail.co.uk/news/article-15735453/Cocaine-heroin-addict-magistrate-major-drugs-gang-sitting-court-cases-trial-told.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T13:33:47",
-      "description": "Purshotam Dhillon, a west London lay magistrate, has gone on trial accused of being concerned in the supply of Class A drugs.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/14/107914027-0-image-a-7_1776258276701.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/14/107914027-0-image-a-7_1776258276701.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T14:53:07.566217",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail Football": [
+    {
+      "title": "Sidemen star Tobi Brown scores INSANE free-kick in annual charity match against YouTube Allstars - as MILLIONS watch Wembley live stream",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15744719/Sidemen-Tobi-Brown-free-kick-Youtube-Allstars-Wembley.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T15:29:08",
+      "description": "Brown, a founding member of the social media collective, equalised for 1-1 against the YouTube Allstars with a stunning trivela free-kick.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/16/107989143-0-image-a-5_1776525372383.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/16/107989143-0-image-a-5_1776525372383.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T15:34:27.853259",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Ex-Premier League star's boxing debut ends in disaster, with former striker knocked out in the first round",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15744709/Ex-Premier-League-star-boxing-knockout-Ross-McCormack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T15:16:49",
+      "description": "The 39-year-old, who retired from playing in 2019, is among the ex-footballers to have tried their hand in the squared circle. But on\u00a0A Night To Remember II, he failed to see the second round.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/16/107988977-0-image-a-16_1776524680126.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/16/107988977-0-image-a-16_1776524680126.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T15:34:27.853268",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Brutal truth behind Megan Rapinoe and Sue Bird's shock split: Insiders reveal painful moment they knew it was over... and what sporting power couple just 'couldn't figure out'",
+      "link": "https://www.dailymail.co.uk/sport/football/article-15743887/megan-rapinoe-sue-bird-split-truth-behind.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T15:03:44",
+      "description": "The sporting power couple, who had been dating for nearly a decade, announced on Friday that their relationship is over in a bombshell joint statement on social media.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/03/107983601-0-image-a-18_1776480167901.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/03/107983601-0-image-a-18_1776480167901.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T15:34:27.853270",
+      "feed_category": "Sport",
+      "feed_visibility": "both"
+    },
     {
       "title": "Premier League LIVE: Latest score, team news and updates as relegation strugglers Leeds look to steal a march on Spurs - plus news from the Sidemen charity match at Wembley",
       "link": "https://www.dailymail.co.uk/sport/football/article-15742057/Tottenham-vs-Brighton-Leeds-vs-Wolves-2025-26-Premier-League-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -19461,48 +19503,6 @@
       "archived_at": "2026-03-31T19:33:34.721202",
       "feed_category": "Sport",
       "feed_visibility": "both"
-    },
-    {
-      "title": "New story behind why Ben White walked out on England at the 2022 World Cup emerges - after 'analysts found out he wasn't watching their videos' before Arsenal star was confronted",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15693791/New-story-Ben-White-walked-England-2022-World-Cup-emerges-analysts-wasnt-watching-videos-Arsenal-star-confronted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T08:42:13",
-      "description": "A fresh theory on why Ben White quit England's camp at the 2022 World Cup has emerged after the Arsenal defender returned to the international fold over the past week.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/09/107546039-0-image-a-10_1774944412509.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/09/107546039-0-image-a-10_1774944412509.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721204",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Cristiano Ronaldo 'is trying to convince Casemiro not to join old rival Lionel Messi at Inter Miami' when he leaves Man United this summer",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15693697/Cristiano-Ronaldo-trying-convince-Casemiro-not-join-old-rival-Lionel-Messi.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-31T07:39:44",
-      "description": "Cristiano Ronaldo is reportedly trying to persuade Casemiro to team up with him in Saudi Arabia rather than his old rival Lionel Messi at Inter Miami when he leaves Manchester United.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/31/08/107545383-0-image-a-10_1774942518398.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/31/08/107545383-0-image-a-10_1774942518398.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721205",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Jude Bellingham HAS to start at the World Cup if England are to have any chance of winning it... here's why Thomas Tuchel needs to swallow his pride and avoid an act of monumental self-sabotage, writes OLIVER HOLT",
-      "link": "https://www.dailymail.co.uk/sport/football/article-15691073/jude-bellingham-england-world-cup-tuchel.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-03-30T18:04:17",
-      "description": "The time for playing power games is over. It feels absurd that there should be any doubt over whether Bellingham should start England's opening game against Croatia in Dallas on June 17.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/03/30/12/107523651-0-image-a-11_1774868665366.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/03/30/12/107523651-0-image-a-11_1774868665366.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-03-31T19:33:34.721206",
-      "feed_category": "Sport",
-      "feed_visibility": "both"
     }
   ],
   "BBC Sport": [
@@ -25650,6 +25650,17 @@
     }
   ],
   "ENV": [
+    {
+      "title": "Who Speaks for God? Darwinists Do, Apparently",
+      "link": "https://scienceandculture.com/2026/04/who-speaks-for-god-darwinists-do-apparently/",
+      "pubDate": "2026-04-18T14:59:00",
+      "description": "Center for Science and Culture Senior Fellow\u00a0Stephen Dilley\u00a0explores this curious phenomenon in\u00a0his talk\u00a0at the 2025 Dallas Conference on Science and Faith.\n<p><a href=\"https://scienceandculture.com/2026/04/who-speaks-for-god-darwinists-do-apparently/\" rel=\"nofollow\">Source</a></p>",
+      "thumbnail": null,
+      "enclosure": null,
+      "archived_at": "2026-04-18T15:34:33.517575",
+      "feed_category": "Design",
+      "feed_visibility": "chris"
+    },
     {
       "title": "Brian Miller: From Physics to Filmmaking",
       "link": "https://scienceandculture.com/2026/04/brian-miller-from-physics-to-filmmaking/",
