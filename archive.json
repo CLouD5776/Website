@@ -1,6 +1,28 @@
 {
   "BBC News": [
     {
+      "title": "Counter-terror police investigate another London arson attack",
+      "link": "https://www.bbc.com/news/articles/cqxl1qr11q2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T11:08:48",
+      "description": "It comes as a man attempts to ignite a plastic bag containing containing fluid in north London.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/746c/live/c3736450-12eb-11f1-8aab-5db5bc9cf939.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T11:31:47.395649",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "\u00a3111 trains will have 'chilling effect' on World Cup - Fifa",
+      "link": "https://www.bbc.com/sport/football/articles/c3r3yj9xgy2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-04-18T10:57:07",
+      "description": "Fifa hits back at criticism from New Jersey Governor Mikie Sherrill, saying vastly inflated train fares at the 2026 World Cup will have a \"chilling effect\".",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34be/live/f515f7e0-3b0c-11f1-874b-f17c73d2ecbd.jpg",
+      "enclosure": null,
+      "archived_at": "2026-04-18T11:31:47.395656",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
       "title": "Otter mayhem after 'challenging beast' sneaks into garden centre",
       "link": "https://www.bbc.com/news/articles/c30ry3y9g92o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-04-18T08:28:20",
@@ -5477,31 +5499,37 @@
       "archived_at": "2026-04-11T23:30:03.991426",
       "feed_category": "News",
       "feed_visibility": "both"
-    },
-    {
-      "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
-      "link": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T23:13:23",
-      "description": "\"Slopaganda\" is too weak a term to capture how powerful this \"highly sophisticated\" content is, one expert says.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T23:30:03.991431",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
-      "link": "https://www.bbc.com/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-04-11T23:17:07",
-      "description": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1adb/live/db819500-35a3-11f1-bfb7-dfacb91b9fa4.jpg",
-      "enclosure": null,
-      "archived_at": "2026-04-11T23:30:03.991433",
-      "feed_category": "News",
-      "feed_visibility": "both"
     }
   ],
   "Daily Mail": [
+    {
+      "title": "Nationwide cashier who stole thousands from vulnerable customers was caught out by Facebook pictures of her lavish holidays",
+      "link": "https://www.dailymail.co.uk/news/article-15744299/Nationwide-cashier-stole-thousands-vulnerable-customers-caught-Facebook-pictures-lavish-holidays.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T11:21:14",
+      "description": "Kelly Kershaw earned just \u00a31,400-per-month working as a cashier for the building society, but boasted about her trips on Facebook, including to Dubai, the Maldives and Indonesia.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/10/107985901-0-image-m-14_1776504133237.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/10/107985901-0-image-m-14_1776504133237.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T11:31:49.905863",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
+    {
+      "title": "Moment violent shoplifter gets taste of instant karma as passing martial arts beginner takes him down after he attacked Co-op worker",
+      "link": "https://www.dailymail.co.uk/news/article-15744349/Moment-violent-shoplifter-passing-martial-arts-beginner-attacked-worker.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+      "pubDate": "2026-04-18T11:11:33",
+      "description": "In the footage, filmed outside a Co-op store in Swansea, a man dressed in a grey tracksuit can be seen tussling with a member of staff from the store.",
+      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/18/11/107986483-0-image-m-37_1776509066088.jpg",
+      "enclosure": {
+        "link": "https://i.dailymail.co.uk/1s/2026/04/18/11/107986483-0-image-m-37_1776509066088.jpg",
+        "type": "image/jpeg"
+      },
+      "archived_at": "2026-04-18T11:31:49.905870",
+      "feed_category": "News",
+      "feed_visibility": "both"
+    },
     {
       "title": "Meghan tells \u00a31,700-a-head superfans 'I've spent all my life investing in women, can I finally invest in me?' on money-spinning Australia trip",
       "link": "https://www.dailymail.co.uk/news/article-15744331/Meghan-superfans-investing-women-finally-invest-me.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
@@ -12471,34 +12499,6 @@
         "type": "image/jpeg"
       },
       "archived_at": "2026-04-15T11:54:16.713905",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Brits face shortages 'within weeks' despite Donald Trump's renewed claim Iran war is 'over' - as Keir Starmer is urged to look at energy rationing and cargo flights are cut back",
-      "link": "https://www.dailymail.co.uk/news/article-15734985/Brits-face-shortages-weeks-despite-Donald-Trumps-renewed-claim-Iran-war-Keir-Starmer-urged-look-energy-rationing-cargo-flights-cut-back.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:36:06",
-      "description": "There are growing warnings of disruption due to the Middle East conflict as the Strait of Hormuz remains closed to most shipping.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/11/107910213-0-image-m-8_1776248078363.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/11/107910213-0-image-m-8_1776248078363.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306604",
-      "feed_category": "News",
-      "feed_visibility": "both"
-    },
-    {
-      "title": "Model's daughter, 18, 'was asked to leave Manchester gay bar because her wheelchair was deemed a fire safety hazard by club bosses'",
-      "link": "https://www.dailymail.co.uk/news/article-15734815/Woman-leave-gay-bar-wheelchair-fire-hazard.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-      "pubDate": "2026-04-15T10:35:50",
-      "description": "Maddie Haining, 18,\u00a0said the distressing incident happened at Club Tropicana in Canal Street, Manchester, on Saturday night.",
-      "thumbnail": "https://i.dailymail.co.uk/1s/2026/04/15/10/107909785-0-image-m-28_1776246877857.jpg",
-      "enclosure": {
-        "link": "https://i.dailymail.co.uk/1s/2026/04/15/10/107909785-0-image-m-28_1776246877857.jpg",
-        "type": "image/jpeg"
-      },
-      "archived_at": "2026-04-15T10:42:07.306609",
       "feed_category": "News",
       "feed_visibility": "both"
     }
