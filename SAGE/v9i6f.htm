@@ -1,0 +1,127 @@
+<html style="--wm-toolbar-height: 67px;"><head>
+
+
+
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+
+
+
+
+
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Scrabble  of the Fittest</title>
+</head>
+<body bgcolor="#FFCC99">
+
+
+
+
+<table cellpadding="5" width="100%">
+<tbody><tr><td align="RIGHT" bgcolor="PURPLE"><font color="WHITE">Feature Article - March 2005</font></td></tr>
+<tr><td align="RIGHT">by <a href="index.htm">Do-While Jones</a></td></tr>
+</tbody></table>
+<h1 align="CENTER">Scrabble <sup>TM</sup> of the Fittest
+</h1>
+<p></p><center>
+<blockquote>
+<font color="PURPLE" size="3"><b>
+If you have a Scrabble <sup>TM</sup> game, and lots of time on your hands, you can learn a lot about microevolution and macroevolution.
+</b></font>
+</blockquote>
+</center><p></p>
+<p>Science is best learned by experimentation, so let us describe some experiments you can do to learn important lessons about selection and evolution.  We used a computer that simulates 1,000 trials in seven minutes; but even if you don't have a computer, you can verify the results by hand for fewer trials in a little more time with a standard Scrabble game.</p>
+<h2>The Gene Pool</h2>
+<p>A standard Scrabble game has 98 letter tiles (plus two blank "wild card" tiles, which we didn't use).  The letters are not equally represented on the tiles.  That is, there are nine A's and twelve E's, but only one Q and one X.</p>
+<p>These letters represent genes.  We refer to the collection of letters as the "letter pool" or "gene pool" interchangeably to reinforce the notion that the letters represent genes.</p>
+<p>To do the experiment, select five letters at random from the gene pool, and see how many different words you can make with the five letters.</p>
+<p>Since we didn't want my imperfect knowledge of the English language to bias the results, we used an impartial computer to find the words.  There is a file called "ospd.txt" that anyone can freely download from <a href="http://www.puzzlers.org/wordlists/dictinfo.php">www.puzzlers.org</a>.   It is the Official Scrabble Players Dictionary, consisting of 79,338 English words that are 2 to 8 letters long.  We wrote a program that arranges the chosen letters in every possible combination, and displays just those combinations that are found in the dictionary file.</p>
+<p>Since drawing five tiles from the bag, typing them into the computer, and putting them back in the bag takes time, we wrote another routine which draws simulated letter tiles at random from a virtual letter pool.  This gene pool has the same 98 letter tiles used by the Scrabble game.  A random number generator shuffles the 98 tiles after each turn.</p>
+<p>We combined the random letter generator with the dictionary lookup routine in a program that pulls five letters from the gene pool and determines how many of them are in the dictionary and tabulates the results.  We ran the program twice, saving the results in files called "Run 1" and "Run 2".</p>
+<p>
+<table cellpadding="2" width="100%">
+<tbody><tr>
+<td valign="TOP">
+<table bgcolor="WHITE" border="" cellpadding="10">
+<tbody><tr><th>Word</th><th>Run 1</th><th>Run 2</th><th>Run 3</th><th>Run 4</th></tr>
+<tr><td>ET</td><td>126</td><td>122</td><td>1</td><td>3</td></tr>
+<tr><td>IS</td><td>68</td><td>57</td><td>3</td><td>744</td></tr>
+<tr><td>IF</td><td>39</td><td>33</td><td>1</td><td>511</td></tr>
+<tr><td>HI</td><td>33</td><td>31</td><td>2</td><td>468</td></tr>
+<tr><td>IT</td><td>94</td><td>120</td><td>4</td><td>5</td></tr>
+<tr><td>ID</td><td>70</td><td>81</td><td>644</td><td>3</td></tr>
+<tr><td>RID</td><td>12</td><td>11</td><td>520</td><td>0</td></tr>
+<tr><td>RIB</td><td>9</td><td>6</td><td>288</td><td>1</td></tr>
+<tr><td>BID</td><td>4</td><td>10</td><td>225</td><td>0</td></tr>
+<tr><td>HIS</td><td>3</td><td>1</td><td>0</td><td>328</td></tr>
+<tr><td>BIB</td><td>0</td><td>1</td><td>32</td><td>0</td></tr>
+<tr><td>BIRD</td><td>2</td><td>0</td><td>166</td><td>0</td></tr>
+<tr><td>FISH</td><td>0</td><td>0</td><td>0</td><td>145</td></tr>
+<tr><td colspan="5"><hr/></td></tr>
+<tr><td>Different</td><td>2828</td><td>2890</td><td>233</td><td>226</td></tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<p><font color="PURPLE"><b>Run 1 and Run 2</b></font> were "control runs."  They <font color="PURPLE"><b>show the normal results without any artificial selection.</b></font>  Later we modified the program to add artificial selection, and got the results for runs 3 and 4.  For now, let's just look at runs 1 and 2 in the table below.</p>
+<p>The last line in the table shows that after drawing five tiles 1,000 times, <font color="PURPLE"><b>the computer was able to form 2,828 different words in the first run, and 2,890 different words in the second run.</b></font></p>
+<p>Not shown in the table is the fact that, <font color="PURPLE"><b>on average, the computer was able to form 14 words from the five tiles on every draw.</b></font>  Some words were repeated, which is why there were less than 3,000 different words, rather than 14,000 different words, after 1,000 trials.</p>
+<p>Furthermore, <font color="PURPLE"><b>some words were formed more often than others.</b></font>  We don't have space to list all the words it formed, so we have shown just a few representative ones in the other rows in the table.</p>
+<p>Neither I, nor the Microsoft spelling checker, knew that "et" is a valid English word, but it is in <u>Webster's Ninth New Collegiate Dictionary</u>.  Just in case you don't know what "et" means, I will use it in a sentence for you.</p>
+<p><table bgcolor="WHITE" cellpadding="5"><tbody><tr><td>Jed said to Granny, "I don't feel too good.  It must be something I et."</td></tr></tbody></table></p>
+<p>In 126 of the 1,000 draws in Run 1, and 122 times in Run 2, the word "et" could be formed.  The word "rid" came up 12 times in Run 1, and 11 times in Run 2.  You can see some of the other results for yourself in the table.</p>
+<p><font color="PURPLE"><b>The important thing about runs 1 and 2 is that the results were similar.</b></font>  The results weren't identical, because this was a random experiment.  But the experiment was done often enough that the statistics were stable.</p>
+</td>
+</tr>
+</tbody></table>
+</p>
+<h2>Artificial Selection</h2>
+<p>Let's suppose we want to skew things so that <font color="PURPLE"><b>we can make a particular word more often using artificial selection.</b></font>  First we pick the word we want to encourage.</p>
+<p><font color="PURPLE"><b>In Run 3, "bird" is the word.  After drawing five tiles, and making as many words as possible, only the letters "b", "i", "r", and "d" are returned to the gene pool.  In other words, we don't allow the other 22 letters to "reproduce."</b></font></p>
+<p>Initially, the gene pool contained two B's, nine I's, six R's, four D's, and 77 other letters.  But since the other letters were never replaced after drawing, the letter pool was quickly reduced from 98 tiles to 21 tiles.  This greatly limited the number of different words that could be produced.  In fact, <font color="PURPLE"><b>the average number of words that could be made on each draw dropped from 14 to 5 after just 27 draws.  After 36 draws it leveled off to an average of 3.5 words per draw.</b></font></p>
+<p>Artificial selection does achieve its goal.  In the first run, without natural selection, "bird" was made from the tiles on draws 369 and 552.  In the second run, also without natural selection, "bird" never could be made on any of the 1,000 draws.  So, "bird" was only formed from a draw of five tiles about once every thousand times.</p>
+<p>In Run 3, in which we applied natural selection, "bird" was made a total of 166 times (on draws 28, 30, 34, 43, 48, 51, 60, 68, 71, 74, 75, ... , 988, 989, 992, 993, and 996).</p>
+<p><font color="PURPLE"><b>Not only did artificial selection make "bird" much more likely, it also produced a phenomenon that Charles Darwin called "correlation of growth", which we recognize today as "inbreeding."</b></font>  That is, "rib", "id", "bid", "rid", and other such words, were frequently formed.  You can see that by comparing the results from Run 3 with other runs.</p>
+<p><font color="PURPLE"><b>In Run 4, we tried to evolve a "fish" instead of a "bird."</b></font>  Notice that Run 4 was successful 145 times, despite the fact that "fish" was never found in any of the previous 3,000 draws.  Furthermore, Run 4 produced different "inbreeding" than Run 3 did, resulting in much higher instances of "is", "if", and "hi".</p>
+<p>The other important point to note is that <font color="PURPLE"><b>artificial selection reduced the variation by a factor of about 10.</b></font>  The last line in the table shows that, without artificial selection (runs 1 and 2), more than 2,800 different words were produced in 1,000 draws.  With artificial selection (runs 3 and 4), just a little over 200 different words were produced.</p>
+<h2>Summary of Results</h2>
+<p>By removing letters from the letter pool, we were able to create a situation in which desired words were formed more frequently and consistently.  There was less variation in the words that could be produced.  Certain other words, which we did not particularly want to encourage, also appeared more frequently because they used the same letters (genes) as our target word.</p>
+<p>The same things happen when artificial selection is used in breeding.  The breeder does not allow plants or animals with undesired characteristics to breed, removing the undesirable traits from the gene pool, while increasing the frequency of individuals born with the desired characteristics.  The more inbred the population becomes, the less variation there is.  But, the inbred population might also contain genes for other characteristics, which will not be removed because the entire population has them.</p>
+<p>Natural selection can produce the same kind of variation that artificial selection can.  The only differences are that natural selection is not guided, and natural selection may not be as ruthless as intentional breeding is, so it may take more time for natural selection to cause as much variation.</p>
+<h2>The Rest of the Story</h2>
+<p>Evolutionists would like to stop right there.  "Evolution" has been proved.  Small changes are observed over a short period of time.  Therefore, they say, large changes can occur over long periods of time.</p>
+<p>The fallacy with this argument is that you can't gain by losing.  <font color="PURPLE"><b>You cannot keep on losing money until you eventually become a millionaire</b></font> (unless you were a billionaire to begin with).</p>
+<p>No matter how many tiles you discard from your Scrabble game, you will never see this "bird" evolve on your game board.</p>
+<p align="CENTER"><img src="images/v9i6g1.jpg"/></p>
+<p>The reason why, of course, is that you need some Cyrillic letter tiles to spell "ptetsa" (the Russian word for "bird").  <font color="PURPLE"><b>No matter how many tiles you discard, you won't create any Cyrillic ones.</b></font></p>
+<p>Macroevolution requires new information.  A reptile can't evolve into a mammal because a reptile doesn't have the genes to make mammary glands.  It isn't a question of removing the genes from reptiles that keep them from giving milk.  It is a question of coming up with entirely new genes.</p>
+<p><font color="PURPLE"><b>Macroevolution isn't just a whole lot of microevolution--it is an entirely different process.  That's why microevolution has as little to do with macroevolution as losing money has to do with getting rich.</b></font></p>
+<h2>Unpopular Terms</h2>
+<p>One point of agreement between many creationists and evolutionists is that neither side is very comfortable with the terms "microevolution" and "macroevolution."</p>
+<p><a name="train"></a>Some creationists are against using these terms because "micro" means "a little," and "macro" means "a lot."  Therefore, since microevolution is a real, observable scientific process, it gives credence to the evolutionists' train analogy.  That is, if you see a train leaving New York, then observe it arriving some time later in Chicago, one can reasonably conclude that, given enough time, the train will eventually arrive in Los Angeles.  By analogy, if you see microevolution cause a little change in living creatures in a short period of time, one can (mistakenly) conclude that given enough time any change is possible.  Since that analogy sounds convincing to people who don't have a strong background in biology, creationists would prefer to stay as far away from it as possible.</p>
+<p><font color="PURPLE"><b>Evolutionists</b></font>, on the other hand, don't like the terms because they don't like to admit the distinction.  They <font color="PURPLE"><b>would like to lump both processes together in the catch-all phase "evolution" so that they can say, "Evolution can be demonstrated in the laboratory," and not have to admit that microevolution can easily be demonstrated, but macroevolution never has.</b></font></p>
+<p>They realize the fallacy in the train argument is that although one can conclude the train will eventually get to Los Angeles, one can't correctly conclude that the train will eventually get to Honolulu.  That's because a train has the capability to roll on rails, but not to float on water or fly though the air.  If you want to get to Honolulu, you have to use a different process than rolling on steel rails.  Macroevolution is a totally different process than microevolution.</p>
+<p>The Scrabble experiment shows how microevolution uses selection to remove undesirable letters from the letter pool.  Removing letters didn't allow us to build any words that we could not have built before.</p>
+<h2>Crossbreeding</h2>
+<p>We can simulate crossbreeding by mixing the tiles from my English Scrabble game with my Russian Scrabble game.  In general, we won't be able to make as many English words because some of the tiles will be Cyrillic letters that are useless for making English words.  We won't be able to make as many Russian words, either.  So, although we draw five tiles, in general, less than five will be useful.</p>
+<p>In most cases, you can't crossbreed different species because their "alphabets" are too different.  But, there are some species that are similar enough that you might be able to produce viable offspring.  But even in these cases, it doesn't prove macroevolution, for the following reason.</p>
+<p>Suppose we combine these three English tiles with these three Cyrillic tiles.</p>
+<p align="CENTER"><img src="images/v9i6g2.jpg"/></p>
+<p>Clearly, this is not a legal word in either language; but someone fluent in both English and Russian would pronounce the mixed word as "scrabble."  One might say that we have evolved a new word by crossbreeding my English tiles with my Russian tiles.</p>
+<p>Even so, <font color="PURPLE"><b>we still had to have the English and Cyrillic letters to begin with.  Mixing the tiles doesn't create new tiles.  Macroevolution needs a way to create new tiles.</b></font></p>
+<h2>New Genes</h2>
+<p>Mixing existing genes, whether they come from two creatures of the same species, or two creatures of different species, still requires that the genes existed in the first place.  Where do new genes come from?</p>
+<p>Darwin didn't know about genes, and believed that diet, exercise, and climate created characteristics that were passed on to the creature's offspring.  Modern evolutionists know this isn't true, so they turn to random chance to create new genes for natural selection to choose from.  There are problems with this idea.</p>
+<p>Suppose that the game factory occasionally made Cyrillic tiles by mistake, and included them in English Scrabble games.  One or two Cyrillic tiles aren't of any value, so they would be discarded by the purchaser.  (Or, more likely, the buyer would demand that the game factory replace the defective tiles.)</p>
+<p>Evolutionists sometimes claim that random mutations, which are of no value, hang around in the DNA in a sort of dormant state, waiting for other mutations that will interact with them and make them more useful.  That is, our Scrabble game players would keep the occasional Cyrillic tiles until more Cyrillic tiles are made by mistake, so that complete Russian words can be made.  That idea, which is so silly in our Scrabble analogy, is just as silly in real life.</p>
+<h2>"It" Has Been Proved</h2>
+<p>Yes, "evolution" (that is, microevolution) has been proved.  It has been proved by breeders as well as computer scientists.  Everyone agrees, but hardly anyone cares.  The controversy is about macroevolution, which evolutionists also like to call "evolution."  But that kind of evolution has never been proved.</p>
+<p><font color="PURPLE" size="+1"><b>Microevolution has nothing to do with macroevolution because macroevolution requires the creation of new genes, while microevolution involves the elimination of existing genes.</b></font></p>
+<p>Microevolution does not explain how we have so many different kinds of life on Earth.  Science confirms microevolution, but the scientific evidence is strongly against macroevolution.</p>
+<p><table border="" width="100%">
+<tbody><tr><th colspan="4">Quick links to</th></tr>
+<tr>
+<th bgcolor="YELLOW" nowrap="" width="25%"><a href="index.htm">Science Against Evolution<br/>Home Page</a></th>
+<th bgcolor="WHITE" nowrap="" width="25%"><a href="newsletters.htm">Back issues of<br/><font face="BRITANNIC BOLD"><i>Disclosure</i></font><br/> (our newsletter)</a></th>
+<th bgcolor="CYAN" nowrap="" width="25%"><a href="links.htm">Web Site<br/> of the Month</a></th>
+<th bgcolor="LIME" nowrap="" width="25%"><a href="topics.htm">Topical Index</a></th></tr>
+</tbody></table>
+</p></body></html>
