@@ -10,13 +10,13 @@
     {
       "name": "BBC News",
       "url": "http://feeds.bbci.co.uk/news/rss.xml",
-      "visibility": "both",
+      "visibility": "hazel",
       "category": "News"
     },
     {
       "name": "Daily Mail",
       "url": "https://www.dailymail.co.uk/news/index.rss",
-      "visibility": "both",
+      "visibility": "hazel",
       "category": "News"
     },
     {
@@ -34,25 +34,25 @@
     {
       "name": "Unherd",
       "url": "https://unherd.com/feed/",
-      "visibility": "none",
+      "visibility": "both",
       "category": "Blogs"
     },
     {
       "name": "Dr Malcolm Kendrick",
       "url": "https://drmalcolmkendrick.org/feed/",
       "visibility": "both",
-      "category": "News"
+      "category": "Blogs"
     },
     {
       "name": "Tucker Carlson",
       "url": "https://feeds.megaphone.fm/RSV1597324942",
       "visibility": "both",
-      "category": "News"
+      "category": "Blogs"
     },
     {
       "name": "Music News",
       "url": "https://www.music-news.com/rss/c5RAS2tkYoRTvbRq/UK/news",
-      "visibility": "both",
+      "visibility": "hazel",
       "category": "Music"
     },
     {
