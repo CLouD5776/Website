@@ -1,0 +1,8 @@
+# CDL chart files — allow same-origin framing and inline scripts (Plotly)
+/CDL/charts/*.html
+  X-Frame-Options: SAMEORIGIN
+  Content-Security-Policy: script-src 'self' 'unsafe-inline'; default-src 'self'
+
+/CDL/charts/Hospitals/*.html
+  X-Frame-Options: SAMEORIGIN
+  Content-Security-Policy: script-src 'self' 'unsafe-inline'; default-src 'self'
