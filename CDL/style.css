@@ -286,7 +286,10 @@ footer .original-credit {
   background-color: #2e8b6e;
   color: #ffffff;
   padding: 2rem;
-  margin-bottom: 0;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  width: 100vw;
+  box-sizing: border-box;
 }
 .intro-band h3,
 .intro-band h6,
