@@ -19,7 +19,7 @@
 
 body {
   font-family: var(--sans);
-  background: var(--bg);
+  background: var(--green);
   color: var(--text);
   line-height: 1.6;
 }
@@ -82,7 +82,7 @@ nav a:hover, nav a.active {
 main {
   max-width: 960px;
   margin: 0 auto;
-  padding: 2rem 1.5rem 4rem;
+  padding: 0 1.5rem 4rem;
 }
 
 .page-intro {
