@@ -19,9 +19,15 @@
 
 body {
   font-family: var(--sans);
-  background-color: #1a6b52;
+  background-color: #1a6b52 !important;
   color: var(--text);
   line-height: 1.6;
+}
+
+#layout, #content, .page-content, .entry-content,
+.themify_builder_content, .module_row, .tb-column-inner,
+.module, .tb_text_wrap {
+  background-color: #1a6b52 !important;
 }
 
 /* ---- Header ---- */
@@ -124,18 +130,18 @@ main {
   font-family: var(--serif);
   font-size: 1.15rem;
   font-weight: 600;
-  color: var(--text);
+  color: #ffffff;
   line-height: 1.4;
   margin-bottom: 0.5rem;
 }
 .chart-section .description {
   font-size: 0.88rem;
-  color: var(--text-muted);
+  color: #ffffff;
   line-height: 1.65;
   margin-bottom: 0.75rem;
 }
 .chart-section .description a {
-  color: #2d8659;
+  color: #d4f5e9;
   text-decoration: none;
 }
 .chart-section .description a:hover {
@@ -151,18 +157,18 @@ main {
 
 .chart-section .sources {
   padding: 0.75rem 1.5rem;
-  background: var(--source-bg);
+  background: rgba(0,0,0,0.2);
   font-size: 0.78rem;
-  color: var(--text-muted);
-  border-top: 1px solid var(--border);
+  color: #ffffff;
+  border-top: 1px solid rgba(255,255,255,0.15);
 }
 .chart-section .sources a {
-  color: var(--text-muted);
+  color: #d4f5e9;
   text-decoration: underline;
 }
 .chart-section .sources strong {
   font-weight: 600;
-  color: var(--text);
+  color: #ffffff;
 }
 
 /* ---- Stats banner ---- */
@@ -319,9 +325,14 @@ footer .original-credit {
   font-size: 0.78rem;
 }
 .back-to-top a {
-  color: var(--text-muted);
+  color: #d4f5e9;
   text-decoration: none;
 }
 .back-to-top a:hover {
   text-decoration: underline;
+}
+
+/* ---- Original theme graph class ---- */
+.graphs h2, .graphs h3, .graphs p, .graphs li, .graphs a {
+  color: #ffffff;
 }
