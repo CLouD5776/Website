@@ -141,7 +141,7 @@ main {
 .chart-embed {
   width: 100%;
   border: none;
-  height: 450px;
+  height: 550px;
   display: block;
 }
 
@@ -267,6 +267,6 @@ footer .original-credit {
 @media (max-width: 640px) {
   header h1 { font-size: 1.35rem; }
   nav a { padding: 0.6rem 0.75rem; font-size: 0.8rem; }
-  .chart-embed { height: 350px; }
+  .chart-embed { height: 420px; }
   .stats-banner { grid-template-columns: repeat(2, 1fr); }
 }
