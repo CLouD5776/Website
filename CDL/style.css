@@ -19,7 +19,7 @@
 
 body {
   font-family: var(--sans);
-  background: var(--green);
+  background-color: #1a6b52;
   color: var(--text);
   line-height: 1.6;
 }
@@ -108,10 +108,14 @@ main {
 /* ---- Chart sections ---- */
 .chart-section {
   margin-bottom: 3rem;
-  background: var(--white);
+  background-color: #1a6b52;
   border: 1px solid var(--border);
   border-radius: 6px;
   overflow: hidden;
+  color: #ffffff;
+}
+.chart-section h2, .chart-section h3, .chart-section p, .chart-section a {
+  color: #ffffff;
 }
 .chart-section .section-header {
   padding: 1.25rem 1.5rem 0;
@@ -283,7 +287,7 @@ footer .original-credit {
 
 /* ---- Green intro/ToC band ---- */
 .intro-band {
-  background-color: #2e8b6e;
+  background-color: #1a6b52;
   color: #ffffff;
   padding: 2rem;
   margin-bottom: 0;
