@@ -19,7 +19,7 @@
 
 body {
   font-family: var(--sans);
-  background-color: #1a6b52 !important;
+  background-color: #5cdb95 !important;
   color: var(--text);
   line-height: 1.6;
 }
@@ -27,7 +27,7 @@ body {
 #layout, #content, .page-content, .entry-content,
 .themify_builder_content, .module_row, .tb-column-inner,
 .module, .tb_text_wrap {
-  background-color: #1a6b52 !important;
+  background-color: #5cdb95 !important;
 }
 
 /* ---- Header ---- */
@@ -46,20 +46,11 @@ header h1 {
   font-size: 1.75rem;
   font-weight: 700;
   letter-spacing: -0.02em;
-  margin-bottom: 0.25rem;
-}
-header .subtitle {
-  font-size: 0.9rem;
-  color: rgba(0,0,0,0.6);
-  font-weight: 400;
 }
 
 /* ---- Navigation ---- */
 nav {
-  background: var(--green-dark);
-  position: sticky;
-  top: 0;
-  z-index: 100;
+  background: var(--green);
 }
 nav .container {
   max-width: 960px;
@@ -98,53 +89,58 @@ main {
 .page-intro p {
   font-family: var(--serif);
   font-size: 1.05rem;
-  color: var(--text-muted);
+  color: var(--text);
   line-height: 1.7;
 }
 .page-intro .ui-note {
   font-family: var(--sans);
   font-size: 0.82rem;
-  color: var(--text-muted);
+  color: var(--text);
   margin-top: 1rem;
   padding: 0.75rem 1rem;
-  background: var(--source-bg);
+  background: rgba(0,0,0,0.1);
   border-radius: 4px;
 }
 
-/* ---- Chart sections ---- */
-.chart-section {
+/* ---- Chart / graph sections ---- */
+.chart-section,
+.graphs {
   margin-bottom: 3rem;
-  background-color: #1a6b52;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  overflow: hidden;
-  color: #ffffff;
 }
-.chart-section h2, .chart-section h3, .chart-section p, .chart-section a {
-  color: #ffffff;
-}
-.chart-section .section-header {
-  padding: 1.25rem 1.5rem 0;
-}
-.chart-section h2 {
+.chart-section h2,
+.graphs h2 {
   font-family: var(--serif);
   font-size: 1.15rem;
   font-weight: 600;
-  color: #ffffff;
+  color: var(--text);
   line-height: 1.4;
   margin-bottom: 0.5rem;
 }
-.chart-section .description {
+.chart-section .description,
+.graphs .description {
   font-size: 0.88rem;
-  color: #ffffff;
+  color: var(--text);
   line-height: 1.65;
   margin-bottom: 0.75rem;
 }
-.chart-section .description a {
-  color: #d4f5e9;
-  text-decoration: none;
+.chart-section .description a,
+.graphs .description a {
+  color: var(--text);
+  text-decoration: underline;
 }
-.chart-section .description a:hover {
+.chart-section .section-header,
+.graphs .section-header {
+  padding-bottom: 0.5rem;
+}
+.chart-section .sources,
+.graphs .sources {
+  font-size: 0.78rem;
+  color: var(--text);
+  padding: 0.5rem 0;
+}
+.chart-section .sources a,
+.graphs .sources a {
+  color: var(--text);
   text-decoration: underline;
 }
 
@@ -153,22 +149,6 @@ main {
   border: none;
   height: 550px;
   display: block;
-}
-
-.chart-section .sources {
-  padding: 0.75rem 1.5rem;
-  background: rgba(0,0,0,0.2);
-  font-size: 0.78rem;
-  color: #ffffff;
-  border-top: 1px solid rgba(255,255,255,0.15);
-}
-.chart-section .sources a {
-  color: #d4f5e9;
-  text-decoration: underline;
-}
-.chart-section .sources strong {
-  font-weight: 600;
-  color: #ffffff;
 }
 
 /* ---- Stats banner ---- */
@@ -291,21 +271,11 @@ footer .original-credit {
 .contents-col ul { margin: 0 0 0.5rem 1.2rem; padding: 0; }
 .contents-col li { margin-bottom: 0.3rem; }
 
-/* ---- Green intro/ToC band ---- */
+/* ---- Intro/ToC band ---- */
 .intro-band {
-  background-color: #1a6b52;
-  color: #ffffff;
+  color: var(--text);
   padding: 2rem;
   margin-bottom: 0;
-}
-.intro-band h3,
-.intro-band h6,
-.intro-band p,
-.intro-band li {
-  color: #ffffff;
-}
-.intro-band a {
-  color: #d4f5e9;
 }
 
 /* ---- Section divider heading ---- */
@@ -315,24 +285,19 @@ footer .original-credit {
   margin: 0;
 }
 .section-divider h1 {
-  color: #ffffff;
+  color: #fff;
   margin: 0;
 }
 
 /* ---- Back to top ---- */
 .back-to-top {
-  padding: 0.5rem 1.5rem 0.75rem;
+  padding: 0.5rem 0 0.75rem;
   font-size: 0.78rem;
 }
 .back-to-top a {
-  color: #d4f5e9;
+  color: var(--text);
   text-decoration: none;
 }
 .back-to-top a:hover {
   text-decoration: underline;
-}
-
-/* ---- Original theme graph class ---- */
-.graphs h2, .graphs h3, .graphs p, .graphs li, .graphs a {
-  color: #ffffff;
 }
