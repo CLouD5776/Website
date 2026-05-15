@@ -283,16 +283,19 @@ footer .original-credit {
 
 /* ---- Green intro/ToC band ---- */
 .intro-band {
-  background-color: #5CDB95;
+  background-color: #2e8b6e;
+  color: #ffffff;
   padding: 2rem;
   margin-bottom: 0;
 }
 .intro-band h3,
 .intro-band h6,
 .intro-band p,
-.intro-band a,
 .intro-band li {
-  color: #000000;
+  color: #ffffff;
+}
+.intro-band a {
+  color: #d4f5e9;
 }
 
 /* ---- Section divider heading ---- */
