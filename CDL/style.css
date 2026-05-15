@@ -280,3 +280,41 @@ footer .original-credit {
 .contents-col h6 { margin-top: 1.2rem; margin-bottom: 0.4rem; font-size: 1rem; }
 .contents-col ul { margin: 0 0 0.5rem 1.2rem; padding: 0; }
 .contents-col li { margin-bottom: 0.3rem; }
+
+/* ---- Green intro/ToC band ---- */
+.intro-band {
+  background-color: #5CDB95;
+  padding: 2rem;
+  margin-bottom: 0;
+}
+.intro-band h3,
+.intro-band h6,
+.intro-band p,
+.intro-band a,
+.intro-band li {
+  color: #000000;
+}
+
+/* ---- Section divider heading ---- */
+.section-divider {
+  background-color: #5CDB95;
+  padding: 0.5rem 2rem 1.5rem 2rem;
+  margin: 0;
+}
+.section-divider h1 {
+  color: #ffffff;
+  margin: 0;
+}
+
+/* ---- Back to top ---- */
+.back-to-top {
+  padding: 0.5rem 1.5rem 0.75rem;
+  font-size: 0.78rem;
+}
+.back-to-top a {
+  color: var(--text-muted);
+  text-decoration: none;
+}
+.back-to-top a:hover {
+  text-decoration: underline;
+}
