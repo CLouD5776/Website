@@ -285,12 +285,8 @@ footer .original-credit {
 .intro-band {
   background-color: #2e8b6e;
   color: #ffffff;
-  padding: 2rem 0;
-}
-.intro-band .container {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 2rem;
+  margin-bottom: 0;
 }
 .intro-band h3,
 .intro-band h6,
