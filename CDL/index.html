@@ -38,10 +38,70 @@
     <div class="ui-note">Click on different items in the legend to turn them on or off on the graph, and hover over points in the graphs to see the figures.</div>
   </div>
 
+  <div class="intro-text">
+    <p>This page brings together various datasets into interactive graphs. We're continually updating the data and adding new graphs as we work to build the UK's most comprehensive data dashboard on the impact of Covid-19 and the response to it.</p>
+    <p>Think we're missing something? Let us know: <a href="mailto:admin@coviddashboard.live">admin@coviddashboard.live</a></p>
+  </div>
+
+  <div class="contents-block">
+    <h3>Contents</h3>
+    <div class="contents-columns">
+      <div class="contents-col">
+        <h6><a href="index.html">Covid-19</a></h6>
+        <ul>
+          <li><a href="#positive">UK Covid-19 deaths, and England and Wales hospital admissions, 2020-present</a></li>
+          <li><a href="#beds">NHS daily bed occupancy, general and acute, England, 2017-present</a></li>
+          <li><a href="#open">NHS daily beds open, England, 2017-present</a></li>
+          <li><a href="#private">Independent sector daily bed occupancy, England, 2020-present</a></li>
+          <li><a href="#MVbeds">Mechanical ventilation beds occupied by Covid-19 versus non-Covid-19 patients, England, 2020-present</a></li>
+          <li><a href="#admissionsByAge">Daily hospital admissions by age, England</a></li>
+          <li><a href="#pathways">Daily potential Covid-19 telephone triages and completed online assessments NHS pathways, England</a></li>
+          <li><a href="#depression">Prevalence of depression symptoms before and during pandemic, Britain</a></li>
+        </ul>
+        <h6><a href="deaths.html">Deaths</a></h6>
+        <ul>
+          <li><a href="deaths.html#deaths">Weekly deaths by year</a></li>
+          <li><a href="deaths.html#flu">UK annual flu and pneumonia deaths, 1901-2020, compared to Covid-19 deaths</a></li>
+          <li><a href="deaths.html#cause">UK causes of death, 2001-2018, compared to Covid-19 deaths</a></li>
+          <li><a href="deaths.html#deathComp">Weekly deaths within 28 days of a positive test for Covid-19, and deaths with Covid-19 on the death certificate, 2020-present</a></li>
+          <li><a href="deaths.html#age">UK Covid-19 deaths by age group</a></li>
+        </ul>
+        <h6><a href="tests.html">Tests &amp; vaccines</a></h6>
+        <ul>
+          <li><a href="tests.html#cases-tests">UK new Covid-19 cases and tests, 2020-present</a></li>
+          <li><a href="tests.html#vaccines">UK first and second dose vaccines, 2020-present</a></li>
+          <li><a href="tests.html#testrate">UK Covid-19 positive test rate, 2020-present</a></li>
+        </ul>
+      </div>
+      <div class="contents-col">
+        <h6><a href="regions.html">Regional Data</a></h6>
+        <ul>
+          <li><a href="regions.html#east">NHS daily bed occupancy, general and acute, East of England, 2017-present</a></li>
+          <li><a href="regions.html#Lon">NHS daily bed occupancy, general and acute, London, 2017-present</a></li>
+          <li><a href="regions.html#M">NHS daily bed occupancy, general and acute, Midlands, 2017-present</a></li>
+          <li><a href="regions.html#NE">NHS daily bed occupancy, general and acute, North East and Yorkshire, 2017-present</a></li>
+          <li><a href="regions.html#NW">NHS daily bed occupancy, general and acute, North West, 2017-present</a></li>
+          <li><a href="regions.html#SE">NHS daily bed occupancy, general and acute, South East, 2017-present</a></li>
+          <li><a href="regions.html#SW">NHS daily bed occupancy, general and acute, South West, 2017-present</a></li>
+          <li><a href="regions.html#covidSurveilance">ICU/HDU admission rates per 100,000 population for COVID-19 by region, England</a></li>
+        </ul>
+        <h6><a href="economy.html">Economy</a></h6>
+        <ul>
+          <li><a href="economy.html#GDP">UK monthly GDP index, 2017-present</a></li>
+          <li><a href="economy.html#UC">UK weekly Universal Credit claims and JSA claimants, 2020</a></li>
+          <li><a href="economy.html#spending">Government spending on Covid-19 economic stimulus packages, 2020, compared to NHS spending, 2018-19</a></li>
+          <li><a href="economy.html#unemployment">UK unemployment rate, 2007-present</a></li>
+          <li><a href="economy.html#Redundancies">UK Redundancies, 2007-present</a></li>
+          <li><a href="economy.html#claimants">UK Claimant count, 2008-present</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <!-- Deaths and hospital admissions -->
   <div class="chart-section">
     <div class="section-header">
-      <h2>UK Covid-19 deaths and England hospital admissions with Covid-19, 2020–present</h2>
+      <h2 id="positive">UK Covid-19 deaths and England hospital admissions with Covid-19, 2020–present</h2>
       <p class="description">Covid-19 deaths are counted as any death that occurred within 28 days of a positive test for Covid-19.</p>
     </div>
     <iframe class="chart-embed" src="charts/fig1.html"></iframe>
@@ -55,7 +115,7 @@
   <!-- NHS bed occupancy England -->
   <div class="chart-section">
     <div class="section-header">
-      <h2>NHS daily bed occupancy, general and acute, England, 2017–present</h2>
+      <h2 id="beds">NHS daily bed occupancy, general and acute, England, 2017–present</h2>
       <p class="description">Since March NHS England has published daily updates on overnight hospital beds occupied by Covid and non-Covid patients. The former is updated daily; the latter monthly. In previous years only a quarterly average for bed availability and occupancy was published: we obtained the 2017–19 daily data through a Freedom of Information request to NHS England. There is a small break in the data coverage in 2020 between November 12th and November 17th.</p>
       <p class="description">You can see a regional breakdown of this data on the <a href="regions.html">Regions page</a>.</p>
     </div>
@@ -69,7 +129,7 @@
   <!-- NHS beds open -->
   <div class="chart-section">
     <div class="section-header">
-      <h2>NHS daily beds open, England, 2017–present</h2>
+      <h2 id="open">NHS daily beds open, England, 2017–present</h2>
       <p class="description">Since March NHS England has published daily updates on overnight hospital beds open. This number includes occupied and unoccupied beds. In previous years only a quarterly average for bed availability was published: we obtained the 2017–19 daily data through a Freedom of Information request to NHS England.</p>
     </div>
     <iframe class="chart-embed" src="charts/Hospitals/NHSBedsOpenFig.html"></iframe>
@@ -82,7 +142,7 @@
   <!-- Independent sector -->
   <div class="chart-section">
     <div class="section-header">
-      <h2>Independent sector daily bed occupancy, England, 2020–present</h2>
+      <h2 id="private">Independent sector daily bed occupancy, England, 2020–present</h2>
       <p class="description">Since April NHS England has published daily updates on overnight hospital beds occupied by Covid and non-Covid patients in the independent/non-NHS sector. This is the first time the NHS has collected non-NHS occupancy data, so data from previous years is not available.</p>
     </div>
     <iframe class="chart-embed" src="charts/Hospitals/privBedsOccFig.html"></iframe>
@@ -95,7 +155,7 @@
   <!-- MV beds -->
   <div class="chart-section">
     <div class="section-header">
-      <h2>Mechanical ventilation beds occupied by Covid-19 versus non-Covid-19 patients, England, 2020–present</h2>
+      <h2 id="MVbeds">Mechanical ventilation beds occupied by Covid-19 versus non-Covid-19 patients, England, 2020–present</h2>
       <p class="description">This data reflects 'beds capable of mechanical ventilation occupied', regardless of whether the patient in the bed is receiving mechanical ventilation.</p>
     </div>
     <iframe class="chart-embed" src="charts/MVbedsFig.html"></iframe>
@@ -108,7 +168,7 @@
   <!-- Admissions by age -->
   <div class="chart-section">
     <div class="section-header">
-      <h2>Daily hospital admissions by age, England</h2>
+      <h2 id="admissionsByAge">Daily hospital admissions by age, England</h2>
     </div>
     <iframe class="chart-embed" src="charts/admissionsByAgeFig.html"></iframe>
     <div class="sources">
@@ -120,7 +180,7 @@
   <!-- NHS Pathways -->
   <div class="chart-section">
     <div class="section-header">
-      <h2>Daily potential Covid-19 telephone triages and completed online assessments NHS pathways, England</h2>
+      <h2 id="pathways">Daily potential Covid-19 telephone triages and completed online assessments NHS pathways, England</h2>
       <p class="description">This dataset shows the total number of NHS Pathways triages through 111 and 999, and the total number of online assessments via <a href="https://111.nhs.uk/covid-19">NHS 111 online</a>, where either has received a potential COVID final disposition since 18 March 2020.</p>
     </div>
     <iframe class="chart-embed" src="charts/pathwaysFig.html"></iframe>
@@ -133,7 +193,7 @@
   <!-- Depression -->
   <div class="chart-section">
     <div class="section-header">
-      <h2>Prevalence of depression symptoms before and during pandemic, Britain</h2>
+      <h2 id="depression">Prevalence of depression symptoms before and during pandemic, Britain</h2>
     </div>
     <iframe class="chart-embed" src="charts/depressionFig.html"></iframe>
     <div class="sources">
