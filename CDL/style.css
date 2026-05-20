@@ -3,14 +3,15 @@
 :root {
   --green: #5cdb95;
   --green-dark: #4bc882;
+  --teal-dark: #379683;
   --navy: #2d3436;
   --accent: #5cdb95;
-  --bg: #ffffff;
+  --bg: #379683;
   --white: #ffffff;
-  --text: #2c2c2c;
-  --text-muted: #636e72;
-  --border: #dfe6e9;
-  --source-bg: #f5f6fa;
+  --text: #ffffff;
+  --text-muted: rgba(255,255,255,0.7);
+  --border: rgba(255,255,255,0.2);
+  --source-bg: rgba(255,255,255,0.1);
   --serif: 'Roboto Slab', Georgia, serif;
   --sans: 'Public Sans', -apple-system, sans-serif;
 }
@@ -19,15 +20,9 @@
 
 body {
   font-family: var(--sans);
-  background-color: #5cdb95 !important;
+  background-color: var(--teal-dark) !important;
   color: var(--text);
   line-height: 1.6;
-}
-
-#layout, #content, .page-content, .entry-content,
-.themify_builder_content, .module_row, .tb-column-inner,
-.module, .tb_text_wrap {
-  background-color: #5cdb95 !important;
 }
 
 /* ---- Header ---- */
@@ -82,101 +77,6 @@ main {
   padding: 0 1.5rem 4rem;
 }
 
-.page-intro {
-  margin-bottom: 2.5rem;
-  max-width: 680px;
-}
-.page-intro p {
-  font-family: var(--serif);
-  font-size: 1.05rem;
-  color: var(--text);
-  line-height: 1.7;
-}
-.page-intro .ui-note {
-  font-family: var(--sans);
-  font-size: 0.82rem;
-  color: var(--text);
-  margin-top: 1rem;
-  padding: 0.75rem 1rem;
-  background: rgba(0,0,0,0.1);
-  border-radius: 4px;
-}
-
-/* ---- Chart / graph sections ---- */
-.chart-section,
-.graphs {
-  margin-bottom: 3rem;
-}
-.chart-section h2,
-.graphs h2 {
-  font-family: var(--serif);
-  font-size: 1.15rem;
-  font-weight: 600;
-  color: var(--text);
-  line-height: 1.4;
-  margin-bottom: 0.5rem;
-}
-.chart-section .description,
-.graphs .description {
-  font-size: 0.88rem;
-  color: var(--text);
-  line-height: 1.65;
-  margin-bottom: 0.75rem;
-}
-.chart-section .description a,
-.graphs .description a {
-  color: var(--text);
-  text-decoration: underline;
-}
-.chart-section .section-header,
-.graphs .section-header {
-  padding-bottom: 0.5rem;
-}
-.chart-section .sources,
-.graphs .sources {
-  font-size: 0.78rem;
-  color: var(--text);
-  padding: 0.5rem 0;
-}
-.chart-section .sources a,
-.graphs .sources a {
-  color: var(--text);
-  text-decoration: underline;
-}
-
-.chart-embed {
-  width: 100%;
-  border: none;
-  height: 550px;
-  display: block;
-}
-
-/* ---- Stats banner ---- */
-.stats-banner {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 1rem;
-  margin-bottom: 2.5rem;
-}
-.stat-card {
-  background: var(--white);
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  padding: 1.25rem;
-  text-align: center;
-}
-.stat-card .value {
-  font-family: var(--serif);
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: var(--text);
-}
-.stat-card .label {
-  font-size: 0.78rem;
-  color: var(--text-muted);
-  margin-top: 0.25rem;
-}
-
 /* ---- FAQ page ---- */
 .faq-section {
   max-width: 680px;
@@ -197,7 +97,7 @@ main {
   line-height: 1.7;
 }
 .faq-item p a {
-  color: #2d8659;
+  color: var(--green);
   text-decoration: none;
 }
 
@@ -226,11 +126,12 @@ main {
 
 /* ---- Footer ---- */
 footer {
-  background: #2d3436;
+  background: var(--teal-dark) !important;
   color: rgba(255,255,255,0.6);
   padding: 2rem 0;
   font-size: 0.8rem;
   text-align: center;
+  border-top: 1px solid rgba(255,255,255,0.15);
 }
 footer a {
   color: rgba(255,255,255,0.8);
@@ -258,65 +159,28 @@ footer .original-credit {
   header h1 { font-size: 1.35rem; }
   nav a { padding: 0.6rem 0.75rem; font-size: 0.8rem; }
   .chart-embed { height: 420px; }
-  .stats-banner { grid-template-columns: repeat(2, 1fr); }
 }
 
-/* ---- Contents block ---- */
-.intro-text { margin-bottom: 1.5rem; }
-.contents-block { margin: 2rem 0; }
-.contents-block h3 { margin-bottom: 1rem; }
-.contents-columns { display: flex; gap: 2rem; flex-wrap: wrap; }
-.contents-col { flex: 1; min-width: 280px; }
-.contents-col h6 { margin-top: 1.2rem; margin-bottom: 0.4rem; font-size: 1rem; }
-.contents-col ul { margin: 0 0 0.5rem 1.2rem; padding: 0; }
-.contents-col li { margin-bottom: 0.3rem; }
-
-/* ---- Intro/ToC band ---- */
-.intro-band {
-  color: var(--text);
-  padding: 2rem;
-  margin-bottom: 0;
-}
-
-/* ---- Section divider heading ---- */
-.section-divider {
-  background-color: #5CDB95;
-  padding: 0.5rem 2rem 1.5rem 2rem;
-  margin: 0;
-}
-.section-divider h1 {
-  color: #fff;
-  margin: 0;
-}
-
-/* ---- Back to top ---- */
-.back-to-top {
-  padding: 0.5rem 0 0.75rem;
-  font-size: 0.78rem;
-}
-.back-to-top a {
-  color: var(--text);
-  text-decoration: none;
-}
-.back-to-top a:hover {
-  text-decoration: underline;
-}
-
-/* Wayback fidelity pass: coviddashboard.live September 2021 */
+/* ================================================================
+   WAYBACK FIDELITY PASS — coviddashboard.live September 2021
+   ================================================================ */
 
 :root {
   --sage-green: #5cdb95;
   --sage-green-dark: #4bc882;
+  --sage-teal: #379683;
   --sage-black: #000000;
-  --sage-text: #202020;
-  --sage-muted: rgba(0, 0, 0, 0.68);
-  --sage-link: #000000;
+  --sage-text-dark: #202020;
+  --sage-text-light: #ffffff;
+  --sage-muted: rgba(255,255,255,0.7);
+  --sage-link-dark: #000000;
+  --sage-link-light: #ffffff;
 }
 
 html,
 body {
-  background: var(--sage-green) !important;
-  color: var(--sage-text) !important;
+  background: var(--sage-teal) !important;
+  color: var(--sage-text-light) !important;
   font-family: "Public Sans", Arial, sans-serif;
   line-height: 1.65;
 }
@@ -385,16 +249,8 @@ nav a:hover {
 }
 
 main,
-#layout,
-#content,
-.page-content,
-.entry-content,
-.themify_builder_content,
-.module_row,
-.tb-column-inner,
-.module,
-.tb_text_wrap {
-  background: var(--sage-green) !important;
+body {
+  background: var(--sage-teal) !important;
 }
 
 main {
@@ -402,9 +258,10 @@ main {
   padding-bottom: 56px;
 }
 
+/* ---- Intro band ---- */
 .intro-band {
   background: transparent !important;
-  color: var(--sage-text) !important;
+  color: var(--sage-text-light) !important;
   padding: 26px 0 0;
   margin: 0;
 }
@@ -413,11 +270,11 @@ main {
 .intro-band li,
 .intro-band h3,
 .intro-band h6 {
-  color: var(--sage-text) !important;
+  color: var(--sage-text-light) !important;
 }
 
 .intro-band a {
-  color: var(--sage-link) !important;
+  color: var(--sage-text-light) !important;
   text-decoration: underline;
 }
 
@@ -433,12 +290,13 @@ main {
   margin-bottom: 18px;
 }
 
+/* ---- Contents block ---- */
 .contents-block {
   margin: 24px 0 36px;
 }
 
 .contents-block h3 {
-  color: var(--sage-text) !important;
+  color: var(--sage-text-light) !important;
   font-family: "Roboto Slab", Georgia, serif;
   font-size: 24px;
   margin: 0 0 14px;
@@ -451,6 +309,7 @@ main {
 }
 
 .contents-col h6 {
+  color: var(--sage-text-light) !important;
   font-family: "Roboto Slab", Georgia, serif;
   font-size: 16px;
   margin: 18px 0 6px;
@@ -465,6 +324,12 @@ main {
   margin-bottom: 5px;
 }
 
+.contents-col a {
+  color: var(--sage-text-light) !important;
+  text-decoration: underline;
+}
+
+/* ---- Section divider heading ---- */
 .section-divider {
   background: transparent !important;
   padding: 12px 0 18px;
@@ -472,28 +337,29 @@ main {
 }
 
 .section-divider h1 {
-  color: #ffffff !important;
+  color: var(--sage-text-light) !important;
   font-family: "Roboto Slab", Georgia, serif;
   font-size: 44px;
   line-height: 1.15;
   margin: 0;
 }
 
-.chart-section {
+/* ---- Chart / graph sections ---- */
+.graphs {
   background: transparent !important;
   border: 0 !important;
   border-radius: 0 !important;
   overflow: visible !important;
   margin: 0 0 46px;
-  color: var(--sage-text) !important;
+  color: var(--sage-text-light) !important;
 }
 
-.chart-section .section-header {
+.graphs .section-header {
   padding: 0;
 }
 
-.chart-section h2 {
-  color: var(--sage-text) !important;
+.graphs h2 {
+  color: var(--sage-text-light) !important;
   font-family: "Roboto Slab", Georgia, serif;
   font-size: 24px;
   line-height: 1.35;
@@ -501,19 +367,19 @@ main {
   margin: 0 0 14px;
 }
 
-.chart-section p,
-.chart-section .description {
-  color: var(--sage-text) !important;
+.graphs p,
+.graphs .description {
+  color: var(--sage-text-light) !important;
   font-size: 16px;
   line-height: 1.65;
   margin-bottom: 14px;
 }
 
-.chart-section a,
-.chart-section .description a,
-.chart-section .sources a,
+.graphs a,
+.graphs .description a,
+.graphs .sources a,
 .back-to-top a {
-  color: var(--sage-link) !important;
+  color: var(--sage-text-light) !important;
   text-decoration: underline;
 }
 
@@ -526,39 +392,52 @@ main {
   margin: 18px 0;
 }
 
-.chart-section .sources {
+.graphs .sources {
   background: transparent !important;
   border: 0 !important;
-  color: var(--sage-text) !important;
+  color: var(--sage-text-light) !important;
   padding: 0;
   font-size: 15px;
 }
 
-.chart-section .sources strong {
-  color: var(--sage-text) !important;
+.graphs .sources strong {
+  color: var(--sage-text-light) !important;
   font-weight: 700;
 }
 
+/* ---- Back to top ---- */
 .back-to-top {
   padding: 0;
   margin: 12px 0 0;
   font-size: 15px;
 }
 
+.back-to-top a {
+  color: var(--sage-text-light) !important;
+  text-decoration: none;
+}
+
+.back-to-top a:hover {
+  text-decoration: underline;
+}
+
+/* ---- Footer (fidelity pass) ---- */
 footer {
-  background: var(--sage-green) !important;
-  color: var(--sage-text) !important;
+  background: var(--sage-teal) !important;
+  color: var(--sage-text-light) !important;
   text-align: center;
   padding-top: 36px;
   padding-bottom: 42px;
   font-size: 14px;
+  border-top: 1px solid rgba(255,255,255,0.15);
 }
 
 footer a,
 footer .original-credit {
-  color: var(--sage-text) !important;
+  color: var(--sage-muted) !important;
 }
 
+/* ---- Responsive ---- */
 @media (max-width: 760px) {
   header .container,
   nav .container,
@@ -587,7 +466,7 @@ footer .original-credit {
     font-size: 34px;
   }
 
-  .chart-section h2 {
+  .graphs h2 {
     font-size: 21px;
   }
 
