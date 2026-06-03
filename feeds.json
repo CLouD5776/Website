@@ -10,7 +10,7 @@
     {
       "name": "BBC News",
       "url": "http://feeds.bbci.co.uk/news/rss.xml",
-      "visibility": "hazel",
+      "visibility": "chris",
       "category": "News"
     },
     {
