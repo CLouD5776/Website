@@ -1,6 +1,17 @@
 {
   "BBC News": [
     {
+      "title": "Lebanon says three soldiers killed in Israeli attack on car",
+      "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "2026-06-06T10:57:28",
+      "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png",
+      "enclosure": null,
+      "archived_at": "2026-06-06T11:07:31.353191",
+      "feed_category": "News",
+      "feed_visibility": "chris"
+    },
+    {
       "title": "Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
       "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
       "pubDate": "2026-06-06T10:54:06",
@@ -5486,17 +5497,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12e2/live/52b49ee0-5cde-11f1-a7af-a54f85b42692.png",
       "enclosure": null,
       "archived_at": "2026-05-31T11:16:40.457356",
-      "feed_category": "News",
-      "feed_visibility": "hazel"
-    },
-    {
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "link": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "2026-05-31T10:45:35",
-      "description": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8859/live/667c3560-5cdd-11f1-8b8c-6d33e1d5abb6.jpg",
-      "enclosure": null,
-      "archived_at": "2026-05-31T10:50:27.466412",
       "feed_category": "News",
       "feed_visibility": "hazel"
     }
