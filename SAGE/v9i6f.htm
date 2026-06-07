@@ -1,31 +1,22 @@
 <html style="--wm-toolbar-height: 67px;"><head>
-
-
-
 <script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
-
-
-
-
-
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
 <title>Scrabble  of the Fittest</title>
 </head>
 <body bgcolor="#FFCC99">
-
-
-
-
 <table cellpadding="5" width="100%">
 <tbody><tr><td align="RIGHT" bgcolor="PURPLE"><font color="WHITE">Feature Article - March 2005</font></td></tr>
 <tr><td align="RIGHT">by <a href="index.htm">Do-While Jones</a></td></tr>
 </tbody></table>
-<h1 align="CENTER">Scrabble <sup>TM</sup> of the Fittest
+<h1 align="CENTER">Scrabble <sup>TM</sup> of the Fittest
+
 </h1>
 <p></p><center>
 <blockquote>
-<font color="PURPLE" size="3"><b>
-If you have a Scrabble <sup>TM</sup> game, and lots of time on your hands, you can learn a lot about microevolution and macroevolution.
+<font color="PURPLE" size="3"><b>
+
+If you have a Scrabble <sup>TM</sup> game, and lots of time on your hands, you can learn a lot about microevolution and macroevolution.
+
 </b></font>
 </blockquote>
 </center><p></p>
@@ -34,7 +25,7 @@ If you have a Scrabble <sup>TM</sup> game, and lots of time on your hands, you c
 <p>A standard Scrabble game has 98 letter tiles (plus two blank "wild card" tiles, which we didn't use).  The letters are not equally represented on the tiles.  That is, there are nine A's and twelve E's, but only one Q and one X.</p>
 <p>These letters represent genes.  We refer to the collection of letters as the "letter pool" or "gene pool" interchangeably to reinforce the notion that the letters represent genes.</p>
 <p>To do the experiment, select five letters at random from the gene pool, and see how many different words you can make with the five letters.</p>
-<p>Since we didn't want my imperfect knowledge of the English language to bias the results, we used an impartial computer to find the words.  There is a file called "ospd.txt" that anyone can freely download from <a href="http://www.puzzlers.org/wordlists/dictinfo.php">www.puzzlers.org</a>.   It is the Official Scrabble Players Dictionary, consisting of 79,338 English words that are 2 to 8 letters long.  We wrote a program that arranges the chosen letters in every possible combination, and displays just those combinations that are found in the dictionary file.</p>
+<p>Since we didn't want my imperfect knowledge of the English language to bias the results, we used an impartial computer to find the words.  There is a file called "ospd.txt" that anyone can freely download from <a data-original-url="http://www.puzzlers.org/wordlists/dictinfo.php" data-wayback-date="20040604" href="https://web.archive.org/web/20040604171904/http://www.puzzlers.org/wordlists/dictinfo.php">www.puzzlers.org</a>.   It is the Official Scrabble Players Dictionary, consisting of 79,338 English words that are 2 to 8 letters long.  We wrote a program that arranges the chosen letters in every possible combination, and displays just those combinations that are found in the dictionary file.</p>
 <p>Since drawing five tiles from the bag, typing them into the computer, and putting them back in the bag takes time, we wrote another routine which draws simulated letter tiles at random from a virtual letter pool.  This gene pool has the same 98 letter tiles used by the Scrabble game.  A random number generator shuffles the 98 tiles after each turn.</p>
 <p>We combined the random letter generator with the dictionary lookup routine in a program that pulls five letters from the gene pool and determines how many of them are in the dictionary and tabulates the results.  We ran the program twice, saving the results in files called "Run 1" and "Run 2".</p>
 <p>
