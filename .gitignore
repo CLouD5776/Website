@@ -1,0 +1,11 @@
+# Pi-only backend files — never deploy to the public site.
+# Live versions live on the Pi; recovery is via the daily backup to cloud5776.
+server.py
+admin.html
+push_to_git.py
+
+# Local artifacts
+.env
+*.log
+*.tmp
+news.json.tmp
