@@ -3,9 +3,15 @@
 server.py
 admin.html
 push_to_git.py
+lib/
+
+# Local-only data — never pushed, recovery via the daily backup to cloud5776.
+archive_deep.json
 
 # Local artifacts
 .env
 *.log
 *.tmp
 news.json.tmp
+__pycache__/
+*.pyc
