@@ -6,6 +6,7 @@ push_to_git.py
 lib/
 
 # Local-only data — never pushed, recovery via the daily backup to cloud5776.
+archive.json
 archive_deep.json
 
 # Local artifacts
