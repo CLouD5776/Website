@@ -11,25 +11,29 @@
       "name": "BBC News",
       "url": "http://feeds.bbci.co.uk/news/rss.xml",
       "visibility": "chris",
-      "category": "News"
+      "category": "News",
+      "maxAgeDays": 2
     },
     {
       "name": "Daily Mail",
       "url": "https://www.dailymail.co.uk/news/index.rss",
       "visibility": "hazel",
-      "category": "News"
+      "category": "News",
+      "maxAgeDays": 2
     },
     {
       "name": "Daily Mail Football",
       "url": "https://www.dailymail.co.uk/sport/football/index.rss",
       "visibility": "both",
-      "category": "Sport"
+      "category": "Sport",
+      "maxAgeDays": 2
     },
     {
       "name": "BBC Sport",
       "url": "https://feeds.bbci.co.uk/sport/34032412-5e2a-324d-bb3e-d0d4b16df2d4/rss.xml",
       "visibility": "both",
-      "category": "Sport"
+      "category": "Sport",
+      "maxAgeDays": 2
     },
     {
       "name": "Unherd",
