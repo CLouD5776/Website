@@ -1,200 +1,140 @@
 @import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Roboto+Slab:wght@300;400;700&family=Sorts+Mill+Goudy:ital@0;1&display=swap');
 
+/* ================================================================
+   coviddashboard.live restoration — coloUr model
+   Confirmed via themify-concate.min.css + raw Wayback capture, corrected
+   by direct visual inspection of the rendered archive (CDL/reference/):
+   canvas, page-frame interior AND footer are all mint — there is no white
+   anywhere in the original page except inside the chart iframes. Teal runs
+   edge-to-edge behind the intro/contents block and every graph section.
+   ================================================================ */
+
 :root {
-  --green: #5cdb95;
-  --green-dark: #4bc882;
-  --teal-dark: #379683;
-  --navy: #2d3436;
-  --accent: #5cdb95;
-  --bg: #379683;
-  --white: #ffffff;
-  --text: #ffffff;
-  --text-muted: rgba(255,255,255,0.7);
-  --border: rgba(255,255,255,0.2);
-  --source-bg: rgba(255,255,255,0.1);
+  --mint: #5cdb95;
+  --teal: #379683;
+  --black: #000000;
+  --content-text: #202020;
+  --content-muted: #555555;
   --serif: 'Roboto Slab', Georgia, serif;
-  --sans: 'Public Sans', -apple-system, sans-serif;
+  --sans: 'Public Sans', Arial, sans-serif;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
+html,
 body {
+  background: var(--mint);
+  color: var(--black);
   font-family: var(--sans);
-  background-color: var(--teal-dark) !important;
-  color: var(--text);
-  line-height: 1.6;
+  line-height: 1.65;
+}
+
+/* ---- Page frame (the 1230px/94% layout box — mint, no white, no shadow) ---- */
+.page-frame {
+  max-width: 1230px;
+  width: 94%;
+  margin: 27px auto;
+  background: var(--mint);
 }
 
 /* ---- Header ---- */
 header {
-  background: var(--green);
-  color: #000;
-  padding: 2rem 0;
+  background: var(--mint);
+  color: var(--black);
+  padding: 34px 0 12px;
 }
+
 header .container {
-  max-width: 960px;
+  max-width: 1160px;
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 0 32px;
 }
+
 header h1 {
+  position: relative;
+  display: inline-block;
   font-family: var(--serif);
-  font-size: 1.75rem;
+  font-size: 30px;
+  line-height: 1.25;
   font-weight: 700;
-  letter-spacing: -0.02em;
+  padding-bottom: 8px;
+}
+
+header h1:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 46px;
+  height: 2px;
+  background: var(--black);
 }
 
 /* ---- Navigation ---- */
 nav {
-  background: var(--green);
+  background: var(--mint);
 }
+
 nav .container {
-  max-width: 960px;
+  max-width: 1160px;
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 10px 32px 22px;
   display: flex;
-  gap: 0;
+  justify-content: flex-end;
+  gap: 24px;
   overflow-x: auto;
 }
+
 nav a {
-  color: rgba(0,0,0,0.6);
+  color: var(--black);
   text-decoration: none;
-  padding: 0.75rem 1rem;
-  font-size: 0.85rem;
+  font-size: 15px;
   font-weight: 600;
   white-space: nowrap;
-  transition: color 0.15s, border-color 0.15s;
+  padding: 0 0 6px;
   border-bottom: 2px solid transparent;
+  transition: border-color 0.15s;
 }
-nav a:hover, nav a.active {
-  color: #000;
-  border-bottom-color: #000;
+
+nav a:hover,
+nav a.active {
+  border-bottom-color: var(--black);
 }
 
 /* ---- Main content ---- */
 main {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 0 1.5rem 4rem;
+  background: var(--mint);
 }
 
-/* ---- FAQ page ---- */
-.faq-section {
-  max-width: 680px;
-}
-.faq-item {
-  margin-bottom: 1.75rem;
-}
-.faq-item h3 {
-  font-family: var(--serif);
-  font-size: 1.05rem;
-  font-weight: 600;
-  color: var(--text);
-  margin-bottom: 0.4rem;
-}
-.faq-item p {
-  font-size: 0.92rem;
-  color: var(--text);
-  line-height: 1.7;
-}
-.faq-item p a {
-  color: var(--green);
-  text-decoration: none;
+/* ---- Teal content bands (intro/contents, section title, graphs) ----
+   Full-bleed edge to edge of .page-frame, no gap between them. Inner
+   content is constrained to a 1160px column with 32px side padding. ---- */
+.intro-band,
+.section-divider,
+.graphs {
+  width: 100%;
+  background: var(--teal);
+  color: #ffffff;
+  margin: 0;
+  padding: 40px 0;
 }
 
-/* ---- Blog post ---- */
-.blog-post {
-  max-width: 680px;
-}
-.blog-post .meta {
-  font-size: 0.82rem;
-  color: var(--text-muted);
-  margin-bottom: 1.5rem;
-}
-.blog-post p {
-  font-family: var(--serif);
-  font-size: 1rem;
-  line-height: 1.8;
-  margin-bottom: 1rem;
-}
-.blog-post blockquote {
-  border-left: 3px solid var(--green);
-  padding-left: 1.25rem;
-  margin: 1.25rem 0;
-  font-style: italic;
-  color: var(--text-muted);
+.section-divider {
+  padding: 32px 0;
 }
 
-/* ---- Footer ---- */
-footer {
-  background: var(--teal-dark) !important;
-  color: rgba(255,255,255,0.6);
-  padding: 2rem 0;
-  font-size: 0.8rem;
-  text-align: center;
-  border-top: 1px solid rgba(255,255,255,0.15);
-}
-footer a {
-  color: rgba(255,255,255,0.8);
-  text-decoration: none;
-}
-footer .original-credit {
-  margin-top: 0.75rem;
-  font-size: 0.75rem;
-  color: rgba(255,255,255,0.4);
+.graphs:last-of-type {
+  padding-bottom: 56px;
 }
 
-/* ---- Archive notice ---- */
-.archive-notice {
-  background: #fff3cd;
-  border: 1px solid #ffc107;
-  border-radius: 4px;
-  padding: 0.75rem 1rem;
-  font-size: 0.82rem;
-  color: #664d03;
-  margin-bottom: 2rem;
-}
-
-/* ---- Responsive ---- */
-@media (max-width: 640px) {
-  header h1 { font-size: 1.35rem; }
-  nav a { padding: 0.6rem 0.75rem; font-size: 0.8rem; }
-  .chart-embed { height: 420px; }
-}
-
-/* ================================================================
-   WAYBACK FIDELITY PASS — coviddashboard.live September 2021
-   ================================================================ */
-
-:root {
-  --sage-green: #5cdb95;
-  --sage-green-dark: #4bc882;
-  --sage-teal: #379683;
-  --sage-black: #000000;
-  --sage-text-dark: #202020;
-  --sage-text-light: #ffffff;
-  --sage-muted: rgba(255,255,255,0.7);
-  --sage-link-dark: #000000;
-  --sage-link-light: #ffffff;
-}
-
-html,
-body {
-  background: var(--sage-teal) !important;
-  color: var(--sage-text-light) !important;
-  font-family: "Public Sans", Arial, sans-serif;
-  line-height: 1.65;
-}
-
-header {
-  background: var(--sage-green) !important;
-  color: var(--sage-black) !important;
-  padding: 34px 0 12px;
-}
-
-header .container,
-nav .container,
-main,
-footer {
+.intro-text,
+.contents-block,
+.section-divider > h1,
+.section-divider > p,
+.section-header,
+.sources,
+.back-to-top,
+.chart-embed {
   max-width: 1160px;
   margin-left: auto;
   margin-right: auto;
@@ -202,102 +142,44 @@ footer {
   padding-right: 32px;
 }
 
-header h1 {
-  color: var(--sage-black) !important;
-  font-family: "Roboto Slab", Georgia, serif;
-  font-size: 30px;
-  line-height: 1.25;
-  font-weight: 700;
-  letter-spacing: 0;
-  margin: 0;
+.section-divider > p {
+  margin-top: 14px;
+  font-size: 16px;
+  line-height: 1.65;
 }
 
-.subtitle {
-  display: none !important;
-}
-
-nav {
-  position: static !important;
-  background: var(--sage-green) !important;
-  box-shadow: none !important;
-  border: 0 !important;
-}
-
-nav .container {
-  display: flex;
-  justify-content: flex-end;
-  gap: 24px;
-  overflow: visible;
-  padding-top: 10px;
-  padding-bottom: 22px;
-}
-
-nav a {
-  color: var(--sage-black) !important;
-  opacity: 1;
-  padding: 0 0 6px;
-  border-bottom: 2px solid transparent;
-  font-size: 15px;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-nav a.active,
-nav a:hover {
-  color: var(--sage-black) !important;
-  border-bottom-color: var(--sage-black);
-}
-
-main,
-body {
-  background: var(--sage-teal) !important;
-}
-
-main {
-  padding-top: 0;
-  padding-bottom: 56px;
-}
-
-/* ---- Intro band ---- */
-.intro-band {
-  background: transparent !important;
-  color: var(--sage-text-light) !important;
-  padding: 26px 0 0;
-  margin: 0;
+.section-divider > p a {
+  color: #ffffff;
 }
 
 .intro-band p,
 .intro-band li,
 .intro-band h3,
 .intro-band h6 {
-  color: var(--sage-text-light) !important;
+  color: #ffffff;
 }
 
 .intro-band a {
-  color: var(--sage-text-light) !important;
+  color: #ffffff;
   text-decoration: underline;
 }
 
 .intro-text {
-  max-width: 820px;
+  text-align: center;
   margin-bottom: 28px;
 }
 
-.intro-text p:first-child {
-  font-family: "Roboto Slab", Georgia, serif;
+.intro-text h3 {
+  font-family: var(--serif);
   font-size: 22px;
   line-height: 1.55;
   margin-bottom: 18px;
 }
 
 /* ---- Contents block ---- */
-.contents-block {
-  margin: 24px 0 36px;
-}
-
 .contents-block h3 {
-  color: var(--sage-text-light) !important;
-  font-family: "Roboto Slab", Georgia, serif;
+  text-align: center;
+  font-family: var(--serif);
   font-size: 24px;
   margin: 0 0 14px;
 }
@@ -309,15 +191,13 @@ main {
 }
 
 .contents-col h6 {
-  color: var(--sage-text-light) !important;
-  font-family: "Roboto Slab", Georgia, serif;
+  font-family: var(--serif);
   font-size: 16px;
   margin: 18px 0 6px;
 }
 
 .contents-col ul {
   margin: 0 0 14px 20px;
-  padding: 0;
 }
 
 .contents-col li {
@@ -325,42 +205,25 @@ main {
 }
 
 .contents-col a {
-  color: var(--sage-text-light) !important;
+  color: #ffffff;
   text-decoration: underline;
 }
 
 /* ---- Section divider heading ---- */
-.section-divider {
-  background: transparent !important;
-  padding: 12px 0 18px;
-  margin: 0;
-}
-
 .section-divider h1 {
-  color: var(--sage-text-light) !important;
-  font-family: "Roboto Slab", Georgia, serif;
+  text-align: center;
+  font-family: var(--serif);
   font-size: 44px;
   line-height: 1.15;
-  margin: 0;
 }
 
-/* ---- Chart / graph sections ---- */
+/* ---- Graph sections ---- */
 .graphs {
-  background: transparent !important;
-  border: 0 !important;
-  border-radius: 0 !important;
-  overflow: visible !important;
-  margin: 0 0 46px;
-  color: var(--sage-text-light) !important;
-}
-
-.graphs .section-header {
-  padding: 0;
+  text-align: center;
 }
 
 .graphs h3 {
-  color: var(--sage-text-light) !important;
-  font-family: "Roboto Slab", Georgia, serif;
+  font-family: var(--serif);
   font-size: 24px;
   line-height: 1.35;
   font-weight: 700;
@@ -369,7 +232,6 @@ main {
 
 .graphs p,
 .graphs .description {
-  color: var(--sage-text-light) !important;
   font-size: 16px;
   line-height: 1.65;
   margin-bottom: 14px;
@@ -379,46 +241,24 @@ main {
 .graphs .description a,
 .graphs .sources a,
 .back-to-top a {
-  color: var(--sage-text-light) !important;
+  color: #ffffff;
   text-decoration: underline;
 }
 
-.chart-embed {
-  display: block;
-  width: 100%;
-  height: 560px;
-  border: 0;
-  background: #ffffff;
-  margin: 18px 0;
-}
-
-.chart-embed--fixed {
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .graphs .sources {
-  background: transparent !important;
-  border: 0 !important;
-  color: var(--sage-text-light) !important;
-  padding: 0;
   font-size: 15px;
 }
 
 .graphs .sources strong {
-  color: var(--sage-text-light) !important;
   font-weight: 700;
 }
 
-/* ---- Back to top ---- */
 .back-to-top {
-  padding: 0;
-  margin: 12px 0 0;
+  margin-top: 12px;
   font-size: 15px;
 }
 
 .back-to-top a {
-  color: var(--sage-text-light) !important;
   text-decoration: none;
 }
 
@@ -426,131 +266,23 @@ main {
   text-decoration: underline;
 }
 
-/* ---- Footer (fidelity pass) ---- */
-footer {
-  background: var(--sage-teal) !important;
-  color: var(--sage-text-light) !important;
-  text-align: center;
-  padding-top: 36px;
-  padding-bottom: 42px;
-  font-size: 14px;
-  border-top: 1px solid rgba(255,255,255,0.15);
-}
-
-footer a,
-footer .original-credit {
-  color: var(--sage-muted) !important;
-}
-
-/* ---- Responsive ---- */
-@media (max-width: 760px) {
-  header .container,
-  nav .container,
-  main,
-  footer {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-
-  nav .container {
-    justify-content: flex-start;
-    gap: 18px;
-    overflow-x: auto;
-  }
-
-  header h1 {
-    font-size: 24px;
-  }
-
-  .contents-columns {
-    grid-template-columns: 1fr;
-    gap: 8px;
-  }
-
-  .section-divider h1 {
-    font-size: 34px;
-  }
-
-  .graphs h3 {
-    font-size: 21px;
-  }
-
-  .chart-embed {
-    height: 430px;
-  }
-}
-
-/* ================================================================
-   T8 — BOXED LAYOUT, FOOTER & SIDEBAR FIDELITY PASS
-   Confirmed via themify-concate.min.css + raw Wayback capture (CDL/reference/):
-   canvas=mint (.skin-styles), box=white (.boxed-layout #pagewrap),
-   header/nav=mint w/ solid black text, graph rows=teal w/ white text
-   (.tb_4f2b9e3 / .tb_2e6676), footer=white w/ dark text (#footerwrap).
-   ================================================================ */
-
-html,
-body {
-  background: var(--sage-green) !important;
-  color: #666 !important;
-}
-
-.page-frame {
-  max-width: 1230px;
-  width: 94%;
-  margin: 27px auto;
+/* ---- Chart embeds — always white, that's the Plotly page ---- */
+.chart-embed {
+  display: block;
+  width: 100%;
+  height: 560px;
+  border: 0;
   background: #ffffff;
-  box-shadow: 0 3px 16px rgba(0,0,0,0.10);
-  overflow: hidden;
+  margin-top: 18px;
+  margin-bottom: 18px;
 }
 
-nav a {
-  color: rgba(0,0,0,1) !important;
+.chart-embed--fixed {
+  padding-left: 0;
+  padding-right: 0;
 }
 
-nav a.active,
-nav a:hover {
-  color: rgba(0,0,0,1) !important;
-}
-
-#site-logo-accent,
-header h1 {
-  position: relative;
-  display: inline-block;
-  padding-bottom: 8px;
-}
-
-header h1:after {
-  content: '';
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 46px;
-  height: 2px;
-  background: #000;
-}
-
-main,
-body {
-  background: #ffffff !important;
-}
-
-.intro-band,
-.section-divider,
-.graphs {
-  background: var(--sage-teal) !important;
-  margin-bottom: 0 !important;
-  border-radius: 0 !important;
-}
-
-.section-divider {
-  padding-top: 0;
-}
-
-.graphs:last-of-type {
-  padding-bottom: 40px;
-}
-
-/* ---- Sidebar (Categories widget, confirmed present on homepage) ---- */
+/* ---- Sidebar (Categories widget) — sits on mint, dark text ---- */
 .sidebar {
   max-width: 1160px;
   margin: 0 auto;
@@ -562,7 +294,7 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.09em;
-  color: #202020;
+  color: var(--black);
   margin-bottom: 0.75rem;
 }
 
@@ -571,23 +303,20 @@ body {
 }
 
 .sidebar .widget a {
-  color: #ed1e24;
-  text-decoration: none;
+  color: var(--black);
+  text-decoration: underline;
   font-size: 0.9rem;
 }
 
-.sidebar .widget a:hover {
-  text-decoration: underline;
-}
-
-/* ---- Footer (rebuilt: white bg, dark text, confirmed via #footerwrap) ---- */
+/* ---- Footer — mint, dark/black text and links (matches the original's
+   black social icons; no white anywhere) ---- */
 footer {
-  background: #ffffff !important;
-  color: #666 !important;
+  background: var(--mint);
+  color: var(--black);
   text-align: left;
   padding: 40px 0 24px;
   font-size: 14px;
-  border-top: 1px solid rgba(0,0,0,0.05);
+  border-top: 1px solid rgba(0,0,0,0.12);
   position: relative;
 }
 
@@ -604,8 +333,8 @@ footer {
   width: 44px;
   height: 44px;
   border-radius: 100%;
-  background: rgba(251,9,48,0.8);
-  box-shadow: 0 1px 8px rgba(0,0,0,0.12);
+  background: rgba(0,0,0,0.75);
+  box-shadow: 0 1px 8px rgba(0,0,0,0.2);
   z-index: 101;
 }
 
@@ -640,7 +369,7 @@ footer {
 #footer-logo a {
   font-size: 1.2rem;
   font-weight: 600;
-  color: #000;
+  color: var(--black);
   text-decoration: none;
 }
 
@@ -649,7 +378,7 @@ footer {
 }
 
 .footer-social a {
-  color: #000;
+  color: var(--black);
   text-decoration: none;
   margin-right: 12px;
   font-size: 0.85rem;
@@ -664,7 +393,7 @@ footer {
 }
 
 .footer-nav a {
-  color: #000;
+  color: var(--black);
   text-decoration: none;
   margin-left: 1em;
   font-size: 0.85rem;
@@ -672,7 +401,7 @@ footer {
 
 .footer-text {
   font-size: 0.8rem;
-  color: #666;
+  color: var(--black);
   line-height: 1.8em;
 }
 
@@ -680,7 +409,7 @@ footer {
   display: flex;
   gap: 40px;
   padding: 24px 0;
-  border-top: 1px solid rgba(0,0,0,0.05);
+  border-top: 1px solid rgba(0,0,0,0.12);
   flex-wrap: wrap;
 }
 
@@ -689,7 +418,7 @@ footer {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.09em;
-  color: #202020;
+  color: var(--black);
   margin-bottom: 0.75em;
 }
 
@@ -698,17 +427,18 @@ footer {
 }
 
 .footer-widget a {
-  color: #ed1e24;
-  text-decoration: none;
+  color: var(--black);
+  text-decoration: underline;
   font-size: 0.85rem;
 }
 
 .footer-search input {
-  border: 1px solid rgba(0,0,0,0.2);
+  border: 1px solid rgba(0,0,0,0.3);
   border-radius: 8px;
   padding: 0.6em;
   width: 200px;
   font-size: 0.85rem;
+  background: rgba(255,255,255,0.5);
 }
 
 footer .original-credit {
@@ -716,20 +446,142 @@ footer .original-credit {
   margin: 0 auto;
   padding: 16px 32px 0;
   font-size: 0.75rem;
-  color: rgba(0,0,0,0.4);
-  border-top: 1px solid rgba(0,0,0,0.05);
-}
-
-footer a.original-link,
-footer .original-credit a {
   color: rgba(0,0,0,0.6);
+  border-top: 1px solid rgba(0,0,0,0.12);
 }
 
+footer .original-credit a {
+  color: var(--black);
+}
+
+/* ---- FAQ page — plain mint frame interior, no teal band, dark reading text ---- */
+.faq-section {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 40px 32px;
+}
+
+.faq-item {
+  margin-bottom: 1.75rem;
+}
+
+.faq-item h3 {
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--black);
+  margin-bottom: 0.4rem;
+}
+
+.faq-item p {
+  font-size: 0.92rem;
+  color: var(--content-text);
+  line-height: 1.7;
+}
+
+.faq-item p a {
+  color: var(--black);
+  text-decoration: underline;
+}
+
+/* ---- Blog post — confirmed white frame interior (no teal, no mint), dark reading text ---- */
+body.blog-page,
+body.blog-page .page-frame,
+body.blog-page main {
+  background: #ffffff;
+}
+
+.blog-post {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 40px 32px;
+}
+
+.blog-post .meta {
+  font-size: 0.82rem;
+  color: var(--content-muted);
+  margin-bottom: 1.5rem;
+}
+
+.blog-post p {
+  font-family: var(--serif);
+  font-size: 1rem;
+  line-height: 1.8;
+  color: var(--content-text);
+  margin-bottom: 1rem;
+}
+
+.blog-post blockquote {
+  border-left: 3px solid var(--teal);
+  padding-left: 1.25rem;
+  margin: 1.25rem 0;
+  font-style: italic;
+  color: var(--content-muted);
+}
+
+.blog-post p a {
+  color: var(--black);
+}
+
+/* ---- Responsive ---- */
 @media (max-width: 760px) {
+  header .container,
+  nav .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  nav .container {
+    justify-content: flex-start;
+    gap: 18px;
+  }
+
+  header h1 {
+    font-size: 24px;
+  }
+
+  .intro-text,
+  .contents-block,
+  .section-divider > h1,
+  .section-divider > p,
+  .section-header,
+  .sources,
+  .back-to-top,
+  .chart-embed,
+  .faq-section,
+  .blog-post {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .contents-columns {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .section-divider h1 {
+    font-size: 34px;
+  }
+
+  .graphs h3 {
+    font-size: 21px;
+  }
+
+  .chart-embed {
+    height: 430px;
+  }
+
+  .footer-inner,
+  .sidebar {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
   .footer-main,
   .footer-right {
     text-align: left;
   }
+
   .footer-nav a {
     margin-left: 0;
     margin-right: 1em;
