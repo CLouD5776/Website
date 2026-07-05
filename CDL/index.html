@@ -4,9 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Covid-19 — The UK's response to Covid-19, in facts and figures</title>
-  <link rel="stylesheet" href="style.css?v=8">
+  <link rel="stylesheet" href="style.css?v=9">
 </head>
-<body id="top">
+<body>
+<div class="page-frame">
 
 <header>
   <div class="container">
@@ -31,8 +32,9 @@
   <div class="intro-band">
 
   <div class="intro-text">
-    <p>This page brings together various datasets into interactive graphs. We're continually updating the data and adding new graphs as we work to build the UK's most comprehensive data dashboard on the impact of Covid-19 and the response to it.</p>
-    <p>Think we're missing something? Let us know: <a href="mailto:admin@coviddashboard.live">admin@coviddashboard.live</a></p>
+    <h3 id="top">This page brings together various datasets into interactive graphs.</h3>
+    <p>We're continually updating the data and adding new graphs as we work to build the UK's most comprehensive data dashboard on the impact of Covid-19 <em>and</em> the response to it.</p>
+    <h6>Think we're missing something? Let us know: <a href="mailto:admin@coviddashboard.live">admin@coviddashboard.live</a></h6>
   </div>
 
   <div class="contents-block">
@@ -94,15 +96,17 @@
 
   <div class="section-divider">
     <h1>Covid-19 Data</h1>
+    <p>Click on different items in the legend to turn them on or off on the graph, and hover over points in the graphs to see the figures.</p>
+    <p>The code and data used in this page are open source and available for anyone to use. They can be found <a href="https://github.com/StevenRKerr/Covid_stats">here</a>.</p>
   </div>
 
   <!-- Deaths and hospital admissions -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="positive">UK Covid-19 deaths and England hospital admissions with Covid-19, 2020–present</h2>
+      <h3 id="positive">UK Covid-19 deaths and England hospital admissions with Covid-19, 2020–present</h3>
       <p class="description">Covid-19 deaths are counted as any death that occurred within 28 days of a positive test for Covid-19.</p>
     </div>
-    <iframe class="chart-embed" src="charts/fig1.html"></iframe>
+    <iframe class="chart-embed chart-embed--fixed" style="max-width:1000px;height:500px" src="charts/fig1.html"></iframe>
     <div class="sources">
       <strong>Sources:</strong>
       <a href="https://coronavirus.data.gov.uk/details/deaths">ONS coronavirus dashboard – deaths</a>;
@@ -114,11 +118,11 @@
   <!-- NHS bed occupancy England -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="beds">NHS daily bed occupancy, general and acute, England, 2017–present</h2>
+      <h3 id="beds">NHS daily bed occupancy, general and acute, England, 2017–present</h3>
       <p class="description">Since March NHS England has published daily updates on overnight hospital beds occupied by Covid and non-Covid patients. The former is updated daily; the latter monthly. In previous years only a quarterly average for bed availability and occupancy was published: we obtained the 2017–19 daily data through a Freedom of Information request to NHS England. There is a small break in the data coverage in 2020 between November 12th and November 17th.</p>
       <p class="description">You can see a regional breakdown of this data on the <a href="regions.html">Regions page</a>.</p>
     </div>
-    <iframe class="chart-embed" src="charts/Hospitals/NHSBedsOccFigE.html"></iframe>
+    <iframe class="chart-embed chart-embed--fixed" style="max-width:1000px;height:600px" src="charts/Hospitals/NHSBedsOccFigE.html"></iframe>
     <div class="sources">
       <strong>Sources:</strong>
       <a href="https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/">NHS England Covid-19 Hospital Activity</a>
@@ -129,10 +133,10 @@
   <!-- NHS beds open -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="open">NHS daily beds open, England, 2017–present</h2>
+      <h3 id="open">NHS daily beds open, England, 2017–present</h3>
       <p class="description">Since March NHS England has published daily updates on overnight hospital beds open. This number includes occupied and unoccupied beds. In previous years only a quarterly average for bed availability was published: we obtained the 2017–19 daily data through a Freedom of Information request to NHS England.</p>
     </div>
-    <iframe class="chart-embed" src="charts/Hospitals/NHSBedsOpenFig.html"></iframe>
+    <iframe class="chart-embed chart-embed--fixed" style="max-width:1000px;height:600px" src="charts/Hospitals/NHSBedsOpenFig.html"></iframe>
     <div class="sources">
       <strong>Sources:</strong>
       <a href="https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/">NHS England Covid-19 Hospital Activity</a>
@@ -143,10 +147,10 @@
   <!-- Independent sector -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="private">Independent sector daily bed occupancy, England, 2020–present</h2>
+      <h3 id="private">Independent sector daily bed occupancy, England, 2020–present</h3>
       <p class="description">Since April NHS England has published daily updates on overnight hospital beds occupied by Covid and non-Covid patients in the independent/non-NHS sector. This is the first time the NHS has collected non-NHS occupancy data, so data from previous years is not available.</p>
     </div>
-    <iframe class="chart-embed" src="charts/Hospitals/privBedsOccFig.html"></iframe>
+    <iframe class="chart-embed chart-embed--fixed" style="max-width:1000px;height:600px" src="charts/Hospitals/privBedsOccFig.html"></iframe>
     <div class="sources">
       <strong>Source:</strong>
       <a href="https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/">NHS COVID-19 Hospital Activity</a>
@@ -157,10 +161,10 @@
   <!-- MV beds -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="MVbeds">Mechanical ventilation beds occupied by Covid-19 versus non-Covid-19 patients, England, 2020–present</h2>
+      <h3 id="MVbeds">Mechanical ventilation beds occupied by Covid-19 versus non-Covid-19 patients, England, 2020–present</h3>
       <p class="description">This data reflects 'beds capable of mechanical ventilation occupied', regardless of whether the patient in the bed is receiving mechanical ventilation.</p>
     </div>
-    <iframe class="chart-embed" src="charts/MVbedsFig.html"></iframe>
+    <iframe class="chart-embed chart-embed--fixed" style="max-width:1000px;height:650px" src="charts/MVbedsFig.html"></iframe>
     <div class="sources">
       <strong>Source:</strong>
       <a href="https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/">NHS England Covid-19 Hospital Activity</a>
@@ -171,9 +175,9 @@
   <!-- Admissions by age -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="admissionsByAge">Daily hospital admissions by age, England</h2>
+      <h3 id="admissionsByAge">Daily hospital admissions by age, England</h3>
     </div>
-    <iframe class="chart-embed" src="charts/admissionsByAgeFig.html"></iframe>
+    <iframe class="chart-embed chart-embed--fixed" style="max-width:1000px;height:500px" src="charts/admissionsByAgeFig.html"></iframe>
     <div class="sources">
       <strong>Source:</strong>
       <a href="https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/">NHS COVID-19 Hospital Activity</a>
@@ -184,10 +188,10 @@
   <!-- NHS Pathways -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="pathways">Daily potential Covid-19 telephone triages and completed online assessments NHS pathways, England</h2>
+      <h3 id="pathways">Daily potential Covid-19 telephone triages and completed online assessments NHS pathways, England</h3>
       <p class="description">This dataset shows the total number of NHS Pathways triages through 111 and 999, and the total number of online assessments via <a href="https://111.nhs.uk/covid-19">NHS 111 online</a>, where either has received a potential COVID final disposition since 18 March 2020.</p>
     </div>
-    <iframe class="chart-embed" src="charts/pathwaysFig.html"></iframe>
+    <iframe class="chart-embed chart-embed--fixed" style="max-width:1000px;height:500px" src="charts/pathwaysFig.html"></iframe>
     <div class="sources">
       <strong>Source:</strong>
       <a href="https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online/latest">NHS Digital – Potential Coronavirus symptoms reported through NHS Pathways</a>
@@ -198,9 +202,9 @@
   <!-- Depression -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="depression">Prevalence of depression symptoms before and during pandemic, Britain</h2>
+      <h3 id="depression">Prevalence of depression symptoms before and during pandemic, Britain</h3>
     </div>
-    <iframe class="chart-embed" src="charts/depressionFig.html"></iframe>
+    <iframe class="chart-embed chart-embed--fixed" style="max-width:1000px;height:700px" src="charts/depressionFig.html"></iframe>
     <div class="sources">
       <strong>Source:</strong>
       <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusanddepressionoranxietyingreatbritain">ONS Coronavirus and depression or anxiety in Great Britain</a>
@@ -210,10 +214,59 @@
 
 </main>
 
+<aside class="sidebar">
+  <div class="widget widget-categories">
+    <h4>Categories</h4>
+    <ul>
+      <li><a href="blog/when-is-a-death-not-a-death.html">Stats explained</a></li>
+    </ul>
+  </div>
+</aside>
+
 <footer>
-  <div>&copy; 2021 coviddashboard.live — Neil Wilson &amp; Steven Kerr</div>
-  <div class="original-credit">Restored from the Wayback Machine, May 2026. Charts generated from <a href="https://github.com/StevenRKerr/Covid_stats">open-source code and data</a>.</div>
+  <div class="back-top"><a href="#top" aria-label="Back to top"></a></div>
+  <div class="footer-inner">
+    <div class="footer-main">
+      <div class="footer-left">
+        <div id="footer-logo"><a href="index.html">The UK's response to Covid-19, in facts and figures</a></div>
+        <div class="footer-social">
+          <a href="https://twitter.com/Covid19DataUK" target="_blank" rel="noopener">Twitter</a>
+          <a href="mailto:admin@coviddashboard.live">Email</a>
+        </div>
+      </div>
+      <div class="footer-right">
+        <nav class="footer-nav">
+          <a href="index.html">Covid-19</a>
+          <a href="deaths.html">Deaths</a>
+          <a href="tests.html">Tests &amp; Vaccines</a>
+          <a href="regions.html">Regions</a>
+          <a href="economy.html">Economy</a>
+          <a href="faqs.html">FAQs</a>
+          <a href="blog/when-is-a-death-not-a-death.html">Blog</a>
+        </nav>
+        <div class="footer-text">
+          <div>&copy; The UK's response to Covid-19, in facts and figures 2021</div>
+          <div>Powered by WordPress &bull; Themify WordPress Themes</div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-widgets">
+      <div class="footer-widget">
+        <h4>Recent Posts</h4>
+        <ul>
+          <li><a href="blog/when-is-a-death-not-a-death.html">When is a death not a death?</a></li>
+        </ul>
+      </div>
+      <div class="footer-widget">
+        <form class="footer-search" onsubmit="return false;">
+          <input type="text" placeholder="Search" disabled>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="original-credit">Restored from the Wayback Machine, May 2026. Original site by Neil Wilson &amp; Steven Kerr; charts generated from open-source code and data (<a href="https://github.com/StevenRKerr/Covid_stats">github.com/StevenRKerr/Covid_stats</a>).</div>
 </footer>
 
+</div><!-- /.page-frame -->
 </body>
 </html>

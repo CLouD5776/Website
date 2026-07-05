@@ -4,9 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Deaths — The UK's response to Covid-19, in facts and figures</title>
-  <link rel="stylesheet" href="style.css?v=8">
+  <link rel="stylesheet" href="style.css?v=9">
 </head>
 <body id="top">
+<div class="page-frame">
 
 <header>
   <div class="container">
@@ -49,7 +50,7 @@
   <!-- Weekly deaths by year -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="deaths">Weekly deaths by year</h2>
+      <h3 id="deaths">Weekly deaths by year</h3>
       <p class="description">Weekly deaths on a given date refer to deaths in the week preceding that date. The difference between the purple and orange curves is the number of non-Covid-19 excess deaths, and similarly for the difference between the brown and green curves. In this dataset, a Covid-19 death is defined as a death that occurs after testing positive for Covid-19 in the previous 28 days, regardless of what exactly caused the death. Therefore, in this dataset a Covid-19 death should not be interpreted as a death caused by Covid-19.</p>
     </div>
     <iframe class="chart-embed" src="charts/meanDeathsFig.html"></iframe>
@@ -64,7 +65,7 @@
   <!-- Flu and pneumonia -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="flu">UK annual flu and pneumonia deaths, 1901–2020, compared to Covid-19 deaths</h2>
+      <h3 id="flu">UK annual flu and pneumonia deaths, 1901–2020, compared to Covid-19 deaths</h3>
     </div>
     <iframe class="chart-embed" src="charts/IandPFig.html"></iframe>
     <div class="sources">
@@ -76,7 +77,7 @@
   <!-- Leading causes of death -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="cause">UK causes of death, 2001–2018, compared to Covid-19 deaths</h2>
+      <h3 id="cause">UK causes of death, 2001–2018, compared to Covid-19 deaths</h3>
       <p class="description">This graph plots Covid-19 deaths in the UK in 2020 against the six leading causes of death in the UK between 2001 and 2018. Covid-19 deaths are counted as any death that occurred within 28 days of a positive test for Covid-19.</p>
     </div>
     <iframe class="chart-embed" src="charts/LCDFig.html"></iframe>
@@ -89,7 +90,7 @@
   <!-- Death comparison -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="deathComp">Weekly deaths within 28 days of a positive test for Covid-19, and deaths with Covid-19 on the death certificate, 2020–present</h2>
+      <h3 id="deathComp">Weekly deaths within 28 days of a positive test for Covid-19, and deaths with Covid-19 on the death certificate, 2020–present</h3>
       <p class="description">Weekly deaths on a given date pertain to the week preceding that date.</p>
     </div>
     <iframe class="chart-embed" src="charts/deathCompFig.html"></iframe>
@@ -103,7 +104,7 @@
   <!-- Deaths by age -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="age">UK Covid-19 deaths by age group</h2>
+      <h3 id="age">UK Covid-19 deaths by age group</h3>
       <p class="description">This dataset from the Office for National Statistics counts a Covid-19 death as any death where Covid-19 is on the death certificate, regardless of main cause of death.</p>
     </div>
     <iframe class="chart-embed" src="charts/deathByAgeFig.html"></iframe>
@@ -116,9 +117,49 @@
 </main>
 
 <footer>
-  <div>&copy; 2021 coviddashboard.live — Neil Wilson &amp; Steven Kerr</div>
-  <div class="original-credit">Restored from the Wayback Machine, May 2026. Charts generated from <a href="https://github.com/StevenRKerr/Covid_stats">open-source code and data</a>.</div>
+  <div class="back-top"><a href="#top" aria-label="Back to top"></a></div>
+  <div class="footer-inner">
+    <div class="footer-main">
+      <div class="footer-left">
+        <div id="footer-logo"><a href="index.html">The UK's response to Covid-19, in facts and figures</a></div>
+        <div class="footer-social">
+          <a href="https://twitter.com/Covid19DataUK" target="_blank" rel="noopener">Twitter</a>
+          <a href="mailto:admin@coviddashboard.live">Email</a>
+        </div>
+      </div>
+      <div class="footer-right">
+        <nav class="footer-nav">
+          <a href="index.html">Covid-19</a>
+          <a href="deaths.html">Deaths</a>
+          <a href="tests.html">Tests &amp; Vaccines</a>
+          <a href="regions.html">Regions</a>
+          <a href="economy.html">Economy</a>
+          <a href="faqs.html">FAQs</a>
+          <a href="blog/when-is-a-death-not-a-death.html">Blog</a>
+        </nav>
+        <div class="footer-text">
+          <div>&copy; The UK's response to Covid-19, in facts and figures 2021</div>
+          <div>Powered by WordPress &bull; Themify WordPress Themes</div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-widgets">
+      <div class="footer-widget">
+        <h4>Recent Posts</h4>
+        <ul>
+          <li><a href="blog/when-is-a-death-not-a-death.html">When is a death not a death?</a></li>
+        </ul>
+      </div>
+      <div class="footer-widget">
+        <form class="footer-search" onsubmit="return false;">
+          <input type="text" placeholder="Search" disabled>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="original-credit">Restored from the Wayback Machine, May 2026. Original site by Neil Wilson &amp; Steven Kerr; charts generated from open-source code and data (<a href="https://github.com/StevenRKerr/Covid_stats">github.com/StevenRKerr/Covid_stats</a>).</div>
 </footer>
 
+</div><!-- /.page-frame -->
 </body>
 </html>

@@ -358,7 +358,7 @@ main {
   padding: 0;
 }
 
-.graphs h2 {
+.graphs h3 {
   color: var(--sage-text-light) !important;
   font-family: "Roboto Slab", Georgia, serif;
   font-size: 24px;
@@ -390,6 +390,11 @@ main {
   border: 0;
   background: #ffffff;
   margin: 18px 0;
+}
+
+.chart-embed--fixed {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .graphs .sources {
@@ -466,11 +471,267 @@ footer .original-credit {
     font-size: 34px;
   }
 
-  .graphs h2 {
+  .graphs h3 {
     font-size: 21px;
   }
 
   .chart-embed {
     height: 430px;
+  }
+}
+
+/* ================================================================
+   T8 — BOXED LAYOUT, FOOTER & SIDEBAR FIDELITY PASS
+   Confirmed via themify-concate.min.css + raw Wayback capture (CDL/reference/):
+   canvas=mint (.skin-styles), box=white (.boxed-layout #pagewrap),
+   header/nav=mint w/ solid black text, graph rows=teal w/ white text
+   (.tb_4f2b9e3 / .tb_2e6676), footer=white w/ dark text (#footerwrap).
+   ================================================================ */
+
+html,
+body {
+  background: var(--sage-green) !important;
+  color: #666 !important;
+}
+
+.page-frame {
+  max-width: 1230px;
+  width: 94%;
+  margin: 27px auto;
+  background: #ffffff;
+  box-shadow: 0 3px 16px rgba(0,0,0,0.10);
+  overflow: hidden;
+}
+
+nav a {
+  color: rgba(0,0,0,1) !important;
+}
+
+nav a.active,
+nav a:hover {
+  color: rgba(0,0,0,1) !important;
+}
+
+#site-logo-accent,
+header h1 {
+  position: relative;
+  display: inline-block;
+  padding-bottom: 8px;
+}
+
+header h1:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 46px;
+  height: 2px;
+  background: #000;
+}
+
+main,
+body {
+  background: #ffffff !important;
+}
+
+.intro-band,
+.section-divider,
+.graphs {
+  background: var(--sage-teal) !important;
+  margin-bottom: 0 !important;
+  border-radius: 0 !important;
+}
+
+.section-divider {
+  padding-top: 0;
+}
+
+.graphs:last-of-type {
+  padding-bottom: 40px;
+}
+
+/* ---- Sidebar (Categories widget, confirmed present on homepage) ---- */
+.sidebar {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 24px 32px 40px;
+}
+
+.sidebar .widget h4 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: #202020;
+  margin-bottom: 0.75rem;
+}
+
+.sidebar .widget ul {
+  list-style: none;
+}
+
+.sidebar .widget a {
+  color: #ed1e24;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.sidebar .widget a:hover {
+  text-decoration: underline;
+}
+
+/* ---- Footer (rebuilt: white bg, dark text, confirmed via #footerwrap) ---- */
+footer {
+  background: #ffffff !important;
+  color: #666 !important;
+  text-align: left;
+  padding: 40px 0 24px;
+  font-size: 14px;
+  border-top: 1px solid rgba(0,0,0,0.05);
+  position: relative;
+}
+
+.footer-inner {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 0 32px;
+}
+
+.back-top {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  width: 44px;
+  height: 44px;
+  border-radius: 100%;
+  background: rgba(251,9,48,0.8);
+  box-shadow: 0 1px 8px rgba(0,0,0,0.12);
+  z-index: 101;
+}
+
+.back-top a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  text-decoration: none;
+}
+
+.back-top a:before {
+  content: '';
+  position: absolute;
+  top: 16px;
+  left: 15px;
+  width: 13px;
+  height: 13px;
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  transform: rotate(45deg);
+}
+
+.footer-main {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 24px;
+  padding-bottom: 24px;
+}
+
+#footer-logo a {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #000;
+  text-decoration: none;
+}
+
+.footer-social {
+  margin-top: 0.8em;
+}
+
+.footer-social a {
+  color: #000;
+  text-decoration: none;
+  margin-right: 12px;
+  font-size: 0.85rem;
+}
+
+.footer-right {
+  text-align: right;
+}
+
+.footer-nav {
+  margin-bottom: 0.8em;
+}
+
+.footer-nav a {
+  color: #000;
+  text-decoration: none;
+  margin-left: 1em;
+  font-size: 0.85rem;
+}
+
+.footer-text {
+  font-size: 0.8rem;
+  color: #666;
+  line-height: 1.8em;
+}
+
+.footer-widgets {
+  display: flex;
+  gap: 40px;
+  padding: 24px 0;
+  border-top: 1px solid rgba(0,0,0,0.05);
+  flex-wrap: wrap;
+}
+
+.footer-widget h4 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: #202020;
+  margin-bottom: 0.75em;
+}
+
+.footer-widget ul {
+  list-style: none;
+}
+
+.footer-widget a {
+  color: #ed1e24;
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+
+.footer-search input {
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 8px;
+  padding: 0.6em;
+  width: 200px;
+  font-size: 0.85rem;
+}
+
+footer .original-credit {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 16px 32px 0;
+  font-size: 0.75rem;
+  color: rgba(0,0,0,0.4);
+  border-top: 1px solid rgba(0,0,0,0.05);
+}
+
+footer a.original-link,
+footer .original-credit a {
+  color: rgba(0,0,0,0.6);
+}
+
+@media (max-width: 760px) {
+  .footer-main,
+  .footer-right {
+    text-align: left;
+  }
+  .footer-nav a {
+    margin-left: 0;
+    margin-right: 1em;
   }
 }

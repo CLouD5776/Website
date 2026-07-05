@@ -4,9 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Regions — The UK's response to Covid-19, in facts and figures</title>
-  <link rel="stylesheet" href="style.css?v=8">
+  <link rel="stylesheet" href="style.css?v=9">
 </head>
 <body id="top">
+<div class="page-frame">
 
 <header>
   <div class="container">
@@ -40,7 +41,7 @@
   <!-- East of England -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="east">NHS daily bed occupancy, general and acute, East of England, 2017–present</h2>
+      <h3 id="east">NHS daily bed occupancy, general and acute, East of England, 2017–present</h3>
     </div>
     <iframe class="chart-embed" src="charts/Hospitals/NHSBedsOccFigEoE.html"></iframe>
     <div class="sources">
@@ -53,7 +54,7 @@
   <!-- London -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="Lon">NHS daily bed occupancy, general and acute, London, 2017–present</h2>
+      <h3 id="Lon">NHS daily bed occupancy, general and acute, London, 2017–present</h3>
     </div>
     <iframe class="chart-embed" src="charts/Hospitals/NHSBedsOccFigL.html"></iframe>
     <div class="sources">
@@ -66,7 +67,7 @@
   <!-- Midlands -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="M">NHS daily bed occupancy, general and acute, Midlands, 2017–present</h2>
+      <h3 id="M">NHS daily bed occupancy, general and acute, Midlands, 2017–present</h3>
     </div>
     <iframe class="chart-embed" src="charts/Hospitals/NHSBedsOccFigM.html"></iframe>
     <div class="sources">
@@ -79,7 +80,7 @@
   <!-- North East and Yorkshire -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="NE">NHS daily bed occupancy, general and acute, North East and Yorkshire, 2017–present</h2>
+      <h3 id="NE">NHS daily bed occupancy, general and acute, North East and Yorkshire, 2017–present</h3>
     </div>
     <iframe class="chart-embed" src="charts/Hospitals/NHSBedsOccFigNE.html"></iframe>
     <div class="sources">
@@ -92,7 +93,7 @@
   <!-- North West -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="NW">NHS daily bed occupancy, general and acute, North West, 2017–present</h2>
+      <h3 id="NW">NHS daily bed occupancy, general and acute, North West, 2017–present</h3>
     </div>
     <iframe class="chart-embed" src="charts/Hospitals/NHSBedsOccFigNW.html"></iframe>
     <div class="sources">
@@ -105,7 +106,7 @@
   <!-- South East -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="SE">NHS daily bed occupancy, general and acute, South East, 2017–present</h2>
+      <h3 id="SE">NHS daily bed occupancy, general and acute, South East, 2017–present</h3>
     </div>
     <iframe class="chart-embed" src="charts/Hospitals/NHSBedsOccFigSE.html"></iframe>
     <div class="sources">
@@ -118,7 +119,7 @@
   <!-- South West -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="SW">NHS daily bed occupancy, general and acute, South West, 2017–present</h2>
+      <h3 id="SW">NHS daily bed occupancy, general and acute, South West, 2017–present</h3>
     </div>
     <iframe class="chart-embed" src="charts/Hospitals/NHSBedsOccFigSW.html"></iframe>
     <div class="sources">
@@ -131,7 +132,7 @@
   <!-- ICU surveillance -->
   <div class="graphs">
     <div class="section-header">
-      <h2 id="covidSurveilance">ICU/HDU admission rates per 100,000 population for COVID-19 by region, England</h2>
+      <h3 id="covidSurveilance">ICU/HDU admission rates per 100,000 population for COVID-19 by region, England</h3>
     </div>
     <iframe class="chart-embed" src="charts/surveilanceFig.html"></iframe>
     <div class="sources">
@@ -143,9 +144,49 @@
 </main>
 
 <footer>
-  <div>&copy; 2021 coviddashboard.live — Neil Wilson &amp; Steven Kerr</div>
-  <div class="original-credit">Restored from the Wayback Machine, May 2026. Charts generated from <a href="https://github.com/StevenRKerr/Covid_stats">open-source code and data</a>.</div>
+  <div class="back-top"><a href="#top" aria-label="Back to top"></a></div>
+  <div class="footer-inner">
+    <div class="footer-main">
+      <div class="footer-left">
+        <div id="footer-logo"><a href="index.html">The UK's response to Covid-19, in facts and figures</a></div>
+        <div class="footer-social">
+          <a href="https://twitter.com/Covid19DataUK" target="_blank" rel="noopener">Twitter</a>
+          <a href="mailto:admin@coviddashboard.live">Email</a>
+        </div>
+      </div>
+      <div class="footer-right">
+        <nav class="footer-nav">
+          <a href="index.html">Covid-19</a>
+          <a href="deaths.html">Deaths</a>
+          <a href="tests.html">Tests &amp; Vaccines</a>
+          <a href="regions.html">Regions</a>
+          <a href="economy.html">Economy</a>
+          <a href="faqs.html">FAQs</a>
+          <a href="blog/when-is-a-death-not-a-death.html">Blog</a>
+        </nav>
+        <div class="footer-text">
+          <div>&copy; The UK's response to Covid-19, in facts and figures 2021</div>
+          <div>Powered by WordPress &bull; Themify WordPress Themes</div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-widgets">
+      <div class="footer-widget">
+        <h4>Recent Posts</h4>
+        <ul>
+          <li><a href="blog/when-is-a-death-not-a-death.html">When is a death not a death?</a></li>
+        </ul>
+      </div>
+      <div class="footer-widget">
+        <form class="footer-search" onsubmit="return false;">
+          <input type="text" placeholder="Search" disabled>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="original-credit">Restored from the Wayback Machine, May 2026. Original site by Neil Wilson &amp; Steven Kerr; charts generated from open-source code and data (<a href="https://github.com/StevenRKerr/Covid_stats">github.com/StevenRKerr/Covid_stats</a>).</div>
 </footer>
 
+</div><!-- /.page-frame -->
 </body>
 </html>
