@@ -4,7 +4,8 @@
     "Sport",
     "Blogs",
     "Music",
-    "Design"
+    "Design",
+    "Pulse"
   ],
   "feeds": [
     {
@@ -70,6 +71,34 @@
       "url": "http://scienceandculture.com/feed",
       "visibility": "chris",
       "category": "Design"
+    },
+    {
+      "name": "News Pulse: Top 20",
+      "url": "http://localhost:8080/sidecar/out/pulse-top-20.xml",
+      "visibility": "both",
+      "category": "Pulse",
+      "maxAgeDays": 2
+    },
+    {
+      "name": "News Pulse: World News",
+      "url": "http://localhost:8080/sidecar/out/pulse-world-news.xml",
+      "visibility": "both",
+      "category": "Pulse",
+      "maxAgeDays": 2
+    },
+    {
+      "name": "News Pulse: AI Industry",
+      "url": "http://localhost:8080/sidecar/out/pulse-ai-industry.xml",
+      "visibility": "both",
+      "category": "Pulse",
+      "maxAgeDays": 2
+    },
+    {
+      "name": "Exa: Man Utd confirmed transfers",
+      "url": "http://localhost:8080/sidecar/out/exa-man-utd-confirmed-transfers.xml",
+      "visibility": "both",
+      "category": "Sport",
+      "maxAgeDays": 2
     }
   ]
 }
